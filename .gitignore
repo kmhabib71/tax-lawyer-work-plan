@@ -1,0 +1,106 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Node.js
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Logs
+*.log
+logs/
+scraper.log
+
+# Data files
+*.csv
+*.json
+*.txt
+*.pkl
+*.zip
+*.html
+
+# Scraped content directories
+scraped_texts/
+structured_laws/
+structured_laws_with_tables/
+precise_structured_laws/
+"precise_structured_laws by kimi/"
+fixed_structured_laws/
+circular/
+income-tax-complete-circular-24-25/
+
+# Project management copies
+project-management-website/
+"project-management-website copy 3/"
+
+# Session and state files
+*.pkl
+*_state.pkl
+*_progress.json
+*_summary.json
+*_results.json
+
+# Markdown documentation (project specific)
+*.md
+
+# All result files
+"all result.txt"
