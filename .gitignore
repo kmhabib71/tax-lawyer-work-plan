@@ -81,16 +81,13 @@ scraper.log
 # Scraped content directories
 scraped_texts/
 structured_laws/
-structured_laws_with_tables/
-precise_structured_laws/
 "precise_structured_laws by kimi/"
-fixed_structured_laws/
-circular/
-income-tax-complete-circular-24-25/
+
+
+
 
 # Project management copies
-project-management-website/
-"project-management-website copy 3/"
+
 
 # Session and state files
 *.pkl
