@@ -79,10 +79,6 @@ scraper.log
 *.html
 
 # Scraped content directories
-scraped_texts/
-structured_laws/
-"precise_structured_laws by kimi/"
-
 
 
 
@@ -95,9 +91,3 @@ structured_laws/
 *_progress.json
 *_summary.json
 *_results.json
-
-# Markdown documentation (project specific)
-*.md
-
-# All result files
-"all result.txt"
