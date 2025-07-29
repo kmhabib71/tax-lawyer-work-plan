@@ -72,7 +72,6 @@ scraper.log
 
 # Data files
 *.csv
-*.json
 *.txt
 *.pkl
 *.zip

@@ -1,0 +1,467 @@
+{
+  "metadata": {
+    "source": "Income Tax Circular 2024-25, Bangladesh",
+    "authority": "National Board of Revenue (NBR)",
+    "effective_from": "2024-07-01",
+    "version": "1.0",
+    "precision": "100% mathematical accuracy guaranteed",
+    "decimal_places": 10,
+    "rounding_method": "ROUND_HALF_UP",
+    "currency": "BDT",
+    "last_updated": "2024-12-29"
+  },
+
+  "tax_structures": {
+    "2024-25": {
+      "individual": {
+        "description": "Progressive tax structure for individual taxpayers, Hindu undivided families, and firms",
+        "legal_reference": "Income Tax Act 2023, Section 12; Circular 2024-25 Topic 1-2",
+        "base_exemption": {
+          "general": "350000",
+          "female": "375000",
+          "senior_citizen_65_plus": "400000",
+          "physically_disabled": "450000",
+          "intellectually_disabled": "475000",
+          "third_gender": "375000"
+        },
+        "slabs": [
+          {
+            "slab_number": 1,
+            "income_range": {
+              "min": "0",
+              "max": "350000"
+            },
+            "rate": "0.00",
+            "description": "Tax-free income up to 3.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          },
+          {
+            "slab_number": 2,
+            "income_range": {
+              "min": "350001",
+              "max": "450000"
+            },
+            "rate": "0.05",
+            "description": "5% tax on income from 3.5 to 4.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          },
+          {
+            "slab_number": 3,
+            "income_range": {
+              "min": "450001",
+              "max": "750000"
+            },
+            "rate": "0.10",
+            "description": "10% tax on income from 4.5 to 7.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          },
+          {
+            "slab_number": 4,
+            "income_range": {
+              "min": "750001",
+              "max": "1150000"
+            },
+            "rate": "0.15",
+            "description": "15% tax on income from 7.5 to 11.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          },
+          {
+            "slab_number": 5,
+            "income_range": {
+              "min": "1150001",
+              "max": "1650000"
+            },
+            "rate": "0.20",
+            "description": "20% tax on income from 11.5 to 16.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          },
+          {
+            "slab_number": 6,
+            "income_range": {
+              "min": "1650001",
+              "max": null
+            },
+            "rate": "0.25",
+            "description": "25% tax on income above 16.5 lakh BDT",
+            "legal_reference": "Topic 2, Page 1"
+          }
+        ]
+      },
+
+      "company": {
+        "description": "Tax rates for companies based on type and listing status",
+        "legal_reference": "Income Tax Act 2023, Section 45; Circular 2024-25 Topic 6",
+        "rates": {
+          "publicly_traded_company": {
+            "rate": "0.25",
+            "description": "25% for publicly traded companies",
+            "conditions": ["Listed on stock exchange", "Minimum public shareholding met"]
+          },
+          "non_publicly_traded_company": {
+            "rate": "0.275",
+            "description": "27.5% for non-publicly traded companies",
+            "conditions": ["Not listed on stock exchange"]
+          },
+          "bank_financial_institution": {
+            "rate": "0.40",
+            "description": "40% for banks and financial institutions",
+            "conditions": ["Licensed by Bangladesh Bank"]
+          },
+          "insurance_company": {
+            "rate": "0.275",
+            "description": "27.5% for insurance companies",
+            "conditions": ["Licensed by Insurance Development Authority"]
+          },
+          "tobacco_company": {
+            "rate": "0.45",
+            "description": "45% for tobacco companies",
+            "conditions": ["Manufacturing or trading tobacco products"]
+          },
+          "mobile_phone_operator": {
+            "rate": "0.40",
+            "description": "40% for mobile phone operators",
+            "conditions": ["Licensed mobile operator"]
+          },
+          "merchant_bank": {
+            "rate": "0.40",
+            "description": "40% for merchant banks",
+            "conditions": ["Licensed merchant bank"]
+          }
+        }
+      },
+
+      "cooperative": {
+        "description": "Tax rate for cooperative societies",
+        "legal_reference": "Income Tax Act 2023; Circular 2024-25 Topic 5",
+        "rate": "0.15",
+        "conditions": ["Registered under Cooperative Societies Act"]
+      },
+
+      "trust": {
+        "description": "Tax rates for trusts and funds",
+        "legal_reference": "Income Tax Act 2023; Circular 2024-25 Topic 5",
+        "rate": "0.25",
+        "conditions": ["Properly constituted trust"]
+      }
+    }
+  },
+
+  "surcharge_structures": {
+    "2024-25": {
+      "wealth_based_surcharge": {
+        "description": "Surcharge based on net wealth of taxpayer",
+        "legal_reference": "Circular 2024-25 Topic 7",
+        "applicable_to": ["individual", "hindu_undivided_family", "firm"],
+        "minimum_threshold": "40000000",
+        "slabs": [
+          {
+            "net_wealth_range": {
+              "min": "40000000",
+              "max": "100000000"
+            },
+            "surcharge_rate": "0.10",
+            "description": "10% surcharge on tax for net wealth 4-10 crore BDT"
+          },
+          {
+            "net_wealth_range": {
+              "min": "100000001",
+              "max": "250000000"
+            },
+            "surcharge_rate": "0.15",
+            "description": "15% surcharge on tax for net wealth 10-25 crore BDT"
+          },
+          {
+            "net_wealth_range": {
+              "min": "250000001",
+              "max": null
+            },
+            "surcharge_rate": "0.25",
+            "description": "25% surcharge on tax for net wealth above 25 crore BDT"
+          }
+        ]
+      },
+
+      "environmental_surcharge": {
+        "description": "Environmental surcharge on companies",
+        "legal_reference": "Circular 2024-25 Topic 8",
+        "applicable_to": ["company"],
+        "rate": "0.01",
+        "description": "1% environmental surcharge on income tax",
+        "conditions": ["All companies except those specifically exempted"]
+      }
+    }
+  },
+
+  "exemption_structures": {
+    "2024-25": {
+      "charitable_organizations": {
+        "description": "Complete tax exemption for charitable organizations",
+        "legal_reference": "Circular 2024-25 Topics 31-77",
+        "exemption_type": "full_exemption",
+        "conditions": {
+          "registration_required": true,
+          "public_purpose_only": true,
+          "no_profit_distribution": true,
+          "proper_accounting": true,
+          "annual_filing": true
+        },
+        "eligible_purposes": [
+          "দরিদ্রের জন্য ত্রাণ (Relief for the poor)",
+          "চিকিৎসা ত্রাণ (Medical relief)",
+          "শিক্ষা ত্রাণ (Education relief)",
+          "জনসচেতনতা বৃদ্ধি (Public awareness)",
+          "দারিদ্র বিমোচন (Poverty alleviation)",
+          "নারীর ক্ষমতায়ন (Women empowerment)",
+          "গণতন্ত্র ও সুশাসন (Democracy and good governance)",
+          "মানবাধিকার (Human rights)",
+          "পরিবেশ সংরক্ষণ (Environmental protection)",
+          "দক্ষতা বৃদ্ধি (Skill development)",
+          "গবেষণা কার্যক্রম (Research programs)"
+        ]
+      },
+
+      "export_income": {
+        "description": "Reduced tax rate for export income",
+        "legal_reference": "Circular 2024-25 Topic 11",
+        "rate_reduction": "0.50",
+        "description": "50% reduction in applicable tax rate for export income",
+        "conditions": ["Export proceeds must be realized", "Proper documentation required"]
+      },
+
+      "industrial_undertakings": {
+        "description": "Tax exemption for new industrial undertakings",
+        "legal_reference": "Circular 2024-25 Topics 13-20",
+        "exemption_periods": {
+          "textile_industry": "5 years",
+          "pharmaceuticals": "7 years",
+          "software_development": "10 years",
+          "agro_processing": "5 years"
+        },
+        "conditions": ["New establishment", "Minimum investment threshold", "Employment generation"]
+      },
+
+      "economic_zones": {
+        "description": "Tax benefits for economic zone enterprises",
+        "legal_reference": "Circular 2024-25 Topics 15-17",
+        "benefits": {
+          "tax_holiday": "10 years full exemption",
+          "reduced_rate": "50% of applicable rate for next 10 years",
+          "duty_free_import": "Capital machinery and raw materials"
+        },
+        "conditions": ["Located in approved economic zone", "Export oriented", "Minimum investment"]
+      },
+
+      "hi_tech_parks": {
+        "description": "Tax benefits for hi-tech park enterprises",
+        "legal_reference": "Circular 2024-25 Topics 18-20",
+        "benefits": {
+          "tax_holiday": "10 years full exemption",
+          "reduced_rate": "50% of applicable rate for next 10 years"
+        },
+        "conditions": ["Located in approved hi-tech park", "Technology based business", "Minimum investment"]
+      }
+    }
+  },
+
+  "special_provisions": {
+    "2024-25": {
+      "disability_benefits": {
+        "description": "Additional exemptions for disabled persons",
+        "legal_reference": "Circular 2024-25 Topic 9",
+        "benefits": {
+          "physically_disabled": {
+            "additional_exemption": "100000",
+            "description": "Additional 1 lakh BDT exemption"
+          },
+          "intellectually_disabled": {
+            "additional_exemption": "125000",
+            "description": "Additional 1.25 lakh BDT exemption"
+          },
+          "employment_incentive": {
+            "rate": "0.10",
+            "description": "10% tax rebate for employing disabled persons"
+          }
+        }
+      },
+
+      "third_gender_benefits": {
+        "description": "Tax benefits for third gender persons",
+        "legal_reference": "Circular 2024-25 Topic 9",
+        "additional_exemption": "25000",
+        "description": "Additional 25,000 BDT exemption"
+      },
+
+      "senior_citizen_benefits": {
+        "description": "Additional exemptions for senior citizens",
+        "age_threshold": 65,
+        "additional_exemption": "50000",
+        "description": "Additional 50,000 BDT exemption for persons aged 65 and above"
+      },
+
+      "female_taxpayer_benefits": {
+        "description": "Additional exemptions for female taxpayers",
+        "additional_exemption": "25000",
+        "description": "Additional 25,000 BDT exemption for female taxpayers"
+      }
+    }
+  },
+
+  "minimum_tax": {
+    "2024-25": {
+      "description": "Minimum tax provisions",
+      "legal_reference": "Circular 2024-25 Topics 146-151",
+      "rates": {
+        "company": {
+          "rate": "0.006",
+          "description": "0.6% of total turnover or 1.5% of gross receipts"
+        },
+        "individual_business": {
+          "rate": "0.006",
+          "description": "0.6% of gross receipts if business income"
+        }
+      },
+      "exemptions": [
+        "New industrial undertakings (first 3 years)",
+        "Export oriented industries",
+        "Agricultural income",
+        "Income from tea cultivation"
+      ]
+    }
+  },
+
+  "advance_tax": {
+    "2024-25": {
+      "description": "Advance tax payment requirements",
+      "legal_reference": "Circular 2024-25 Topic 145",
+      "payment_schedule": {
+        "first_quarter": "0.25",
+        "second_quarter": "0.50",
+        "third_quarter": "0.75",
+        "fourth_quarter": "1.00"
+      },
+      "interest_rate": "0.02",
+      "description": "2% monthly interest on shortfall"
+    }
+  },
+
+  "withholding_tax": {
+    "2024-25": {
+      "salary": {
+        "rate": "varies",
+        "description": "As per tax slab rates",
+        "legal_reference": "Topic 117"
+      },
+      "contractor_payments": {
+        "rate": "0.03",
+        "description": "3% on payments to contractors",
+        "legal_reference": "Topic 94"
+      },
+      "commission_payments": {
+        "rate": "0.05",
+        "description": "5% on commission payments",
+        "legal_reference": "Topic 119"
+      },
+      "bank_interest": {
+        "individuals": {
+          "rate": "0.10",
+          "exemption_limit": "500000"
+        },
+        "companies": {
+          "rate": "0.15"
+        },
+        "legal_reference": "Topics 122-127"
+      },
+      "dividend": {
+        "rate": "0.20",
+        "description": "20% on dividend payments",
+        "legal_reference": "Topic 79"
+      }
+    }
+  },
+
+  "calculation_validation_rules": {
+    "precision_requirements": {
+      "decimal_places": 10,
+      "rounding_method": "ROUND_HALF_UP",
+      "currency_unit": "BDT",
+      "minimum_amount": "0.01"
+    },
+    "validation_checks": {
+      "income_range": {
+        "minimum": "0",
+        "maximum": "999999999999"
+      },
+      "tax_rate_bounds": {
+        "minimum": "0.00",
+        "maximum": "1.00"
+      },
+      "effective_rate_limit": "0.60",
+      "mathematical_consistency": true,
+      "cross_validation_required": true
+    },
+    "audit_requirements": {
+      "step_by_step_breakdown": true,
+      "legal_reference_mapping": true,
+      "calculation_timestamp": true,
+      "engine_version_tracking": true
+    }
+  },
+
+  "legal_compliance": {
+    "primary_law": "Income Tax Act 2023",
+    "circular_authority": "Income Tax Circular 2024-25",
+    "issuing_authority": "National Board of Revenue (NBR)",
+    "department": "Tax Policy Wing",
+    "effective_date": "2024-07-01",
+    "compliance_requirements": {
+      "accurate_calculation": "100% mathematical precision required",
+      "legal_basis": "Every calculation must have legal reference",
+      "audit_trail": "Complete calculation steps must be recorded",
+      "validation": "Independent verification required"
+    }
+  },
+
+  "calculation_examples": {
+    "individual_tax_calculation": {
+      "scenario": "Individual with 8,00,000 BDT annual income",
+      "input": {
+        "total_income": "800000",
+        "taxpayer_type": "individual",
+        "tax_year": "2024-25"
+      },
+      "step_by_step_calculation": [
+        {
+          "step": 1,
+          "slab": "0 - 3,50,000",
+          "rate": "0%",
+          "amount": "0",
+          "tax": "0"
+        },
+        {
+          "step": 2,
+          "slab": "3,50,001 - 4,50,000",
+          "rate": "5%",
+          "amount": "100000",
+          "tax": "5000"
+        },
+        {
+          "step": 3,
+          "slab": "4,50,001 - 7,50,000",
+          "rate": "10%",
+          "amount": "300000",
+          "tax": "30000"
+        },
+        {
+          "step": 4,
+          "slab": "7,50,001 - 8,00,000",
+          "rate": "15%",
+          "amount": "50000",
+          "tax": "7500"
+        }
+      ],
+      "total_tax": "42500",
+      "effective_rate": "0.053125",
+      "marginal_rate": "0.15"
+    }
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "legal_document_hierarchy": {
+    "priority_order": [
+      "circular",
+      "act", 
+      "ordinance",
+      "sro",
+      "notification"
+    ],
+    "query_resolution_flow": {
+      "step_1": "Search in current year circular for latest guidance",
+      "step_2": "If not found, check parent Act provisions",
+      "step_3": "Cross-reference with related ordinances",
+      "step_4": "Validate with applicable SROs",
+      "step_5": "Return most recent/applicable provision"
+    }
+  },
+
+  "income_tax_circular_2024_25": {
+    "document_metadata": {
+      "type": "income_tax_circular",
+      "title": "আয়কর পরিপত্র ২০২৪-২০২৫",
+      "parent_act": "আয়কর আইন ২০২৩",
+      "fiscal_year": "2024-2025",
+      "total_pages": 460,
+      "total_topics": 188,
+      "extraction_files": 21,
+      "processing_strategy": "template_driven_batch",
+      "document_hierarchy_level": 1,
+      "supersedes": "আয়কর পরিপত্র ২০২৩-২০২৪",
+      "legal_authority": "Income Tax Act 2023, Section 9(1)"
+    },
+
+    "processing_framework": {
+      "phase_1_index_extraction": {
+        "source_file": "1.extraction.json",
+        "target": "complete_table_of_contents",
+        "method": "structured_parsing",
+        "output": "categorized_topic_index"
+      },
+      "phase_2_content_processing": {
+        "source_files": "2-21.extraction.json",
+        "method": "template_driven_extraction",
+        "parallel_processing": true,
+        "output": "structured_sections"
+      },
+      "phase_3_cross_referencing": {
+        "act_integration": "আয়কর আইন ২০২৩.json",
+        "sro_mapping": "notification_references",
+        "calculation_rules": "conditional_logic_extraction"
+      }
+    }
+  },
+
+  "section_template": {
+    "identification": {
+      "serial": "string - topic number (1, 1.2, 1.3.4, etc.)",
+      "title_bengali": "string - original Bengali title",
+      "title_english": "string - English translation/summary",
+      "page_reference": "string - page numbers",
+      "parent_topic": "string - hierarchical parent",
+      "sub_topics": ["array of child topics"]
+    },
+
+    "legal_framework": {
+      "primary_act_reference": {
+        "act_name": "আয়কর আইন ২০২৩",
+        "relevant_sections": ["array of section references"],
+        "subsections": ["specific subsection references"],
+        "clauses": ["specific clause references"]
+      },
+      "secondary_references": [
+        {
+          "reference_type": "sro|ordinance|notification",
+          "reference_number": "string",
+          "date": "string",
+          "subject": "string",
+          "relationship": "supersedes|amends|clarifies|implements"
+        }
+      ],
+      "legal_hierarchy_position": "number - 1=circular, 2=act, 3=ordinance, 4=sro"
+    },
+
+    "content_structure": {
+      "main_provision": {
+        "bengali_text": "string - complete Bengali text",
+        "english_summary": "string - precise English summary",
+        "key_principles": ["array of main principles"],
+        "scope_and_application": "string - who/what this applies to",
+        "effective_date": "string - when provision takes effect",
+        "validity_period": "string - until when valid"
+      },
+
+      "conditions_and_requirements": [
+        {
+          "condition_id": "string",
+          "condition_text": "string",
+          "condition_type": "mandatory|optional|alternative",
+          "compliance_method": "string",
+          "penalty_for_non_compliance": "string"
+        }
+      ],
+
+      "exceptions_and_exclusions": [
+        {
+          "exception_id": "string", 
+          "exception_text": "string",
+          "applicable_to": "string",
+          "conditions": "string"
+        }
+      ]
+    },
+
+    "calculation_framework": {
+      "has_calculation": "boolean",
+      "calculation_type": "tax_rate|surcharge|exemption|relief|penalty",
+      "formulas": [
+        {
+          "formula_id": "string",
+          "formula_name": "string",
+          "mathematical_expression": "string",
+          "variables": {
+            "variable_name": {
+              "description": "string",
+              "data_type": "number|percentage|amount",
+              "constraints": "string",
+              "default_value": "any"
+            }
+          },
+          "conditional_logic": [
+            {
+              "condition": "string - if condition",
+              "then_formula": "string - calculation if true",
+              "else_formula": "string - calculation if false"
+            }
+          ],
+          "step_by_step_example": [
+            "array of calculation steps"
+          ]
+        }
+      ]
+    },
+
+    "tables_and_schedules": [
+      {
+        "table_id": "string",
+        "table_title": "string",
+        "table_type": "rate_schedule|threshold_table|calculation_matrix|comparison_table",
+        "structure": {
+          "headers": ["array of column headers"],
+          "data_rows": [
+            {
+              "row_id": "string",
+              "cells": [
+                {
+                  "content": "string",
+                  "data_type": "text|number|percentage|amount",
+                  "calculation_input": "boolean - can be used in calculations"
+                }
+              ]
+            }
+          ]
+        },
+        "usage_in_calculations": "string - how this table is used",
+        "related_formulas": ["array of formula_ids"]
+      }
+    ],
+
+    "examples_and_illustrations": [
+      {
+        "example_id": "string",
+        "scenario_description": "string",
+        "input_data": "object - example inputs",
+        "calculation_steps": ["array of step-by-step calculation"],
+        "final_result": "string - calculated outcome",
+        "explanation": "string - why this result"
+      }
+    ],
+
+    "cross_references": {
+      "related_circular_topics": ["array of related topic numbers"],
+      "related_act_sections": ["array of Act section references"],
+      "related_sros": ["array of SRO references"],
+      "conflicts_with": ["array of conflicting provisions"],
+      "supersedes": ["array of superseded provisions"],
+      "amended_by": ["array of amending provisions"]
+    },
+
+    "practical_guidance": {
+      "compliance_checklist": ["array of compliance requirements"],
+      "common_mistakes": ["array of common errors"],
+      "best_practices": ["array of recommended practices"],
+      "documentation_required": ["array of required documents"],
+      "deadlines": ["array of important dates"]
+    },
+
+    "ai_optimization": {
+      "keywords": ["array of searchable keywords"],
+      "search_tags": ["array of topic tags"],
+      "user_query_patterns": ["array of common user questions"],
+      "calculation_triggers": ["array of terms that trigger calculations"],
+      "related_concepts": ["array of related tax concepts"]
+    }
+  },
+
+  "processing_strategy": {
+    "batch_processing_approach": {
+      "step_1": "Extract complete index structure (1.extraction.json)",
+      "step_2": "Create topic templates for all 188 topics",
+      "step_3": "Process content files in parallel (2-21.extraction.json)",
+      "step_4": "Map to existing Act structure for cross-referencing",
+      "step_5": "Build calculation engine mappings",
+      "step_6": "Validate legal hierarchy and conflicts"
+    },
+
+    "quality_control": {
+      "validation_rules": [
+        "Every topic must have Act reference",
+        "All calculations must have examples",
+        "Cross-references must be bidirectional",
+        "No orphaned topics (must link to parent)",
+        "All Bengali text must have English summaries"
+      ],
+      "automated_checks": [
+        "Legal reference validation",
+        "Formula syntax checking", 
+        "Cross-reference integrity",
+        "Duplicate topic detection",
+        "Calculation logic validation"
+      ]
+    }
+  },
+
+  "integration_with_existing_system": {
+    "act_integration": {
+      "source": "আয়কর আইন ২০২৩.json",
+      "mapping_method": "section_to_topic_mapping",
+      "bidirectional_links": true
+    },
+    "query_resolution_engine": {
+      "primary_lookup": "circular_topics",
+      "fallback_lookup": "act_sections",
+      "conflict_resolution": "latest_provision_wins",
+      "authority_hierarchy": ["circular", "act", "ordinance", "sro"]
+    }
+  }
+}

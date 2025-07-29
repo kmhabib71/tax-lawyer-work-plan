@@ -1,0 +1,300 @@
+{
+  "document_metadata": {
+    "document_id": "income_tax_circular_2024_25",
+    "document_type": "circular",
+    "title": "আয়কর পরিপত্র ২০২৪-২০২৫",
+    "authority_level": 1,
+    "parent_documents": ["আয়কর আইন ২০২৩"],
+    "fiscal_year": "2024-2025",
+    "effective_date": "2024-07-01",
+    "language": "bengali",
+    "total_topics": 188,
+    "processing_status": "structured"
+  },
+
+  "ai_engine_integration": {
+    "intent_classification_tags": [
+      "tax_calculation",
+      "rate_inquiry", 
+      "exemption_rules",
+      "surcharge_calculation",
+      "compliance_requirements",
+      "return_filing",
+      "penalty_calculation"
+    ],
+    
+    "document_routing": {
+      "primary_lookup": "circular_provisions",
+      "fallback_hierarchy": ["act_sections", "ordinance_provisions", "sro_notifications"],
+      "cross_reference_priority": ["latest_sro", "current_circular", "parent_act"],
+      "conflict_resolution": "latest_document_wins"
+    },
+
+    "vector_db_optimization": {
+      "embedding_fields": [
+        "title_bengali",
+        "title_english", 
+        "content_summary",
+        "keywords",
+        "calculation_description"
+      ],
+      "metadata_tags": [
+        "document_type",
+        "authority_level",
+        "taxpayer_category",
+        "calculation_type",
+        "effective_date"
+      ]
+    }
+  },
+
+  "table_of_contents": {
+    "extraction_method": "template_driven_parsing",
+    "total_entries": 188,
+    "hierarchical_structure": true,
+    "categories": [
+      {
+        "category_id": "basic_rates",
+        "category_name": "মৌলিক করহার ও সারচার্জ",
+        "english_name": "Basic Rates & Surcharges", 
+        "topic_range": "1-20",
+        "ai_intent_tags": ["tax_rate", "surcharge", "minimum_tax"],
+        "calculation_relevance": "high"
+      },
+      {
+        "category_id": "legal_amendments",
+        "category_name": "আইনি সংশোধনী ও সংজ্ঞা",
+        "english_name": "Legal Amendments & Definitions",
+        "topic_range": "21-80",
+        "ai_intent_tags": ["definition", "legal_clarification"],
+        "calculation_relevance": "medium"
+      },
+      {
+        "category_id": "charitable_provisions",
+        "category_name": "দাতব্য প্রতিষ্ঠান বিধান",
+        "english_name": "Charitable Organization Provisions",
+        "topic_range": "31-77",
+        "ai_intent_tags": ["exemption", "charitable_relief"],
+        "calculation_relevance": "medium"
+      },
+      {
+        "category_id": "income_categories", 
+        "category_name": "আয়ের ধরন ও পরিগণনা",
+        "english_name": "Income Categories & Calculation",
+        "topic_range": "78-110",
+        "ai_intent_tags": ["income_calculation", "deduction_rules"],
+        "calculation_relevance": "high"
+      },
+      {
+        "category_id": "procedures",
+        "category_name": "প্রক্রিয়াগত বিষয়াবলি",
+        "english_name": "Procedural Matters",
+        "topic_range": "111-188",
+        "ai_intent_tags": ["filing_procedure", "compliance"],
+        "calculation_relevance": "low"
+      }
+    ]
+  },
+
+  "section_template": {
+    "identification": {
+      "topic_id": "string - unique identifier (e.g., 1.2.3)",
+      "serial_number": "string - Bengali serial (১.২.৩)",
+      "title_bengali": "string - original title",
+      "title_english": "string - English translation",
+      "parent_topic": "string - hierarchical parent",
+      "sub_topics": ["array - child topics"],
+      "page_references": "string - page numbers"
+    },
+
+    "ai_optimization": {
+      "search_keywords": ["array - Bengali & English keywords"],
+      "intent_classification": ["array - relevant intents"],
+      "user_query_patterns": ["array - common questions"],
+      "calculation_triggers": ["array - terms triggering calculations"],
+      "semantic_tags": ["array - concept-based tags"],
+      "complexity_level": "basic|intermediate|advanced",
+      "query_frequency": "high|medium|low"
+    },
+
+    "legal_framework": {
+      "authority_level": 1,
+      "parent_act_reference": {
+        "act_name": "আয়কর আইন ২০২৩",
+        "section_numbers": ["array"],
+        "subsection_numbers": ["array"],
+        "clause_references": ["array"]
+      },
+      "cross_references": {
+        "related_circular_topics": ["array"],
+        "related_act_sections": ["array"],
+        "superseding_sros": ["array"],
+        "conflicting_provisions": ["array"]
+      },
+      "legal_status": "active|superseded|amended",
+      "effective_from": "date",
+      "valid_until": "date"
+    },
+
+    "content": {
+      "provision_text": {
+        "bengali_original": "string - complete Bengali text",
+        "english_summary": "string - concise English summary",
+        "key_points": ["array - main provisions"],
+        "scope_application": "string - who/what applies",
+        "mandatory_conditions": ["array - required conditions"],
+        "optional_conditions": ["array - optional conditions"],
+        "exceptions": ["array - exclusions and exceptions"]
+      }
+    },
+
+    "calculation_engine": {
+      "has_calculation": "boolean",
+      "calculation_category": "tax_rate|surcharge|exemption|penalty|relief",
+      "input_parameters": {
+        "required_inputs": [
+          {
+            "parameter_name": "string",
+            "parameter_type": "amount|percentage|boolean|enum",
+            "validation_rules": "string",
+            "default_value": "any",
+            "user_input_prompt": "string - how to ask user"
+          }
+        ],
+        "optional_inputs": ["array - similar structure"]
+      },
+
+      "calculation_logic": {
+        "primary_formula": {
+          "formula_id": "string",
+          "mathematical_expression": "string",
+          "variables": "object - variable definitions",
+          "conditional_branches": [
+            {
+              "condition": "string - if condition",
+              "formula": "string - calculation if true",
+              "else_formula": "string - calculation if false"
+            }
+          ]
+        },
+        "step_by_step_process": ["array - calculation steps"],
+        "validation_rules": ["array - result validation"]
+      },
+
+      "ai_calculation_support": {
+        "natural_language_explanation": "string - how calculation works",
+        "common_user_errors": ["array - typical mistakes"],
+        "clarifying_questions": ["array - questions to ask user"],
+        "result_interpretation": "string - how to explain result"
+      }
+    },
+
+    "tables_and_data": [
+      {
+        "table_id": "string",
+        "table_type": "rate_schedule|threshold_matrix|calculation_table",
+        "ai_searchable": "boolean",
+        "table_structure": {
+          "headers": ["array"],
+          "data_rows": [
+            {
+              "row_data": ["array"],
+              "calculation_inputs": "boolean",
+              "search_tags": ["array"]
+            }
+          ]
+        },
+        "usage_context": "string - when to use this table",
+        "ai_query_mapping": ["array - questions this table answers"]
+      }
+    ],
+
+    "examples": [
+      {
+        "example_id": "string",
+        "scenario_description": "string",
+        "user_profile": "string - type of taxpayer",
+        "input_data": "object - example inputs",
+        "calculation_walkthrough": ["array - step by step"],
+        "final_result": "string",
+        "ai_explanation": "string - natural language explanation"
+      }
+    ],
+
+    "compliance_guidance": {
+      "required_documents": ["array"],
+      "deadlines": ["array"],
+      "penalties_for_non_compliance": ["array"],
+      "best_practices": ["array"],
+      "common_compliance_errors": ["array"]
+    }
+  },
+
+  "processing_workflow": {
+    "phase_1_index_extraction": {
+      "source": "1.extraction.json",
+      "method": "pattern_matching_and_parsing",
+      "output": "complete_topic_index_with_hierarchy",
+      "validation": "cross_check_topic_counts_and_page_references"
+    },
+
+    "phase_2_content_processing": {
+      "source": "2-21.extraction.json", 
+      "method": "template_driven_batch_processing",
+      "parallel_processing": true,
+      "content_extraction_rules": [
+        "Identify section headers and boundaries",
+        "Extract Bengali text and create English summaries", 
+        "Parse tables and calculation matrices",
+        "Identify legal references and cross-links",
+        "Extract examples and practical guidance"
+      ]
+    },
+
+    "phase_3_ai_optimization": {
+      "keyword_generation": "automated_keyword_extraction",
+      "intent_mapping": "manual_classification_with_validation",
+      "query_pattern_analysis": "based_on_common_tax_questions",
+      "semantic_tagging": "concept_based_categorization"
+    },
+
+    "phase_4_integration": {
+      "act_cross_referencing": "link_to_parent_act_sections",
+      "sro_validation": "check_for_superseding_notifications",
+      "calculation_engine_mapping": "create_formula_libraries",
+      "vector_db_preparation": "optimize_for_semantic_search"
+    }
+  },
+
+  "quality_assurance": {
+    "validation_checkpoints": [
+      "All 188 topics extracted and structured",
+      "Legal references validated against parent Act",
+      "Calculation formulas tested with examples",
+      "Cross-references bidirectionally linked", 
+      "Bengali text accuracy preserved",
+      "English summaries are accurate and complete",
+      "AI optimization tags are comprehensive"
+    ],
+
+    "completeness_metrics": {
+      "topic_coverage": "188/188 topics processed",
+      "calculation_coverage": "% of calculable topics with formulas",
+      "cross_reference_coverage": "% of topics with Act references",
+      "example_coverage": "% of complex topics with examples",
+      "keyword_coverage": "% of topics with comprehensive keywords"
+    }
+  },
+
+  "output_specifications": {
+    "primary_output": "structured_circular_database.json",
+    "secondary_outputs": [
+      "calculation_engine_rules.json",
+      "cross_reference_mapping.json", 
+      "ai_intent_classification_data.json",
+      "vector_db_ready_embeddings.json"
+    ],
+    "integration_ready": true,
+    "api_compatible": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "অর্থ অধ্যাদেশ, ২০২৫",
+    "ordinance_info": "( ২০২৫ সনের ২৮ নং অধ্যাদেশ )",
+    "publish_date": "",
+    "introduction": "সরকারের আর্থিক প্রস্তাবাবলি কার্যকরকরণ এবং কতিপয় আইন সংশোধনকল্পে প্রণীত\nঅধ্যাদেশ"
+  },
+  "chapters": [
+    {
+      "number": "প্রথম অধ্যায়",
+      "title": "প্রারম্ভিক",
+      "sections": []
+    },
+    {
+      "number": "দ্বিতীয় অধ্যায়",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর সংশোধন",
+      "sections": []
+    },
+    {
+      "number": "তৃতীয় অধ্যায়",
+      "title": "আয়কর আইন, ২০২৩ (২০২৩ সনের ১২ নং আইন) এর সংশোধন",
+      "sections": []
+    },
+    {
+      "number": "চতুর্থ অধ্যায়",
+      "title": "কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর সংশোধন",
+      "sections": []
+    }
+  ],
+  "scraped_at": "2025-07-27T23:09:28.507915",
+  "url": "http://bdlaws.minlaw.gov.bd/act-1541.html",
+  "structure_summary": {
+    "total_chapters": 4,
+    "total_sections": 0,
+    "total_subsections": 0,
+    "total_clauses": 0,
+    "total_tables": 0,
+    "chapters_breakdown": [
+      {
+        "chapter_number": "প্রথম অধ্যায়",
+        "chapter_title": "প্রারম্ভিক",
+        "sections_count": 0
+      },
+      {
+        "chapter_number": "দ্বিতীয় অধ্যায়",
+        "chapter_title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ (২০১২ সনের ৪৭ নং আইন) এর সংশোধন",
+        "sections_count": 0
+      },
+      {
+        "chapter_number": "তৃতীয় অধ্যায়",
+        "chapter_title": "আয়কর আইন, ২০২৩ (২০২৩ সনের ১২ নং আইন) এর সংশোধন",
+        "sections_count": 0
+      },
+      {
+        "chapter_number": "চতুর্থ অধ্যায়",
+        "chapter_title": "কাস্টমস আইন, ২০২৩ (২০২৩ সনের ৫৭ নং আইন) এর সংশোধন",
+        "sections_count": 0
+      }
+    ]
+  }
+}

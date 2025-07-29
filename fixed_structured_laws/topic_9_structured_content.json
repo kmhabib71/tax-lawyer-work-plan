@@ -1,0 +1,202 @@
+{
+  "topic_identification": {
+    "topic_id": "9",
+    "topic_number_bengali": "৯",
+    "title_bengali": "প্রতিবন্ধী ব্যক্তি ও তৃতীয় লিঙ্গের ব্যক্তিদের নিয়োগের জন্য কর রেয়াত",
+    "title_english": "Tax relief for employment of disabled persons and third gender individuals",
+    "page_numbers": ["10"],
+    "file_source": "2.extraction.json",
+    "section_number": "১.৭"
+  },
+
+  "legal_framework": {
+    "parent_act_sections": [
+      {
+        "act_name": "আয়কর আইন ২০২৩",
+        "section_number": "চতুর্থ তফসিল",
+        "subsection": "কর রেয়াত বিধান",
+        "clause": "কর্মসংস্থান সৃজন সংক্রান্ত",
+        "relationship": "implements"
+      }
+    ],
+    "cross_references": {
+      "other_circulars": [],
+      "sro_references": [],
+      "ordinance_references": [],
+      "vat_act_references": [],
+      "custom_act_references": [],
+      "other_act_references": [
+        "প্রতিবন্ধী ব্যক্তিদের অধিকার ও সুরক্ষা আইন ২০১৩",
+        "তৃতীয় লিঙ্গের অধিকার সংরক্ষণ আইন"
+      ]
+    },
+    "authority_level": 1,
+    "legal_status": "active",
+    "effective_date": "2024-07-01",
+    "supersedes": []
+  },
+
+  "content_extraction": {
+    "main_provision": {
+      "bengali_text": "কোনো করদাতা নিয়োগকারী কর্তৃপক্ষ হিসেবে তার প্রতিষ্ঠানে কর্মরত মোট জনবলের অনূন ১০% (দশ শতাংশ) অথবা ২৫ (পঁচিশ) জনের অধিক কর্মচারী প্রতিবন্ধী ব্যক্তিদের মধ্যে হতে নিয়োগ করলে উক্ত করদাতা তার প্রদেয় করের ৫% (পাঁচ শতাংশ) অথবা প্রতিবন্ধী ব্যক্তি-কর্মচারীগণের পরিশোধিত মোট বেতনের ৭৫% (পঁচাত্তর শতাংশ), যা কম, কর রেয়াত প্রাপ্ত হবেন।\n\nকোনো করদাতা নিয়োগকারী কর্তৃপক্ষ হিসেবে তার প্রতিষ্ঠানে কর্মরত মোট জনবলের অনূন ১০% (দশ শতাংশ) অথবা ২৫ (পঁচিশ) জনের অধিক কর্মচারী তৃতীয় লিঙ্গের ব্যক্তিদের মধ্যে হতে নিয়োগ করলে উক্ত করদাতা তার প্রদেয় করের ৫% (পাঁচ শতাংশ) অথবা তৃতীয় লিঙ্গের কর্মচারীগণের পরিশোধিত মোট বেতনের ৭৫% (পঁচাত্তর শতাংশ), যা কম, কর রেয়াত প্রাপ্য হবেন।",
+      "english_summary": "Taxpayers who employ disabled persons or third gender individuals comprising at least 10% of total workforce or 25+ employees are entitled to tax relief equal to 5% of payable tax or 75% of total salaries paid to such employees, whichever is lower.",
+      "key_points": [
+        "Applies to disabled persons and third gender individuals separately",
+        "Minimum threshold: 10% of workforce OR 25+ employees",
+        "Tax relief: 5% of payable tax OR 75% of salaries paid, whichever is lower",
+        "Relief applies to each category independently"
+      ],
+      "scope_application": "All taxpaying employers who hire disabled persons or third gender individuals meeting the minimum thresholds",
+      "conditions": {
+        "mandatory_conditions": [
+          "Employee must be from disabled persons or third gender category",
+          "Must meet minimum threshold (10% of workforce OR 25+ employees)",
+          "Employer must be a taxpayer",
+          "Proper documentation of employment and salary payments required"
+        ],
+        "optional_conditions": [],
+        "exceptions": []
+      }
+    },
+
+    "calculation_components": {
+      "has_calculation": true,
+      "calculation_type": "relief",
+      "formulas": [
+        {
+          "formula_id": "disabled_person_relief",
+          "description": "Tax relief calculation for employing disabled persons",
+          "mathematical_expression": "Relief = MIN(5% × Payable_Tax, 75% × Total_Disabled_Salaries)",
+          "variables": {
+            "Payable_Tax": "Total income tax payable by the employer",
+            "Total_Disabled_Salaries": "Sum of salaries paid to disabled employees",
+            "Disabled_Employee_Count": "Number of disabled employees",
+            "Total_Workforce": "Total number of employees"
+          },
+          "conditions": [
+            "Disabled_Employee_Count >= 25 OR (Disabled_Employee_Count / Total_Workforce) >= 0.10"
+          ],
+          "examples": [
+            {
+              "scenario": "Company with 100 employees, 12 disabled, payable tax 1,000,000 Taka, disabled salaries 2,400,000 Taka",
+              "calculation": "Relief = MIN(5% × 1,000,000, 75% × 2,400,000) = MIN(50,000, 1,800,000) = 50,000 Taka",
+              "result": "50,000 Taka tax relief"
+            }
+          ]
+        },
+        {
+          "formula_id": "third_gender_relief", 
+          "description": "Tax relief calculation for employing third gender individuals",
+          "mathematical_expression": "Relief = MIN(5% × Payable_Tax, 75% × Total_ThirdGender_Salaries)",
+          "variables": {
+            "Payable_Tax": "Total income tax payable by the employer",
+            "Total_ThirdGender_Salaries": "Sum of salaries paid to third gender employees",
+            "ThirdGender_Employee_Count": "Number of third gender employees",
+            "Total_Workforce": "Total number of employees"
+          },
+          "conditions": [
+            "ThirdGender_Employee_Count >= 25 OR (ThirdGender_Employee_Count / Total_Workforce) >= 0.10"
+          ],
+          "examples": []
+        }
+      ],
+      "tables_and_schedules": [
+        {
+          "table_id": "threshold_requirements",
+          "table_type": "threshold_table",
+          "description": "Minimum employment thresholds for tax relief eligibility",
+          "headers": ["Category", "Minimum Threshold", "Alternative Threshold"],
+          "data_rows": [
+            ["Disabled Persons", "10% of total workforce", "25 employees"],
+            ["Third Gender", "10% of total workforce", "25 employees"]
+          ],
+          "usage_context": "Determining eligibility for tax relief"
+        }
+      ]
+    },
+
+    "practical_guidance": {
+      "examples": [
+        {
+          "example_id": "company_disabled_employees",
+          "scenario": "Manufacturing company with 200 employees wants to claim tax relief for employing disabled persons",
+          "input_data": {
+            "total_employees": 200,
+            "disabled_employees": 25,
+            "disabled_employee_percentage": "12.5%",
+            "total_disabled_salaries": 7500000,
+            "company_payable_tax": 2000000
+          },
+          "step_by_step_calculation": [
+            "Check eligibility: 25 disabled employees >= 25 threshold ✓",
+            "Alternative check: 25/200 = 12.5% >= 10% ✓", 
+            "Calculate relief option 1: 5% × 2,000,000 = 100,000 Taka",
+            "Calculate relief option 2: 75% × 7,500,000 = 5,625,000 Taka",
+            "Take minimum: MIN(100,000, 5,625,000) = 100,000 Taka"
+          ],
+          "result": "100,000 Taka tax relief",
+          "explanation": "Company qualifies for relief and receives 100,000 Taka reduction in tax liability"
+        }
+      ],
+      "compliance_requirements": [
+        "Maintain proper employment records for disabled/third gender employees",
+        "Submit employee category verification documents",
+        "Provide salary payment records and proof of payments",
+        "Include relief claim in annual tax return with supporting documents"
+      ],
+      "common_mistakes": [
+        "Counting part-time employees incorrectly in workforce calculations",
+        "Claiming relief for both categories without meeting individual thresholds",
+        "Not maintaining proper documentation for employee categories",
+        "Miscalculating relief amount by using wrong formula"
+      ],
+      "best_practices": [
+        "Maintain detailed employee category records throughout the year",
+        "Calculate relief eligibility quarterly to track progress",
+        "Ensure proper verification of employee disability/gender status",
+        "Consult with tax professional for complex workforce calculations"
+      ],
+      "required_documents": [
+        "Employee disability certificates from authorized medical board",
+        "Third gender identity certificates from competent authority", 
+        "Monthly salary payment records",
+        "Bank transfer receipts for salary payments",
+        "Employee attendance and service records"
+      ],
+      "deadlines": [
+        "Include relief claim in annual income tax return",
+        "Submit supporting documents with tax return filing",
+        "Maintain records for at least 6 years for audit purposes"
+      ]
+    }
+  },
+
+  "ai_optimization": {
+    "search_keywords": {
+      "bengali_keywords": ["প্রতিবন্ধী", "তৃতীয় লিঙ্গ", "কর রেয়াত", "নিয়োগ", "কর্মসংস্থান", "কর্মচারী", "বেতন"],
+      "english_keywords": ["disabled person", "third gender", "tax relief", "employment", "workforce", "salary", "employee"],
+      "technical_terms": ["employment incentive", "disability employment", "inclusive hiring", "tax deduction", "workforce diversity"]
+    },
+    "intent_classification": {
+      "primary_intents": ["tax_relief_calculation", "employment_incentive", "disability_employment"],
+      "secondary_intents": ["workforce_planning", "compliance_requirement", "documentation_needed"],
+      "query_patterns": [
+        "How to claim tax relief for disabled employees?",
+        "What is the minimum number of disabled employees required?",
+        "How to calculate tax relief for third gender employees?",
+        "What documents are needed for employment tax relief?"
+      ]
+    },
+    "semantic_tags": {
+      "concept_tags": ["social_responsibility", "inclusive_employment", "tax_incentive", "workforce_diversity"],
+      "calculation_triggers": ["tax relief", "employment threshold", "salary calculation", "minimum workforce"],
+      "complexity_indicators": ["percentage calculation", "threshold determination", "alternative conditions"]
+    },
+    "user_experience": {
+      "complexity_level": "intermediate",
+      "typical_user_profile": "HR managers, tax professionals, company accountants, business owners",
+      "query_frequency": "medium",
+      "related_topics": ["8", "10", "11", "12"]
+    }
+  }
+}

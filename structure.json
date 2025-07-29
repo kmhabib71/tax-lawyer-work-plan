@@ -1,0 +1,137 @@
+{
+  "file_structure": {
+    "scraper_file": {
+      "path": "/mnt/d/Projects/Ai_TAX_LAWER_BANGLADESH/data-scrap/precise_structured_scraper.py",
+      "type": "Python scraper script",
+      "purpose": "Scrapes Bangladesh legal documents from bdlaws.minlaw.gov.bd",
+      "key_classes": [
+        "DocumentHeader",
+        "TableCell",
+        "TableRow",
+        "LegalTable",
+        "SubClause",
+        "Clause",
+        "Subsection",
+        "Footnote",
+        "Section",
+        "Chapter",
+        "Part",
+        "StructuredLegalDocument",
+        "PreciseStructuredScraper"
+      ]
+    },
+    "json_files_structure": {
+      "common_structure": {
+        "header": {
+          "title": "string - law title in Bengali",
+          "ordinance_info": "string - law number and year",
+          "publish_date": "string - publication date",
+          "introduction": "string - law description"
+        },
+        "chapters": [
+          {
+            "number": "string - chapter number in Bengali",
+            "title": "string - chapter title",
+            "sections": [
+              {
+                "number": "string - section number",
+                "title": "string - section title",
+                "content_text": "string - main section content",
+                "subsections": [
+                  {
+                    "identifier": "string - subsection number",
+                    "text": "string - subsection content",
+                    "clauses": [],
+                    "tables": []
+                  }
+                ],
+                "clauses": [
+                  {
+                    "identifier": "string - clause letter",
+                    "text": "string - clause content",
+                    "sub_clauses": [
+                      {
+                        "identifier": "string - subclause identifier",
+                        "text": "string - subclause content"
+                      }
+                    ],
+                    "tables": []
+                  }
+                ],
+                "tables": [
+                  {
+                    "caption": "string - table caption",
+                    "headers": ["array of header strings"],
+                    "rows": [
+                      {
+                        "cells": [
+                          {
+                            "content": "string - cell content",
+                            "colspan": "number - column span",
+                            "rowspan": "number - row span",
+                            "is_header": "boolean - is header cell"
+                          }
+                        ]
+                      }
+                    ],
+                    "context": "string - table context"
+                  }
+                ],
+                "footnotes": [
+                  {
+                    "number": "string - footnote number",
+                    "text": "string - footnote content",
+                    "position": "string - footnote position"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "parts": [
+          {
+            "number": "string - part number in Bengali",
+            "title": "string - part title",
+            "chapters": [],
+            "sections": []
+          }
+        ],
+        "has_parts": "boolean - indicates if document uses parts structure",
+        "scraped_at": "string - ISO timestamp",
+        "url": "string - source URL",
+        "structure_summary": {
+          "has_parts": "boolean",
+          "total_parts": "number (if has_parts)",
+          "total_chapters": "number",
+          "total_sections": "number",
+          "total_subsections": "number",
+          "total_clauses": "number",
+          "total_tables": "number",
+          "chapters_breakdown": [],
+          "parts_breakdown": []
+        }
+      },
+      "sample_files": {
+        "আয়কর_আইন_২০২৩.json": {
+          "structure_type": "Parts → Chapters → Sections",
+          "has_parts": true,
+          "total_parts": 25,
+          "total_chapters": 37,
+          "total_sections": 341,
+          "total_subsections": 868,
+          "total_clauses": 866,
+          "total_tables": 16
+        },
+        "অরথ_আইন_২০২৪.json": {
+          "structure_type": "Chapters → Sections",
+          "has_parts": false,
+          "total_chapters": 5,
+          "total_sections": 105,
+          "total_subsections": 59,
+          "total_clauses": 186,
+          "total_tables": 6
+        }
+      }
+    }
+  }
+}

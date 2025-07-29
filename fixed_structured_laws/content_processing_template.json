@@ -1,0 +1,234 @@
+{
+  "content_processing_framework": {
+    "document_id": "income_tax_circular_2024_25",
+    "processing_phase": "Phase 3 - Content Extraction",
+    "source_files": "2.extraction.json to 21.extraction.json",
+    "total_pages": 440,
+    "pages_per_file": 20,
+    "processing_strategy": "template_driven_batch_processing"
+  },
+
+  "processing_template": {
+    "file_metadata": {
+      "file_number": "integer - 2 to 21",
+      "page_range": "string - pages covered",
+      "topics_covered": "array - topic IDs in this file",
+      "processing_date": "string - when processed",
+      "processing_status": "pending|in_progress|completed"
+    },
+
+    "content_extraction_rules": [
+      "Identify topic boundaries using headers and numbering",
+      "Extract Bengali original text completely",
+      "Create concise English summaries",
+      "Identify calculation formulas and tables", 
+      "Extract legal references and cross-links",
+      "Parse examples and practical guidance",
+      "Map to existing Act sections",
+      "Generate AI optimization tags"
+    ],
+
+    "topic_content_structure": {
+      "topic_identification": {
+        "topic_id": "string - from index (1-202)",
+        "topic_number_bengali": "string - Bengali serial",
+        "title_bengali": "string - complete Bengali title",
+        "title_english": "string - English translation",
+        "page_numbers": "array - actual pages where topic appears",
+        "file_source": "string - which extraction file"
+      },
+
+      "legal_framework": {
+        "parent_act_sections": [
+          {
+            "act_name": "আয়কর আইন ২০২৩",
+            "section_number": "string",
+            "subsection": "string",
+            "clause": "string",
+            "relationship": "implements|clarifies|modifies|supersedes"
+          }
+        ],
+        "cross_references": {
+          "other_circulars": "array - references to other circulars",
+          "sro_references": "array - SRO numbers and dates",
+          "ordinance_references": "array - relevant ordinances",
+          "vat_act_references": "array - VAT Act sections if applicable",
+          "custom_act_references": "array - Custom Act sections if applicable",
+          "other_act_references": "array - any other acts referenced"
+        },
+        "authority_level": 1,
+        "legal_status": "active|superseded|amended",
+        "effective_date": "string",
+        "supersedes": "array - what this topic supersedes"
+      },
+
+      "content_extraction": {
+        "main_provision": {
+          "bengali_text": "string - complete Bengali text",
+          "english_summary": "string - concise English summary",
+          "key_points": "array - main provisions bullet points",
+          "scope_application": "string - who/what this applies to",
+          "conditions": {
+            "mandatory_conditions": "array - required conditions",
+            "optional_conditions": "array - optional conditions",
+            "exceptions": "array - exclusions and exceptions"
+          }
+        },
+
+        "calculation_components": {
+          "has_calculation": "boolean",
+          "calculation_type": "tax_rate|surcharge|exemption|penalty|relief|deduction",
+          "formulas": [
+            {
+              "formula_id": "string",
+              "description": "string",
+              "mathematical_expression": "string",
+              "variables": "object - variable definitions",
+              "conditions": "array - when this formula applies",
+              "examples": "array - worked examples"
+            }
+          ],
+          "tables_and_schedules": [
+            {
+              "table_id": "string",
+              "table_type": "rate_schedule|threshold_table|calculation_matrix",
+              "description": "string",
+              "headers": "array",
+              "data_rows": "array",
+              "usage_context": "string"
+            }
+          ]
+        },
+
+        "practical_guidance": {
+          "examples": [
+            {
+              "example_id": "string",
+              "scenario": "string",
+              "input_data": "object",
+              "step_by_step_calculation": "array",
+              "result": "string",
+              "explanation": "string"
+            }
+          ],
+          "compliance_requirements": "array",
+          "common_mistakes": "array",
+          "best_practices": "array",
+          "required_documents": "array",
+          "deadlines": "array"
+        }
+      },
+
+      "ai_optimization": {
+        "search_keywords": {
+          "bengali_keywords": "array - Bengali search terms",
+          "english_keywords": "array - English search terms",
+          "technical_terms": "array - tax-specific terminology"
+        },
+        "intent_classification": {
+          "primary_intents": "array - main user intents this topic serves",
+          "secondary_intents": "array - related intents",
+          "query_patterns": "array - common user questions"
+        },
+        "semantic_tags": {
+          "concept_tags": "array - conceptual categorization",
+          "calculation_triggers": "array - terms that trigger calculations",
+          "complexity_indicators": "array - complexity markers"
+        },
+        "user_experience": {
+          "complexity_level": "basic|intermediate|advanced",
+          "typical_user_profile": "string",
+          "query_frequency": "high|medium|low",
+          "related_topics": "array - topic IDs of related content"
+        }
+      }
+    }
+  },
+
+  "batch_processing_workflow": {
+    "step_1_file_analysis": {
+      "objective": "Identify topic boundaries and structure in each file",
+      "method": "Pattern matching and header detection",
+      "output": "Topic mapping for each file"
+    },
+
+    "step_2_content_extraction": {
+      "objective": "Extract structured content for each topic",
+      "method": "Template-driven extraction using above structure",
+      "parallel_processing": true,
+      "output": "Structured topic content"
+    },
+
+    "step_3_legal_mapping": {
+      "objective": "Map circular provisions to parent Act sections",
+      "method": "Cross-reference analysis and validation",
+      "integration_with": "existing Act database",
+      "output": "Bidirectional reference mappings"
+    },
+
+    "step_4_calculation_extraction": {
+      "objective": "Extract and validate all calculation formulas",
+      "method": "Formula parsing and example validation",
+      "output": "Calculation engine ready formulas"
+    },
+
+    "step_5_ai_optimization": {
+      "objective": "Generate comprehensive AI optimization data",
+      "method": "Keyword extraction and intent analysis",
+      "output": "Vector database ready metadata"
+    },
+
+    "step_6_validation": {
+      "objective": "Validate completeness and accuracy",
+      "method": "Cross-reference checking and example testing",
+      "output": "Quality assured structured database"
+    }
+  },
+
+  "quality_control": {
+    "validation_rules": [
+      "Every topic must have complete Bengali text",
+      "Every topic must have English summary",
+      "All legal references must be validated",
+      "All calculations must have examples",
+      "Cross-references must be bidirectional",
+      "AI tags must be comprehensive"
+    ],
+
+    "completeness_metrics": {
+      "content_coverage": "% of topics with complete content",
+      "calculation_coverage": "% of applicable topics with formulas",
+      "example_coverage": "% of complex topics with examples",
+      "cross_reference_coverage": "% of topics with Act references",
+      "ai_optimization_coverage": "% of topics with complete AI metadata"
+    }
+  },
+
+  "output_specifications": {
+    "file_naming_convention": "topic_[id]_structured.json",
+    "aggregated_output": "all_topics_structured_content.json",
+    "calculation_engine_output": "calculation_formulas_extracted.json",
+    "cross_reference_output": "legal_cross_references.json",
+    "ai_optimization_output": "ai_metadata_complete.json"
+  },
+
+  "integration_requirements": {
+    "parent_act_integration": {
+      "source": "আয়কর আইন ২০২৩ database",
+      "method": "Section-to-topic mapping",
+      "bidirectional": true
+    },
+
+    "calculation_engine_integration": {
+      "formula_validation": "Test with provided examples",
+      "parameter_extraction": "Identify all input variables",
+      "condition_mapping": "Extract conditional logic"
+    },
+
+    "vector_database_preparation": {
+      "embedding_fields": ["title_bengali", "title_english", "content_summary", "keywords"],
+      "metadata_fields": ["category", "complexity", "calculation_type", "user_intent"],
+      "search_optimization": "Multi-language keyword indexing"
+    }
+  }
+}

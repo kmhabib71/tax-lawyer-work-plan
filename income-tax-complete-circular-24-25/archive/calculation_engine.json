@@ -1,0 +1,966 @@
+{
+  "tax_rate_formulas": {
+    "31": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "32": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "33": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "34": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "35": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "36": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "37": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "38": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "39": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "40": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "41": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "42": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "43": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "44": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "45": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "46": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "47": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "48": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "49": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "50": {
+      "formula_id": "formula_60",
+      "type": "percentage",
+      "value": 70.0,
+      "description": "Rate of ৭০%",
+      "context": "tax_calculation"
+    },
+    "96": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "97": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "98": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "99": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "100": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "101": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "102": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "103": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "104": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "105": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "106": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "107": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "108": {
+      "formula_id": "formula_6",
+      "type": "percentage",
+      "value": 25.0,
+      "description": "Rate of ২৫%",
+      "context": "tax_calculation"
+    },
+    "109": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "110": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "111": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "112": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "113": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "114": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "115": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "116": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "117": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "118": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "119": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "120": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "121": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "122": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "123": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "124": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "125": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "126": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "127": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "128": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "129": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "130": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "131": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "132": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "133": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "134": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "135": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "145": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "146": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "147": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "148": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "149": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "150": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "151": {
+      "formula_id": "formula_29",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "136": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "137": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "138": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "139": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "140": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "141": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "142": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "143": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "144": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "152": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "153": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "154": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "155": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "156": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "157": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "158": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "159": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "160": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "161": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "162": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "163": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "164": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "165": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "166": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "167": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "168": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "169": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "170": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "171": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "172": {
+      "formula_id": "formula_81",
+      "type": "percentage",
+      "value": 10.0,
+      "description": "Rate of ১০%",
+      "context": "tax_calculation"
+    },
+    "173": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "174": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "175": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "176": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "177": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "178": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "179": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "180": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "181": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "182": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "183": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "184": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "185": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "186": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "187": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "188": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "189": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "190": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "191": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "192": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "193": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "194": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "195": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "196": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "197": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "198": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "199": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "200": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "201": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "202": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "203": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "204": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "205": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "206": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "207": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "208": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "209": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "210": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "211": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    },
+    "212": {
+      "formula_id": "formula_20",
+      "type": "percentage",
+      "value": 150.0,
+      "description": "Rate of ১৫০%",
+      "context": "tax_calculation"
+    }
+  },
+  "surcharge_formulas": {},
+  "exemption_rules": {},
+  "calculation_workflows": {}
+}

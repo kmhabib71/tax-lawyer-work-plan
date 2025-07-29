@@ -1,0 +1,271 @@
+{
+  "document_metadata": {
+    "type": "income_tax_circular",
+    "title": "আয়কর পরিপত্র ২০২৪-২০২৫",
+    "subtitle": "২০২৪-২০২৫ অর্থ বছরের বাজেট কার্যক্রমের মাধ্যমে আয়করের ক্ষেত্রে আনীত পরিবর্তন সম্পর্কিত স্পষ্টিকরণ",
+    "issuer": "জাতীয় রাজস্ব বোর্ড, করনীতি উইং",
+    "fiscal_year": "2024-2025",
+    "language": "bengali",
+    "total_topics": 188,
+    "total_pages": 200,
+    "extraction_files": 21,
+    "document_id": "income_tax_circular_2024_25"
+  },
+  
+  "table_of_contents": {
+    "total_entries": 188,
+    "categories": [
+      {
+        "category_name": "tax_rates_and_charges",
+        "range": "1-20",
+        "description": "Basic tax rates, surcharges, and charges"
+      },
+      {
+        "category_name": "legal_amendments",
+        "range": "21-80", 
+        "description": "Income Tax Act 2023 amendments and definitions"
+      },
+      {
+        "category_name": "charitable_organizations",
+        "range": "31-77",
+        "description": "Charitable purpose definitions and scope"
+      },
+      {
+        "category_name": "income_categories",
+        "range": "78-110",
+        "description": "Rental, business, and other income provisions"
+      },
+      {
+        "category_name": "procedural_matters",
+        "range": "111-188",
+        "description": "Returns, assessments, and administrative procedures"
+      }
+    ],
+    "index_entries": []
+  },
+
+  "sections": [
+    {
+      "serial": 1,
+      "title": "শিরোনাম",
+      "title_english": "Title",
+      "page_reference": 1,
+      "category": "tax_rates_and_charges",
+      "section_type": "header",
+      "content": {
+        "bengali_text": "",
+        "english_summary": "",
+        "key_points": [],
+        "legal_provisions": []
+      },
+      "tables": [],
+      "act_references": [],
+      "calculation_formulas": [],
+      "examples": [],
+      "related_topics": [],
+      "keywords": [],
+      "implementation_date": "",
+      "validity_period": ""
+    },
+    {
+      "serial": "1.2",
+      "title": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০২৫-২০২৬ করবর্ষের জন্য করহার",
+      "title_english": "Tax rates for individual taxpayers, Hindu undivided families and firms for FY 2025-26",
+      "page_reference": "1-2",
+      "category": "tax_rates_and_charges",
+      "section_type": "tax_rate_schedule",
+      "content": {
+        "bengali_text": "অর্থ আইন, ২০২ৄ এ বর্ণিত করহারের তফসিল-৩ অনুযায়ী...",
+        "english_summary": "Progressive tax rates for individuals ranging from 0% to 30%",
+        "key_points": [
+          "Tax-free threshold: 3,50,000 Taka",
+          "Progressive rates: 5%-10%-15%-20%-25%-30%",
+          "Special thresholds for women, elderly, disabled persons"
+        ],
+        "legal_provisions": [
+          "Finance Act 2024, Schedule-3",
+          "Income Tax Act 2023"
+        ]
+      },
+      "tables": [
+        {
+          "table_id": "individual_tax_rates_2025_26",
+          "title": "Individual Tax Rate Schedule",
+          "structure": "income_slabs_and_rates",
+          "data": [
+            {
+              "income_range": "First 3,50,000 Taka",
+              "rate": "0%",
+              "calculation_base": "total_income"
+            },
+            {
+              "income_range": "Next 1,00,000 Taka", 
+              "rate": "5%",
+              "calculation_base": "incremental"
+            },
+            {
+              "income_range": "Next 4,00,000 Taka",
+              "rate": "10%", 
+              "calculation_base": "incremental"
+            },
+            {
+              "income_range": "Next 5,00,000 Taka",
+              "rate": "15%",
+              "calculation_base": "incremental"
+            },
+            {
+              "income_range": "Next 5,00,000 Taka",
+              "rate": "20%",
+              "calculation_base": "incremental"
+            },
+            {
+              "income_range": "Next 20,00,000 Taka",
+              "rate": "25%",
+              "calculation_base": "incremental"
+            },
+            {
+              "income_range": "Remaining income",
+              "rate": "30%",
+              "calculation_base": "incremental"
+            }
+          ]
+        },
+        {
+          "table_id": "special_thresholds",
+          "title": "Special Tax-Free Thresholds",
+          "structure": "category_and_amount",
+          "data": [
+            {
+              "category": "Women and senior citizens (65+)",
+              "threshold": "4,00,000 Taka"
+            },
+            {
+              "category": "Third gender and disabled persons",
+              "threshold": "4,75,000 Taka"
+            },
+            {
+              "category": "Gazetted war-wounded freedom fighters",
+              "threshold": "5,00,000 Taka"
+            }
+          ]
+        },
+        {
+          "table_id": "minimum_tax_by_location",
+          "title": "Minimum Tax by Location",
+          "structure": "location_and_amount",
+          "data": [
+            {
+              "location": "Dhaka North/South, Chittagong City Corporation",
+              "minimum_tax": "5,000 Taka"
+            },
+            {
+              "location": "Other City Corporations",
+              "minimum_tax": "4,000 Taka"
+            },
+            {
+              "location": "Other areas",
+              "minimum_tax": "3,000 Taka"
+            }
+          ]
+        }
+      ],
+      "act_references": [
+        {
+          "act_name": "Finance Act 2024",
+          "section": "Schedule-3",
+          "description": "Tax rate schedule"
+        }
+      ],
+      "calculation_formulas": [
+        {
+          "formula_id": "individual_tax_calculation",
+          "description": "Progressive tax calculation for individuals",
+          "formula": "Sum of (income_in_slab × rate_for_slab)",
+          "variables": {
+            "total_income": "Total taxable income",
+            "tax_free_threshold": "Applicable tax-free amount based on category"
+          },
+          "conditions": [
+            "Exclude tobacco manufacturers from this rate",
+            "Apply minimum tax if calculated tax is lower"
+          ]
+        }
+      ],
+      "examples": [
+        {
+          "example_id": "individual_tax_calc_example",
+          "scenario": "Individual with 10,00,000 Taka income",
+          "calculation_steps": [
+            "First 3,50,000: 0% = 0",
+            "Next 1,00,000: 5% = 5,000",
+            "Next 4,00,000: 10% = 40,000", 
+            "Next 1,50,000: 15% = 22,500",
+            "Total tax: 67,500 Taka"
+          ]
+        }
+      ],
+      "related_topics": [
+        "1.3", "1.4", "1.5", "1.7"
+      ],
+      "keywords": [
+        "individual_tax_rates", "progressive_taxation", "tax_free_threshold", 
+        "minimum_tax", "special_categories", "women_taxpayers", "disabled_persons"
+      ],
+      "implementation_date": "2024-07-01",
+      "validity_period": "FY 2025-26"
+    }
+  ],
+
+  "cross_references": {
+    "by_topic": {},
+    "by_keyword": {},
+    "by_calculation_type": {},
+    "by_taxpayer_category": {}
+  },
+
+  "calculation_engine": {
+    "tax_calculators": [
+      {
+        "calculator_id": "individual_tax",
+        "applicable_sections": ["1.2"],
+        "input_parameters": ["total_income", "taxpayer_category", "location"],
+        "output": "calculated_tax_liability"
+      },
+      {
+        "calculator_id": "company_tax",
+        "applicable_sections": ["1.4"],
+        "input_parameters": ["company_type", "paid_up_capital", "bank_transfer_compliance"],
+        "output": "calculated_tax_liability"
+      }
+    ]
+  },
+
+  "legal_framework": {
+    "primary_acts": [
+      {
+        "act_name": "Income Tax Act 2023",
+        "act_number": "Act No. 12 of 2023",
+        "relevant_sections": []
+      },
+      {
+        "act_name": "Finance Act 2024", 
+        "relevant_schedules": ["Schedule-3"]
+      }
+    ],
+    "notifications": [
+      {
+        "sro_number": "S.R.O. No. 44-Law/Income Tax/2024",
+        "date": "March 4, 2024",
+        "subject": "Export income reduced rates"
+      }
+    ]
+  },
+
+  "processing_metadata": {
+    "extraction_date": "2024-01-XX",
+    "total_tokens": 72000,
+    "files_processed": 2,
+    "validation_status": "pending",
+    "last_updated": "2024-01-XX"
+  }
+}

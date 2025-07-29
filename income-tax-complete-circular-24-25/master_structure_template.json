@@ -1,0 +1,495 @@
+{
+  "metadata": {
+    "source_document": "Income Tax Circular 2024-25",
+    "authority": "National Board of Revenue (NBR)",
+    "department": "Tax Policy Wing",
+    "total_pages": 460,
+    "total_topics": 188,
+    "file_structure": {
+      "table_of_contents": "1.extraction.json (Pages 1-20)",
+      "content_files": "2.extraction.json to 23.extraction.json (Pages 21-460)",
+      "pages_per_file": 20
+    },
+    "processing_metadata": {
+      "version": "1.0",
+      "processing_date": "2024",
+      "language_primary": "bengali",
+      "language_secondary": "english",
+      "document_type": "tax_circular",
+      "legal_authority_level": 1
+    }
+  },
+  
+  "topics_index": {
+    "topic_001": {
+      "topic_id": "topic_001",
+      "topic_number": 1,
+      "title_bengali": "২০২৪-২০২৫ এবং ২০২৫-২০২০ করবর্ষের জন্য প্রযোজ্য আয়করের হার",
+      "title_english": "Applicable income tax rates for tax years 2024-25 and 2025-26",
+      "page_reference": 1,
+      "file_location": 1,
+      "category": "basic_rates",
+      "subcategory": "individual_rates",
+      "ai_metadata": {
+        "intent_classification": ["tax_calculation", "rate_inquiry"],
+        "search_keywords": {
+          "bengali": ["করহার", "আয়কর", "২০২৪-২০২৫", "হার"],
+          "english": ["tax rate", "income tax", "2024-25", "rates"]
+        },
+        "query_patterns": [
+          "কর হার কত?",
+          "What is the tax rate?",
+          "২০২৪-২৫ সালের কর হার",
+          "Income tax rates for 2024-25"
+        ],
+        "complexity_level": "basic",
+        "requires_calculation": true,
+        "user_frequency": "high"
+      }
+    },
+    "topic_002": {
+      "topic_id": "topic_002", 
+      "topic_number": 2,
+      "title_bengali": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০২৪-২০২৫ করবর্ষের জন্য করহার",
+      "title_english": "Tax rates for individual taxpayers, Hindu undivided families and firms for tax year 2024-25",
+      "page_reference": 1,
+      "file_location": 1,
+      "category": "basic_rates",
+      "subcategory": "individual_rates",
+      "ai_metadata": {
+        "intent_classification": ["tax_calculation", "rate_inquiry"],
+        "search_keywords": {
+          "bengali": ["স্বাভাবিক ব্যক্তি", "করহার", "ফার্ম", "হিন্দু অবিভক্ত পরিবার"],
+          "english": ["individual taxpayer", "tax rate", "firm", "Hindu undivided family"]
+        },
+        "query_patterns": [
+          "ব্যক্তিগত কর হার কত?",
+          "What is individual tax rate?",
+          "ফার্মের কর হার",
+          "Firm tax rates"
+        ],
+        "complexity_level": "basic",
+        "requires_calculation": true,
+        "user_frequency": "high"
+      }
+    }
+  },
+
+  "structured_content": {
+    "topic_001": {
+      "topic_id": "topic_001",
+      "metadata": {
+        "topic_number": 1,
+        "title_bengali": "২০২৪-২০২৫ এবং ২০২৫-২০২৬ করবর্ষের জন্য প্রযোজ্য আয়করের হার",
+        "title_english": "Applicable income tax rates for tax years 2024-25 and 2025-26",
+        "category": "basic_rates",
+        "file_source": "2.extraction.json",
+        "page_range": [21, 25]
+      },
+      "content": {
+        "bengali_text": "২০২৪-২০২৫ এবং ২০২৫-২০২৬ করবর্ষের জন্য আয়করের হার নিম্নরূপ নির্ধারণ করা হয়েছে। স্বাভাবিক ব্যক্তি করদাতাদের জন্য প্রগতিশীল হার কাঠামো প্রযোজ্য হবে।",
+        "english_summary": "Income tax rates have been determined for tax years 2024-25 and 2025-26. Progressive rate structure will be applicable for individual taxpayers.",
+        "key_points": [
+          "প্রগতিশীল কর হার কাঠামো প্রযোজ্য",
+          "স্বাভাবিক ব্যক্তি ও কোম্পানির জন্য আলাদা হার",
+          "সারচার্জ ও অতিরিক্ত সুবিধা সংযুক্ত",
+          "Progressive tax rate structure applicable",
+          "Separate rates for individuals and companies", 
+          "Surcharge and additional benefits included"
+        ],
+        "legal_references": [
+          "Income Tax Act 2023, Section 12",
+          "Tax Policy Wing Circular 2024",
+          "NBR Guidelines 2024-25"
+        ],
+        "tables_and_schedules": [
+          {
+            "table_id": "tax_rate_table_1",
+            "title": "Individual Tax Rate Schedule 2024-25",
+            "html_content": "<table><thead><tr><th>Income Slab (BDT)</th><th>Tax Rate (%)</th></tr></thead><tbody><tr><td>Up to 3,50,000</td><td>0%</td></tr><tr><td>3,50,001 to 4,50,000</td><td>5%</td></tr><tr><td>4,50,001 to 7,50,000</td><td>10%</td></tr><tr><td>7,50,001 to 11,50,000</td><td>15%</td></tr><tr><td>11,50,001 to 16,50,000</td><td>20%</td></tr><tr><td>Above 16,50,000</td><td>25%</td></tr></tbody></table>",
+            "extracted_data": [
+              ["Income Slab (BDT)", "Tax Rate (%)"],
+              ["Up to 3,50,000", "0%"],
+              ["3,50,001 to 4,50,000", "5%"],
+              ["4,50,001 to 7,50,000", "10%"],
+              ["7,50,001 to 11,50,000", "15%"],
+              ["11,50,001 to 16,50,000", "20%"],
+              ["Above 16,50,000", "25%"]
+            ],
+            "calculation_ready": true
+          }
+        ],
+        "calculation_formulas": [
+          {
+            "formula_id": "individual_tax_calc_2024_25",
+            "formula_type": "progressive_tax_calculation",
+            "description": "Individual income tax calculation for 2024-25",
+            "input_parameters": ["total_income", "taxpayer_type"],
+            "calculation_steps": [
+              {
+                "step": 1,
+                "condition": "income <= 350000",
+                "calculation": "tax = 0",
+                "rate": 0
+              },
+              {
+                "step": 2,
+                "condition": "350000 < income <= 450000",
+                "calculation": "tax = (income - 350000) * 0.05",
+                "rate": 5
+              },
+              {
+                "step": 3,
+                "condition": "450000 < income <= 750000", 
+                "calculation": "tax = 5000 + (income - 450000) * 0.10",
+                "rate": 10
+              },
+              {
+                "step": 4,
+                "condition": "750000 < income <= 1150000",
+                "calculation": "tax = 35000 + (income - 750000) * 0.15",
+                "rate": 15
+              },
+              {
+                "step": 5,
+                "condition": "1150000 < income <= 1650000",
+                "calculation": "tax = 95000 + (income - 1150000) * 0.20",
+                "rate": 20
+              },
+              {
+                "step": 6,
+                "condition": "income > 1650000",
+                "calculation": "tax = 195000 + (income - 1650000) * 0.25",
+                "rate": 25
+              }
+            ],
+            "validation_rules": [
+              "income >= 0",
+              "taxpayer_type in ['individual', 'hindu_undivided_family', 'firm']"
+            ]
+          }
+        ],
+        "examples": [
+          {
+            "example_id": "example_1",
+            "scenario": "Individual with 8,00,000 BDT annual income",
+            "input": {
+              "total_income": 800000,
+              "taxpayer_type": "individual"
+            },
+            "calculation_steps": [
+              "First 3,50,000: 0% = 0",
+              "Next 1,00,000 (3,50,001-4,50,000): 5% = 5,000",
+              "Next 3,00,000 (4,50,001-7,50,000): 10% = 30,000", 
+              "Next 50,000 (7,50,001-8,00,000): 15% = 7,500"
+            ],
+            "total_tax": 42500,
+            "effective_rate": 5.31
+          },
+          {
+            "example_id": "example_2",
+            "scenario": "Company with 50,00,000 BDT annual income",
+            "input": {
+              "total_income": 5000000,
+              "taxpayer_type": "company"
+            },
+            "calculation_steps": [
+              "Corporate tax rate: 27.5%",
+              "Tax = 5,000,000 × 0.275 = 1,375,000"
+            ],
+            "total_tax": 1375000,
+            "effective_rate": 27.5
+          }
+        ]
+      },
+      "cross_references": {
+        "related_topics": ["topic_003", "topic_006", "topic_007"],
+        "legal_sections": ["section_12", "section_45"],
+        "calculation_dependencies": ["surcharge_calculation", "exemption_rules"],
+        "superseded_provisions": [],
+        "updates_from_previous_year": ["rate_changes_2023_24"]
+      },
+      "ai_optimization": {
+        "search_vectors": {
+          "title_vector": [0.1, 0.2, 0.3, "... 1021 more dimensions"],
+          "content_vector": [0.2, 0.3, 0.4, "... 1021 more dimensions"],
+          "keyword_vector": [0.3, 0.4, 0.5, "... 1021 more dimensions"]
+        },
+        "intent_mapping": {
+          "tax_calculation": 0.95,
+          "rate_inquiry": 0.90,
+          "exemption_check": 0.10,
+          "surcharge_computation": 0.30,
+          "charitable_eligibility": 0.05,
+          "income_categorization": 0.40,
+          "procedural_guidance": 0.15,
+          "legal_reference": 0.60,
+          "amendment_tracking": 0.20,
+          "cross_reference_lookup": 0.25,
+          "formula_application": 0.85,
+          "compliance_check": 0.40,
+          "documentation_requirement": 0.20,
+          "timeline_guidance": 0.15,
+          "penalty_calculation": 0.10
+        },
+        "calculation_triggers": [
+          {
+            "trigger_type": "calculation_required",
+            "keyword": "করহার",
+            "calculation_type": "tax_rate_calculation",
+            "confidence": 0.95
+          },
+          {
+            "trigger_type": "formula_application",
+            "keyword": "গণনা",
+            "calculation_type": "progressive_tax_calculation",
+            "confidence": 0.90
+          }
+        ],
+        "user_query_routing": {
+          "primary_intents": ["tax_calculation", "rate_inquiry"],
+          "fallback_topics": ["topic_003", "topic_006"],
+          "complexity_level": "basic",
+          "estimated_resolution_time": "immediate"
+        }
+      }
+    }
+  },
+
+  "cross_reference_mapping": {
+    "topic_to_topic": {
+      "topic_001": {
+        "directly_related": ["topic_002", "topic_003", "topic_006"],
+        "indirectly_related": ["topic_007", "topic_008", "topic_009"],
+        "complementary": ["topic_016", "topic_017"],
+        "contradictory": [],
+        "superseded_by": [],
+        "supersedes": []
+      }
+    },
+    "topic_to_legal_section": {
+      "topic_001": {
+        "primary_sections": ["section_12", "section_45"],
+        "supporting_sections": ["section_10", "section_15"],
+        "related_ordinances": ["tax_ordinance_1984"],
+        "related_sro": ["sro_123_2024"]
+      }
+    },
+    "calculation_dependencies": {
+      "topic_001": {
+        "required_inputs": ["total_income", "taxpayer_type", "income_year"],
+        "dependent_calculations": ["surcharge_calc", "exemption_calc"],
+        "prerequisite_topics": [],
+        "follow_up_topics": ["topic_007", "topic_008"]
+      }
+    },
+    "hierarchical_structure": {
+      "main_categories": {
+        "basic_rates": {
+          "topics": ["topic_001", "topic_002", "topic_003"],
+          "hierarchy_level": 1,
+          "parent_category": null,
+          "child_categories": ["individual_rates", "corporate_rates"]
+        },
+        "amendments": {
+          "topics": ["topic_021", "topic_022", "topic_023"],
+          "hierarchy_level": 1,
+          "parent_category": null,
+          "child_categories": ["definitions", "legal_changes"]
+        }
+      }
+    }
+  },
+
+  "calculation_engine": {
+    "tax_rate_formulas": {
+      "individual_progressive_2024_25": {
+        "formula_id": "individual_progressive_2024_25",
+        "applicability": {
+          "taxpayer_types": ["individual", "hindu_undivided_family", "firm"],
+          "tax_years": ["2024-25", "2025-26"],
+          "income_types": ["total_income", "business_income", "salary_income"]
+        },
+        "rate_structure": [
+          {"min_income": 0, "max_income": 350000, "rate": 0, "cumulative_tax": 0},
+          {"min_income": 350001, "max_income": 450000, "rate": 5, "cumulative_tax": 0},
+          {"min_income": 450001, "max_income": 750000, "rate": 10, "cumulative_tax": 5000},
+          {"min_income": 750001, "max_income": 1150000, "rate": 15, "cumulative_tax": 35000},
+          {"min_income": 1150001, "max_income": 1650000, "rate": 20, "cumulative_tax": 95000},
+          {"min_income": 1650001, "max_income": null, "rate": 25, "cumulative_tax": 195000}
+        ],
+        "calculation_function": {
+          "algorithm": "progressive_tax_calculation",
+          "parameters": ["total_income"],
+          "validation_rules": ["income >= 0", "income <= 99999999"],
+          "return_type": "object",
+          "return_fields": ["total_tax", "effective_rate", "marginal_rate", "breakdown"]
+        }
+      }
+    },
+    "surcharge_formulas": {
+      "wealth_based_surcharge_2024_25": {
+        "formula_id": "wealth_based_surcharge_2024_25",
+        "description": "Surcharge based on wealth/net worth",
+        "applicability": {
+          "net_worth_threshold": 40000000,
+          "tax_years": ["2024-25", "2025-26"]
+        },
+        "surcharge_rates": [
+          {"min_net_worth": 40000000, "max_net_worth": 100000000, "surcharge_rate": 10},
+          {"min_net_worth": 100000001, "max_net_worth": 250000000, "surcharge_rate": 15},
+          {"min_net_worth": 250000001, "max_net_worth": null, "surcharge_rate": 25}
+        ]
+      }
+    },
+    "exemption_rules": {
+      "charitable_exemption": {
+        "rule_id": "charitable_exemption",
+        "description": "Income tax exemption for charitable organizations",
+        "eligibility_criteria": [
+          "Organization must be registered as charitable",
+          "Must serve public interest exclusively",
+          "No profit distribution to members",
+          "Must maintain proper accounting records"
+        ],
+        "exemption_scope": "full_exemption",
+        "conditions": [
+          "Annual filing of exemption application",
+          "Compliance with charitable organization regulations",
+          "Audit requirement for income above threshold"
+        ]
+      }
+    },
+    "calculation_workflows": {
+      "standard_individual_tax_calculation": {
+        "workflow_id": "standard_individual_tax_calculation",
+        "steps": [
+          {
+            "step": 1,
+            "action": "determine_taxpayer_category",
+            "inputs": ["taxpayer_info"],
+            "outputs": ["taxpayer_type", "applicable_rates"]
+          },
+          {
+            "step": 2,
+            "action": "calculate_basic_tax",
+            "inputs": ["total_income", "applicable_rates"],
+            "outputs": ["basic_tax_amount"]
+          },
+          {
+            "step": 3, 
+            "action": "apply_surcharges",
+            "inputs": ["basic_tax_amount", "net_worth", "other_factors"],
+            "outputs": ["total_surcharge"]
+          },
+          {
+            "step": 4,
+            "action": "apply_exemptions_and_rebates",
+            "inputs": ["basic_tax_amount", "exemption_claims"],
+            "outputs": ["net_tax_payable"]
+          },
+          {
+            "step": 5,
+            "action": "calculate_advance_tax_adjustments",
+            "inputs": ["net_tax_payable", "advance_payments", "tds_amount"],
+            "outputs": ["final_tax_liability"]
+          }
+        ]
+      }
+    }
+  },
+
+  "ai_optimization_data": {
+    "intent_classification_map": {
+      "tax_calculation": ["topic_001", "topic_002", "topic_003", "topic_006"],
+      "rate_inquiry": ["topic_001", "topic_002", "topic_003", "topic_004"],
+      "exemption_check": ["topic_077", "topic_031", "topic_032"],
+      "surcharge_computation": ["topic_007", "topic_008"],
+      "charitable_eligibility": ["topic_031", "topic_032", "topic_033"],
+      "income_categorization": ["topic_078", "topic_088", "topic_109"],
+      "procedural_guidance": ["topic_111", "topic_153", "topic_165"],
+      "legal_reference": ["topic_021", "topic_022", "topic_081"],
+      "amendment_tracking": ["topic_021", "topic_022", "topic_023"],
+      "cross_reference_lookup": ["topic_021", "topic_081", "topic_082"],
+      "formula_application": ["topic_001", "topic_002", "topic_108"],
+      "compliance_check": ["topic_153", "topic_165", "topic_169"],
+      "documentation_requirement": ["topic_113", "topic_165", "topic_177"],
+      "timeline_guidance": ["topic_158", "topic_171", "topic_174"],
+      "penalty_calculation": ["topic_174", "topic_175", "topic_270"]
+    },
+    "semantic_search_data": {
+      "keyword_index": {
+        "করহার": ["topic_001", "topic_002", "topic_003"],
+        "সারচার্জ": ["topic_007", "topic_008"],
+        "অবাহতি": ["topic_077", "topic_031", "topic_115"],
+        "দাতব্য": ["topic_031", "topic_032", "topic_033"],
+        "tax rate": ["topic_001", "topic_002", "topic_003"],
+        "surcharge": ["topic_007", "topic_008"],
+        "exemption": ["topic_077", "topic_031", "topic_115"],
+        "charitable": ["topic_031", "topic_032", "topic_033"]
+      },
+      "topic_similarity_matrix": {
+        "topic_001": {
+          "topic_002": 0.95,
+          "topic_003": 0.90,
+          "topic_006": 0.85,
+          "topic_007": 0.70
+        }
+      },
+      "search_optimization_config": {
+        "primary_language": "bengali",
+        "secondary_language": "english",
+        "search_fields": ["title_bengali", "title_english", "content_bengali", "summary_english", "key_points"],
+        "boost_factors": {
+          "title_bengali": 2.0,
+          "title_english": 1.8,
+          "key_points": 1.5,
+          "examples": 1.3,
+          "content_bengali": 1.0
+        }
+      }
+    },
+    "query_routing_rules": {
+      "category_routing": {
+        "basic_rates": ["topic_001", "topic_002", "topic_003"],
+        "amendments": ["topic_021", "topic_022", "topic_023"],
+        "charitable": ["topic_031", "topic_032", "topic_033"],
+        "income_categories": ["topic_078", "topic_088", "topic_109"],
+        "procedural": ["topic_111", "topic_153", "topic_165"]
+      },
+      "complexity_routing": {
+        "basic": ["topic_001", "topic_002", "topic_003"],
+        "intermediate": ["topic_031", "topic_078", "topic_088"],
+        "advanced": ["topic_021", "topic_081", "topic_153"]
+      },
+      "calculation_routing": ["topic_001", "topic_002", "topic_003", "topic_007", "topic_008"],
+      "multi_hop_patterns": [
+        {
+          "pattern": "tax_calculation_with_surcharge",
+          "topic_sequence": ["topic_001", "topic_007"],
+          "description": "Calculate tax then apply surcharge"
+        },
+        {
+          "pattern": "charitable_exemption_eligibility",
+          "topic_sequence": ["topic_031", "topic_032", "topic_077"],
+          "description": "Check charitable status then apply exemption"
+        }
+      ]
+    },
+    "vector_embeddings_config": {
+      "embedding_model": "multilingual-e5-large",
+      "dimension": 1024,
+      "fields_to_embed": [
+        "title_bengali",
+        "title_english",
+        "content_bengali", 
+        "summary_english",
+        "key_points"
+      ],
+      "similarity_metric": "cosine",
+      "index_type": "hnsw",
+      "distance_threshold": 0.7,
+      "max_results": 10
+    }
+  }
+}

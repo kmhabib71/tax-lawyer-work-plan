@@ -1,0 +1,3731 @@
+{
+  "document_metadata": {
+    "document_id": "income_tax_circular_2024_25",
+    "title": "আয়কর পরিপত্র ২০২৪-২০২৫",
+    "total_topics": 212,
+    "extraction_date": "2024-01-XX",
+    "phase_status": "Phase 2 - Complete Index Extraction COMPLETED"
+  },
+  "categories": [
+    {
+      "category_id": "basic_rates_surcharges",
+      "category_name": "মৌলিক করহার ও সারচার্জ",
+      "english_name": "Basic Tax Rates & Surcharges",
+      "topic_range": "1-20",
+      "ai_intent_tags": [
+        "tax_rate",
+        "surcharge",
+        "minimum_tax",
+        "progressive_taxation"
+      ],
+      "calculation_relevance": "high",
+      "user_query_frequency": "high"
+    },
+    {
+      "category_id": "legal_amendments",
+      "category_name": "আইনি সংশোধনী ও সংজ্ঞা",
+      "english_name": "Legal Amendments & Definitions",
+      "topic_range": "21-110",
+      "ai_intent_tags": [
+        "definition",
+        "legal_clarification",
+        "act_amendment"
+      ],
+      "calculation_relevance": "medium",
+      "user_query_frequency": "medium"
+    },
+    {
+      "category_id": "charitable_provisions",
+      "category_name": "দাতব্য প্রতিষ্ঠান বিধান",
+      "english_name": "Charitable Organization Provisions",
+      "topic_range": "31-77",
+      "ai_intent_tags": [
+        "exemption",
+        "charitable_relief",
+        "non_profit"
+      ],
+      "calculation_relevance": "medium",
+      "user_query_frequency": "medium"
+    },
+    {
+      "category_id": "income_categories",
+      "category_name": "আয়ের ধরন ও পরিগণনা",
+      "english_name": "Income Categories & Calculation",
+      "topic_range": "78-110",
+      "ai_intent_tags": [
+        "income_calculation",
+        "deduction_rules",
+        "rental_income",
+        "business_income"
+      ],
+      "calculation_relevance": "high",
+      "user_query_frequency": "high"
+    },
+    {
+      "category_id": "procedural_matters",
+      "category_name": "প্রক্রিয়াগত বিষয়াবলি",
+      "english_name": "Procedural Matters",
+      "topic_range": "111-202",
+      "ai_intent_tags": [
+        "filing_procedure",
+        "compliance",
+        "assessment",
+        "appeals"
+      ],
+      "calculation_relevance": "low",
+      "user_query_frequency": "medium"
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "1",
+      "serial_bengali": "১",
+      "title_bengali": "শিরোনাম",
+      "title_english": "Title",
+      "page_reference": "১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "2",
+      "serial_bengali": "২",
+      "title_bengali": "২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য প্রযোজ্য আয়করের হার",
+      "title_english": "২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য প্রযোজ্য Incomeকরের হার",
+      "page_reference": "১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "3",
+      "serial_bengali": "৩",
+      "title_bengali": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০১৪-২০১৫ করবর্ষের জন্য করহার",
+      "title_english": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০১৪-২০১৫ করবর্ষের জন্য Tax rate",
+      "page_reference": "১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "4",
+      "serial_bengali": "৪",
+      "title_bengali": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০১৫-২০১৬ করবর্ষের জন্য করহার",
+      "title_english": "স্বাভাবিক ব্যক্তি করদাতা, হিন্দু অবিভক্ত পরিবার ও ফার্মের ২০১৫-২০১৬ করবর্ষের জন্য Tax rate",
+      "page_reference": "৩",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "5",
+      "serial_bengali": "৫",
+      "title_bengali": "ট্রাস্ট, তহবিল, বাতিসংঘ, সমবায় সমিতি এবং বেসরকারি বিশ্ববিদ্যালয়সহ কতিপয় করদাতাদের জন্য ২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য করহার",
+      "title_english": "ট্রাস্ট, তহবিল, বাতিসংঘ, সমবায় সমিতি এবং বেসরকারি বিশ্ববিদ্যালয়সহ কতিপয় করদাতাদের জন্য ২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য Tax rate",
+      "page_reference": "৪",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "6",
+      "serial_bengali": "৬",
+      "title_bengali": "কোম্পানির জন্য ২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য করহার",
+      "title_english": "কোম্পানির জন্য ২০১৪-২০১৫ এবং ২০১৫-২০১৬ করবর্ষের জন্য Tax rate",
+      "page_reference": "৫",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "7",
+      "serial_bengali": "৭",
+      "title_bengali": "সারচার্জ",
+      "title_english": "Surcharge",
+      "page_reference": "৬",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "8",
+      "serial_bengali": "৮",
+      "title_bengali": "পরিবেশ সারচার্জ",
+      "title_english": "পরিবেশ Surcharge",
+      "page_reference": "৭",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "9",
+      "serial_bengali": "৯",
+      "title_bengali": "প্রতিবন্ধী ব্যক্তি ও তৃতীয় লিঙ্গের ব্যক্তিদের নিয়োগের জন্য কর রেয়াত",
+      "title_english": "Disabled person ও Third genderের ব্যক্তিদের Employmentের জন্য Tax relief",
+      "page_reference": "১০",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "tax_relief",
+        "calculation",
+        "tax_rate",
+        "employment",
+        "surcharge"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "10",
+      "serial_bengali": "১০",
+      "title_bengali": "স্কুল, কলেজ, বিশ্ববিদ্যালয়সহ সকল শিক্ষাপ্রতিষ্ঠানের জন্য বিশেষ সারচার্জ",
+      "title_english": "স্কুল, কলেজ, বিশ্ববিদ্যালয়সহ সকল শিক্ষাপ্রতিষ্ঠানের জন্য বিশেষ Surcharge",
+      "page_reference": "১১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "11",
+      "serial_bengali": "১১",
+      "title_bengali": "রপ্তানি আয়ের জন্য হ্রাসকৃত করহার",
+      "title_english": "Export incomeের জন্য হ্রাসকৃত Tax rate",
+      "page_reference": "১১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "12",
+      "serial_bengali": "১২",
+      "title_bengali": "কর অবাহতি বা হ্রাসকৃত করহারের শর্তাবলি",
+      "title_english": "কর অবাহতি বা হ্রাসকৃত Tax rateের শর্তাবলি",
+      "page_reference": "১১",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "13",
+      "serial_bengali": "১৩",
+      "title_bengali": "সুতা উৎপাদন, ডাইং, ফিনিশিং ইত্যাদি হতে আয়ের জন্য হ্রাসকৃত করহার",
+      "title_english": "সুতা উৎপাদন, ডাইং, ফিনিশিং ইত্যাদি হতে Incomeের জন্য হ্রাসকৃত Tax rate",
+      "page_reference": "১৩",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "14",
+      "serial_bengali": "১৪",
+      "title_bengali": "হাঁস-মুরগীর খামার, হাঁস-মুরগী, চিংড়ি ও মাছের হ্যাচারী (hatchery) এবং সহস্য চাষ হতে আয়ের জন্য হ্রাসকৃত করহার",
+      "title_english": "হাঁস-মুরগীর খামার, হাঁস-মুরগী, চিংড়ি ও মাছের হ্যাচারী (hatchery) এবং সহস্য চাষ হতে Incomeের জন্য হ্রাসকৃত Tax rate",
+      "page_reference": "১৩",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "15",
+      "serial_bengali": "১৫",
+      "title_bengali": "অর্থনৈতিক অঞ্চলে এবং হাই-টেক পার্কে পণ্য উৎপাদন বা সেবা প্রদানের লক্ষ্যে পরিচালিত কোনো প্রতিষ্ঠানের করহার",
+      "title_english": "Economic zoneে এবং Hi-tech parkে পণ্য উৎপাদন বা সেবা প্রদানের লক্ষ্যে পরিচালিত কোনো প্রতিষ্ঠানের Tax rate",
+      "page_reference": "১৪",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "16",
+      "serial_bengali": "১৬",
+      "title_bengali": "অর্থনৈতিক অঞ্চলে কর অবাহতির শর্তাবলি",
+      "title_english": "Economic zoneে কর অবাহতির শর্তাবলি",
+      "page_reference": "১৪",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "17",
+      "serial_bengali": "১৭",
+      "title_bengali": "অর্থনৈতিক অঞ্চলে কর অবাহতি শর্তের শিথিলতা, রহিতকরণ ও হেফাজত",
+      "title_english": "Economic zoneে কর অবাহতি শর্তের শিথিলতা, রহিতকরণ ও হেফাজত",
+      "page_reference": "১৫",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "18",
+      "serial_bengali": "১৮",
+      "title_bengali": "হাই-টেক পার্কে পণ্য উৎপাদন বা সেবা প্রদানের লক্ষ্যে পরিচালিত কোনো প্রতিষ্ঠানের কেবল উক্ত হাই-টেক পার্কে পরিচালিত ব্যবসায়ের মাধ্যমে অর্জিত আয়ের উপর করহার",
+      "title_english": "Hi-tech parkে পণ্য উৎপাদন বা সেবা প্রদানের লক্ষ্যে পরিচালিত কোনো প্রতিষ্ঠানের কেবল উক্ত Hi-tech parkে পরিচালিত Businessয়ের মাধ্যমে অর্জিত Incomeের উপর Tax rate",
+      "page_reference": "১৬",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "business_income",
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "19",
+      "serial_bengali": "১৯",
+      "title_bengali": "হাই-টেক পার্কে পরিচালিত ব্যবসায়ের মাধ্যমে অর্জিত আয়ের উপর কর অব্যাহতির শর্তাবলি",
+      "title_english": "Hi-tech parkে পরিচালিত Businessয়ের মাধ্যমে অর্জিত Incomeের উপর কর অব্যাহতির শর্তাবলি",
+      "page_reference": "১৬",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "business_income",
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "20",
+      "serial_bengali": "২০",
+      "title_bengali": "হাই-টেক পার্কে পরিচালিত ব্যবসায়ের মাধ্যমে অর্জিত আয়ের উপর কর অব্যাহতি শর্তের শিথিলতা, রহিতকরণ ও হেফাজত",
+      "title_english": "Hi-tech parkে পরিচালিত Businessয়ের মাধ্যমে অর্জিত Incomeের উপর কর অব্যাহতি শর্তের শিথিলতা, রহিতকরণ ও হেফাজত",
+      "page_reference": "১৭",
+      "category": "basic_rates_surcharges",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "business_income",
+        "surcharge",
+        "tax_rate",
+        "calculation"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "21",
+      "serial_bengali": "২১",
+      "title_bengali": "আয়কর আইন, ২০২৩ উল্লেখিত কতিপয় শব্দ ও রেফারেন্স সংশোধন",
+      "title_english": "Income Tax Act, ২০২৩ উল্লেখিত কতিপয় শব্দ ও রেফারেন্স Amendment",
+      "page_reference": "১৮",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "22",
+      "serial_bengali": "২২",
+      "title_bengali": "আয়কর আইন, ২০২৩ এর ধারা ২ এ আনীত সংশোধনসমূহ",
+      "title_english": "Income Tax Act, ২০২৩ এর ধারা ২ এ আনীত Amendmentসমূহ",
+      "page_reference": "১৮",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "23",
+      "serial_bengali": "২৩",
+      "title_bengali": "অনুমোদিত আনুতোষিক তহবিল\" এবং \"অনুমোদিত বার্ষিক তহবিল বা পেনশন তহবিল\" এর সংজ্ঞায় সংশোধন",
+      "title_english": "অনুমোদিত আনুতোষিক তহবিল\" এবং \"অনুমোদিত বার্ষিক তহবিল বা পেনশন তহবিল\" এর Definitionয় Amendment",
+      "page_reference": "১৮",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "24",
+      "serial_bengali": "২৪",
+      "title_bengali": "\"আর্থিক প্রতিষ্ঠান\" এর সংজ্ঞা এর বিলোপ",
+      "title_english": "\"আর্থিক প্রতিষ্ঠান\" এর Definition এর বিলোপ",
+      "page_reference": "১৯",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "25",
+      "serial_bengali": "২৫",
+      "title_bengali": "\"আয়\" এর সংজ্ঞায় সংশোধন",
+      "title_english": "\"Income\" এর Definitionয় Amendment",
+      "page_reference": "১৯",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "26",
+      "serial_bengali": "২৬",
+      "title_bengali": "\"কর্মচারী\" এর সংজ্ঞা প্রতিস্থাপন",
+      "title_english": "\"কর্মচারী\" এর Definition প্রতিস্থাপন",
+      "page_reference": "১৯",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "27",
+      "serial_bengali": "২৭",
+      "title_bengali": "\"কর কমিশনার\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"কর কমিশনার\" এর Definition সংযোজন",
+      "page_reference": "২০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "28",
+      "serial_bengali": "২৮",
+      "title_bengali": "\"কর নির্ধারণ\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"কর নির্ধারণ\" এর Definition সংযোজন",
+      "page_reference": "২০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "29",
+      "serial_bengali": "২৯",
+      "title_bengali": "\"চার্টার্ড সেক্রেটারি\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"চার্টার্ড সেক্রেটারি\" এর Definition সংযোজন",
+      "page_reference": "২০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "30",
+      "serial_bengali": "৩০",
+      "title_bengali": "\"দাতব্য উদ্দেশ্য\" এর সংজ্ঞা সংশোধন",
+      "title_english": "\"Charitable উদ্দেশ্য\" এর Definition Amendment",
+      "page_reference": "২০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "charitable"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "31",
+      "serial_bengali": "৩১",
+      "title_bengali": "দাতব্য উদ্দেশ্যে প্রতিষ্ঠিত সত্তাসমূহের করারোপণ সংক্রান্ত স্পষ্টিকরণ",
+      "title_english": "Charitable উদ্দেশ্যে প্রতিষ্ঠিত সত্তাসমূহের করারোপণ সংক্রান্ত স্পষ্টিকরণ",
+      "page_reference": "২১",
+      "category": "charitable_provisions",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "32",
+      "serial_bengali": "৩২",
+      "title_bengali": "দাতব্য প্রতিষ্ঠানের আইনানুগ সংজ্ঞা",
+      "title_english": "Charitable প্রতিষ্ঠানের আইনানুগ Definition",
+      "page_reference": "২২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "33",
+      "serial_bengali": "৩৩",
+      "title_bengali": "প্রতিষ্ঠানের স্বাভাবিক কার্যক্রমের পাশাপাশি দাতব্য কার্যক্রম পরিচালনা প্রতিষ্ঠানকে কি দাতব্য প্রতিষ্ঠান করে তোলে? তার ব্যাখ্যা",
+      "title_english": "প্রতিষ্ঠানের স্বাভাবিক কার্যক্রমের পাশাপাশি Charitable কার্যক্রম পরিচালনা প্রতিষ্ঠানকে কি Charitable প্রতিষ্ঠান করে তোলে? তার ব্যাখ্যা",
+      "page_reference": "২২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "34",
+      "serial_bengali": "৩৪",
+      "title_bengali": "কোনো প্রতিষ্ঠানের কার্যক্রম সাধারণভাবে দাতব্য উদ্দেশ্যে পরিচালিত কিন্তু আয়কর আইনে সংজ্ঞায়িত \"দাতব্য উদ্দেশ্য\" পরিচালিত না হলে তাকে দাতব্য প্রতিষ্ঠান বলা যাবে কি? তার ব্যাখ্যা",
+      "title_english": "কোনো প্রতিষ্ঠানের কার্যক্রম সাধারণভাবে Charitable উদ্দেশ্যে পরিচালিত কিন্তু Income Tax Actে Definitionয়িত \"Charitable উদ্দেশ্য\" পরিচালিত না হলে তাকে Charitable প্রতিষ্ঠান বলা যাবে কি? তার ব্যাখ্যা",
+      "page_reference": "২২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "35",
+      "serial_bengali": "৩৫",
+      "title_bengali": "Non-Profit Organization কি দাতব্য প্রতিষ্ঠান",
+      "title_english": "Non-Profit Organization কি Charitable প্রতিষ্ঠান",
+      "page_reference": "২২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "36",
+      "serial_bengali": "৩৬",
+      "title_bengali": "দাতব্য প্রতিষ্ঠানসমূহ কি করমুক্ত",
+      "title_english": "Charitable প্রতিষ্ঠানসমূহ কি করমুক্ত",
+      "page_reference": "২৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "37",
+      "serial_bengali": "৩৭",
+      "title_bengali": "দাতব্য উদ্দেশ্য কী",
+      "title_english": "Charitable উদ্দেশ্য কী",
+      "page_reference": "২৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "38",
+      "serial_bengali": "৩৮",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দরিদ্রের জন্য ত্রাণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দরিদ্রের জন্য ত্রাণ\" এর ব্যাপ্তি",
+      "page_reference": "২৫",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "39",
+      "serial_bengali": "৩৯",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"চিকিৎসা ত্রাণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"চিকিৎসা ত্রাণ\" এর ব্যাপ্তি",
+      "page_reference": "২৫",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "40",
+      "serial_bengali": "৪০",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষা ত্রাণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষা ত্রাণ\" এর ব্যাপ্তি",
+      "page_reference": "২৭",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "41",
+      "serial_bengali": "৪১",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জনসচেতনতা বৃদ্ধির লক্ষ্যে গৃহীত কর্মসূচী\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জনসচেতনতা বৃদ্ধির লক্ষ্যে গৃহীত কর্মসূচী\" এর ব্যাপ্তি",
+      "page_reference": "২৮",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "42",
+      "serial_bengali": "৪২",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দারিদ্র বিমোচন কর্মসূচী\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দারিদ্র বিমোচন কর্মসূচী\" এর ব্যাপ্তি",
+      "page_reference": "৩০",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "43",
+      "serial_bengali": "৪৩",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"নারীর ক্ষমতায়নে গৃহীত উদ্যোগ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"নারীর ক্ষমতায়নে গৃহীত উদ্যোগ\" এর ব্যাপ্তি",
+      "page_reference": "৩১",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "44",
+      "serial_bengali": "৪৪",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গণতন্ত্র এবং সুশাসনের উদ্যোগ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গণতন্ত্র এবং সুশাসনের উদ্যোগ\" এর ব্যাপ্তি",
+      "page_reference": "৩২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "45",
+      "serial_bengali": "৪৫",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"মানবাধিকার বিষয়ক প্রচার ও সচেতনতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"মানবাধিকার বিষয়ক প্রচার ও সচেতনতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "page_reference": "৩৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "46",
+      "serial_bengali": "৪৬",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"ধর্ম নিরপেক্ষতা\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"ধর্ম নিরপেক্ষতা\" এর ব্যাপ্তি",
+      "page_reference": "৩৪",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "47",
+      "serial_bengali": "৪৭",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রান্তিক ও সুবিধাবঞ্চিত জনগণের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রান্তিক ও সুবিধাবঞ্চিত জনগণের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "page_reference": "৩৫",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "48",
+      "serial_bengali": "৪৮",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিশু ও বয়ঃসন্ধিকালে উপনীত কিশোর-কিশোরীদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিশু ও বয়ঃসন্ধিকালে উপনীত কিশোর-কিশোরীদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "page_reference": "৩৬",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "49",
+      "serial_bengali": "৪৯",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বয়স্ক জনগোষ্ঠীর সম্পৃক্ততা\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বয়স্ক জনগোষ্ঠীর সম্পৃক্ততা\" এর ব্যাপ্তি",
+      "page_reference": "৩৮",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "50",
+      "serial_bengali": "৫০",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বুদ্ধি প্রতিবন্ধী ব্যক্তিদের অংশগ্রহণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বুদ্ধি Disabled personদের অংশগ্রহণ\" এর ব্যাপ্তি",
+      "page_reference": "৩৯",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "51",
+      "serial_bengali": "৫১",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শারীরিক প্রতিবন্ধী ব্যক্তিদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শারীরিক Disabled personদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "page_reference": "৪১",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "52",
+      "serial_bengali": "৫২",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"তৃতীয় লিঙ্গের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"Third genderের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "page_reference": "৪২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "53",
+      "serial_bengali": "৫৩",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমঅধিকার ও সমান অংশগ্রহণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমঅধিকার ও সমান অংশগ্রহণ\" এর ব্যাপ্তি",
+      "page_reference": "৪৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "54",
+      "serial_bengali": "৫৪",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুবিধাবঞ্চিত জনগোষ্ঠীর ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুবিধাবঞ্চিত জনগোষ্ঠীর ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "page_reference": "৪৪",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "55",
+      "serial_bengali": "৫৫",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সামাজিক কর্মকাণ্ড\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সামাজিক কর্মকাণ্ড\" এর ব্যাপ্তি",
+      "page_reference": "৪৫",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "56",
+      "serial_bengali": "৫৬",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাংস্কৃতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাংস্কৃতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৪৬",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "57",
+      "serial_bengali": "৫৭",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অর্থনৈতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অর্থনৈতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৪৭",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "58",
+      "serial_bengali": "৫৮",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষামূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষামূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৪৮",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "59",
+      "serial_bengali": "৫৯",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"স্বাস্থ্য সেবা কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"স্বাস্থ্য সেবা কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৪৯",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "60",
+      "serial_bengali": "৬০",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিশুদ্ধ পানি কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিশুদ্ধ পানি কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫০",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "61",
+      "serial_bengali": "৬১",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুয়ারেজ সিস্টেম কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুয়ারেজ সিস্টেম কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫০",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "62",
+      "serial_bengali": "৬২",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাধারণ ত্রাণ কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাধারণ ত্রাণ কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫১",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "63",
+      "serial_bengali": "৬৩",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পুনর্বাসন কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পুনর্বাসন কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "64",
+      "serial_bengali": "৬৪",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "65",
+      "serial_bengali": "৬৫",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি উন্নয়ন কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি উন্নয়ন কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৫৫",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "66",
+      "serial_bengali": "৬৬",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অবকাঠামো উন্নয়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অবকাঠামো উন্নয়ন\" এর ব্যাপ্তি",
+      "page_reference": "৫৬",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "67",
+      "serial_bengali": "৬৭",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পরিবেশ সংরক্ষণ ও উন্নয়ন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পরিবেশ সংরক্ষণ ও উন্নয়ন\" এর ব্যাপ্তি",
+      "page_reference": "৫৮",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "68",
+      "serial_bengali": "৬৮",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জলবায়ু পরিবর্তন প্রশমন এবং অভিযোজন\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জলবায়ু পরিবর্তন প্রশমন এবং অভিযোজন\" এর ব্যাপ্তি",
+      "page_reference": "৫৯",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "69",
+      "serial_bengali": "৬৯",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রাকৃতিক সম্পদ ব্যবস্থাপনা\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রাকৃতিক সম্পদ ব্যবস্থাপনা\" এর ব্যাপ্তি",
+      "page_reference": "৬০",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "70",
+      "serial_bengali": "৭০",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দক্ষতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দক্ষতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "page_reference": "৬১",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "71",
+      "serial_bengali": "৭১",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিজ্ঞান ও তথ্য প্রযুক্তি\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিজ্ঞান ও তথ্য প্রযুক্তি\" এর ব্যাপ্তি",
+      "page_reference": "৬২",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "72",
+      "serial_bengali": "৭২",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"যুক্তিমূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"যুক্তিমূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৬৩",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "73",
+      "serial_bengali": "৭৩",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমাজ কল্যাণ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমাজ কল্যাণ\" এর ব্যাপ্তি",
+      "page_reference": "৬৪",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "74",
+      "serial_bengali": "৭৪",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গবেষণা কার্যক্রম\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গবেষণা কার্যক্রম\" এর ব্যাপ্তি",
+      "page_reference": "৬৬",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "75",
+      "serial_bengali": "৭৫",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিভিন্ন নগোষ্ঠীর উন্নয়ন ও সুরক্ষা\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিভিন্ন নগোষ্ঠীর উন্নয়ন ও সুরক্ষা\" এর ব্যাপ্তি",
+      "page_reference": "৬৭",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "76",
+      "serial_bengali": "৭৬",
+      "title_bengali": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিবিধ\" এর ব্যাপ্তি",
+      "title_english": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিবিধ\" এর ব্যাপ্তি",
+      "page_reference": "৬৯",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "relief"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "77",
+      "serial_bengali": "৭৭",
+      "title_bengali": "দাতব্য প্রতিষ্ঠানসমূহ কর্তৃক গৃহ-সম্পত্তি হতে গৃহীত ভাড়া আয় কি করমুক্ত",
+      "title_english": "Charitable প্রতিষ্ঠানসমূহ কর্তৃক গৃহ-সম্পত্তি হতে গৃহীত Rent Income কি করমুক্ত",
+      "page_reference": "৬৯",
+      "category": "charitable_provisions",
+      "parent_topic": "30",
+      "sub_topics": [],
+      "ai_tags": [
+        "exemption",
+        "charitable",
+        "rental_income",
+        "relief"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "78",
+      "serial_bengali": "৭৮",
+      "title_bengali": "\"ফাইন্যাল কোম্পানি\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"ফাইন্যাল কোম্পানি\" এর Definition সংযোজন",
+      "page_reference": "৭০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "79",
+      "serial_bengali": "৭৯",
+      "title_bengali": "\"লভ্যাংশ\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"লভ্যাংশ\" এর Definition সংযোজন",
+      "page_reference": "৭০",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "80",
+      "serial_bengali": "৮০",
+      "title_bengali": "\"শ্রীকৃত করদায়\" এর সংজ্ঞা সংযোজন",
+      "title_english": "\"শ্রীকৃত করদায়\" এর Definition সংযোজন",
+      "page_reference": "৭১",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "81",
+      "serial_bengali": "৮১",
+      "title_bengali": "আয়কর কর্তৃপক্ষ সংক্রান্ত ধারা ৪ এ সংশোধন",
+      "title_english": "Incomeকর কর্তৃপক্ষ সংক্রান্ত ধারা ৪ এ Amendment",
+      "page_reference": "৭১",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "82",
+      "serial_bengali": "৮২",
+      "title_bengali": "আয়কর কর্তৃপক্ষের নিয়োগ সংক্রান্ত ধারা ৫ সংশোধন",
+      "title_english": "Incomeকর কর্তৃপক্ষের Employment সংক্রান্ত ধারা ৫ Amendment",
+      "page_reference": "৭২",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "employment"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "83",
+      "serial_bengali": "৮৩",
+      "title_bengali": "ক্ষমতা অর্পণ সংক্রান্ত ধারা ৬ এর প্রতিস্থাপন",
+      "title_english": "ক্ষমতা অর্পণ সংক্রান্ত ধারা ৬ এর প্রতিস্থাপন",
+      "page_reference": "৭৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "84",
+      "serial_bengali": "৮৪",
+      "title_bengali": "জাতীয় রাজস্ব বোর্ডের নির্দেশনা অনুসরণ সংক্রান্ত ধারা ১০ সংশোধন",
+      "title_english": "জাতীয় রাজস্ব বোর্ডের নির্দেশনা অনুসরণ সংক্রান্ত ধারা ১০ Amendment",
+      "page_reference": "৭৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "85",
+      "serial_bengali": "৮৫",
+      "title_bengali": "কর আপিল ট্রাইব্যুনালের প্রেসিডেন্ট নিয়োগ সংক্রান্ত ধারা ১৩ এর সংশোধন",
+      "title_english": "কর আপিল ট্রাইব্যুনালের প্রেসিডেন্ট Employment সংক্রান্ত ধারা ১৩ এর Amendment",
+      "page_reference": "৭৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "employment"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "86",
+      "serial_bengali": "৮৬",
+      "title_bengali": "আয় একীভূতকরণ সংক্রান্ত ধারা ৩১ এর সংশোধন",
+      "title_english": "Income একীভূতকরণ সংক্রান্ত ধারা ৩১ এর Amendment",
+      "page_reference": "৭৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "87",
+      "serial_bengali": "৮৭",
+      "title_bengali": "ভাড়া হতে আয় নির্ধারণ সংক্রান্ত অংশ ৫ এর তৃতীয় অধ্যায়ের প্রতিস্থাপন",
+      "title_english": "Rent হতে Income নির্ধারণ সংক্রান্ত অংশ ৫ এর তৃতীয় অধ্যায়ের প্রতিস্থাপন",
+      "page_reference": "৭৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "88",
+      "serial_bengali": "৮৮",
+      "title_bengali": "ভাড়া হইতে আয় কি",
+      "title_english": "Rent হইতে Income কি",
+      "page_reference": "৭৪",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "89",
+      "serial_bengali": "৮৯",
+      "title_bengali": "সকল প্রকারের সম্পত্তির ভাড়া প্রদান হতে অর্জিত আয়-ই কি \"ভাড়া হইতে আয়\" হিসাবে পরিগণিত হবে",
+      "title_english": "সকল প্রকারের সম্পত্তির Rent প্রদান হতে অর্জিত Income-ই কি \"Rent হইতে Income\" হিসাবে পরিগণিত হবে",
+      "page_reference": "৭৪",
+      "category": "legal_amendments",
+      "parent_topic": "88",
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "90",
+      "serial_bengali": "৯০",
+      "title_bengali": "সকল প্রকারের সম্পত্তির ভাড়া প্রদান হতে অর্জিত আয় কি একই নিয়মে পরিগণনা করতে হবে",
+      "title_english": "সকল প্রকারের সম্পত্তির Rent প্রদান হতে অর্জিত Income কি একই নিয়মে পরিগণনা করতে হবে",
+      "page_reference": "৭৪",
+      "category": "legal_amendments",
+      "parent_topic": "88",
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "91",
+      "serial_bengali": "৯১",
+      "title_bengali": "\"ভাড়া প্রদান\" কি",
+      "title_english": "\"Rent প্রদান\" কি",
+      "page_reference": "৭৪",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "92",
+      "serial_bengali": "৯২",
+      "title_bengali": "\"গৃহসম্পত্তি\" কী",
+      "title_english": "\"House property\" কী",
+      "page_reference": "৭৫",
+      "category": "legal_amendments",
+      "parent_topic": "92",
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "93",
+      "serial_bengali": "৯৩",
+      "title_bengali": "গৃহসম্পত্তি ব্যতীত অন্যান্য সম্পত্তি কী",
+      "title_english": "House property ব্যতীত অন্যান্য সম্পত্তি কী",
+      "page_reference": "৭৫",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "94",
+      "serial_bengali": "৯৪",
+      "title_bengali": "গৃহসম্পত্তির মোট ভাড়ামূল্য কীভাবে পরিগণনা করতে হবে",
+      "title_english": "House propertyর মোট Rentমূল্য কীভাবে পরিগণনা করতে হবে",
+      "page_reference": "৭৫",
+      "category": "legal_amendments",
+      "parent_topic": "92",
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "95",
+      "serial_bengali": "৯৫",
+      "title_bengali": "গৃহসম্পত্তির মোট ভাড়ামূল্য হতে কী কী বিয়োজন দাবী করা যাবে",
+      "title_english": "House propertyর মোট Rentমূল্য হতে কী কী Deduction দাবী করা যাবে",
+      "page_reference": "৭৬",
+      "category": "legal_amendments",
+      "parent_topic": "92",
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "96",
+      "serial_bengali": "৯৬",
+      "title_bengali": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য কীভাবে পরিগণনা করতে হবে",
+      "title_english": "House propertyর ব্যতীত অন্যান্য সম্পত্তির মোট Rentমূল্য কীভাবে পরিগণনা করতে হবে",
+      "page_reference": "৮১",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "97",
+      "serial_bengali": "৯৭",
+      "title_bengali": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য হতে কী কী বিয়োজন দাবী করা যাবে",
+      "title_english": "House propertyর ব্যতীত অন্যান্য সম্পত্তির মোট Rentমূল্য হতে কী কী Deduction দাবী করা যাবে",
+      "page_reference": "৮২",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "98",
+      "serial_bengali": "৯৮",
+      "title_bengali": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য হতে কোনো বিয়োজন দাবী করতে হলে বা অনুমোদিত হতে হলে তা কি অবশ্যই ব্যাংক ট্রান্সফারের মাধ্যমে হতে হবে",
+      "title_english": "House propertyর ব্যতীত অন্যান্য সম্পত্তির মোট Rentমূল্য হতে কোনো Deduction দাবী করতে হলে বা অনুমোদিত হতে হলে তা কি অবশ্যই ব্যাংক ট্রান্সফারের মাধ্যমে হতে হবে",
+      "page_reference": "৮২",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "99",
+      "serial_bengali": "৯৯",
+      "title_bengali": "বিশেষ ভাড়া হইতে আয় পরিগণনা কিভাবে করতে হবে",
+      "title_english": "বিশেষ Rent হইতে Income পরিগণনা কিভাবে করতে হবে",
+      "page_reference": "৮২",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "100",
+      "serial_bengali": "১০০",
+      "title_bengali": "বিশেষ ভাড়া হইতে আয় পরিগণনায় কী কী বিয়োজন অনুমোদিত হবে",
+      "title_english": "বিশেষ Rent হইতে Income পরিগণনায় কী কী Deduction অনুমোদিত হবে",
+      "page_reference": "৮২",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "101",
+      "serial_bengali": "১০১",
+      "title_bengali": "বিশেষ ভাড়া হইতে আয়ের করহার কী হবে",
+      "title_english": "বিশেষ Rent হইতে Incomeের Tax rate কী হবে",
+      "page_reference": "৮৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "rental_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "102",
+      "serial_bengali": "১০২",
+      "title_bengali": "ব্যবসা হতে আয়ের বিশেষ ক্ষেত্রসমূহ সংক্রান্ত ধারা ৪৬ সংশোধন",
+      "title_english": "Business হতে Incomeের বিশেষ ক্ষেত্রসমূহ সংক্রান্ত ধারা ৪৬ Amendment",
+      "page_reference": "৮৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "business_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "103",
+      "serial_bengali": "১০৩",
+      "title_bengali": "২০২৪-২০২৫ করবর্ষ হতে কি কেবল পরিশোধিত সুদ বা মুনাফা-ই বিয়োজন হিসাবে দাবী করা যাবে বা অনুমোদিত হবে",
+      "title_english": "২০২৪-২০২৫ করবর্ষ হতে কি কেবল পরিশোধিত সুদ বা মুনাফা-ই Deduction হিসাবে দাবী করা যাবে বা অনুমোদিত হবে",
+      "page_reference": "৮৩",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "104",
+      "serial_bengali": "১০৪",
+      "title_bengali": "আয়কর আইন, ২০২৩ এর ধারা ৭২ এর উপ-ধারা (৩) অনুযায়ী একটি কোম্পানিকে International Accounting Standards (IAS), International Financial Reporting Standards (IFRS) ও বাংলাদেশে বলবৎ সংশ্লিষ্ট আইন অনুযায়ী হিসাব রক্ষণ এবং আর্থিক প্রতিবেদন প্রস্তুত করার কথা বলা হয়েছে। এক্ষেত্রে (payable) সুদ বা মুনাফা বিয়োজন অনুমোদন কি এই ধারার লক্ষ্যন হবে না",
+      "title_english": "Income Tax Act, ২০২৩ এর ধারা ৭২ এর উপ-ধারা (৩) অনুযায়ী একটি কোম্পানিকে International Accounting Standards (IAS), International Financial Reporting Standards (IFRS) ও বাংলাদেশে বলবৎ সংশ্লিষ্ট আইন অনুযায়ী হিসাব রক্ষণ এবং আর্থিক প্রতিবেদন প্রস্তুত করার কথা বলা হয়েছে। এক্ষেত্রে (payable) সুদ বা মুনাফা Deduction অনুমোদন কি এই ধারার লক্ষ্যন হবে না",
+      "page_reference": "৮৪",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "105",
+      "serial_bengali": "১০৫",
+      "title_bengali": "ব্যবসা হইতে আয় গণনার ক্ষেত্রে অনুমোদনযোগ্য সাধারণ বিয়োজনসমূহ সংক্রান্ত ধারা ৪৯ সংশোধন",
+      "title_english": "Business হইতে Income গণনার ক্ষেত্রে অনুমোদনযোগ্য সাধারণ Deductionসমূহ সংক্রান্ত ধারা ৪৯ Amendment",
+      "page_reference": "৮৪",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "business_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "106",
+      "serial_bengali": "১০৬",
+      "title_bengali": "কতিপয় ক্ষেত্রে বিয়োজন অনুমোদনযোগ্য না হওয়া সংক্রান্ত ধারা ৫৫ এর সংশোধন",
+      "title_english": "কতিপয় ক্ষেত্রে Deduction অনুমোদনযোগ্য না হওয়া সংক্রান্ত ধারা ৫৫ এর Amendment",
+      "page_reference": "৮৫",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "107",
+      "serial_bengali": "১০৭",
+      "title_bengali": "বিশেষ ব্যবসা আয় পরিগণনা সংক্রান্ত ধারা ৫৬ এর সংশোধন",
+      "title_english": "বিশেষ Business Income পরিগণনা সংক্রান্ত ধারা ৫৬ এর Amendment",
+      "page_reference": "৮৫",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "business_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "108",
+      "serial_bengali": "১০৮",
+      "title_bengali": "ব্যবসা হতে আয় পরিগণনার নিয়ম",
+      "title_english": "Business হতে Income পরিগণনার নিয়ম",
+      "page_reference": "৮৭",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification",
+        "business_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "109",
+      "serial_bengali": "১০৯",
+      "title_bengali": "আর্থিক পরিসম্পদ হইতে আয় সংক্রান্ত ধারা ৬২ এর সংশোধন",
+      "title_english": "আর্থিক পরিসম্পদ হইতে Income সংক্রান্ত ধারা ৬২ এর Amendment",
+      "page_reference": "১০৭",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "110",
+      "serial_bengali": "১১০",
+      "title_bengali": "অন্যান্য উৎস হইতে আয় সংক্রান্ত ধারা ৬৬ এর সংশোধন",
+      "title_english": "অন্যান্য উৎস হইতে Income সংক্রান্ত ধারা ৬৬ এর Amendment",
+      "page_reference": "১০৭",
+      "category": "legal_amendments",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "amendment",
+        "definition",
+        "legal_clarification"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "111",
+      "serial_bengali": "১১১",
+      "title_bengali": "অন্যান্য উৎস হইতে আয়ের বিশেষ ক্ষেত্র সংক্রান্ত ধারা ৬৭ এর সংশোধন",
+      "title_english": "অন্যান্য উৎস হইতে Incomeের বিশেষ ক্ষেত্র সংক্রান্ত ধারা ৬৭ এর Amendment",
+      "page_reference": "১০৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "112",
+      "serial_bengali": "১১২",
+      "title_bengali": "ক্ষতির সময়ে এবং জের টানা সংক্রান্ত ধারা ৭০ এর সংশোধন",
+      "title_english": "ক্ষতির সময়ে এবং জের টানা সংক্রান্ত ধারা ৭০ এর Amendment",
+      "page_reference": "১০৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "113",
+      "serial_bengali": "১১৩",
+      "title_bengali": "কোম্পানি, ইত্যাদি কর্তৃক নিরীক্ষাকৃত আর্থিক প্রতিবেদন দাখিল সংক্রান্ত ধারা ৭৩ এর সংশোধন",
+      "title_english": "কোম্পানি, ইত্যাদি কর্তৃক নিরীক্ষাকৃত আর্থিক প্রতিবেদন দাখিল সংক্রান্ত ধারা ৭৩ এর Amendment",
+      "page_reference": "১০৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "114",
+      "serial_bengali": "১১৪",
+      "title_bengali": "দীর্ঘমেয়াদি চুক্তির ক্ষেত্রে হিসাবরক্ষণ পদ্ধতি সংক্রান্ত ধারা ৭৪ এর সংশোধন",
+      "title_english": "দীর্ঘমেয়াদি চুক্তির ক্ষেত্রে হিসাবরক্ষণ পদ্ধতি সংক্রান্ত ধারা ৭৪ এর Amendment",
+      "page_reference": "১০৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "115",
+      "serial_bengali": "১১৫",
+      "title_bengali": "কর অবাবস্থিত সংক্রান্ত ধারা ৭৬ এর সংশোধন",
+      "title_english": "কর অবাবস্থিত সংক্রান্ত ধারা ৭৬ এর Amendment",
+      "page_reference": "১০৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "116",
+      "serial_bengali": "১১৬",
+      "title_bengali": "বোর্ড কর্তৃক কর অবকাশপ্রাপ্ত সভা অনুমোদন সংক্রান্ত ধারা ৮২ এর সংশোধন",
+      "title_english": "বোর্ড কর্তৃক কর অবকাশপ্রাপ্ত সভা অনুমোদন সংক্রান্ত ধারা ৮২ এর Amendment",
+      "page_reference": "১১০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "117",
+      "serial_bengali": "১১৭",
+      "title_bengali": "চাকরির আয় হইতে উৎসে কর কর্তন সংক্রান্ত ধারা ৮৬ এর সংশোধন",
+      "title_english": "চাকরির Income হইতে উৎসে কর কর্তন সংক্রান্ত ধারা ৮৬ এর Amendment",
+      "page_reference": "১১০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "118",
+      "serial_bengali": "১১৮",
+      "title_bengali": "অবশ্যভূত তহবিল, কল্যাণ তহবিল ও শ্রমিক কল্যাণ ফাউন্ডেশন তহবিলে প্রদত্ত অর্থ হইতে উৎসে কর্তন সংক্রান্ত ধারা ৮৮ এর প্রতিস্থাপন",
+      "title_english": "অবশ্যভূত তহবিল, কল্যাণ তহবিল ও শ্রমিক কল্যাণ ফাউন্ডেশন তহবিলে প্রদত্ত অর্থ হইতে উৎসে কর্তন সংক্রান্ত ধারা ৮৮ এর প্রতিস্থাপন",
+      "page_reference": "১১০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "119",
+      "serial_bengali": "১১৯",
+      "title_bengali": "কমিশন, ডিসকাউন্ট, ফি, ইত্যাদি হইতে কর্তন বা উৎসে কর সংগ্রহ সংক্রান্ত ধারা ৯৪ এর সংশোধন",
+      "title_english": "কমিশন, ডিসকাউন্ট, ফি, ইত্যাদি হইতে কর্তন বা উৎসে কর সংগ্রহ সংক্রান্ত ধারা ৯৪ এর Amendment",
+      "page_reference": "১১১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "120",
+      "serial_bengali": "১২০",
+      "title_bengali": "স্থানীয় খাদ্যপণ্যের বিপরীতে পরিশোধিত অর্থ হইতে কর্তন সংক্রান্ত ধারা ৯৭ এর সংশোধন",
+      "title_english": "স্থানীয় খাদ্যপণ্যের বিপরীতে পরিশোধিত অর্থ হইতে কর্তন সংক্রান্ত ধারা ৯৭ এর Amendment",
+      "page_reference": "১১৪",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "121",
+      "serial_bengali": "১২১",
+      "title_bengali": "সেলুলার মোবাইল ফোন অপারেটর কর্তৃক পরিশোধিত অর্থের উপর কর কর্তন সংক্রান্ত ধারা ৯৮ এর সংশোধন",
+      "title_english": "সেলুলার মোবাইল ফোন অপারেটর কর্তৃক পরিশোধিত অর্থের উপর কর কর্তন সংক্রান্ত ধারা ৯৮ এর Amendment",
+      "page_reference": "১১৫",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "122",
+      "serial_bengali": "১২২",
+      "title_bengali": "সঞ্চয়ী আমানত ও স্থায়ী আমানত, ইত্যাদি হইতে কর কর্তন সংক্রান্ত ধারা ১০২ এর সংশোধন",
+      "title_english": "সঞ্চয়ী আমানত ও স্থায়ী আমানত, ইত্যাদি হইতে কর কর্তন সংক্রান্ত ধারা ১০২ এর Amendment",
+      "page_reference": "১১৫",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "123",
+      "serial_bengali": "১২৩",
+      "title_bengali": "কোন কোন প্রকারের সুদ বা মুনাফা হতে ধারা ১০২ এর অধীন উৎসে কর কর্তন প্রযোজ্য হবে",
+      "title_english": "কোন কোন প্রকারের সুদ বা মুনাফা হতে ধারা ১০২ এর অধীন উৎসে কর কর্তন প্রযোজ্য হবে",
+      "page_reference": "১১৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "124",
+      "serial_bengali": "১২৪",
+      "title_bengali": "ধারা ১০২ এর অধীন কোন কোনো ব্যক্তির কী কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "title_english": "ধারা ১০২ এর অধীন কোন কোনো ব্যক্তির কী কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "page_reference": "১১৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "125",
+      "serial_bengali": "১২৫",
+      "title_bengali": "ধারা ১০২ এর অধীন বিভিন্ন ধর্মীয় প্রতিষ্ঠানের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "title_english": "ধারা ১০২ এর অধীন বিভিন্ন ধর্মীয় প্রতিষ্ঠানের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "page_reference": "১১৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "126",
+      "serial_bengali": "১২৬",
+      "title_bengali": "ধারা ১০২ এর অধীন বিভিন্ন রাষ্ট্রীয় প্রতিষ্ঠান বা সংবিধিবদ্ধ সরকারি সংস্থা যাদের আয়কর রিটার্ন দাখিলের বাধ্যবাধকতা নেই তাদের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "title_english": "ধারা ১০২ এর অধীন বিভিন্ন রাষ্ট্রীয় প্রতিষ্ঠান বা সংবিধিবদ্ধ সরকারি সংস্থা যাদের Incomeকর রিটার্ন দাখিলের বাধ্যবাধকতা নেই তাদের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "127",
+      "serial_bengali": "১২৭",
+      "title_bengali": "ধারা ১০২ এর অধীন স্থানীয় কর্তৃপক্ষ কর্তৃক বিভিন্ন ধরনের আমানতের বিপরীতে প্রাপ্ত সুদ বা মুনাফার বিপরীতে উৎসে কর কর্তন করতে হবে কিনা",
+      "title_english": "ধারা ১০২ এর অধীন স্থানীয় কর্তৃপক্ষ কর্তৃক বিভিন্ন ধরনের আমানতের বিপরীতে প্রাপ্ত সুদ বা মুনাফার বিপরীতে উৎসে কর কর্তন করতে হবে কিনা",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "128",
+      "serial_bengali": "১২৮",
+      "title_bengali": "পোস্ট অফিস সঞ্চয় ব্যাংকে রক্ষিত অর্থের সুদ হইতে প্রাপ্ত আয়ের উপর উৎসে কর কর্তন সংক্রান্ত ধারা ১০৩ এর বিলোপ",
+      "title_english": "পোস্ট অফিস সঞ্চয় ব্যাংকে রক্ষিত অর্থের সুদ হইতে প্রাপ্ত Incomeের উপর উৎসে কর কর্তন সংক্রান্ত ধারা ১০৩ এর বিলোপ",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "129",
+      "serial_bengali": "১২৯",
+      "title_bengali": "পরিবহণ মাশুল ফরওয়ার্ড এজেন্সি কমিশন হইতে কর কর্তন সংক্রান্ত ধারা ১১৩ এর বিলোপ",
+      "title_english": "পরিবহণ মাশুল ফরওয়ার্ড এজেন্সি কমিশন হইতে কর কর্তন সংক্রান্ত ধারা ১১৩ এর বিলোপ",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "130",
+      "serial_bengali": "১৩০",
+      "title_bengali": "বিদ্যুৎ ক্রয়ের বিপরীতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর সংশোধন",
+      "title_english": "বিদ্যুৎ ক্রয়ের বিপরীতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর Amendment",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "131",
+      "serial_bengali": "১৩১",
+      "title_bengali": "কোনো সেবা, রেটিং এজেন্সি শেয়ারিং, ইত্যাদি বাবদ বিদেশ হইতে প্রেরিত আয় হইতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর সংশোধন",
+      "title_english": "কোনো সেবা, রেটিং এজেন্সি শেয়ারিং, ইত্যাদি বাবদ বিদেশ হইতে প্রেরিত Income হইতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর Amendment",
+      "page_reference": "১১৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "132",
+      "serial_bengali": "১৩২",
+      "title_bengali": "ধারা ১১৪ এর অধীন উৎসে কর কর্তনের হার হ্রাসকরণ",
+      "title_english": "ধারা ১১৪ এর অধীন উৎসে কর কর্তনের হার হ্রাসকরণ",
+      "page_reference": "১১৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "133",
+      "serial_bengali": "১৩৩",
+      "title_bengali": "বাযিং হাউজ কমিশন (buying house commission) হতে কি ধারা ১১৪ অনুযায়ী উৎসে কর কর্তন প্রযোজ্য হবে",
+      "title_english": "বাযিং হাউজ কমিশন (buying house commission) হতে কি ধারা ১১৪ অনুযায়ী উৎসে কর কর্তন প্রযোজ্য হবে",
+      "page_reference": "১১৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "134",
+      "serial_bengali": "১৩৪",
+      "title_bengali": "ধারা ১১৪ এর অধীন ক্রেডিট ফরওয়ার্ড এজেন্ট কর্তৃক বিদেশ হতে গৃহীত অর্থের উপর নূতন করহার নির্ধারণ",
+      "title_english": "ধারা ১১৪ এর অধীন ক্রেডিট ফরওয়ার্ড এজেন্ট কর্তৃক বিদেশ হতে গৃহীত অর্থের উপর নূতন Tax rate নির্ধারণ",
+      "page_reference": "১২০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "135",
+      "serial_bengali": "১৩৫",
+      "title_bengali": "ধারা ১১৪ এর অধীন যে সকল ক্ষেত্রে কর কর্তন করতে হবে না",
+      "title_english": "ধারা ১১৪ এর অধীন যে সকল ক্ষেত্রে কর কর্তন করতে হবে না",
+      "page_reference": "১২০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "136",
+      "serial_bengali": "১৩৬",
+      "title_bengali": "সম্পত্তি হস্তান্তর, ইত্যাদি হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৫ এর সংশোধন",
+      "title_english": "সম্পত্তি হস্তান্তর, ইত্যাদি হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৫ এর Amendment",
+      "page_reference": "১২২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "137",
+      "serial_bengali": "১৩৭",
+      "title_bengali": "ডেভেলপার বা রিয়েল এস্টেট ডেভেলপারের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৬ এর প্রতিস্থাপন",
+      "title_english": "ডেভেলপার বা রিয়েল এস্টেট ডেভেলপারের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৬ এর প্রতিস্থাপন",
+      "page_reference": "১২২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "138",
+      "serial_bengali": "১৩৮",
+      "title_bengali": "সম্পত্তির ইজারা হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৮ এর সংশোধন",
+      "title_english": "সম্পত্তির ইজারা হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৮ এর Amendment",
+      "page_reference": "১২৩",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "139",
+      "serial_bengali": "১৩৯",
+      "title_bengali": "ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩০ এর প্রতিস্থাপন",
+      "title_english": "ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩০ এর প্রতিস্থাপন",
+      "page_reference": "১২৩",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "140",
+      "serial_bengali": "১৪০",
+      "title_bengali": "শেয়ার হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৪ এর সংশোধন",
+      "title_english": "শেয়ার হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৪ এর Amendment",
+      "page_reference": "১২৫",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "141",
+      "serial_bengali": "১৪১",
+      "title_bengali": "সিকিউরিটিজ হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৫ এর প্রতিস্থাপন",
+      "title_english": "সিকিউরিটিজ হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৫ এর প্রতিস্থাপন",
+      "page_reference": "১২৫",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "142",
+      "serial_bengali": "১৪২",
+      "title_bengali": "নির্দিষ্ট ব্যক্তির সংজ্ঞা সংক্রান্ত ধারা ১৪০ এর সংশোধন",
+      "title_english": "নির্দিষ্ট ব্যক্তির Definition সংক্রান্ত ধারা ১৪০ এর Amendment",
+      "page_reference": "১২৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "143",
+      "serial_bengali": "১৪৩",
+      "title_bengali": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৪২ এর সংশোধন",
+      "title_english": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৪২ এর Amendment",
+      "page_reference": "১২৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "144",
+      "serial_bengali": "১৪৪",
+      "title_bengali": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৫৩ এর সংশোধন",
+      "title_english": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৫৩ এর Amendment",
+      "page_reference": "১২৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "145",
+      "serial_bengali": "১৪৫",
+      "title_bengali": "অগ্রিম কর পরিশোধের ক্ষেত্রে ত্রুটাতি থাকিলে উহার উপর করদাতা কর্তৃক সুদ প্রদেয় সংক্রান্ত ধারা ১৬২ এর সংশোধন",
+      "title_english": "অগ্রিম কর পরিশোধের ক্ষেত্রে ত্রুটাতি থাকিলে উহার উপর করদাতা কর্তৃক সুদ প্রদেয় সংক্রান্ত ধারা ১৬২ এর Amendment",
+      "page_reference": "১১৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "146",
+      "serial_bengali": "১৪৬",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর সংশোধন",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর Amendment",
+      "page_reference": "১১৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "147",
+      "serial_bengali": "১৪৭",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (ক) এর বিলোপ ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (ক) এর বিলোপ ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "page_reference": "১১৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "148",
+      "serial_bengali": "১৪৮",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (খ) এর সংশোধন ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (খ) এর Amendment ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "149",
+      "serial_bengali": "১৪৯",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা ৫ এর সংশোধন ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা ৫ এর Amendment ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "page_reference": "১১৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "150",
+      "serial_bengali": "১৫০",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৬) এর সংশোধন",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৬) এর Amendment",
+      "page_reference": "১১৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "151",
+      "serial_bengali": "১৫১",
+      "title_bengali": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৭) এর প্রতিস্থাপন",
+      "title_english": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৭) এর প্রতিস্থাপন",
+      "page_reference": "১১৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "152",
+      "serial_bengali": "১৫২",
+      "title_bengali": "উৎসে অধিক বা কম কর্তিত বা সংগৃহীত কর ন্যূনতম করের ভিত্তি না হওয়া সংক্রান্ত ধারা ১৬৪ এর সংশোধন",
+      "title_english": "উৎসে অধিক বা কম কর্তিত বা সংগৃহীত কর ন্যূনতম করের ভিত্তি না হওয়া সংক্রান্ত ধারা ১৬৪ এর Amendment",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "153",
+      "serial_bengali": "১৫৩",
+      "title_bengali": "রিটার্ন সংক্রান্ত ধারা ১৬৫ এর সংশোধন",
+      "title_english": "রিটার্ন সংক্রান্ত ধারা ১৬৫ এর Amendment",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "154",
+      "serial_bengali": "১৫৪",
+      "title_bengali": "পরিসম্পদ ও দায়ের বিবরণী দাখিল সংক্রান্ত ধারা ১৬৭ এর সংশোধন",
+      "title_english": "পরিসম্পদ ও দায়ের বিবরণী দাখিল সংক্রান্ত ধারা ১৬৭ এর Amendment",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "155",
+      "serial_bengali": "১৫৫",
+      "title_bengali": "জীবনযাপন সংশ্লিষ্ট ব্যয় বিবরণী দাখিল সংক্রান্ত ধারা ১৬৮ এর সংশোধন",
+      "title_english": "জীবনযাপন সংশ্লিষ্ট ব্যয় বিবরণী দাখিল সংক্রান্ত ধারা ১৬৮ এর Amendment",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "156",
+      "serial_bengali": "১৫৬",
+      "title_bengali": "রিটার্ন দাখিলের সাধারণ নিয়মাবলি সংক্রান্ত ধারা ১৬৯ এর সংশোধন",
+      "title_english": "রিটার্ন দাখিলের সাধারণ নিয়মাবলি সংক্রান্ত ধারা ১৬৯ এর Amendment",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "157",
+      "serial_bengali": "১৫৭",
+      "title_bengali": "স্বনির্ধারণী পদ্ধতিতে রিটার্ন দাখিল সংক্রান্ত ধারা ১৭০ এর প্রতিস্থাপন",
+      "title_english": "স্বনির্ধারণী পদ্ধতিতে রিটার্ন দাখিল সংক্রান্ত ধারা ১৭০ এর প্রতিস্থাপন",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "158",
+      "serial_bengali": "১৫৮",
+      "title_bengali": "রিটার্ন দাখিলের সময় ও আয়কর পরিশোধ সংক্রান্ত ধারা ১৭১ এর প্রতিস্থাপন",
+      "title_english": "রিটার্ন দাখিলের সময় ও Incomeকর পরিশোধ সংক্রান্ত ধারা ১৭১ এর প্রতিস্থাপন",
+      "page_reference": "১৩১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "159",
+      "serial_bengali": "১৫৯",
+      "title_bengali": "করবিবস পরবর্তী সময়ে রিটার্ন দাখিলের ক্ষেত্রে কর পরিকল্পনা সংক্রান্ত ধারা ১৭৪ এর প্রতিস্থাপন",
+      "title_english": "করবিবস পরবর্তী সময়ে রিটার্ন দাখিলের ক্ষেত্রে কর পরিকল্পনা সংক্রান্ত ধারা ১৭৪ এর প্রতিস্থাপন",
+      "page_reference": "১৩৩",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "160",
+      "serial_bengali": "১৬০",
+      "title_bengali": "সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশেষ বিধানাবলি সংক্রান্ত ধারা ১৭৫ এর প্রতিস্থাপন",
+      "title_english": "সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশেষ বিধানাবলি সংক্রান্ত ধারা ১৭৫ এর প্রতিস্থাপন",
+      "page_reference": "১৩৪",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "161",
+      "serial_bengali": "১৬১",
+      "title_bengali": "অসম্পূর্ণ রিটার্ন দাখিলের ফলাফল সংক্রান্ত ধারা ১৭৬ এর সংশোধন",
+      "title_english": "অসম্পূর্ণ রিটার্ন দাখিলের ফলাফল সংক্রান্ত ধারা ১৭৬ এর Amendment",
+      "page_reference": "১৩৫",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "162",
+      "serial_bengali": "১৬২",
+      "title_bengali": "উৎসে করের রিটার্ন সংক্রান্ত ধারা ১৭৭ এর সংশোধন",
+      "title_english": "উৎসে করের রিটার্ন সংক্রান্ত ধারা ১৭৭ এর Amendment",
+      "page_reference": "১৩৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "163",
+      "serial_bengali": "১৬৩",
+      "title_bengali": "হিসাব, দলিলাদি ইত্যাদি উপস্থাপন সংক্রান্ত ধারা ১৭৯ এর সংশোধন",
+      "title_english": "হিসাব, দলিলাদি ইত্যাদি উপস্থাপন সংক্রান্ত ধারা ১৭৯ এর Amendment",
+      "page_reference": "১৩৭",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "164",
+      "serial_bengali": "১৬৪",
+      "title_bengali": "স্বনির্ধারণী পদ্ধতিতে কর নির্ধারণ ও রিটার্ন দাখিল সংক্রান্ত ধারা ১৮০ এর সংশোধন",
+      "title_english": "স্বনির্ধারণী পদ্ধতিতে কর নির্ধারণ ও রিটার্ন দাখিল সংক্রান্ত ধারা ১৮০ এর Amendment",
+      "page_reference": "১৩৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "165",
+      "serial_bengali": "১৬৫",
+      "title_bengali": "অডিট সংক্রান্ত ধারা ১৮১ এর সংশোধন",
+      "title_english": "অডিট সংক্রান্ত ধারা ১৮১ এর Amendment",
+      "page_reference": "১৩৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "166",
+      "serial_bengali": "১৬৬",
+      "title_bengali": "পূর্ববর্তী করবর্ষের মোট আয়ের তুলনায় ১৫% অধিক আয় প্রদর্শনের পরেও কোন কোন ক্ষেত্রে অডিট করা যাবে",
+      "title_english": "পূর্ববর্তী করবর্ষের মোট Incomeের তুলনায় ১৫% অধিক Income প্রদর্শনের পরেও কোন কোন ক্ষেত্রে অডিট করা যাবে",
+      "page_reference": "১৩৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "167",
+      "serial_bengali": "১৬৭",
+      "title_bengali": "রিটার্ন কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "title_english": "রিটার্ন কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "page_reference": "১৩৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "168",
+      "serial_bengali": "১৬৮",
+      "title_bengali": "কোনো করদাতা একসাথে একাধিক বছরের রিটার্ন দাখিলের ক্ষেত্রে সেগুলো কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "title_english": "কোনো করদাতা একসাথে একাধিক বছরের রিটার্ন দাখিলের ক্ষেত্রে সেগুলো কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "page_reference": "১৩৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "169",
+      "serial_bengali": "১৬৯",
+      "title_bengali": "উপকর কমিশনার কর্তৃক কর নির্ধারণ সংক্রান্ত ধারা ১৮৩ এর সংশোধন",
+      "title_english": "উপকর কমিশনার কর্তৃক কর নির্ধারণ সংক্রান্ত ধারা ১৮৩ এর Amendment",
+      "page_reference": "১৩৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "170",
+      "serial_bengali": "১৭০",
+      "title_bengali": "কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ১৯৭ এর সংশোধন",
+      "title_english": "কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ১৯৭ এর Amendment",
+      "page_reference": "১৪০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "171",
+      "serial_bengali": "১৭১",
+      "title_bengali": "তদন্তকারী আয়কর কর্তৃপক্ষের সংজ্ঞা সংক্রান্ত ধারা ১১৮ এর সংশোধন",
+      "title_english": "তদন্তকারী Incomeকর কর্তৃপক্ষের Definition সংক্রান্ত ধারা ১১৮ এর Amendment",
+      "page_reference": "১৪০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "basic"
+    },
+    {
+      "topic_id": "172",
+      "serial_bengali": "১৭২",
+      "title_bengali": "রিটার্ন দাখিলের প্রমাণ দাখিলের বাধ্যবাধকতা সংক্রান্ত ধারা ২৬৪ এর সংশোধন",
+      "title_english": "রিটার্ন দাখিলের প্রমাণ দাখিলের বাধ্যবাধকতা সংক্রান্ত ধারা ২৬৪ এর Amendment",
+      "page_reference": "১৪০",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "173",
+      "serial_bengali": "১৭৩",
+      "title_bengali": "রিটার্ন দাখিলের প্রমাণ প্রদর্শন সংক্রান্ত ধারা ২৬৫ এর সংশোধন",
+      "title_english": "রিটার্ন দাখিলের প্রমাণ প্রদর্শন সংক্রান্ত ধারা ২৬৫ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "174",
+      "serial_bengali": "১৭৪",
+      "title_bengali": "নোটিশের অমান্যতার জন্য জরিমানা সংক্রান্ত ধারা ২৭০ এর সংশোধন",
+      "title_english": "নোটিশের অমান্যতার জন্য জরিমানা সংক্রান্ত ধারা ২৭০ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "175",
+      "serial_bengali": "১৭৫",
+      "title_bengali": "রিটার্নের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরিমানা সংক্রান্ত ধারা ২৭১ এর সংশোধন",
+      "title_english": "রিটার্নের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরিমানা সংক্রান্ত ধারা ২৭১ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "176",
+      "serial_bengali": "১৭৬",
+      "title_bengali": "কমিশনারের রিভিশনের ক্ষমতাসংক্রান্ত ধারা ২৮৫ এর সংশোধন",
+      "title_english": "কমিশনারের রিভিশনের ক্ষমতাসংক্রান্ত ধারা ২৮৫ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "177",
+      "serial_bengali": "১৭৭",
+      "title_bengali": "আপিল আয়কর কর্তৃপক্ষের নিকট আপিল সংক্রান্ত ধারা ১৮৬ এর সংশোধন",
+      "title_english": "আপিল Incomeকর কর্তৃপক্ষের নিকট আপিল সংক্রান্ত ধারা ১৮৬ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "178",
+      "serial_bengali": "১৭৮",
+      "title_bengali": "আপিল ট্রাইব্যুনালে আপিল সংক্রান্ত ধারা ১৯১ এর সংশোধন",
+      "title_english": "আপিল ট্রাইব্যুনালে আপিল সংক্রান্ত ধারা ১৯১ এর Amendment",
+      "page_reference": "১৪১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "179",
+      "serial_bengali": "১৭৯",
+      "title_bengali": "হাইকোর্ট বিভাগে রেফারেন্স সংক্রান্ত ধারা ১৬৩ এর সংশোধন",
+      "title_english": "হাইকোর্ট বিভাগে রেফারেন্স সংক্রান্ত ধারা ১৬৩ এর Amendment",
+      "page_reference": "১৪২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "180",
+      "serial_bengali": "১৮০",
+      "title_bengali": "সময়সীমা বৃদ্ধি বা তামাদি প্রয়োজনের ক্ষমতা সংক্রান্ত ধারা ৩৩৪ এর প্রতিস্থাপন",
+      "title_english": "সময়সীমা বৃদ্ধি বা তামাদি প্রয়োজনের ক্ষমতা সংক্রান্ত ধারা ৩৩৪ এর প্রতিস্থাপন",
+      "page_reference": "১৪২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "181",
+      "serial_bengali": "১৮১",
+      "title_bengali": "বিশেষ কর প্রদানের মাধ্যমে বিনিয়োগ প্রদর্শন সংক্রান্ত প্রথম তফসিলের সংশোধন",
+      "title_english": "বিশেষ কর প্রদানের মাধ্যমে বিEmployment প্রদর্শন সংক্রান্ত প্রথম তফসিলের Amendment",
+      "page_reference": "১৪২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "employment",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "182",
+      "serial_bengali": "১৮২",
+      "title_bengali": "স্থাপনা, বাড়ি অথবা ফ্লোর স্পেস বাণিজ্যিক উদ্দেশ্যে নির্মিত হলে করহার ১০০% অধিক",
+      "title_english": "স্থাপনা, বাড়ি অথবা ফ্লোর স্পেস বাণিজ্যিক উদ্দেশ্যে নির্মিত হলে Tax rate ১০০% অধিক",
+      "page_reference": "১৪২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "183",
+      "serial_bengali": "১৮৩",
+      "title_bengali": "যে সকল ক্ষেত্রে ১৫০% অধিক কর পরিশোধ করতে হবে",
+      "title_english": "যে সকল ক্ষেত্রে ১৫০% অধিক কর পরিশোধ করতে হবে",
+      "page_reference": "১৪২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "184",
+      "serial_bengali": "১৮৪",
+      "title_bengali": "অর্থনৈতিক অঞ্চল বা হাইটেক পার্কে বিনিয়োগের ক্ষেত্রে বিশেষ কর ব্যবস্থাপনা রহিতকরণ",
+      "title_english": "Economic zone বা হাইটেক পার্কে বিEmploymentের ক্ষেত্রে বিশেষ কর ব্যবস্থাপনা রহিতকরণ",
+      "page_reference": "১৪৩",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "employment",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "185",
+      "serial_bengali": "১৮৫",
+      "title_bengali": "অপ্রদর্শিত পরিসম্পদ প্রদর্শন সংক্রান্ত অংশ ৩ সংযোজন",
+      "title_english": "অপ্রদর্শিত পরিসম্পদ প্রদর্শন সংক্রান্ত অংশ ৩ সংযোজন",
+      "page_reference": "১৪৩",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "186",
+      "serial_bengali": "১৮৬",
+      "title_bengali": "অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শনের ক্ষেত্রে কতিপয় পরিগণনীয় বিষয়াদি",
+      "title_english": "অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শনের ক্ষেত্রে কতিপয় পরিগণনীয় বিষয়াদি",
+      "page_reference": "১৪৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "187",
+      "serial_bengali": "১৮৭",
+      "title_bengali": "যে সকল ক্ষেত্রসমূহে অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শন করা যাবে না",
+      "title_english": "যে সকল ক্ষেত্রসমূহে অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শন করা যাবে না",
+      "page_reference": "১৪৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "188",
+      "serial_bengali": "১৮৮",
+      "title_bengali": "বিমা ব্যবসায় মুনাফা ও লাভ পরিগণনা সংক্রান্ত চতুর্থ তফসিলের সংশোধন",
+      "title_english": "বিমা Businessয় মুনাফা ও লাভ পরিগণনা সংক্রান্ত চতুর্থ তফসিলের Amendment",
+      "page_reference": "১৪৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance",
+        "business_income"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "189",
+      "serial_bengali": "১৮৯",
+      "title_bengali": "জীবন বিমা ব্যবসায় মুনাফা ও লাভ গণনা",
+      "title_english": "জীবন বিমা Businessয় মুনাফা ও লাভ গণনা",
+      "page_reference": "১৪৬",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance",
+        "business_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "190",
+      "serial_bengali": "১৯০",
+      "title_bengali": "অন্যান্য বিমা ব্যবসায় মুনাফা এবং লাভ গণনা সংক্রান্ত",
+      "title_english": "অন্যান্য বিমা Businessয় মুনাফা এবং লাভ গণনা সংক্রান্ত",
+      "page_reference": "১৪৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance",
+        "business_income"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "191",
+      "serial_bengali": "১৯১",
+      "title_bengali": "পেট্রোলিয়াম অনুসন্ধান ও উৎপাদন হইতে উদ্ভূত মুনাফা ও লাভ পরিগণনা এবং কর নিরূপণ সংক্রান্ত পঞ্চম তফসিলের অংশ ১ এর সংশোধন",
+      "title_english": "পেট্রোলিয়াম অনুসন্ধান ও উৎপাদন হইতে উদ্ভূত মুনাফা ও লাভ পরিগণনা এবং কর নিরূপণ সংক্রান্ত পঞ্চম তফসিলের অংশ ১ এর Amendment",
+      "page_reference": "১৪৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "advanced"
+    },
+    {
+      "topic_id": "192",
+      "serial_bengali": "১৯২",
+      "title_bengali": "কর অব্যাহতি, রেয়াত ও ক্রেডিট সংক্রান্ত ষষ্ঠ তফসিলের এর সংশোধন",
+      "title_english": "কর অব্যাহতি, রেয়াত ও ক্রেডিট সংক্রান্ত ষষ্ঠ তফসিলের এর Amendment",
+      "page_reference": "১৪৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "tax_relief",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "193",
+      "serial_bengali": "১৯৩",
+      "title_bengali": "ষষ্ঠ তফসিলের শিরোনামে সংশোধন",
+      "title_english": "ষষ্ঠ তফসিলের Titleে Amendment",
+      "page_reference": "১৪৮",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "194",
+      "serial_bengali": "১৯৪",
+      "title_bengali": "যে সকল দান বা অনুদান করমুক্ত",
+      "title_english": "যে সকল দান বা অনুদান করমুক্ত",
+      "page_reference": "১৪৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "195",
+      "serial_bengali": "১৯৫",
+      "title_bengali": "যে সকল শর্তে মাইক্রোক্রেডিট রেগুলেটরী অথরিটি কর্তৃক নির্বাচিত কোনো সভার ক্ষুদ্রঋণ কার্যক্রম পরিচালনা হতে উদ্ভূত সার্ভিস চার্জ করমুক্ত",
+      "title_english": "যে সকল শর্তে মাইক্রোক্রেডিট রেগুলেটরী অথরিটি কর্তৃক নির্বাচিত কোনো সভার ক্ষুদ্রঋণ কার্যক্রম পরিচালনা হতে উদ্ভূত সার্ভিস চার্জ করমুক্ত",
+      "page_reference": "১৪৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "196",
+      "serial_bengali": "১৯৬",
+      "title_bengali": "যে সকল শর্তে ট্রাস্টের সুবিধাভোগী বা তহবিলের অংশগ্রহণকারী হাতে ট্রাস্ট বা তহবিল হতে প্রাপ্ত আয় করমুক্ত",
+      "title_english": "যে সকল শর্তে ট্রাস্টের সুবিধাভোগী বা তহবিলের অংশগ্রহণকারী হাতে ট্রাস্ট বা তহবিল হতে প্রাপ্ত Income করমুক্ত",
+      "page_reference": "১৪৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "197",
+      "serial_bengali": "১৯৭",
+      "title_bengali": "যে সকল শর্তে কতিপয় আইটি এনাবল্ড সার্ভিস হতে প্রাপ্ত আয় করমুক্ত",
+      "title_english": "যে সকল শর্তে কতিপয় আইটি এনাবল্ড সার্ভিস হতে প্রাপ্ত Income করমুক্ত",
+      "page_reference": "১৪৯",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "medium",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "198",
+      "serial_bengali": "১৯৮",
+      "title_bengali": "আইসিবি, আইসিএমএবি ও আইসিএসবি এবং সংশ্লিষ্ট পেশাজীবী সংগঠনসমূহ কর্তৃক কর পরিশোধের বাধ্যবাধকতা",
+      "title_english": "আইসিবি, আইসিএমএবি ও আইসিএসবি এবং সংশ্লিষ্ট পেশাজীবী সংগঠনসমূহ কর্তৃক কর পরিশোধের বাধ্যবাধকতা",
+      "page_reference": "১৫১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "199",
+      "serial_bengali": "১৯৯",
+      "title_bengali": "সর্বজনীন পেনশন স্কিমের আওতায় প্রাপ্ত পেনশন করমুক্ত",
+      "title_english": "সর্বজনীন পেনশন স্কিমের আওতায় প্রাপ্ত পেনশন করমুক্ত",
+      "page_reference": "১৫১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "200",
+      "serial_bengali": "২০০",
+      "title_bengali": "যে শর্তে স্বামী-স্ত্রী, মাতা-পিতা বা সন্তানের নিকট হতে গৃহীত দান করমুক্ত",
+      "title_english": "যে শর্তে স্বামী-স্ত্রী, মাতা-পিতা বা সন্তানের নিকট হতে গৃহীত দান করমুক্ত",
+      "page_reference": "১৫১",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "201",
+      "serial_bengali": "২০১",
+      "title_bengali": "যে শর্তে শেয়ার বা ইউনিট হস্তান্তর হতে অর্জিত অনধিক ৫০ লক্ষ টাকার মূলধনি লাভ করমুক্ত",
+      "title_english": "যে শর্তে শেয়ার বা ইউনিট হস্তান্তর হতে অর্জিত অনধিক ৫০ লক্ষ টাকার মূলধনি লাভ করমুক্ত",
+      "page_reference": "১৫২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "202",
+      "serial_bengali": "২০২",
+      "title_bengali": "ষষ্ঠ তফসিলের অংশ ২ এর সংশোধন",
+      "title_english": "ষষ্ঠ তফসিলের অংশ ২ এর Amendment",
+      "page_reference": "১৫২",
+      "category": "procedural_matters",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "procedure",
+        "filing",
+        "compliance"
+      ],
+      "calculation_relevance": "low",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "203",
+      "serial_bengali": "২০৩",
+      "title_bengali": "যত তথ্যসিলের অংশ ও অনুযায়ী কর রেয়াত কেবল স্বাভাবিক ব্যক্তির জন্য",
+      "title_english": "যত তথ্যসিলের অংশ ও অনুযায়ী Tax relief কেবল স্বাভাবিক ব্যক্তির জন্য",
+      "page_reference": "১৫২",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "tax_relief",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "204",
+      "serial_bengali": "২০৪",
+      "title_bengali": "করদাতা এবং তার নিয়োগকারী কর্তৃক ভবিষ্য তহবিলে প্রদত্ত চাঁদা কর রেয়াতযোগ্য বিনিয়োগ",
+      "title_english": "করদাতা এবং তার Employmentকারী কর্তৃক ভবিষ্য তহবিলে প্রদত্ত চাঁদা Tax reliefযোগ্য বিEmployment",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "tax_relief",
+        "business_income",
+        "deduction",
+        "income_calculation",
+        "employment"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "205",
+      "serial_bengali": "২০৫",
+      "title_bengali": "সর্বজনীন পেনশন স্কিমে প্রদত্ত চাঁদা কর রেয়াতযোগ্য বিনিয়োগ",
+      "title_english": "সর্বজনীন পেনশন স্কিমে প্রদত্ত চাঁদা Tax reliefযোগ্য বিEmployment",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "tax_relief",
+        "business_income",
+        "deduction",
+        "income_calculation",
+        "employment"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "206",
+      "serial_bengali": "২০৬",
+      "title_bengali": "কতিপয় ভেতা অবকাঠামোর কর অবকাশ সুবিধার বিলোপ",
+      "title_english": "কতিপয় ভেতা অবকাঠামোর কর অবকাশ সুবিধার বিলোপ",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "207",
+      "serial_bengali": "২০৭",
+      "title_bengali": "বিশেষ করহার সংক্রান্ত সপ্তম তফসিলের সংশোধন",
+      "title_english": "বিশেষ Tax rate সংক্রান্ত সপ্তম তফসিলের Amendment",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "208",
+      "serial_bengali": "২০৮",
+      "title_bengali": "কোম্পানির পাশাপাশি ট্রাস্ট ও তহবিল কর্তৃক অর্জিত মূলধনি আয়ের করহার",
+      "title_english": "কোম্পানির পাশাপাশি ট্রাস্ট ও তহবিল কর্তৃক অর্জিত মূলধনি Incomeের Tax rate",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "209",
+      "serial_bengali": "২০৯",
+      "title_bengali": "রিটার্ন দাখিলে বাধ্য নয় এরূপ কোনো কোম্পানির গ্যাস প্রাপ্তির উপর করহার",
+      "title_english": "রিটার্ন দাখিলে বাধ্য নয় এরূপ কোনো কোম্পানির গ্যাস প্রাপ্তির উপর Tax rate",
+      "page_reference": "১৫৩",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "210",
+      "serial_bengali": "২১০",
+      "title_bengali": "ভ্রমণ কর আইন, ২০২৩ এর সংশোধন",
+      "title_english": "ভ্রমণ কর আইন, ২০২৩ এর Amendment",
+      "page_reference": "১৫৪",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "211",
+      "serial_bengali": "২১১",
+      "title_bengali": "ভ্রমণ কর আদায়ে আমফর আইন, ২০২৩ অনুযায়ী ব্যবস্থা গ্রহণ",
+      "title_english": "ভ্রমণ কর আদায়ে আমফর আইন, ২০২৩ অনুযায়ী ব্যবস্থা গ্রহণ",
+      "page_reference": "১৫৪",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    },
+    {
+      "topic_id": "212",
+      "serial_bengali": "২১২",
+      "title_bengali": "ভ্রমণ কর পরিশোধ হতে অব্যাহতি প্রদান",
+      "title_english": "ভ্রমণ কর পরিশোধ হতে অব্যাহতি প্রদান",
+      "page_reference": "১৫৪",
+      "category": "income_categories",
+      "parent_topic": null,
+      "sub_topics": [],
+      "ai_tags": [
+        "income_calculation",
+        "business_income",
+        "deduction"
+      ],
+      "calculation_relevance": "high",
+      "complexity_level": "intermediate"
+    }
+  ],
+  "processing_status": {
+    "phase_2_completed": "Complete index extraction COMPLETED",
+    "topics_extracted": 212,
+    "remaining_topics": 0,
+    "total_topics_identified": 212,
+    "next_action": "Proceed to Phase 3 - Content processing from files 2-21",
+    "ai_optimization": "Complete AI tags and categorization for all topics",
+    "automation_used": "Automated processing system successfully implemented"
+  }
+}
