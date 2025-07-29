@@ -130,7 +130,7 @@ JSON Structure (for implementation):
 {
 "serial": 1,
 "title": "Topic title in Bengali",
-"content": "Full text content",
+"content": [], //in chunk separated by topics in the serial
 "tables": [],
 "act_references": [],
 "calculation_formulas": [],
