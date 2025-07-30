@@ -1,0 +1,1450 @@
+{
+  "total_sections": 182,
+  "enriched_sections": 180,
+  "bengali_chars_before": 22396,
+  "bengali_chars_after": 58705,
+  "average_content_length_before": 123.05494505494505,
+  "average_content_length_after": 322.55494505494505,
+  "enrichment_details": [
+    {
+      "path": "structured_content.31.content.bengali_text",
+      "topic": " দাতব্য উদ্দেশ্য  অর্থ- (ক) দরিদ্রের জন্য ভ্রাম্য,...",
+      "original_length": 87,
+      "enriched_length": 283,
+      "bengali_improvement": 130,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.32.content.bengali_text",
+      "topic": "(সার্টিফিকেট ইস্যুকারী ব্যক্তি বা প্রতিষ্ঠানের নাম...",
+      "original_length": 102,
+      "enriched_length": 445,
+      "bengali_improvement": 252,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.34.content.bengali_text",
+      "topic": "৬.৯.৩ কোনো প্রতিষ্ঠানের কার্যক্রম সাধারণভাবে দাতব্...",
+      "original_length": 385,
+      "enriched_length": 781,
+      "bengali_improvement": 295,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.35.content.bengali_text",
+      "topic": "(ক) সংশ্লিষ্ট আমদানি বাংলাদেশে দাতব্য বা ধর্মীয় উ...",
+      "original_length": 76,
+      "enriched_length": 372,
+      "bengali_improvement": 213,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.36.content.bengali_text",
+      "topic": " দাতব্য উদ্দেশ্য  অর্থ- (ক) দরিদ্রের জন্য ভ্রাম্য,...",
+      "original_length": 87,
+      "enriched_length": 283,
+      "bengali_improvement": 130,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.37.content.bengali_text",
+      "topic": " দাতব্য উদ্দেশ্য  অর্থ- (ক) দরিদ্রের জন্য ভ্রাম্য,...",
+      "original_length": 87,
+      "enriched_length": 283,
+      "bengali_improvement": 130,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.38.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.39.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.40.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.41.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.42.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.43.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.44.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.45.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.46.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.47.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.48.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.49.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.50.content.bengali_text",
+      "topic": "(খ) সাধারণ জন-উপযোগের কোনো উদ্দেশ্যের উন্নতি বা প্...",
+      "original_length": 150,
+      "enriched_length": 433,
+      "bengali_improvement": 202,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.51.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.52.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.53.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.54.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.55.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.56.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.57.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.58.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.59.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.60.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.61.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.62.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.63.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.64.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.65.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.66.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.67.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.68.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.69.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.70.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.71.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.72.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.73.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.74.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.75.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.76.content.bengali_text",
+      "topic": "ত্রাণসহ সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসার বলত...",
+      "original_length": 145,
+      "enriched_length": 445,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.77.content.bengali_text",
+      "topic": "অনুমোদনযোগ্য খরচ বাদ দিলে যা অবশিষ্ট থাকবে, তা হবে...",
+      "original_length": 97,
+      "enriched_length": 362,
+      "bengali_improvement": 172,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.78.content.bengali_text",
+      "topic": "ব্যক্তির মর্যাদা (একটি টিক দিন): কোম্পানি: [ ] ব্য...",
+      "original_length": 99,
+      "enriched_length": 369,
+      "bengali_improvement": 166,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.79.content.bengali_text",
+      "topic": "৬.৯.৬ দাতব্য উদ্দেশ্য কী এবং এর ব্যপ্তি কত? আয়কর ...",
+      "original_length": 132,
+      "enriched_length": 484,
+      "bengali_improvement": 244,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.80.content.bengali_text",
+      "topic": "৬.৯.৬ দাতব্য উদ্দেশ্য কী এবং এর ব্যপ্তি কত? আয়কর ...",
+      "original_length": 132,
+      "enriched_length": 484,
+      "bengali_improvement": 244,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.81.content.bengali_text",
+      "topic": "আবেদন গ্রহণকারী কর্তৃপক্ষ কর্তৃক প্রদত্ত প্রাপ্তি ...",
+      "original_length": 62,
+      "enriched_length": 182,
+      "bengali_improvement": 73,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.82.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.83.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.84.content.bengali_text",
+      "topic": "জাতীয় রাজস্ব বোর্ডের আদেশক্রমে, এ কে এম বদিউল আলম...",
+      "original_length": 85,
+      "enriched_length": 255,
+      "bengali_improvement": 99,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.85.content.bengali_text",
+      "topic": "১১  কর আপিল ট্রাইব্যুনালের প্রেসিডেন্ট নিয়োগ সংক্...",
+      "original_length": 366,
+      "enriched_length": 723,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.86.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.87.content.bengali_text",
+      "topic": "১৩  ভাড়া হতে আয় নির্ধারণ সংক্রান্ত অংশ ৫ এর তৃতী...",
+      "original_length": 250,
+      "enriched_length": 592,
+      "bengali_improvement": 239,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.88.content.bengali_text",
+      "topic": "সুতরাং, ২০২৪-২০২৫ করবর্ষে জনাব অনুসূমের ভাড়া হইতে...",
+      "original_length": 105,
+      "enriched_length": 381,
+      "bengali_improvement": 167,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.89.content.bengali_text",
+      "topic": "১৩.১ ভাড়া হইতে আর কী? নতুন প্রবিধিতি ধারা ৩৬ অনুয...",
+      "original_length": 168,
+      "enriched_length": 491,
+      "bengali_improvement": 219,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.90.content.bengali_text",
+      "topic": "১৩.৩ সকল প্রকারের সম্পত্তির ভাড়া প্রদান হতে অর্জি...",
+      "original_length": 269,
+      "enriched_length": 584,
+      "bengali_improvement": 226,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.91.content.bengali_text",
+      "topic": "(ঙ) গৃহসম্পত্তির আংশিক ভাড়া প্রদানের ক্ষেত্রে আংশ...",
+      "original_length": 102,
+      "enriched_length": 364,
+      "bengali_improvement": 180,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.92.content.bengali_text",
+      "topic": "ঘ = উচ্চ আয়রর্ব্বে উচ্চ গৃহসম্পত্তি ব্যবহার সূত্র...",
+      "original_length": 167,
+      "enriched_length": 579,
+      "bengali_improvement": 302,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.93.content.bengali_text",
+      "topic": "(খ) **হস্তান্তর** অর্থ মা্তা-পিতা ও সন্তান এবং স্ব...",
+      "original_length": 111,
+      "enriched_length": 467,
+      "bengali_improvement": 249,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.94.content.bengali_text",
+      "topic": "সুতরাং গৃহসম্পত্তির মোট ভাড়ামূল্য, ক = (খ+গ+ঘ+ঙ)-...",
+      "original_length": 108,
+      "enriched_length": 400,
+      "bengali_improvement": 193,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.95.content.bengali_text",
+      "topic": "সুতরাং গৃহসম্পত্তির মোট ভাড়ামূল্য, ক = (খ+গ+ঘ+ঙ)-...",
+      "original_length": 108,
+      "enriched_length": 400,
+      "bengali_improvement": 193,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.96.content.bengali_text",
+      "topic": "সুতরাং গৃহসম্পত্তির মোট ভাড়ামূল্য, ক = (খ+গ+ঘ+ঙ)-...",
+      "original_length": 108,
+      "enriched_length": 400,
+      "bengali_improvement": 193,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.97.content.bengali_text",
+      "topic": "(খ) অন্যান্য ক্ষেত্রে ধারা ১৮২ এর অডিটরের জন্য নির...",
+      "original_length": 65,
+      "enriched_length": 268,
+      "bengali_improvement": 133,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.98.content.bengali_text",
+      "topic": "১৩.৯ গৃহসম্পত্তি ব্যতীত অন্যান্য সম্পত্তির মোট ভাড...",
+      "original_length": 302,
+      "enriched_length": 673,
+      "bengali_improvement": 274,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.99.content.bengali_text",
+      "topic": "১৩.১২ বিশেষ ভাড়া হইতে আয়কর করহার কী হবে? আয়কর আ...",
+      "original_length": 141,
+      "enriched_length": 639,
+      "bengali_improvement": 358,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.100.content.bengali_text",
+      "topic": "১৩.১১ বিশেষ ভাড়া হইতে আয় পরিগণনায় কী কী বিয়োজন...",
+      "original_length": 264,
+      "enriched_length": 745,
+      "bengali_improvement": 348,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.101.content.bengali_text",
+      "topic": "১৩.১২ বিশেষ ভাড়া হইতে আয়কর করহার কী হবে? আয়কর আ...",
+      "original_length": 141,
+      "enriched_length": 639,
+      "bengali_improvement": 358,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.102.content.bengali_text",
+      "topic": "২০  অন্যান্য উৎস হইতে আয়ের বিশেষ ক্ষেত্রে সংশ্লিষ...",
+      "original_length": 184,
+      "enriched_length": 572,
+      "bengali_improvement": 267,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.103.content.bengali_text",
+      "topic": "হিসাবে অনুমোদিত হবে  অর্থং কেবল পরিশোধকৃত সুদ বা ম...",
+      "original_length": 95,
+      "enriched_length": 619,
+      "bengali_improvement": 380,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.104.content.bengali_text",
+      "topic": "১৪.২ আয়কর আইন, ২০২৩ এর ধারা ৭২ এর উপ-ধারা (৩) অনুয...",
+      "original_length": 340,
+      "enriched_length": 667,
+      "bengali_improvement": 220,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.105.content.bengali_text",
+      "topic": "১৫  ব্যবসা হইতে আয় গণনার ক্ষেত্রে অনুমোদনযোগ্য সা...",
+      "original_length": 241,
+      "enriched_length": 662,
+      "bengali_improvement": 295,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.106.content.bengali_text",
+      "topic": "তবে, বিয়োজন অনুমোদন বা দাবীর ক্ষেত্রে নিম্নবর্ণিত...",
+      "original_length": 85,
+      "enriched_length": 342,
+      "bengali_improvement": 176,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.107.content.bengali_text",
+      "topic": "১৭  বিশেষ ব্যবসা আয় পরিপত্রণা সংশ্লিষ্ট ধারা ৫৬ এ...",
+      "original_length": 209,
+      "enriched_length": 599,
+      "bengali_improvement": 270,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.108.content.bengali_text",
+      "topic": "করদাতা কর্তৃক পণ্য রপ্তানি হতে অর্জিত আয়ের উপর উক...",
+      "original_length": 83,
+      "enriched_length": 490,
+      "bengali_improvement": 307,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.109.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.110.content.bengali_text",
+      "topic": "১৯  অন্যান্য উৎস হইতে আয় সংক্রান্ত ধারা ৬৬ এর সংশো...",
+      "original_length": 182,
+      "enriched_length": 567,
+      "bengali_improvement": 269,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.111.content.bengali_text",
+      "topic": "২০  অন্যান্য উৎস হইতে আয়ের বিশেষ ক্ষেত্রে সংশ্লিষ...",
+      "original_length": 184,
+      "enriched_length": 572,
+      "bengali_improvement": 267,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.112.content.bengali_text",
+      "topic": "অনুযায়ী ন্যূনতম কর প্রযোজ্য হয় যদি কোনো উৎসের বা...",
+      "original_length": 110,
+      "enriched_length": 392,
+      "bengali_improvement": 197,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.113.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.114.content.bengali_text",
+      "topic": "২৩  দীর্ঘমেয়াদি চুক্তির ক্ষেত্রে হিসাবরক্ষণ পদ্ধত...",
+      "original_length": 258,
+      "enriched_length": 648,
+      "bengali_improvement": 270,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.115.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.116.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.117.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.118.content.bengali_text",
+      "topic": "২৭  অংশগ্রহণ তহবিল, কল্যাণ তহবিল ও শ্রমিক কল্যাণ ফ...",
+      "original_length": 500,
+      "enriched_length": 696,
+      "bengali_improvement": 128,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.119.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.120.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.121.content.bengali_text",
+      "topic": "(ঙ) মোবাইল ফোন অপারেটর কোম্পানির ক্ষেত্রে   উক্ত আ...",
+      "original_length": 59,
+      "enriched_length": 306,
+      "bengali_improvement": 157,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.122.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.123.content.bengali_text",
+      "topic": "অর্থনিম্নবর্ত্তি ক্ষেত্রসমূহে এ ধারার অধীন কোনো প্...",
+      "original_length": 94,
+      "enriched_length": 371,
+      "bengali_improvement": 190,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.124.content.bengali_text",
+      "topic": "অর্থনিম্নবর্ত্তি ক্ষেত্রসমূহে এ ধারার অধীন কোনো প্...",
+      "original_length": 94,
+      "enriched_length": 371,
+      "bengali_improvement": 190,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.125.content.bengali_text",
+      "topic": "অর্থনিম্নবর্ত্তি ক্ষেত্রসমূহে এ ধারার অধীন কোনো প্...",
+      "original_length": 94,
+      "enriched_length": 371,
+      "bengali_improvement": 190,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.127.content.bengali_text",
+      "topic": "৩১.৮ স্থানীয় কর্তৃপক্ষ কর্তৃক বিভিন্ন ধরনের আমানতে...",
+      "original_length": 394,
+      "enriched_length": 568,
+      "bengali_improvement": 117,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.128.content.bengali_text",
+      "topic": "৩১  পোস্ট অফিস সংস্থার ব্যাংকে রক্ষিত অর্থের সুদ হ...",
+      "original_length": 338,
+      "enriched_length": 617,
+      "bengali_improvement": 192,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.129.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.130.content.bengali_text",
+      "topic": "৩১  বিদ্যুৎ ফেয়ার বিপরীতে কর কর্তন সংক্রান্ত ধারা...",
+      "original_length": 215,
+      "enriched_length": 608,
+      "bengali_improvement": 280,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.131.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.132.content.bengali_text",
+      "topic": "তফসিল ৪ [বিধি ১১ (৩) দ্রষ্টব্য] উৎসে কর কর্তনের বি...",
+      "original_length": 57,
+      "enriched_length": 182,
+      "bengali_improvement": 72,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.133.content.bengali_text",
+      "topic": "বাইং হাউজ কমিশন (buying house commission) হতে ধারা...",
+      "original_length": 89,
+      "enriched_length": 315,
+      "bengali_improvement": 152,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.134.content.bengali_text",
+      "topic": "করদাতা কর্তৃক পণ্য রপ্তানি হতে অর্জিত আয়ের উপর উক...",
+      "original_length": 83,
+      "enriched_length": 490,
+      "bengali_improvement": 307,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.135.content.bengali_text",
+      "topic": "এ উদাহরণের সকল ক্ষেত্রে ৮৯ এবং ১৪ অনুযায়ী উৎসে কর...",
+      "original_length": 84,
+      "enriched_length": 315,
+      "bengali_improvement": 161,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.145.content.bengali_text",
+      "topic": "মোট আয়ের পরিমাণ কমযুক্ত আয়সীমার অধিক হলে করদাতার...",
+      "original_length": 103,
+      "enriched_length": 396,
+      "bengali_improvement": 212,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.146.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.147.content.bengali_text",
+      "topic": "শর্তাবলি: (ক) উক্ত আইনের ধারা ১১৯ এর উপ-ধারা (২) এ...",
+      "original_length": 81,
+      "enriched_length": 349,
+      "bengali_improvement": 175,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.148.content.bengali_text",
+      "topic": "৪৫.৩ উপ-ধারা ৫ এর সংশোধন ও ন্যূনতম করের আওতা বৃদ্ধ...",
+      "original_length": 219,
+      "enriched_length": 507,
+      "bengali_improvement": 196,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.149.content.bengali_text",
+      "topic": "শর্তাবলি: (ক) উক্ত আইনের ধারা ১১৯ এর উপ-ধারা (২) এ...",
+      "original_length": 81,
+      "enriched_length": 349,
+      "bengali_improvement": 175,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.150.content.bengali_text",
+      "topic": "শর্তাবলি: (ক) উক্ত আইনের ধারা ১১৯ এর উপ-ধারা (২) এ...",
+      "original_length": 81,
+      "enriched_length": 349,
+      "bengali_improvement": 175,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.151.content.bengali_text",
+      "topic": "শর্তাবলি: (ক) উক্ত আইনের ধারা ১১৯ এর উপ-ধারা (২) এ...",
+      "original_length": 81,
+      "enriched_length": 349,
+      "bengali_improvement": 175,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.136.content.bengali_text",
+      "topic": "৩৯  ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্...",
+      "original_length": 151,
+      "enriched_length": 529,
+      "bengali_improvement": 272,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.137.content.bengali_text",
+      "topic": "৩৭  ডেভেলপার বা রিয়েল এস্টেট ডেভেলপারের নিকট হইতে...",
+      "original_length": 172,
+      "enriched_length": 529,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.138.content.bengali_text",
+      "topic": "৩৯  ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্...",
+      "original_length": 151,
+      "enriched_length": 529,
+      "bengali_improvement": 272,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.139.content.bengali_text",
+      "topic": "৩৯  ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্...",
+      "original_length": 151,
+      "enriched_length": 529,
+      "bengali_improvement": 272,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.140.content.bengali_text",
+      "topic": "৩৯  ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্...",
+      "original_length": 151,
+      "enriched_length": 529,
+      "bengali_improvement": 272,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.141.content.bengali_text",
+      "topic": "৩৯  ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্...",
+      "original_length": 151,
+      "enriched_length": 529,
+      "bengali_improvement": 272,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.142.content.bengali_text",
+      "topic": "০১. যে ব্যক্তির নিকট হইতে কর কর্তন করা হইয়াছে তাহ...",
+      "original_length": 56,
+      "enriched_length": 400,
+      "bengali_improvement": 169,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.143.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.144.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.152.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.153.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.154.content.bengali_text",
+      "topic": "ধারা ১৬৭ এর উপ-ধারা (১) এর শর্তাংশ হতে  এই উপ-ধারা...",
+      "original_length": 177,
+      "enriched_length": 431,
+      "bengali_improvement": 167,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.155.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.156.content.bengali_text",
+      "topic": "রিটার্ন সম্পর্কিত সাধারণ জিজ্ঞাসা ক্রমিক নংপ্রশ্নউ...",
+      "original_length": 54,
+      "enriched_length": 244,
+      "bengali_improvement": 109,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.157.content.bengali_text",
+      "topic": "৫৪  সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশ...",
+      "original_length": 172,
+      "enriched_length": 625,
+      "bengali_improvement": 336,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.158.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.159.content.bengali_text",
+      "topic": "৫৪  সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশ...",
+      "original_length": 172,
+      "enriched_length": 625,
+      "bengali_improvement": 336,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.160.content.bengali_text",
+      "topic": "৫৪  সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশ...",
+      "original_length": 172,
+      "enriched_length": 625,
+      "bengali_improvement": 336,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.161.content.bengali_text",
+      "topic": "উৎসে কর কর্তন রিটার্ন দাখিলের প্রাপ্তি স্বীকারপত্র...",
+      "original_length": 75,
+      "enriched_length": 294,
+      "bengali_improvement": 145,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.162.content.bengali_text",
+      "topic": "১৫  উৎসে কর এর রিটার্ন দাখিল- আইনের এর ধারা ১৭৭ মো...",
+      "original_length": 107,
+      "enriched_length": 273,
+      "bengali_improvement": 104,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.163.content.bengali_text",
+      "topic": "৩৬  কোনো সেবা, রেভিনিউ শেয়ারিং, ইত্যাদি বাদে বিদে...",
+      "original_length": 187,
+      "enriched_length": 405,
+      "bengali_improvement": 138,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.164.content.bengali_text",
+      "topic": "উৎসে কর কর্তন রিটার্ন দাখিলের প্রাপ্তি স্বীকারপত্র...",
+      "original_length": 75,
+      "enriched_length": 294,
+      "bengali_improvement": 145,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.165.content.bengali_text",
+      "topic": "৫৯  অডিট সংক্রান্ত ধারা ১৮২ এর সংশোধন অর্থ আইন, ২০...",
+      "original_length": 173,
+      "enriched_length": 530,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.166.content.bengali_text",
+      "topic": "মোট আয়ের পরিমাণ কমযুক্ত আয়ের সীমার অধিক হলে করদা...",
+      "original_length": 104,
+      "enriched_length": 351,
+      "bengali_improvement": 170,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.167.content.bengali_text",
+      "topic": "(খ) অন্যান্য ক্ষেত্রে ধারা ১৮২ এর অডিটরের জন্য নির...",
+      "original_length": 65,
+      "enriched_length": 268,
+      "bengali_improvement": 133,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.168.content.bengali_text",
+      "topic": "৫১.৩ কোনো করদাতা একসাথে একাধিক বছরের রিটার্ন দাখিল...",
+      "original_length": 208,
+      "enriched_length": 395,
+      "bengali_improvement": 124,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.169.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.170.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.171.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.172.content.bengali_text",
+      "topic": "৬৩  রিটার্ন দাখিলের প্রমাণ দাখিলের বাধ্যবাধকতা সংক...",
+      "original_length": 329,
+      "enriched_length": 707,
+      "bengali_improvement": 273,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.173.content.bengali_text",
+      "topic": "উৎসে কর কর্তন রিটার্ন দাখিলের প্রাপ্তি স্বীকারপত্র...",
+      "original_length": 75,
+      "enriched_length": 294,
+      "bengali_improvement": 145,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.174.content.bengali_text",
+      "topic": "৬৫  নোটিশের অমান্যতার জন্য জরিমানা সংক্রান্ত ধারা ...",
+      "original_length": 275,
+      "enriched_length": 632,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.175.content.bengali_text",
+      "topic": "৬৬  রিটানের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরি...",
+      "original_length": 277,
+      "enriched_length": 634,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.176.content.bengali_text",
+      "topic": "৬৭  কমিশনারের রিভিশনের ক্ষমতা সংক্রান্ত ধারা ২৮৫ এ...",
+      "original_length": 236,
+      "enriched_length": 593,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.177.content.bengali_text",
+      "topic": "স্বাক্ষর/- (আপিল কর্তৃপক্ষ/কর আপিল ট্রাইবুনাল এর ন...",
+      "original_length": 54,
+      "enriched_length": 254,
+      "bengali_improvement": 135,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.178.content.bengali_text",
+      "topic": "স্বাক্ষর/- (আপিল কর্তৃপক্ষ/কর আপিল ট্রাইবুনাল এর ন...",
+      "original_length": 54,
+      "enriched_length": 254,
+      "bengali_improvement": 135,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.179.content.bengali_text",
+      "topic": "৭০  হাইকোর্ট বিভাগে রেফারেন্স সংক্রান্ত ধারা ২৯৩ এ...",
+      "original_length": 211,
+      "enriched_length": 568,
+      "bengali_improvement": 254,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.180.content.bengali_text",
+      "topic": "৬১  কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ...",
+      "original_length": 156,
+      "enriched_length": 544,
+      "bengali_improvement": 279,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.181.content.bengali_text",
+      "topic": "৭৬  বিশেষ করহার সংক্রান্ত সপ্তম তফসিলের সংশোধন অর্...",
+      "original_length": 144,
+      "enriched_length": 590,
+      "bengali_improvement": 324,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.182.content.bengali_text",
+      "topic": "স্থাপনা, বাড়ি, ফ্ল্যাট, অ্যাপার্টমেন্ট অথবা ফ্লোর...",
+      "original_length": 152,
+      "enriched_length": 575,
+      "bengali_improvement": 313,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.183.content.bengali_text",
+      "topic": "এ উদাহরণের সকল ক্ষেত্রে ৮৯ এবং ১৪ অনুযায়ী উৎসে কর...",
+      "original_length": 84,
+      "enriched_length": 315,
+      "bengali_improvement": 161,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.184.content.bengali_text",
+      "topic": "৭২.৩ অর্থনৈতিক অঞ্চল বা হাইটেক পার্কে বিনিয়োগের ক...",
+      "original_length": 199,
+      "enriched_length": 451,
+      "bengali_improvement": 179,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.185.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.186.content.bengali_text",
+      "topic": "(৯)  চাকরি হইতে আয়  খাতের অধীন উৎস হইতে কর্তনের ক...",
+      "original_length": 97,
+      "enriched_length": 333,
+      "bengali_improvement": 156,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.187.content.bengali_text",
+      "topic": "(খ) অন্যান্য ক্ষেত্রে ধারা ১৮২ এর অডিটরের জন্য নির...",
+      "original_length": 65,
+      "enriched_length": 268,
+      "bengali_improvement": 133,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.188.content.bengali_text",
+      "topic": "৭৩  বীমা ব্যবসার মুনাফা ও লাট পরিশোধনা সংক্রান্ত চ...",
+      "original_length": 240,
+      "enriched_length": 590,
+      "bengali_improvement": 249,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.189.content.bengali_text",
+      "topic": "প্রস্তাবিত অনুচ্ছেদ (২) অনুযায়ী পেনশন এবং অ্যানুই...",
+      "original_length": 132,
+      "enriched_length": 388,
+      "bengali_improvement": 176,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.190.content.bengali_text",
+      "topic": "প্রস্তাবিত অনুচ্ছেদ (২) অনুযায়ী পেনশন এবং অ্যানুই...",
+      "original_length": 132,
+      "enriched_length": 388,
+      "bengali_improvement": 176,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.191.content.bengali_text",
+      "topic": "৭১  পেট্রোলিয়াম অনুসন্ধান ও উৎপাদন হইতে উদ্ভূত মু...",
+      "original_length": 382,
+      "enriched_length": 657,
+      "bengali_improvement": 193,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.192.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংস্থেয়র নিযুক্ত বিভিন্ন হার সংক...",
+      "original_length": 62,
+      "enriched_length": 221,
+      "bengali_improvement": 103,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.193.content.bengali_text",
+      "topic": "৭৬  বিশেষ করহার সংক্রান্ত সপ্তম তফসিলের সংশোধন অর্...",
+      "original_length": 144,
+      "enriched_length": 590,
+      "bengali_improvement": 324,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.194.content.bengali_text",
+      "topic": "এ উদাহরণের সকল ক্ষেত্রে ৮৯ এবং ১৪ অনুযায়ী উৎসে কর...",
+      "original_length": 84,
+      "enriched_length": 315,
+      "bengali_improvement": 161,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.195.content.bengali_text",
+      "topic": "৬ = গৃহসম্পত্তির ভাড়াটিয়া কর্তৃক পরিশোধিত যেকোনো...",
+      "original_length": 152,
+      "enriched_length": 401,
+      "bengali_improvement": 174,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.196.content.bengali_text",
+      "topic": "৭৫.৪ যে সকল শর্তে ট্রাস্টের সুবিধাভোগী বা তহবিলের ...",
+      "original_length": 476,
+      "enriched_length": 715,
+      "bengali_improvement": 162,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.197.content.bengali_text",
+      "topic": "ঘ = অন্য কোনোভাবে সম্পত্তির ব্যবহার হতে অর্জিত আয়...",
+      "original_length": 155,
+      "enriched_length": 460,
+      "bengali_improvement": 218,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.198.content.bengali_text",
+      "topic": "ধ = সংশ্লিষ্ট আয়বর্গে প্রাপ্ত সকল নবায়নকৃত প্রিম...",
+      "original_length": 75,
+      "enriched_length": 318,
+      "bengali_improvement": 167,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.199.content.bengali_text",
+      "topic": "৭৫.৭ সর্বজনীন পেনশন স্কিমের আওতায় প্রাপ্ত পেনশন ক...",
+      "original_length": 323,
+      "enriched_length": 576,
+      "bengali_improvement": 177,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.200.content.bengali_text",
+      "topic": "২৪.১ ধারা ৭৬ এর উপ-ধারা (৫) এর দফা (ঘ) এর প্রতিস্থ...",
+      "original_length": 290,
+      "enriched_length": 690,
+      "bengali_improvement": 267,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.201.content.bengali_text",
+      "topic": "(ক) তালিকাভুক্ত কোনো কোম্পানি বা তাহাবিলের শেয়ার ...",
+      "original_length": 88,
+      "enriched_length": 315,
+      "bengali_improvement": 153,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.202.content.bengali_text",
+      "topic": "সেইক্ষেত্রে, উপ-বিধি (১) এ বর্ণিত  ঐ  আইনের অংশ ৭ ...",
+      "original_length": 82,
+      "enriched_length": 310,
+      "bengali_improvement": 143,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.203.content.bengali_text",
+      "topic": "০৫. কর সংগ্রহের বিবরণসমূহ (প্রয়োজন অনুযায়ী ছক সং...",
+      "original_length": 61,
+      "enriched_length": 262,
+      "bengali_improvement": 133,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.204.content.bengali_text",
+      "topic": "৭৫.১২ করদাতা এবং তার নিয়োগকারী কর্তৃক ভবিষ্য তহবি...",
+      "original_length": 442,
+      "enriched_length": 653,
+      "bengali_improvement": 149,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.205.content.bengali_text",
+      "topic": "আবেদন গ্রহণকারী কর্তৃপক্ষ কর্তৃক প্রদত্ত প্রাপ্তি ...",
+      "original_length": 62,
+      "enriched_length": 182,
+      "bengali_improvement": 73,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.206.content.bengali_text",
+      "topic": "৭২.৩ অর্থনৈতিক অঞ্চল বা হাইটেক পার্কে বিনিয়োগের ক...",
+      "original_length": 199,
+      "enriched_length": 451,
+      "bengali_improvement": 179,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.207.content.bengali_text",
+      "topic": "৭৬  বিশেষ করহার সংক্রান্ত সপ্তম তফসিলের সংশোধন অর্...",
+      "original_length": 144,
+      "enriched_length": 590,
+      "bengali_improvement": 324,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.208.content.bengali_text",
+      "topic": "(ক) স্বাভাবিক ব্যক্তি (individual), ফার্ম ও হিন্দু...",
+      "original_length": 106,
+      "enriched_length": 488,
+      "bengali_improvement": 209,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.209.content.bengali_text",
+      "topic": "৭৬.২ রিটার্ন দাখিলে বাধ্য নয় এমন কোনো কোম্পানির গ...",
+      "original_length": 238,
+      "enriched_length": 465,
+      "bengali_improvement": 158,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.210.content.bengali_text",
+      "topic": "৫  আয়কর আইন, ২০২৩ উল্লিখিত কতিপয় শব্দ ও রেফারেলের ...",
+      "original_length": 151,
+      "enriched_length": 544,
+      "bengali_improvement": 280,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.211.content.bengali_text",
+      "topic": "১৩.১২ বিশেষ ভাড়া হইতে আয়কর করহার কী হবে? আয়কর আ...",
+      "original_length": 141,
+      "enriched_length": 639,
+      "bengali_improvement": 358,
+      "num_sources": 3
+    },
+    {
+      "path": "structured_content.212.content.bengali_text",
+      "topic": "(খ) ব্যাংক ট্রান্সফারের মাধ্যমে পরিশোধ গ্রহণে ব্যর...",
+      "original_length": 61,
+      "enriched_length": 222,
+      "bengali_improvement": 93,
+      "num_sources": 3
+    }
+  ]
+}

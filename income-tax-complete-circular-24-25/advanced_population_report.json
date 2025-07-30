@@ -1,0 +1,1281 @@
+{
+  "total_placeholders": 182,
+  "populated": 182,
+  "improved_matches": 126,
+  "population_details": [
+    {
+      "path": "structured_content.31.content.bengali_text",
+      "topic": "দাতব্য উদ্দেশ্যে প্রতিষ্ঠিত সত্তাসমূহের করারোপণ সংক্রান্ত স্পষ্টিকরণ",
+      "similarity": 0.2589247311827957,
+      "source_file": 3,
+      "content_length": 87
+    },
+    {
+      "path": "structured_content.32.content.bengali_text",
+      "topic": "দাতব্য প্রতিষ্ঠানের আইনানুগ সংজ্ঞা",
+      "similarity": 0.24558823529411766,
+      "source_file": 13,
+      "content_length": 102
+    },
+    {
+      "path": "structured_content.33.content.bengali_text",
+      "topic": "প্রতিষ্ঠানের স্বাভাবিক কার্যক্রমের পাশাপাশি দাতব্য কার্যক্রম পরিচালনা প্রতিষ্ঠানকে কি দাতব্য প্রতিষ্ঠান করে তোলে? তার ব্যাখ্যা",
+      "similarity": 0.3090909090909091,
+      "source_file": 2,
+      "content_length": 498
+    },
+    {
+      "path": "structured_content.34.content.bengali_text",
+      "topic": "কোনো প্রতিষ্ঠানের কার্যক্রম সাধারণভাবে দাতব্য উদ্দেশ্যে পরিচালিত কিন্তু আয়কর আইনে সংজ্ঞায়িত \"দাতব্য উদ্দেশ্য\" পরিচালিত না হলে তাকে দাতব্য প্রতিষ্ঠান বলা যাবে কি? তার ব্যাখ্যা",
+      "similarity": 0.516524064171123,
+      "source_file": 2,
+      "content_length": 385
+    },
+    {
+      "path": "structured_content.35.content.bengali_text",
+      "topic": "Non-Profit Organization কি দাতব্য প্রতিষ্ঠান",
+      "similarity": 0.17076923076923076,
+      "source_file": 5,
+      "content_length": 76
+    },
+    {
+      "path": "structured_content.36.content.bengali_text",
+      "topic": "দাতব্য প্রতিষ্ঠানসমূহ কি করমুক্ত",
+      "similarity": 0.24812834224598931,
+      "source_file": 3,
+      "content_length": 87
+    },
+    {
+      "path": "structured_content.37.content.bengali_text",
+      "topic": "দাতব্য উদ্দেশ্য কী",
+      "similarity": 0.2831746031746032,
+      "source_file": 3,
+      "content_length": 87
+    },
+    {
+      "path": "structured_content.38.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দরিদ্রের জন্য ত্রাণ\" এর ব্যাপ্তি",
+      "similarity": 0.3585263157894737,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.39.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"চিকিৎসা ত্রাণ\" এর ব্যাপ্তি",
+      "similarity": 0.36351351351351346,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.40.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষা ত্রাণ\" এর ব্যাপ্তি",
+      "similarity": 0.3269230769230769,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.41.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জনসচেতনতা বৃদ্ধির লক্ষ্যে গৃহীত কর্মসূচী\" এর ব্যাপ্তি",
+      "similarity": 0.34323962516733597,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.42.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দারিদ্র বিমোচন কর্মসূচী\" এর ব্যাপ্তি",
+      "similarity": 0.3635172413793103,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.43.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"নারীর ক্ষমতায়নে গৃহীত উদ্যোগ\" এর ব্যাপ্তি",
+      "similarity": 0.31842275371687134,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.44.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গণতন্ত্র এবং সুশাসনের উদ্যোগ\" এর ব্যাপ্তি",
+      "similarity": 0.34995131450827655,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.45.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"মানবাধিকার বিষয়ক প্রচার ও সচেতনতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "similarity": 0.34204444444444443,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.46.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"ধর্ম নিরপেক্ষতা\" এর ব্যাপ্তি",
+      "similarity": 0.35,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.47.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রান্তিক ও সুবিধাবঞ্চিত জনগণের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "similarity": 0.34375384615384613,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.48.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিশু ও বয়ঃসন্ধিকালে উপনীত কিশোর-কিশোরীদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "similarity": 0.32331691297208537,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.49.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বয়স্ক জনগোষ্ঠীর সম্পৃক্ততা\" এর ব্যাপ্তি",
+      "similarity": 0.3073220338983051,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.50.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বুদ্ধি প্রতিবন্ধী ব্যক্তিদের অংশগ্রহণ\" এর ব্যাপ্তি",
+      "similarity": 0.32685258964143427,
+      "source_file": 3,
+      "content_length": 150
+    },
+    {
+      "path": "structured_content.51.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শারীরিক প্রতিবন্ধী ব্যক্তিদের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "similarity": 0.32679900744416873,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.52.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"তৃতীয় লিঙ্গের ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "similarity": 0.3312618025751073,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.53.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমঅধিকার ও সমান অংশগ্রহণ\" এর ব্যাপ্তি",
+      "similarity": 0.351862660944206,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.54.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুবিধাবঞ্চিত জনগোষ্ঠীর ক্ষমতায়ন\" এর ব্যাপ্তি",
+      "similarity": 0.34177593360995845,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.55.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সামাজিক কর্মকাণ্ড\" এর ব্যাপ্তি",
+      "similarity": 0.35265486725663714,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.56.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাংস্কৃতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.3839756977406493,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.57.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অর্থনৈতিক কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.38535469107551484,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.58.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"শিক্ষামূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.3839756977406493,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.59.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"স্বাস্থ্য সেবা কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.37052932761087265,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.60.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিশুদ্ধ পানি কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.37316017316017314,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.61.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সুয়ারেজ সিস্টেম কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.36794326241134745,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.62.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সাধারণ ত্রাণ কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.3760587238848108,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.63.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পুনর্বাসন কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.38009153318077804,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.64.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.392435172548255,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.65.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"কৃষি উন্নয়ন কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.3783549783549783,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.66.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"অবকাঠামো উন্নয়ন\" এর ব্যাপ্তি",
+      "similarity": 0.3326666666666666,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.67.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"পরিবেশ সংরক্ষণ ও উন্নয়ন\" এর ব্যাপ্তি",
+      "similarity": 0.3467124463519313,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.68.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"জলবায়ু পরিবর্তন প্রশমন এবং অভিযোজন\" এর ব্যাপ্তি",
+      "similarity": 0.33460837887067396,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.69.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"প্রাকৃতিক সম্পদ ব্যবস্থাপনা\" এর ব্যাপ্তি",
+      "similarity": 0.3632542372881356,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.70.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"দক্ষতা বৃদ্ধি\" এর ব্যাপ্তি",
+      "similarity": 0.36351351351351346,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.71.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিজ্ঞান ও তথ্য প্রযুক্তি\" এর ব্যাপ্তি",
+      "similarity": 0.351862660944206,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.72.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"যুক্তিমূলক কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.3839756977406493,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.73.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"সমাজ কল্যাণ\" এর ব্যাপ্তি",
+      "similarity": 0.33909090909090905,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.74.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"গবেষণা কার্যক্রম\" এর ব্যাপ্তি",
+      "similarity": 0.38423188405797104,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.75.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিভিন্ন নগোষ্ঠীর উন্নয়ন ও সুরক্ষা\" এর ব্যাপ্তি",
+      "similarity": 0.34245014245014244,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.76.content.bengali_text",
+      "topic": "সাধারণ জন-উপযোগসমূহের উন্নতি বা প্রসারের ক্ষেত্রে \"বিবিধ\" এর ব্যাপ্তি",
+      "similarity": 0.3661926046322632,
+      "source_file": 3,
+      "content_length": 145
+    },
+    {
+      "path": "structured_content.77.content.bengali_text",
+      "topic": "দাতব্য প্রতিষ্ঠানসমূহ কর্তৃক গৃহ-সম্পত্তি হতে গৃহীত ভাড়া আয় কি করমুক্ত",
+      "similarity": 0.36823419495484266,
+      "source_file": 5,
+      "content_length": 97
+    },
+    {
+      "path": "structured_content.78.content.bengali_text",
+      "topic": "\"ফাইন্যাল কোম্পানি\" এর সংজ্ঞা সংযোজন",
+      "similarity": 0.21743589743589745,
+      "source_file": 12,
+      "content_length": 99
+    },
+    {
+      "path": "structured_content.79.content.bengali_text",
+      "topic": "\"লভ্যাংশ\" এর সংজ্ঞা সংযোজন",
+      "similarity": 0.15578059071729958,
+      "source_file": 3,
+      "content_length": 132
+    },
+    {
+      "path": "structured_content.80.content.bengali_text",
+      "topic": "\"শ্রীকৃত করদায়\" এর সংজ্ঞা সংযোজন",
+      "similarity": 0.1777272727272727,
+      "source_file": 3,
+      "content_length": 132
+    },
+    {
+      "path": "structured_content.81.content.bengali_text",
+      "topic": "আয়কর কর্তৃপক্ষ সংক্রান্ত ধারা ৪ এ সংশোধন",
+      "similarity": 0.31294498381877023,
+      "source_file": 14,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.82.content.bengali_text",
+      "topic": "আয়কর কর্তৃপক্ষের নিয়োগ সংক্রান্ত ধারা ৫ সংশোধন",
+      "similarity": 0.3362237762237762,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.83.content.bengali_text",
+      "topic": "ক্ষমতা অর্পণ সংক্রান্ত ধারা ৬ এর প্রতিস্থাপন",
+      "similarity": 0.2826666666666667,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.84.content.bengali_text",
+      "topic": "জাতীয় রাজস্ব বোর্ডের নির্দেশনা অনুসরণ সংক্রান্ত ধারা ১০ সংশোধন",
+      "similarity": 0.3694980694980695,
+      "source_file": 13,
+      "content_length": 85
+    },
+    {
+      "path": "structured_content.85.content.bengali_text",
+      "topic": "কর আপিল ট্রাইব্যুনালের প্রেসিডেন্ট নিয়োগ সংক্রান্ত ধারা ১৩ এর সংশোধন",
+      "similarity": 0.2703448275862069,
+      "source_file": 5,
+      "content_length": 366
+    },
+    {
+      "path": "structured_content.86.content.bengali_text",
+      "topic": "আয় একীভূতকরণ সংক্রান্ত ধারা ৩১ এর সংশোধন",
+      "similarity": 0.2663430420711974,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.87.content.bengali_text",
+      "topic": "ভাড়া হতে আয় নির্ধারণ সংক্রান্ত অংশ ৫ এর তৃতীয় অধ্যায়ের প্রতিস্থাপন",
+      "similarity": 0.41902173913043483,
+      "source_file": 5,
+      "content_length": 250
+    },
+    {
+      "path": "structured_content.88.content.bengali_text",
+      "topic": "ভাড়া হইতে আয় কি",
+      "similarity": 0.2573770491803279,
+      "source_file": 5,
+      "content_length": 105
+    },
+    {
+      "path": "structured_content.89.content.bengali_text",
+      "topic": "সকল প্রকারের সম্পত্তির ভাড়া প্রদান হতে অর্জিত আয়-ই কি \"ভাড়া হইতে আয়\" হিসাবে পরিগণিত হবে",
+      "similarity": 0.3971583011583012,
+      "source_file": 5,
+      "content_length": 168
+    },
+    {
+      "path": "structured_content.90.content.bengali_text",
+      "topic": "সকল প্রকারের সম্পত্তির ভাড়া প্রদান হতে অর্জিত আয় কি একই নিয়মে পরিগণনা করতে হবে",
+      "similarity": 0.49438095238095237,
+      "source_file": 5,
+      "content_length": 269
+    },
+    {
+      "path": "structured_content.91.content.bengali_text",
+      "topic": "\"ভাড়া প্রদান\" কি",
+      "similarity": 0.18202973497091143,
+      "source_file": 5,
+      "content_length": 102
+    },
+    {
+      "path": "structured_content.92.content.bengali_text",
+      "topic": "\"গৃহসম্পত্তি\" কী",
+      "similarity": 0.10746812386156648,
+      "source_file": 5,
+      "content_length": 167
+    },
+    {
+      "path": "structured_content.93.content.bengali_text",
+      "topic": "গৃহসম্পত্তি ব্যতীত অন্যান্য সম্পত্তি কী",
+      "similarity": 0.274,
+      "source_file": 8,
+      "content_length": 111
+    },
+    {
+      "path": "structured_content.94.content.bengali_text",
+      "topic": "গৃহসম্পত্তির মোট ভাড়ামূল্য কীভাবে পরিগণনা করতে হবে",
+      "similarity": 0.37660377358490565,
+      "source_file": 5,
+      "content_length": 108
+    },
+    {
+      "path": "structured_content.95.content.bengali_text",
+      "topic": "গৃহসম্পত্তির মোট ভাড়ামূল্য হতে কী কী বিয়োজন দাবী করা যাবে",
+      "similarity": 0.360587915078933,
+      "source_file": 5,
+      "content_length": 108
+    },
+    {
+      "path": "structured_content.96.content.bengali_text",
+      "topic": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য কীভাবে পরিগণনা করতে হবে",
+      "similarity": 0.3128482328482328,
+      "source_file": 5,
+      "content_length": 108
+    },
+    {
+      "path": "structured_content.97.content.bengali_text",
+      "topic": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য হতে কী কী বিয়োজন দাবী করা যাবে",
+      "similarity": 0.31858823529411767,
+      "source_file": 8,
+      "content_length": 65
+    },
+    {
+      "path": "structured_content.98.content.bengali_text",
+      "topic": "গৃহসম্পত্তির ব্যতীত অন্যান্য সম্পত্তির মোট ভাড়ামূল্য হতে কোনো বিয়োজন দাবী করতে হলে বা অনুমোদিত হতে হলে তা কি অবশ্যই ব্যাংক ট্রান্সফারের মাধ্যমে হতে হবে",
+      "similarity": 0.3992243051066581,
+      "source_file": 5,
+      "content_length": 302
+    },
+    {
+      "path": "structured_content.99.content.bengali_text",
+      "topic": "বিশেষ ভাড়া হইতে আয় পরিগণনা কিভাবে করতে হবে",
+      "similarity": 0.3260810810810811,
+      "source_file": 6,
+      "content_length": 141
+    },
+    {
+      "path": "structured_content.100.content.bengali_text",
+      "topic": "বিশেষ ভাড়া হইতে আয় পরিগণনায় কী কী বিয়োজন অনুমোদিত হবে",
+      "similarity": 0.3316026306680512,
+      "source_file": 5,
+      "content_length": 264
+    },
+    {
+      "path": "structured_content.101.content.bengali_text",
+      "topic": "বিশেষ ভাড়া হইতে আয়ের করহার কী হবে",
+      "similarity": 0.3746753246753247,
+      "source_file": 6,
+      "content_length": 141
+    },
+    {
+      "path": "structured_content.102.content.bengali_text",
+      "topic": "ব্যবসা হতে আয়ের বিশেষ ক্ষেত্রসমূহ সংক্রান্ত ধারা ৪৬ সংশোধন",
+      "similarity": 0.2967257112184648,
+      "source_file": 7,
+      "content_length": 184
+    },
+    {
+      "path": "structured_content.103.content.bengali_text",
+      "topic": "২০২৪-২০২৫ করবর্ষ হতে কি কেবল পরিশোধিত সুদ বা মুনাফা-ই বিয়োজন হিসাবে দাবী করা যাবে বা অনুমোদিত হবে",
+      "similarity": 0.46818652849740927,
+      "source_file": 6,
+      "content_length": 95
+    },
+    {
+      "path": "structured_content.104.content.bengali_text",
+      "topic": "আয়কর আইন, ২০২৩ এর ধারা ৭২ এর উপ-ধারা (৩) অনুযায়ী একটি কোম্পানিকে International Accounting Standards (IAS), International Financial Reporting Standards (IFRS) ও বাংলাদেশে বলবৎ সংশ্লিষ্ট আইন অনুযায়ী হিসাব রক্ষণ এবং আর্থিক প্রতিবেদন প্রস্তুত করার কথা বলা হয়েছে। এক্ষেত্রে (payable) সুদ বা মুনাফা বিয়োজন অনুমোদন কি এই ধারার লক্ষ্যন হবে না",
+      "similarity": 0.8768131039189626,
+      "source_file": 6,
+      "content_length": 340
+    },
+    {
+      "path": "structured_content.105.content.bengali_text",
+      "topic": "ব্যবসা হইতে আয় গণনার ক্ষেত্রে অনুমোদনযোগ্য সাধারণ বিয়োজনসমূহ সংক্রান্ত ধারা ৪৯ সংশোধন",
+      "similarity": 0.44448961156278227,
+      "source_file": 6,
+      "content_length": 241
+    },
+    {
+      "path": "structured_content.106.content.bengali_text",
+      "topic": "কতিপয় ক্ষেত্রে বিয়োজন অনুমোদনযোগ্য না হওয়া সংক্রান্ত ধারা ৫৫ এর সংশোধন",
+      "similarity": 0.2825018615040953,
+      "source_file": 5,
+      "content_length": 85
+    },
+    {
+      "path": "structured_content.107.content.bengali_text",
+      "topic": "বিশেষ ব্যবসা আয় পরিগণনা সংক্রান্ত ধারা ৫৬ এর সংশোধন",
+      "similarity": 0.28861024033437827,
+      "source_file": 6,
+      "content_length": 209
+    },
+    {
+      "path": "structured_content.108.content.bengali_text",
+      "topic": "ব্যবসা হতে আয় পরিগণনার নিয়ম",
+      "similarity": 0.21638655462184875,
+      "source_file": 2,
+      "content_length": 83
+    },
+    {
+      "path": "structured_content.109.content.bengali_text",
+      "topic": "আর্থিক পরিসম্পদ হইতে আয় সংক্রান্ত ধারা ৬২ এর সংশোধন",
+      "similarity": 0.29589958158995816,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.110.content.bengali_text",
+      "topic": "অন্যান্য উৎস হইতে আয় সংক্রান্ত ধারা ৬৬ এর সংশোধন",
+      "similarity": 0.3641558441558441,
+      "source_file": 7,
+      "content_length": 182
+    },
+    {
+      "path": "structured_content.111.content.bengali_text",
+      "topic": "অন্যান্য উৎস হইতে আয়ের বিশেষ ক্ষেত্র সংক্রান্ত ধারা ৬৭ এর সংশোধন",
+      "similarity": 0.42248995983935744,
+      "source_file": 7,
+      "content_length": 184
+    },
+    {
+      "path": "structured_content.112.content.bengali_text",
+      "topic": "ক্ষতির সময়ে এবং জের টানা সংক্রান্ত ধারা ৭০ এর সংশোধন",
+      "similarity": 0.2927256792287467,
+      "source_file": 7,
+      "content_length": 110
+    },
+    {
+      "path": "structured_content.113.content.bengali_text",
+      "topic": "কোম্পানি, ইত্যাদি কর্তৃক নিরীক্ষাকৃত আর্থিক প্রতিবেদন দাখিল সংক্রান্ত ধারা ৭৩ এর সংশোধন",
+      "similarity": 0.2731938412949072,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.114.content.bengali_text",
+      "topic": "দীর্ঘমেয়াদি চুক্তির ক্ষেত্রে হিসাবরক্ষণ পদ্ধতি সংক্রান্ত ধারা ৭৪ এর সংশোধন",
+      "similarity": 0.3450450450450451,
+      "source_file": 7,
+      "content_length": 258
+    },
+    {
+      "path": "structured_content.115.content.bengali_text",
+      "topic": "কর অবাবস্থিত সংক্রান্ত ধারা ৭৬ এর সংশোধন",
+      "similarity": 0.31871657754010696,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.116.content.bengali_text",
+      "topic": "বোর্ড কর্তৃক কর অবকাশপ্রাপ্ত সভা অনুমোদন সংক্রান্ত ধারা ৮২ এর সংশোধন",
+      "similarity": 0.29435897435897435,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.117.content.bengali_text",
+      "topic": "চাকরির আয় হইতে উৎসে কর কর্তন সংক্রান্ত ধারা ৮৬ এর সংশোধন",
+      "similarity": 0.3645765998707175,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.118.content.bengali_text",
+      "topic": "অবশ্যভূত তহবিল, কল্যাণ তহবিল ও শ্রমিক কল্যাণ ফাউন্ডেশন তহবিলে প্রদত্ত অর্থ হইতে উৎসে কর্তন সংক্রান্ত ধারা ৮৮ এর প্রতিস্থাপন",
+      "similarity": 0.3370643838059568,
+      "source_file": 7,
+      "content_length": 500
+    },
+    {
+      "path": "structured_content.119.content.bengali_text",
+      "topic": "কমিশন, ডিসকাউন্ট, ফি, ইত্যাদি হইতে কর্তন বা উৎসে কর সংগ্রহ সংক্রান্ত ধারা ৯৪ এর সংশোধন",
+      "similarity": 0.33135135135135135,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.120.content.bengali_text",
+      "topic": "স্থানীয় খাদ্যপণ্যের বিপরীতে পরিশোধিত অর্থ হইতে কর্তন সংক্রান্ত ধারা ৯৭ এর সংশোধন",
+      "similarity": 0.31724709784411276,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.121.content.bengali_text",
+      "topic": "সেলুলার মোবাইল ফোন অপারেটর কর্তৃক পরিশোধিত অর্থের উপর কর কর্তন সংক্রান্ত ধারা ৯৮ এর সংশোধন",
+      "similarity": 0.300503355704698,
+      "source_file": 23,
+      "content_length": 59
+    },
+    {
+      "path": "structured_content.122.content.bengali_text",
+      "topic": "সঞ্চয়ী আমানত ও স্থায়ী আমানত, ইত্যাদি হইতে কর কর্তন সংক্রান্ত ধারা ১০২ এর সংশোধন",
+      "similarity": 0.3351575456053068,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.123.content.bengali_text",
+      "topic": "কোন কোন প্রকারের সুদ বা মুনাফা হতে ধারা ১০২ এর অধীন উৎসে কর কর্তন প্রযোজ্য হবে",
+      "similarity": 0.43419972640218873,
+      "source_file": 7,
+      "content_length": 94
+    },
+    {
+      "path": "structured_content.124.content.bengali_text",
+      "topic": "ধারা ১০২ এর অধীন কোন কোনো ব্যক্তির কী কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "similarity": 0.49698795180722893,
+      "source_file": 7,
+      "content_length": 94
+    },
+    {
+      "path": "structured_content.125.content.bengali_text",
+      "topic": "ধারা ১০২ এর অধীন বিভিন্ন ধর্মীয় প্রতিষ্ঠানের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "similarity": 0.3646954986760812,
+      "source_file": 7,
+      "content_length": 94
+    },
+    {
+      "path": "structured_content.126.content.bengali_text",
+      "topic": "ধারা ১০২ এর অধীন বিভিন্ন রাষ্ট্রীয় প্রতিষ্ঠান বা সংবিধিবদ্ধ সরকারি সংস্থা যাদের আয়কর রিটার্ন দাখিলের বাধ্যবাধকতা নেই তাদের বরাবরে উদ্ভূত সুদ বা মুনাফা হতে কী হারে উৎসে কর কর্তন প্রযোজ্য হবে",
+      "similarity": 0.30267558528428096,
+      "source_file": 7,
+      "content_length": 591
+    },
+    {
+      "path": "structured_content.127.content.bengali_text",
+      "topic": "ধারা ১০২ এর অধীন স্থানীয় কর্তৃপক্ষ কর্তৃক বিভিন্ন ধরনের আমানতের বিপরীতে প্রাপ্ত সুদ বা মুনাফার বিপরীতে উৎসে কর কর্তন করতে হবে কিনা",
+      "similarity": 0.3959227799227799,
+      "source_file": 7,
+      "content_length": 394
+    },
+    {
+      "path": "structured_content.128.content.bengali_text",
+      "topic": "পোস্ট অফিস সঞ্চয় ব্যাংকে রক্ষিত অর্থের সুদ হইতে প্রাপ্ত আয়ের উপর উৎসে কর কর্তন সংক্রান্ত ধারা ১০৩ এর বিলোপ",
+      "similarity": 0.4455510974746283,
+      "source_file": 7,
+      "content_length": 338
+    },
+    {
+      "path": "structured_content.129.content.bengali_text",
+      "topic": "পরিবহণ মাশুল ফরওয়ার্ড এজেন্সি কমিশন হইতে কর কর্তন সংক্রান্ত ধারা ১১৩ এর বিলোপ",
+      "similarity": 0.279748427672956,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.130.content.bengali_text",
+      "topic": "বিদ্যুৎ ক্রয়ের বিপরীতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর সংশোধন",
+      "similarity": 0.34347826086956523,
+      "source_file": 7,
+      "content_length": 215
+    },
+    {
+      "path": "structured_content.131.content.bengali_text",
+      "topic": "কোনো সেবা, রেটিং এজেন্সি শেয়ারিং, ইত্যাদি বাবদ বিদেশ হইতে প্রেরিত আয় হইতে কর কর্তন সংক্রান্ত ধারা ১১৪ এর সংশোধন",
+      "similarity": 0.5571428571428572,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.132.content.bengali_text",
+      "topic": "ধারা ১১৪ এর অধীন উৎসে কর কর্তনের হার হ্রাসকরণ",
+      "similarity": 0.36684491978609624,
+      "source_file": 13,
+      "content_length": 57
+    },
+    {
+      "path": "structured_content.133.content.bengali_text",
+      "topic": "বাযিং হাউজ কমিশন (buying house commission) হতে কি ধারা ১১৪ অনুযায়ী উৎসে কর কর্তন প্রযোজ্য হবে",
+      "similarity": 0.7664416586306654,
+      "source_file": 7,
+      "content_length": 89
+    },
+    {
+      "path": "structured_content.134.content.bengali_text",
+      "topic": "ধারা ১১৪ এর অধীন ক্রেডিট ফরওয়ার্ড এজেন্ট কর্তৃক বিদেশ হতে গৃহীত অর্থের উপর নূতন করহার নির্ধারণ",
+      "similarity": 0.3161048689138577,
+      "source_file": 2,
+      "content_length": 83
+    },
+    {
+      "path": "structured_content.135.content.bengali_text",
+      "topic": "ধারা ১১৪ এর অধীন যে সকল ক্ষেত্রে কর কর্তন করতে হবে না",
+      "similarity": 0.41323600973236013,
+      "source_file": 7,
+      "content_length": 84
+    },
+    {
+      "path": "structured_content.145.content.bengali_text",
+      "topic": "অগ্রিম কর পরিশোধের ক্ষেত্রে ত্রুটাতি থাকিলে উহার উপর করদাতা কর্তৃক সুদ প্রদেয় সংক্রান্ত ধারা ১৬২ এর সংশোধন",
+      "similarity": 0.2548148148148148,
+      "source_file": 2,
+      "content_length": 103
+    },
+    {
+      "path": "structured_content.146.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর সংশোধন",
+      "similarity": 0.25907590759075905,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.147.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (ক) এর বিলোপ ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "similarity": 0.3305061559507524,
+      "source_file": 15,
+      "content_length": 81
+    },
+    {
+      "path": "structured_content.148.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৩) এর দফা (খ) এর সংশোধন ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "similarity": 0.3259163987138264,
+      "source_file": 8,
+      "content_length": 219
+    },
+    {
+      "path": "structured_content.149.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা ৫ এর সংশোধন ও ন্যূনতম করের আওতা বৃদ্ধি",
+      "similarity": 0.33249999999999996,
+      "source_file": 15,
+      "content_length": 81
+    },
+    {
+      "path": "structured_content.150.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৬) এর সংশোধন",
+      "similarity": 0.34188034188034183,
+      "source_file": 15,
+      "content_length": 81
+    },
+    {
+      "path": "structured_content.151.content.bengali_text",
+      "topic": "ন্যূনতম কর সংক্রান্ত ধারা ১৬৩ এর উপ-ধারা (৭) এর প্রতিস্থাপন",
+      "similarity": 0.3393406593406593,
+      "source_file": 15,
+      "content_length": 81
+    },
+    {
+      "path": "structured_content.136.content.bengali_text",
+      "topic": "সম্পত্তি হস্তান্তর, ইত্যাদি হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৫ এর সংশোধন",
+      "similarity": 0.3248391248391248,
+      "source_file": 8,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.137.content.bengali_text",
+      "topic": "ডেভেলপার বা রিয়েল এস্টেট ডেভেলপারের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৬ এর প্রতিস্থাপন",
+      "similarity": 0.6437926878264364,
+      "source_file": 7,
+      "content_length": 172
+    },
+    {
+      "path": "structured_content.138.content.bengali_text",
+      "topic": "সম্পত্তির ইজারা হইতে কর সংগ্রহ সংক্রান্ত ধারা ১২৮ এর সংশোধন",
+      "similarity": 0.33142857142857146,
+      "source_file": 8,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.139.content.bengali_text",
+      "topic": "ইট প্রস্তুতকারকের নিকট হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩০ এর প্রতিস্থাপন",
+      "similarity": 0.5837837837837838,
+      "source_file": 8,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.140.content.bengali_text",
+      "topic": "শেয়ার হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৪ এর সংশোধন",
+      "similarity": 0.34161137440758294,
+      "source_file": 8,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.141.content.bengali_text",
+      "topic": "সিকিউরিটিজ হস্তান্তর হইতে কর সংগ্রহ সংক্রান্ত ধারা ১৩৫ এর প্রতিস্থাপন",
+      "similarity": 0.3998086124401914,
+      "source_file": 8,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.142.content.bengali_text",
+      "topic": "নির্দিষ্ট ব্যক্তির সংজ্ঞা সংক্রান্ত ধারা ১৪০ এর সংশোধন",
+      "similarity": 0.27948051948051944,
+      "source_file": 13,
+      "content_length": 56
+    },
+    {
+      "path": "structured_content.143.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৪২ এর সংশোধন",
+      "similarity": 0.467109634551495,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.144.content.bengali_text",
+      "topic": "উৎসে কর কর্তন বা সংগ্রহের সাধারণ বিধান সংক্রান্ত ধারা ১৫৩ এর সংশোধন",
+      "similarity": 0.467109634551495,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.152.content.bengali_text",
+      "topic": "উৎসে অধিক বা কম কর্তিত বা সংগৃহীত কর ন্যূনতম করের ভিত্তি না হওয়া সংক্রান্ত ধারা ১৬৪ এর সংশোধন",
+      "similarity": 0.3829059829059829,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.153.content.bengali_text",
+      "topic": "রিটার্ন সংক্রান্ত ধারা ১৬৫ এর সংশোধন",
+      "similarity": 0.26666666666666666,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.154.content.bengali_text",
+      "topic": "পরিসম্পদ ও দায়ের বিবরণী দাখিল সংক্রান্ত ধারা ১৬৭ এর সংশোধন",
+      "similarity": 0.2830508474576271,
+      "source_file": 8,
+      "content_length": 177
+    },
+    {
+      "path": "structured_content.155.content.bengali_text",
+      "topic": "জীবনযাপন সংশ্লিষ্ট ব্যয় বিবরণী দাখিল সংক্রান্ত ধারা ১৬৮ এর সংশোধন",
+      "similarity": 0.26875,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.156.content.bengali_text",
+      "topic": "রিটার্ন দাখিলের সাধারণ নিয়মাবলি সংক্রান্ত ধারা ১৬৯ এর সংশোধন",
+      "similarity": 0.34840579710144925,
+      "source_file": 8,
+      "content_length": 54
+    },
+    {
+      "path": "structured_content.157.content.bengali_text",
+      "topic": "স্বনির্ধারণী পদ্ধতিতে রিটার্ন দাখিল সংক্রান্ত ধারা ১৭০ এর প্রতিস্থাপন",
+      "similarity": 0.32515313179213595,
+      "source_file": 8,
+      "content_length": 172
+    },
+    {
+      "path": "structured_content.158.content.bengali_text",
+      "topic": "রিটার্ন দাখিলের সময় ও আয়কর পরিশোধ সংক্রান্ত ধারা ১৭১ এর প্রতিস্থাপন",
+      "similarity": 0.32152380952380955,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.159.content.bengali_text",
+      "topic": "করবিবস পরবর্তী সময়ে রিটার্ন দাখিলের ক্ষেত্রে কর পরিকল্পনা সংক্রান্ত ধারা ১৭৪ এর প্রতিস্থাপন",
+      "similarity": 0.31666666666666665,
+      "source_file": 8,
+      "content_length": 172
+    },
+    {
+      "path": "structured_content.160.content.bengali_text",
+      "topic": "সাধারণ রিটার্ন ও সংশোধিত রিটার্ন সংক্রান্ত বিশেষ বিধানাবলি সংক্রান্ত ধারা ১৭৫ এর প্রতিস্থাপন",
+      "similarity": 0.6299465240641712,
+      "source_file": 8,
+      "content_length": 172
+    },
+    {
+      "path": "structured_content.161.content.bengali_text",
+      "topic": "অসম্পূর্ণ রিটার্ন দাখিলের ফলাফল সংক্রান্ত ধারা ১৭৬ এর সংশোধন",
+      "similarity": 0.3433333333333333,
+      "source_file": 13,
+      "content_length": 75
+    },
+    {
+      "path": "structured_content.162.content.bengali_text",
+      "topic": "উৎসে করের রিটার্ন সংক্রান্ত ধারা ১৭৭ এর সংশোধন",
+      "similarity": 0.365266106442577,
+      "source_file": 12,
+      "content_length": 107
+    },
+    {
+      "path": "structured_content.163.content.bengali_text",
+      "topic": "হিসাব, দলিলাদি ইত্যাদি উপস্থাপন সংক্রান্ত ধারা ১৭৯ এর সংশোধন",
+      "similarity": 0.2924576398260609,
+      "source_file": 7,
+      "content_length": 187
+    },
+    {
+      "path": "structured_content.164.content.bengali_text",
+      "topic": "স্বনির্ধারণী পদ্ধতিতে কর নির্ধারণ ও রিটার্ন দাখিল সংক্রান্ত ধারা ১৮০ এর সংশোধন",
+      "similarity": 0.32941176470588235,
+      "source_file": 13,
+      "content_length": 75
+    },
+    {
+      "path": "structured_content.165.content.bengali_text",
+      "topic": "অডিট সংক্রান্ত ধারা ১৮১ এর সংশোধন",
+      "similarity": 0.2805254140491148,
+      "source_file": 8,
+      "content_length": 173
+    },
+    {
+      "path": "structured_content.166.content.bengali_text",
+      "topic": "পূর্ববর্তী করবর্ষের মোট আয়ের তুলনায় ১৫% অধিক আয় প্রদর্শনের পরেও কোন কোন ক্ষেত্রে অডিট করা যাবে",
+      "similarity": 0.2670992861778066,
+      "source_file": 1,
+      "content_length": 104
+    },
+    {
+      "path": "structured_content.167.content.bengali_text",
+      "topic": "রিটার্ন কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "similarity": 0.4806979280261723,
+      "source_file": 8,
+      "content_length": 65
+    },
+    {
+      "path": "structured_content.168.content.bengali_text",
+      "topic": "কোনো করদাতা একসাথে একাধিক বছরের রিটার্ন দাখিলের ক্ষেত্রে সেগুলো কর্তৃপক্ষের মধ্যে অডিটের জন্য নির্বাচন বা অনুমোদন করা যাবে",
+      "similarity": 0.6515824915824916,
+      "source_file": 8,
+      "content_length": 208
+    },
+    {
+      "path": "structured_content.169.content.bengali_text",
+      "topic": "উপকর কমিশনার কর্তৃক কর নির্ধারণ সংক্রান্ত ধারা ১৮৩ এর সংশোধন",
+      "similarity": 0.3315846994535519,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.170.content.bengali_text",
+      "topic": "কর নির্ধারণে সময়ের সীমাবদ্ধতা সংক্রান্ত ধারা ১৯৭ এর সংশোধন",
+      "similarity": 0.5043023255813953,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.171.content.bengali_text",
+      "topic": "তদন্তকারী আয়কর কর্তৃপক্ষের সংজ্ঞা সংক্রান্ত ধারা ১১৮ এর সংশোধন",
+      "similarity": 0.29369863013698627,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.172.content.bengali_text",
+      "topic": "রিটার্ন দাখিলের প্রমাণ দাখিলের বাধ্যবাধকতা সংক্রান্ত ধারা ২৬৪ এর সংশোধন",
+      "similarity": 0.33607692307692305,
+      "source_file": 8,
+      "content_length": 329
+    },
+    {
+      "path": "structured_content.173.content.bengali_text",
+      "topic": "রিটার্ন দাখিলের প্রমাণ প্রদর্শন সংক্রান্ত ধারা ২৬৫ এর সংশোধন",
+      "similarity": 0.3433333333333333,
+      "source_file": 13,
+      "content_length": 75
+    },
+    {
+      "path": "structured_content.174.content.bengali_text",
+      "topic": "নোটিশের অমান্যতার জন্য জরিমানা সংক্রান্ত ধারা ২৭০ এর সংশোধন",
+      "similarity": 0.3152018543558045,
+      "source_file": 8,
+      "content_length": 275
+    },
+    {
+      "path": "structured_content.175.content.bengali_text",
+      "topic": "রিটার্নের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরিমানা সংক্রান্ত ধারা ২৭১ এর সংশোধন",
+      "similarity": 0.3889424003082258,
+      "source_file": 8,
+      "content_length": 277
+    },
+    {
+      "path": "structured_content.176.content.bengali_text",
+      "topic": "কমিশনারের রিভিশনের ক্ষমতাসংক্রান্ত ধারা ২৮৫ এর সংশোধন",
+      "similarity": 0.3034025374855825,
+      "source_file": 8,
+      "content_length": 236
+    },
+    {
+      "path": "structured_content.177.content.bengali_text",
+      "topic": "আপিল আয়কর কর্তৃপক্ষের নিকট আপিল সংক্রান্ত ধারা ১৮৬ এর সংশোধন",
+      "similarity": 0.35681159420289854,
+      "source_file": 14,
+      "content_length": 54
+    },
+    {
+      "path": "structured_content.178.content.bengali_text",
+      "topic": "আপিল ট্রাইব্যুনালে আপিল সংক্রান্ত ধারা ১৯১ এর সংশোধন",
+      "similarity": 0.2664150943396226,
+      "source_file": 14,
+      "content_length": 54
+    },
+    {
+      "path": "structured_content.179.content.bengali_text",
+      "topic": "হাইকোর্ট বিভাগে রেফারেন্স সংক্রান্ত ধারা ১৬৩ এর সংশোধন",
+      "similarity": 0.33547169811320754,
+      "source_file": 8,
+      "content_length": 211
+    },
+    {
+      "path": "structured_content.180.content.bengali_text",
+      "topic": "সময়সীমা বৃদ্ধি বা তামাদি প্রয়োজনের ক্ষমতা সংক্রান্ত ধারা ৩৩৪ এর প্রতিস্থাপন",
+      "similarity": 0.2914553257900897,
+      "source_file": 8,
+      "content_length": 156
+    },
+    {
+      "path": "structured_content.181.content.bengali_text",
+      "topic": "বিশেষ কর প্রদানের মাধ্যমে বিনিয়োগ প্রদর্শন সংক্রান্ত প্রথম তফসিলের সংশোধন",
+      "similarity": 0.31443746982134235,
+      "source_file": 9,
+      "content_length": 144
+    },
+    {
+      "path": "structured_content.182.content.bengali_text",
+      "topic": "স্থাপনা, বাড়ি অথবা ফ্লোর স্পেস বাণিজ্যিক উদ্দেশ্যে নির্মিত হলে করহার ১০০% অধিক",
+      "similarity": 0.31899951899951895,
+      "source_file": 9,
+      "content_length": 152
+    },
+    {
+      "path": "structured_content.183.content.bengali_text",
+      "topic": "যে সকল ক্ষেত্রে ১৫০% অধিক কর পরিশোধ করতে হবে",
+      "similarity": 0.44241071428571427,
+      "source_file": 7,
+      "content_length": 84
+    },
+    {
+      "path": "structured_content.184.content.bengali_text",
+      "topic": "অর্থনৈতিক অঞ্চল বা হাইটেক পার্কে বিনিয়োগের ক্ষেত্রে বিশেষ কর ব্যবস্থাপনা রহিতকরণ",
+      "similarity": 0.6042857142857143,
+      "source_file": 9,
+      "content_length": 199
+    },
+    {
+      "path": "structured_content.185.content.bengali_text",
+      "topic": "অপ্রদর্শিত পরিসম্পদ প্রদর্শন সংক্রান্ত অংশ ৩ সংযোজন",
+      "similarity": 0.24315861130020422,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.186.content.bengali_text",
+      "topic": "অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শনের ক্ষেত্রে কতিপয় পরিগণনীয় বিষয়াদি",
+      "similarity": 0.26710526315789473,
+      "source_file": 12,
+      "content_length": 97
+    },
+    {
+      "path": "structured_content.187.content.bengali_text",
+      "topic": "যে সকল ক্ষেত্রসমূহে অংশ ৩ এর অধীন অগ্রাধিকৃত পরিসম্পদ প্রদর্শন করা যাবে না",
+      "similarity": 0.3348920863309352,
+      "source_file": 8,
+      "content_length": 65
+    },
+    {
+      "path": "structured_content.188.content.bengali_text",
+      "topic": "বিমা ব্যবসায় মুনাফা ও লাভ পরিগণনা সংক্রান্ত চতুর্থ তফসিলের সংশোধন",
+      "similarity": 0.257315233785822,
+      "source_file": 9,
+      "content_length": 240
+    },
+    {
+      "path": "structured_content.189.content.bengali_text",
+      "topic": "জীবন বিমা ব্যবসায় মুনাফা ও লাভ গণনা",
+      "similarity": 0.28857142857142853,
+      "source_file": 9,
+      "content_length": 132
+    },
+    {
+      "path": "structured_content.190.content.bengali_text",
+      "topic": "অন্যান্য বিমা ব্যবসায় মুনাফা এবং লাভ গণনা সংক্রান্ত",
+      "similarity": 0.28280632411067197,
+      "source_file": 9,
+      "content_length": 132
+    },
+    {
+      "path": "structured_content.191.content.bengali_text",
+      "topic": "পেট্রোলিয়াম অনুসন্ধান ও উৎপাদন হইতে উদ্ভূত মুনাফা ও লাভ পরিগণনা এবং কর নিরূপণ সংক্রান্ত পঞ্চম তফসিলের অংশ ১ এর সংশোধন",
+      "similarity": 0.4453621621621621,
+      "source_file": 9,
+      "content_length": 382
+    },
+    {
+      "path": "structured_content.192.content.bengali_text",
+      "topic": "কর অব্যাহতি, রেয়াত ও ক্রেডিট সংক্রান্ত ষষ্ঠ তফসিলের এর সংশোধন",
+      "similarity": 0.280184331797235,
+      "source_file": 16,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.193.content.bengali_text",
+      "topic": "ষষ্ঠ তফসিলের শিরোনামে সংশোধন",
+      "similarity": 0.21450068399452804,
+      "source_file": 9,
+      "content_length": 144
+    },
+    {
+      "path": "structured_content.194.content.bengali_text",
+      "topic": "যে সকল দান বা অনুদান করমুক্ত",
+      "similarity": 0.23214285714285715,
+      "source_file": 7,
+      "content_length": 84
+    },
+    {
+      "path": "structured_content.195.content.bengali_text",
+      "topic": "যে সকল শর্তে মাইক্রোক্রেডিট রেগুলেটরী অথরিটি কর্তৃক নির্বাচিত কোনো সভার ক্ষুদ্রঋণ কার্যক্রম পরিচালনা হতে উদ্ভূত সার্ভিস চার্জ করমুক্ত",
+      "similarity": 0.26807017543859646,
+      "source_file": 5,
+      "content_length": 152
+    },
+    {
+      "path": "structured_content.196.content.bengali_text",
+      "topic": "যে সকল শর্তে ট্রাস্টের সুবিধাভোগী বা তহবিলের অংশগ্রহণকারী হাতে ট্রাস্ট বা তহবিল হতে প্রাপ্ত আয় করমুক্ত",
+      "similarity": 0.3468048359240069,
+      "source_file": 9,
+      "content_length": 476
+    },
+    {
+      "path": "structured_content.197.content.bengali_text",
+      "topic": "যে সকল শর্তে কতিপয় আইটি এনাবল্ড সার্ভিস হতে প্রাপ্ত আয় করমুক্ত",
+      "similarity": 0.2671780821917808,
+      "source_file": 5,
+      "content_length": 155
+    },
+    {
+      "path": "structured_content.198.content.bengali_text",
+      "topic": "আইসিবি, আইসিএমএবি ও আইসিএসবি এবং সংশ্লিষ্ট পেশাজীবী সংগঠনসমূহ কর্তৃক কর পরিশোধের বাধ্যবাধকতা",
+      "similarity": 0.239098274040155,
+      "source_file": 9,
+      "content_length": 75
+    },
+    {
+      "path": "structured_content.199.content.bengali_text",
+      "topic": "সর্বজনীন পেনশন স্কিমের আওতায় প্রাপ্ত পেনশন করমুক্ত",
+      "similarity": 0.24639498432601878,
+      "source_file": 9,
+      "content_length": 323
+    },
+    {
+      "path": "structured_content.200.content.bengali_text",
+      "topic": "যে শর্তে স্বামী-স্ত্রী, মাতা-পিতা বা সন্তানের নিকট হতে গৃহীত দান করমুক্ত",
+      "similarity": 0.2726603047045036,
+      "source_file": 7,
+      "content_length": 290
+    },
+    {
+      "path": "structured_content.201.content.bengali_text",
+      "topic": "যে শর্তে শেয়ার বা ইউনিট হস্তান্তর হতে অর্জিত অনধিক ৫০ লক্ষ টাকার মূলধনি লাভ করমুক্ত",
+      "similarity": 0.4111111111111111,
+      "source_file": 9,
+      "content_length": 88
+    },
+    {
+      "path": "structured_content.202.content.bengali_text",
+      "topic": "ষষ্ঠ তফসিলের অংশ ২ এর সংশোধন",
+      "similarity": 0.22181818181818183,
+      "source_file": 12,
+      "content_length": 82
+    },
+    {
+      "path": "structured_content.203.content.bengali_text",
+      "topic": "যত তথ্যসিলের অংশ ও অনুযায়ী কর রেয়াত কেবল স্বাভাবিক ব্যক্তির জন্য",
+      "similarity": 0.25754088431253785,
+      "source_file": 13,
+      "content_length": 61
+    },
+    {
+      "path": "structured_content.204.content.bengali_text",
+      "topic": "করদাতা এবং তার নিয়োগকারী কর্তৃক ভবিষ্য তহবিলে প্রদত্ত চাঁদা কর রেয়াতযোগ্য বিনিয়োগ",
+      "similarity": 0.3105538999075121,
+      "source_file": 9,
+      "content_length": 442
+    },
+    {
+      "path": "structured_content.205.content.bengali_text",
+      "topic": "সর্বজনীন পেনশন স্কিমে প্রদত্ত চাঁদা কর রেয়াতযোগ্য বিনিয়োগ",
+      "similarity": 0.21700118063754428,
+      "source_file": 14,
+      "content_length": 62
+    },
+    {
+      "path": "structured_content.206.content.bengali_text",
+      "topic": "কতিপয় ভেতা অবকাঠামোর কর অবকাশ সুবিধার বিলোপ",
+      "similarity": 0.15932423651721897,
+      "source_file": 9,
+      "content_length": 199
+    },
+    {
+      "path": "structured_content.207.content.bengali_text",
+      "topic": "বিশেষ করহার সংক্রান্ত সপ্তম তফসিলের সংশোধন",
+      "similarity": 0.4309677419354839,
+      "source_file": 9,
+      "content_length": 144
+    },
+    {
+      "path": "structured_content.208.content.bengali_text",
+      "topic": "কোম্পানির পাশাপাশি ট্রাস্ট ও তহবিল কর্তৃক অর্জিত মূলধনি আয়ের করহার",
+      "similarity": 0.33025048169556837,
+      "source_file": 2,
+      "content_length": 106
+    },
+    {
+      "path": "structured_content.209.content.bengali_text",
+      "topic": "রিটার্ন দাখিলে বাধ্য নয় এরূপ কোনো কোম্পানির গ্যাস প্রাপ্তির উপর করহার",
+      "similarity": 0.38181818181818183,
+      "source_file": 9,
+      "content_length": 238
+    },
+    {
+      "path": "structured_content.210.content.bengali_text",
+      "topic": "ভ্রমণ কর আইন, ২০২৩ এর সংশোধন",
+      "similarity": 0.24930167597765365,
+      "source_file": 2,
+      "content_length": 151
+    },
+    {
+      "path": "structured_content.211.content.bengali_text",
+      "topic": "ভ্রমণ কর আদায়ে আমফর আইন, ২০২৩ অনুযায়ী ব্যবস্থা গ্রহণ",
+      "similarity": 0.28205128205128205,
+      "source_file": 6,
+      "content_length": 141
+    },
+    {
+      "path": "structured_content.212.content.bengali_text",
+      "topic": "ভ্রমণ কর পরিশোধ হতে অব্যাহতি প্রদান",
+      "similarity": 0.27386363636363636,
+      "source_file": 12,
+      "content_length": 61
+    }
+  ]
+}
