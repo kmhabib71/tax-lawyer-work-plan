@@ -64,7 +64,10 @@ lerna-debug.log*
 .env.local
 .env.production
 .env.staging
-
+.next
+#add nested folders .next folder
+.next/
+# add any folder name with .next in the project
 # Logs
 *.log
 logs/

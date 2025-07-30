@@ -1,0 +1,228 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Bengali Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* Custom Bengali font - Kalpurush */
+@font-face {
+  font-family: 'Kalpurush';
+  src: url('https://fonts.gstatic.com/ea/kalpurush/v1/kalpurush.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+    line-height: 1.6;
+  }
+  
+  /* Bengali text styling */
+  .bengali-text {
+    font-family: 'Kalpurush', 'SolaimanLipi', 'Arial Unicode MS', sans-serif;
+    font-size: 1.1em;
+    line-height: 1.7;
+  }
+  
+  /* Mobile-first responsive typography */
+  h1 {
+    @apply text-2xl sm:text-3xl lg:text-4xl font-bold leading-tight;
+  }
+  
+  h2 {
+    @apply text-xl sm:text-2xl lg:text-3xl font-semibold leading-tight;
+  }
+  
+  h3 {
+    @apply text-lg sm:text-xl lg:text-2xl font-medium leading-tight;
+  }
+}
+
+@layer components {
+  /* Mobile-first button styles */
+  .btn-primary {
+    @apply bg-primary-600 hover:bg-primary-700 text-white font-medium py-3 px-6 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed;
+    min-height: 48px; /* Touch target size */
+  }
+  
+  .btn-secondary {
+    @apply bg-white hover:bg-gray-50 text-gray-700 border border-gray-300 font-medium py-3 px-6 rounded-lg transition-all duration-200 shadow-sm hover:shadow-md active:scale-95;
+    min-height: 48px;
+  }
+  
+  .btn-bangladeshi {
+    @apply bg-bangladeshi-green hover:bg-green-700 text-white font-medium py-3 px-6 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl active:scale-95;
+    min-height: 48px;
+  }
+  
+  /* Mobile-optimized form inputs */
+  .input-primary {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-primary-500 bg-white text-gray-900 placeholder-gray-500 transition-all duration-200;
+    min-height: 48px;
+    font-size: 16px; /* Prevent zoom on iOS */
+  }
+  
+  .input-error {
+    @apply border-red-300 focus:ring-red-500 focus:border-red-500;
+  }
+  
+  /* Card components */
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-200 p-4 sm:p-6;
+  }
+  
+  .card-elevated {
+    @apply bg-white rounded-xl shadow-lg border border-gray-200 p-4 sm:p-6 hover:shadow-xl transition-shadow duration-200;
+  }
+  
+  /* Mobile-optimized spacing */
+  .container-mobile {
+    @apply max-w-md mx-auto px-4 sm:px-6;
+  }
+  
+  .container-responsive {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  /* Currency display */
+  .currency-display {
+    @apply font-mono text-lg sm:text-xl font-bold text-bangladeshi-green;
+  }
+  
+  /* Loading states */
+  .loading-spinner {
+    @apply animate-spin rounded-full h-6 w-6 border-b-2 border-primary-600;
+  }
+  
+  /* Touch-friendly interactive elements */
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Safe area padding for mobile devices */
+  .safe-area-padding {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+}
+
+@layer utilities {
+  /* Mobile-specific utilities */
+  .scroll-smooth {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+  
+  .backdrop-blur-glass {
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+  }
+  
+  /* Animation utilities */
+  .animate-slide-up {
+    animation: slideUp 0.3s ease-out forwards;
+  }
+  
+  .animate-fade-in {
+    animation: fadeIn 0.2s ease-out forwards;
+  }
+  
+  /* Animation keyframes */
+  @keyframes slideUp {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  /* Custom shadows for depth */
+  .shadow-soft {
+    box-shadow: 0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04);
+  }
+  
+  .shadow-bangladeshi {
+    box-shadow: 0 4px 20px -2px rgba(0, 106, 78, 0.15);
+  }
+  
+  /* Mobile-optimized text sizes */
+  .text-mobile-sm {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .text-mobile-base {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .text-mobile-lg {
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+
+/* Responsive design for mobile-first approach */
+@media (max-width: 640px) {
+  /* Ensure proper spacing on small screens */
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  
+  /* Optimize form layouts for mobile */
+  .form-mobile {
+    gap: 1rem;
+  }
+  
+  /* Mobile navigation styles */
+  .mobile-nav {
+    @apply fixed bottom-0 left-0 right-0 bg-white border-t border-gray-200 safe-area-padding;
+    height: calc(60px + env(safe-area-inset-bottom));
+  }
+}
+
+/* Focus management for accessibility */
+.focus-visible:focus {
+  @apply outline-none ring-2 ring-primary-500 ring-offset-2;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .btn-primary {
+    @apply border-2 border-primary-800;
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
