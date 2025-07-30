@@ -1,0 +1,66 @@
+# Bangladesh Tax Calculation API Backend Requirements
+# ================================================
+
+# Core FastAPI and ASGI
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# Data validation and serialization
+pydantic==2.5.0
+pydantic[email]==2.5.0
+
+# Async support
+anyio==4.0.0
+starlette==0.27.0
+
+# Type hints and compatibility
+typing-extensions==4.8.0
+
+# Date and time handling
+python-multipart==0.0.6
+
+# JSON handling (already included in Python stdlib)
+# Additional utilities for better JSON handling
+orjson==3.9.10
+
+# HTTP client for testing (optional)
+httpx==0.25.2
+requests==2.31.0
+
+# Development and testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# Logging enhancements
+structlog==23.2.0
+
+# CORS support (already included in FastAPI)
+# Additional security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# Database support (if needed in future)
+# SQLAlchemy==2.0.23
+# asyncpg==0.29.0
+
+# Monitoring and observability (optional)
+prometheus-client==0.19.0
+
+# Rate limiting (optional)
+slowapi==0.1.9
+
+# Documentation enhancements
+# rich==13.7.0
+
+# Note: All dependencies are compatible with the existing
+# comprehensive_tax_engine_2024_25.py which uses:
+# - decimal (Python stdlib)
+# - typing (Python stdlib) 
+# - dataclasses (Python stdlib)
+# - enum (Python stdlib)
+# - json (Python stdlib)
+# - datetime (Python stdlib)
+# - re (Python stdlib)

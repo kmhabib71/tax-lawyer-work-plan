@@ -71,11 +71,8 @@ logs/
 scraper.log
 
 # Data files
-*.csv
-*.txt
-*.pkl
-*.zip
-*.html
+
+
 
 # Scraped content directories
 

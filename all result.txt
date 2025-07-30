@@ -1,0 +1,994 @@
+Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-31.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-34.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-35.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-36.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-38.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-37.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-40.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-39.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-42.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-43.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-41.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-45.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-44.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-48.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-46.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-47.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-49.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-50.html
+         Title: Unknown
+   Testing range 900-999...
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-900.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-901.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-902.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-903.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-904.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-905.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-906.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-907.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-908.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-909.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-912.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-910.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-911.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-913.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-914.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-915.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-917.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-916.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-919.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-918.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-921.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-920.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-922.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-923.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-924.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-925.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-927.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-926.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-928.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-929.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-930.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-931.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-932.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-933.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-934.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-935.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-937.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-936.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-939.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-938.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-942.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-941.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-940.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-944.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-943.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-947.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-945.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-946.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-948.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-949.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-951.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-950.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-953.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-954.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-952.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-955.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-956.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-957.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-958.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-959.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-962.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-960.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-961.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-964.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-963.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-965.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-967.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-966.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-969.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-968.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-970.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-971.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-972.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-973.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-974.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-975.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-976.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-977.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-979.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-978.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-982.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-980.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-981.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-984.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-983.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-987.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-986.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-985.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-989.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-988.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-990.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-991.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-992.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-993.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-994.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-995.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-996.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-997.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-998.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-999.html
+         Title: Unknown
+   Testing range 1100-1149...
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1102.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1100.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1101.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1104.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1103.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1106.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1107.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1105.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1109.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1108.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1111.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1110.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1112.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1113.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1114.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1116.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1115.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1117.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1118.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1119.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1122.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1121.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1120.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1123.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1124.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1125.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1126.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1127.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1128.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1129.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1131.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1132.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1130.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1133.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1134.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1137.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1136.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1139.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1138.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1135.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1140.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1141.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1142.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1144.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1143.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1147.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1146.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1145.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1149.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1148.html
+         Title: Unknown
+   Testing range 1-10...
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-2.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-1.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-3.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-4.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-5.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-8.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-6.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-7.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-10.html
+         Title: Unknown
+      ✅ Found: http://bdlaws.minlaw.gov.bd/ordinance-details-9.html
+         Title: Unknown
+
+📊 Summary: Found 630 available details pages
+
+📋 All Available Pages:
+   http://bdlaws.minlaw.gov.bd/act-details-1.html - 1The Districts Act, 1836
+   http://bdlaws.minlaw.gov.bd/act-details-3.html - The Judicial Officer's Protection Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-2.html - The Public Accountant's Default Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-5.html - The Tolls Act, 1851
+   http://bdlaws.minlaw.gov.bd/act-details-4.html - The Public Servants (Inquiries) Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-8.html - The Bills of Lading Act, 1856
+   http://bdlaws.minlaw.gov.bd/act-details-6.html - The Legal Representative Suits Act, 1855
+   http://bdlaws.minlaw.gov.bd/act-details-7.html - The Fatal Accidents Act, 1855
+   http://bdlaws.minlaw.gov.bd/act-details-9.html - The Hindu Widow's Re-marriage Act, 1856
+   http://bdlaws.minlaw.gov.bd/act-details-10.html - The Societies Registration Act, 1860
+   http://bdlaws.minlaw.gov.bd/act-details-13.html - 1The Stage-Carriages Act, 1861
+   http://bdlaws.minlaw.gov.bd/act-details-14.html - 1The Canals Act, 1864
+   http://bdlaws.minlaw.gov.bd/act-details-12.html - 1The Police Act, 1861
+   http://bdlaws.minlaw.gov.bd/act-details-15.html - The Carriers Act, 1865
+   http://bdlaws.minlaw.gov.bd/act-details-11.html - 1The Penal Code, 1860
+   http://bdlaws.minlaw.gov.bd/act-details-17.html - The Acting Judges Act, 1867
+   http://bdlaws.minlaw.gov.bd/act-details-19.html - The Alluvion (Amendment) Act, 1868
+   http://bdlaws.minlaw.gov.bd/act-details-16.html - 1The Public Gambling Act, 1867
+   http://bdlaws.minlaw.gov.bd/act-details-18.html - 1The Sarais Act, 1867
+   http://bdlaws.minlaw.gov.bd/act-details-20.html - 1The Divorce Act, 1869
+   http://bdlaws.minlaw.gov.bd/act-details-23.html - 1The Pensions Act, 1871
+   http://bdlaws.minlaw.gov.bd/act-details-22.html - 1The Cattle-trespass Act, 1871
+   http://bdlaws.minlaw.gov.bd/act-details-25.html - 1The Special Marriage Act, 1872
+   http://bdlaws.minlaw.gov.bd/act-details-21.html - 1The Court-fees Act, 1870
+   http://bdlaws.minlaw.gov.bd/act-details-24.html - 1The Evidence Act, 1872
+   http://bdlaws.minlaw.gov.bd/act-details-28.html - 1The Government Savings Banks Act, 1873
+   http://bdlaws.minlaw.gov.bd/act-details-29.html - The Oaths Act, 1873
+   http://bdlaws.minlaw.gov.bd/act-details-30.html - 1The Married Women's Property Act, 1874
+   http://bdlaws.minlaw.gov.bd/act-details-27.html - 1The Christian Marriage Act, 1872
+   http://bdlaws.minlaw.gov.bd/act-details-26.html - 1The Contract Act, 1872
+   http://bdlaws.minlaw.gov.bd/act-details-31.html - 1The Foreign Recruiting Act, 1874
+   http://bdlaws.minlaw.gov.bd/act-details-33.html - The Majority Act, 1875
+   http://bdlaws.minlaw.gov.bd/act-details-34.html - The Law Reports Act, 1875
+   http://bdlaws.minlaw.gov.bd/act-details-32.html - The Survey Act, 1875
+   http://bdlaws.minlaw.gov.bd/act-details-35.html - The Irrigation Act, 1876
+   http://bdlaws.minlaw.gov.bd/act-details-37.html - The Treasure-Trove Act, 1878
+   http://bdlaws.minlaw.gov.bd/act-details-38.html - The Arms Act, 1878
+   http://bdlaws.minlaw.gov.bd/act-details-40.html - The Touts Act, 1879
+   http://bdlaws.minlaw.gov.bd/act-details-36.html - The Specific Relief Act, 1877
+   http://bdlaws.minlaw.gov.bd/act-details-39.html - The Court of Wards Act, 1879
+   http://bdlaws.minlaw.gov.bd/act-details-43.html - The Kazis Act, 1880
+   http://bdlaws.minlaw.gov.bd/act-details-41.html - The Religious Societies Act, 1880
+   http://bdlaws.minlaw.gov.bd/act-details-44.html - The Municipal Taxation Act, 1881
+   http://bdlaws.minlaw.gov.bd/act-details-45.html - The Obstructions in Fairways Act, 1881
+   http://bdlaws.minlaw.gov.bd/act-details-42.html - The Vaccination Act, 1880
+   http://bdlaws.minlaw.gov.bd/act-details-47.html - The Trusts Act, 1882
+   http://bdlaws.minlaw.gov.bd/act-details-46.html - The Negotiable Instruments Act, 1881
+   http://bdlaws.minlaw.gov.bd/act-details-48.html - 1The Transfer of Property Act, 1882
+   http://bdlaws.minlaw.gov.bd/act-details-50.html - The Powers-of-Attorney Act, 1882
+   http://bdlaws.minlaw.gov.bd/act-details-49.html - The Easements Act, 1882
+   http://bdlaws.minlaw.gov.bd/act-details-900.html - অগ্নি প্রতিরোধ ও নির্বাপণ  আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-903.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-902.html - বাংলাদেশ এনার্জি রেগুলেটরী কমিশন আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-901.html - অর্থ ঋণ আদালত আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-904.html - অর্থ আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-905.html - নির্দিষ্টকরণ আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-906.html - বাংলাদেশ রেশম গবেষণা ও প্রশিক্ষণ ইনস্টিটিউট আইন, ২০০৩ 
+   http://bdlaws.minlaw.gov.bd/act-details-907.html - চট্টগ্রাম প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩ 
+   http://bdlaws.minlaw.gov.bd/act-details-908.html - রাজশাহী প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩   
+   http://bdlaws.minlaw.gov.bd/act-details-909.html - খুলনা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয় আইন, ২০০৩     
+   http://bdlaws.minlaw.gov.bd/act-details-911.html - বিশেষ আদালত (অতিরিক্ত দায়িত্ব) আইন, ২০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-913.html - আদালত সংস্কার বাস্তবায়ন (সহায়ক বিধান) আইন, ২০০৪       
+   http://bdlaws.minlaw.gov.bd/act-details-912.html - বাংলাদেশ কর্মচারী কল্যাণ বোর্ড আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-910.html - ঢাকা প্রকৌশল ও প্রযুক্তি বিশ্ববিদ্যালয়, গাজীপুর আইন,২০      ০০৩
+   http://bdlaws.minlaw.gov.bd/act-details-914.html - দুর্নীতি দমন কমিশন আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-917.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-916.html - বিরোধ মীমাংসা (পৌর এলাকা) বোর্ড আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-919.html - নির্দিষ্টকরণ আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-915.html - বাংলাদেশ পেট্রোলিয়াম ইন্সটিটিউট আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-918.html - অর্থ আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-921.html - জন্ম ও মৃত্যু নিবন্ধন আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-922.html - জাতীয় সংসদ (সংরক্ষিত মহিলা আসন) নির্বাচন আইন, ২০০৪    
+   http://bdlaws.minlaw.gov.bd/act-details-923.html - বেসরকারী শিক্ষক নিবন্ধন ও প্রত্যয়ন কর্তৃপক্ষ আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-924.html - ব্যক্তি মালিকানাধীন সড়ক পরিবহন শ্রমিক কল্যাণ তহবিল    
+   http://bdlaws.minlaw.gov.bd/act-details-920.html - ইপিজেড শ্রমিক সংঘ ও শিল্প সম্পর্ক আইন, ২০০৪
+   http://bdlaws.minlaw.gov.bd/act-details-926.html - বাংলাদেশ পশু ও পশুজাত পণ্য সঙ্গনিরোধ আইন, ২০০৫        
+   http://bdlaws.minlaw.gov.bd/act-details-927.html - ধূমপান ও তামাকজাত দ্রব্য ব্যবহার (নিয়ন্ত্রণ) আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-929.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-925.html - পশুরোগ আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-928.html - জাতীয় কম্পিউটার প্রশিক্ষণ ও গবেষণা একাডেমী আইন, ২০০৫  
+   http://bdlaws.minlaw.gov.bd/act-details-931.html - নির্দিষ্টকরণ আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-930.html - অর্থ আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-932.html - কর-ন্যায়পাল আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-933.html - জগন্নাথ বিশ্ববিদ্যালয় আইন, ২০০৫
+   http://bdlaws.minlaw.gov.bd/act-details-934.html - সার ব্যবস্থাপনা আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-935.html - বেসরকারী নিরাপত্তা সেবা আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-937.html - জাতীয় কবি কাজী নজরুল ইসলাম বিশ্ববিদ্যালয় আইন, ২০০৬    
+   http://bdlaws.minlaw.gov.bd/act-details-938.html - গ্রাম আদালত আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-939.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-936.html - কুমিল্লা বিশ্ববিদ্যালয় আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-941.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-943.html - বাংলাদেশ শ্রমিক কল্যাণ ফাউন্ডেশন আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-940.html - অর্থ আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-944.html - পণ্য উৎপাদনশীল রাষ্ট্রীয় শিল্প প্রতিষ্ঠান শ্রমিক (চাকু       রীর শর্তাবলী) আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-942.html - পাবলিক প্রকিউরমেন্ট আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-945.html - বাংলাদেশ এ্যাক্রেডিটেশন আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-947.html - মাইক্রোক্রেডিট রেগুলেটরী অথরিটি আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-946.html - চট্টগ্রাম ভেটেরিনারি ও এনিম্যাল সাইন্সেস বিশ্ববিদ্যালয়     য় আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-949.html - কেবল টেলিভিশন নেটওয়ার্ক পরিচালনা আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-948.html - রাসায়নিক অস্ত্র (নিষিদ্ধকরণ) আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-951.html - এশিয়ান ইউনিভার্সিটি ফর উইমেন আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-953.html - রংপুর কারমাইকেল বিশ্ববিদ্যালয় আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-950.html - তথ্য ও যোগাযোগ প্রযুক্তি আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-954.html - বরিশাল বিশ্ববিদ্যালয়  আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-952.html - বাংলাদেশ শ্রম আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-956.html - কারাগারে আটক সাজাপ্রাপ্ত নারীদের বিশেষ সুবিধা আইন, ২০০  ০৬
+   http://bdlaws.minlaw.gov.bd/act-details-958.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-959.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-955.html - সিলেট কৃষি বিশ্ববিদ্যালয় আইন, ২০০৬
+   http://bdlaws.minlaw.gov.bd/act-details-957.html - গণপ্রজাতন্ত্রী বাংলাদেশের সংবিধান
+   http://bdlaws.minlaw.gov.bd/act-details-960.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-962.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-961.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-963.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-964.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-965.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-966.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-967.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-968.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-969.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-972.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-970.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-971.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-973.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-974.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-977.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-976.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-975.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-979.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-978.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-980.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-981.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-982.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-984.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-983.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-985.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-986.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-987.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-988.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-989.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-991.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-990.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-992.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-994.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-993.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-995.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-997.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-996.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-998.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-999.html - Unknown
+   http://bdlaws.minlaw.gov.bd/act-details-1101.html - পাবলিক বিশ্ববিদ্যালয় শিক্ষক (অবসর গ্রহণ) (বিশেষ বিধান   ন) আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1100.html - নির্দিষ্টকরণ আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1104.html - পাওয়ার অব অ্যাটর্নি আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1102.html - বন্যপ্রাণী (সংরক্ষণ ও নিরাপত্তা) আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1103.html - দুর্যোগ ব্যবস্থাপনা আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1105.html - হিন্দু বিবাহ নিবন্ধন আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1107.html - টেকসই ও নবায়নযোগ্য জ্বালানি উন্নয়ন কর্তৃপক্ষ আইন, ২০১     ১২
+   http://bdlaws.minlaw.gov.bd/act-details-1108.html - আদালত অবমাননা আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1109.html - ওয়াক্‌ফ (সম্পত্তি হস্তান্তর ও উন্নয়ন) বিশেষ বিধান আইন      ন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1106.html - মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২
+   http://bdlaws.minlaw.gov.bd/act-details-1110.html - ১৯৭৫ সালের ১৫ আগস্ট  হইতে ১৯৭৯ সালের ৯ এপ্রিল তারিখ প পর্যন্ত সময়ের মধ্যে জারীকৃত কতিপয় অধ্যাদেশ কার্যকরকরণ (বিশেষ বিধান) আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1111.html - ১৯৮২ সালের ২৪ মার্চ হইতে ১৯৮৬ সালের ১১ নভেম্বর তারিখ   পর্যন্ত সময়ের মধ্যে জারীকৃত কতিপয় অধ্যাদেশ কার্যকরকরণ (বিশেষ বিধান) আইন,২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1112.html - পরিসংখ্যান আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1113.html - বাংলাদেশ রেশম উন্নয়ন বোর্ড আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1114.html - বাংলাদেশ পানি আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1117.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1116.html - বাংলাদেশ রাবার বোর্ড আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1118.html - বাংলাদেশ চলচ্চিত্র এবং টেলিভিশন ইনস্টিটিউট আইন, ২০১৩ 
+   http://bdlaws.minlaw.gov.bd/act-details-1115.html - এক্সচেঞ্জেস ডিমিউচ্যুয়ালাইজেশন আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1119.html - শিশু আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1120.html - নির্দিষ্টকরণ আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1121.html - সড়ক রক্ষণাবেক্ষণ তহবিল বোর্ড আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1122.html - জাতীয় নদী রক্ষা কমিশন আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1124.html - মাতৃদুগ্ধ বিকল্প, শিশু খাদ্য, বাণিজ্যিকভাবে প্রস্ত্তত         তকৃত শিশুর বাড়তি খাদ্য ও উহা ব্যবহারের সরঞ্জামাদি (বিপণন নিয়ন্ত্রণ) আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1123.html - বাংলা একাডেমি আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1126.html - প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩       
+   http://bdlaws.minlaw.gov.bd/act-details-1125.html - ইসলামি আরবি বিশ্ববিদ্যালয় আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1127.html - নিরাপদ খাদ্য আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1129.html - বাংলাদেশ বিজ্ঞান ও শিল্প গবেষণা পরিষদ আইন, ২০১৩      
+   http://bdlaws.minlaw.gov.bd/act-details-1128.html - মাল্টি-লেভেল মার্কেটিং কার্যক্রম (নিয়ন্ত্রণ) আইন, ২০১     ১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1132.html - পিতা-মাতার ভরণ-পোষণ আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1133.html - নির্যাতন এবং হেফাজতে মৃত্যু (নিবারণ) আইন, ২০১৩       
+   http://bdlaws.minlaw.gov.bd/act-details-1131.html - বৈদেশিক কর্মসংস্থান ও অভিবাসী আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1130.html - 1[বাংলাদেশ মেরিটাইম ইউনিভার্সিটি] আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1134.html - নিউরো-ডেভেলপমেন্টাল প্রতিবন্ধী  সুরক্ষা  ট্রাস্ট আইন,      , ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1137.html - এশিয়ান রি-ইন্স্যুরেন্স কর্পোরেশন আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1136.html - ভৌগোলিক নির্দেশক পণ্য (নিবন্ধন ও সুরক্ষা) আইন, ২০১৩  
+   http://bdlaws.minlaw.gov.bd/act-details-1138.html - গ্রামীণ ব্যাংক আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1135.html - পায়রা বন্দর কর্তৃপক্ষ আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1139.html - পল্লী বিদ্যুতায়ন বোর্ড আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1141.html - বাংলাদেশ ট্রাভেল এজেন্সি (নিবন্ধন ও নিয়ন্ত্রণ) আইন, ২    ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1142.html - বাংলাদেশ তাঁত বোর্ড আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1140.html - ইট প্রস্তুত ও ভাটা স্থাপন (নিয়ন্ত্রণ) আইন, ২০১৩      
+   http://bdlaws.minlaw.gov.bd/act-details-1143.html - ভোজ্যতেলে ভিটামিন ‘এ’ সমৃদ্ধকরণ আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1144.html - বাংলাদেশ ইনস্টিটিউট অব ইন্টারন্যাশনাল এন্ড স্ট্র্যাটে      েজিক স্টাডিজ আইন, ২০১৩
+   http://bdlaws.minlaw.gov.bd/act-details-1145.html - নির্দিষ্টকরণ (সম্পূরক) আইন, ২০১৪
+   http://bdlaws.minlaw.gov.bd/act-details-1147.html - নির্দিষ্টকরণ  আইন, ২০১৪
+   http://bdlaws.minlaw.gov.bd/act-details-1148.html - বাংলাদেশ সাংবাদিক কল্যাণ ট্রাস্ট আইন, ২০১৪
+   http://bdlaws.minlaw.gov.bd/act-details-1149.html - পল্লী  সঞ্চয় ব্যাংক আইন, ২০১৪
+   http://bdlaws.minlaw.gov.bd/act-details-1146.html - অর্থ আইন, ২০১৪
+   http://bdlaws.minlaw.gov.bd/act-details-3.html - The Judicial Officer's Protection Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-1.html - 1The Districts Act, 1836
+   http://bdlaws.minlaw.gov.bd/act-details-2.html - The Public Accountant's Default Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-5.html - The Tolls Act, 1851
+   http://bdlaws.minlaw.gov.bd/act-details-4.html - The Public Servants (Inquiries) Act, 1850
+   http://bdlaws.minlaw.gov.bd/act-details-8.html - The Bills of Lading Act, 1856
+   http://bdlaws.minlaw.gov.bd/act-details-6.html - The Legal Representative Suits Act, 1855
+   http://bdlaws.minlaw.gov.bd/act-details-7.html - The Fatal Accidents Act, 1855
+   http://bdlaws.minlaw.gov.bd/act-details-9.html - The Hindu Widow's Re-marriage Act, 1856
+   http://bdlaws.minlaw.gov.bd/act-details-10.html - The Societies Registration Act, 1860
+   http://bdlaws.minlaw.gov.bd/rules-details-1.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-3.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-2.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-4.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-5.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-6.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-8.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-7.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-10.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-9.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-11.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-12.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-13.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-14.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-15.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-16.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-18.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-17.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-19.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-20.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-22.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-21.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-23.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-25.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-24.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-28.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-27.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-26.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-30.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-29.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-31.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-32.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-33.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-34.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-35.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-36.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-38.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-37.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-39.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-40.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-43.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-42.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-41.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-45.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-44.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-48.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-46.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-47.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-49.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-50.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-901.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-900.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-902.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-903.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-904.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-907.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-906.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-905.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-908.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-909.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-911.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-912.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-910.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-914.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-913.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-917.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-915.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-916.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-919.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-918.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-920.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-921.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-922.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-924.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-923.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-926.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-925.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-927.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-928.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-929.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-932.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-931.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-930.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-933.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-934.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-935.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-937.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-936.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-938.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-939.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-941.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-942.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-940.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-944.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-943.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-947.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-945.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-946.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-948.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-949.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-950.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-951.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-952.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-953.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-954.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-957.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-956.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-955.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-959.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-958.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-960.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-962.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-961.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-963.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-964.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-965.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-966.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-967.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-968.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-969.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-971.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-970.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-972.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-974.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-973.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-976.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-975.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-977.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-978.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-979.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-980.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-982.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-981.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-983.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-984.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-986.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-987.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-985.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-989.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-988.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-992.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-990.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-991.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-994.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-993.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-996.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-995.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-997.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-999.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-998.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1102.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1100.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1101.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1103.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1104.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1106.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1107.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1105.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1108.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1109.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1110.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1112.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1111.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1114.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1113.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1116.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1117.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1115.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1118.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1119.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1122.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1120.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1121.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1123.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1124.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1126.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1127.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1125.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1128.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1129.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1131.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1130.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1132.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1134.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1133.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1136.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1135.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1137.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1138.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1139.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1142.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1141.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1140.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1143.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1144.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1146.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1145.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1147.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1148.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1149.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-3.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-2.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-1.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-4.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-5.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-7.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-6.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-8.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-10.html - Unknown
+   http://bdlaws.minlaw.gov.bd/rules-details-9.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-3.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-2.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-4.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-5.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-6.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-8.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-7.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-9.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-10.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-12.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-11.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-13.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-15.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-14.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-16.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-18.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-17.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-19.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-20.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-21.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-23.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-22.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-25.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-24.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-28.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-27.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-26.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-29.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-30.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-32.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-33.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-31.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-34.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-35.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-36.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-38.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-37.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-40.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-39.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-42.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-43.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-41.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-45.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-44.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-48.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-46.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-47.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-49.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-50.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-900.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-901.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-902.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-903.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-904.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-905.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-906.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-907.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-908.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-909.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-912.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-910.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-911.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-913.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-914.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-915.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-917.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-916.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-919.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-918.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-921.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-920.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-922.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-923.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-924.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-925.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-927.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-926.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-928.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-929.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-930.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-931.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-932.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-933.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-934.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-935.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-937.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-936.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-939.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-938.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-942.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-941.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-940.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-944.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-943.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-947.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-945.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-946.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-948.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-949.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-951.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-950.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-953.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-954.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-952.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-955.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-956.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-957.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-958.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-959.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-962.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-960.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-961.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-964.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-963.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-965.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-967.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-966.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-969.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-968.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-970.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-971.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-972.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-973.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-974.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-975.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-976.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-977.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-979.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-978.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-982.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-980.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-981.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-984.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-983.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-987.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-986.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-985.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-989.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-988.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-990.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-991.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-992.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-993.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-994.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-995.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-996.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-997.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-998.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-999.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1102.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1100.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1101.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1104.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1103.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1106.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1107.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1105.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1109.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1108.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1111.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1110.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1112.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1113.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1114.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1116.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1115.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1117.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1118.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1119.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1122.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1121.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1120.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1123.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1124.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1125.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1126.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1127.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1128.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1129.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1131.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1132.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1130.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1133.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1134.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1137.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1136.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1139.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1138.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1135.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1140.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1141.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1142.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1144.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1143.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1147.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1146.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1145.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1149.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1148.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-2.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-1.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-3.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-4.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-5.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-8.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-6.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-7.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-10.html - Unknown
+   http://bdlaws.minlaw.gov.bd/ordinance-details-9.html - Unknown

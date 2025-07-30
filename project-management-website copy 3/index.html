@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Tax Lawyer Bangladesh - Project Planning Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        /* Custom CSS Variables */
+        :root {
+            --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --success-gradient: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            --warning-gradient: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+            --info-gradient: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+            --dark-gradient: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+        }
+
+        /* Enhanced sidebar styling */
+        .sidebar-item:hover { 
+            background: linear-gradient(135deg, #374151 0%, #4b5563 100%);
+            transform: translateX(4px);
+            transition: all 0.3s ease;
+        }
+        .sidebar-item.active { 
+            background: var(--primary-gradient);
+            transform: translateX(8px);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        /* Content area enhancements */
+        .content-area { min-height: calc(100vh - 4rem); }
+        .editable-content { 
+            min-height: 400px;
+            line-height: 1.7;
+            font-size: 16px;
+        }
+        
+        /* Phase badges with gradients */
+        .phase-badge { 
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .phase-0 { background: linear-gradient(135deg, #ff6b6b 0%, #ff8e53 100%); color: white; }
+        .phase-1 { background: linear-gradient(135deg, #feca57 0%, #ff9ff3 100%); color: #2c3e50; }
+        .phase-2 { background: linear-gradient(135deg, #48cae4 0%, #023e8a 100%); color: white; }
+        .phase-3 { background: linear-gradient(135deg, #06ffa5 0%, #3d8bfd 100%); color: white; }
+        .phase-4 { background: linear-gradient(135deg, #c44569 0%, #f8b500 100%); color: white; }
+        .phase-5 { background: linear-gradient(135deg, #5f27cd 0%, #341f97 100%); color: white; }
+        
+        /* Status badges */
+        .status-pending { background: linear-gradient(135deg, #ddd6fe 0%, #c7d2fe 100%); color: #5b21b6; }
+        .status-in-progress { background: linear-gradient(135deg, #fde68a 0%, #f59e0b 100%); color: white; }
+        .status-completed { background: linear-gradient(135deg, #86efac 0%, #10b981 100%); color: white; }
+        .status-blocked { background: linear-gradient(135deg, #fca5a5 0%, #ef4444 100%); color: white; }
+        
+        /* AI Chat styling */
+        .ai-chat-box { 
+            background: var(--primary-gradient);
+            border-radius: 1rem;
+            box-shadow: 0 20px 40px rgba(102, 126, 234, 0.3);
+            backdrop-filter: blur(10px);
+        }
+        
+        /* Code syntax highlighting */
+        .editable-content pre {
+            background: linear-gradient(135deg, #2d3748 0%, #1a202c 100%);
+            border-radius: 12px;
+            padding: 20px;
+            overflow-x: auto;
+            border: 1px solid #4a5568;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+        
+        .editable-content code {
+            background: linear-gradient(135deg, #4a5568 0%, #2d3748 100%);
+            padding: 2px 8px;
+            border-radius: 6px;
+            font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace;
+            font-size: 14px;
+            color: #e2e8f0;
+        }
+        
+        .editable-content pre code {
+            background: none;
+            padding: 0;
+            border-radius: 0;
+            color: #e2e8f0;
+        }
+        
+        /* Enhanced typography */
+        .editable-content h1 {
+            color: #1a202c;
+            font-size: 2.5rem;
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            background: var(--primary-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .editable-content h2 {
+            color: #2d3748;
+            font-size: 2rem;
+            font-weight: 700;
+            margin: 2rem 0 1rem 0;
+            border-left: 4px solid #667eea;
+            padding-left: 1rem;
+            background: linear-gradient(90deg, rgba(102, 126, 234, 0.1) 0%, transparent 100%);
+            border-radius: 0 8px 8px 0;
+        }
+        
+        .editable-content h3 {
+            color: #4a5568;
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin: 1.5rem 0 1rem 0;
+            position: relative;
+        }
+        
+        .editable-content h3::before {
+            content: '';
+            position: absolute;
+            left: -1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 4px;
+            height: 20px;
+            background: var(--primary-gradient);
+            border-radius: 2px;
+        }
+        
+        .editable-content h4 {
+            color: #718096;
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin: 1rem 0 0.5rem 0;
+        }
+        
+        .editable-content p {
+            color: #4a5568;
+            line-height: 1.8;
+            margin-bottom: 1rem;
+        }
+        
+        .editable-content ul, .editable-content ol {
+            margin: 1rem 0;
+            padding-left: 2rem;
+        }
+        
+        .editable-content li {
+            color: #4a5568;
+            margin-bottom: 0.5rem;
+            line-height: 1.6;
+        }
+        
+        .editable-content blockquote {
+            border-left: 4px solid #a78bfa;
+            background: linear-gradient(90deg, rgba(167, 139, 250, 0.1) 0%, transparent 100%);
+            padding: 1rem 1.5rem;
+            margin: 1.5rem 0;
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+            color: #6b46c1;
+        }
+        
+        /* Tables */
+        .editable-content table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1.5rem 0;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .editable-content th {
+            background: var(--primary-gradient);
+            color: white;
+            padding: 1rem;
+            text-align: left;
+            font-weight: 600;
+        }
+        
+        .editable-content td {
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid #e2e8f0;
+            color: #4a5568;
+        }
+        
+        .editable-content tr:hover {
+            background: rgba(102, 126, 234, 0.05);
+        }
+        
+        /* Cards and containers */
+        .metric-card {
+            background: white;
+            border-radius: 16px;
+            padding: 1.5rem;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+            border: 1px solid #e2e8f0;
+            transition: all 0.3s ease;
+        }
+        
+        .metric-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+        }
+        
+        .metric-card.success {
+            border-left: 4px solid #10b981;
+            background: linear-gradient(135deg, rgba(16, 185, 129, 0.05) 0%, rgba(16, 185, 129, 0.01) 100%);
+        }
+        
+        .metric-card.warning {
+            border-left: 4px solid #f59e0b;
+            background: linear-gradient(135deg, rgba(245, 158, 11, 0.05) 0%, rgba(245, 158, 11, 0.01) 100%);
+        }
+        
+        .metric-card.info {
+            border-left: 4px solid #3b82f6;
+            background: linear-gradient(135deg, rgba(59, 130, 246, 0.05) 0%, rgba(59, 130, 246, 0.01) 100%);
+        }
+        
+        /* Progress indicators */
+        .progress-container {
+            background: #f1f5f9;
+            border-radius: 10px;
+            overflow: hidden;
+            height: 8px;
+            margin: 0.5rem 0;
+        }
+        
+        .progress-bar {
+            height: 100%;
+            background: var(--primary-gradient);
+            border-radius: 10px;
+            transition: width 0.6s ease;
+            position: relative;
+        }
+        
+        .progress-bar::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(90deg, transparent 0%, rgba(255, 255, 255, 0.3) 50%, transparent 100%);
+            animation: shimmer 2s infinite;
+        }
+        
+        @keyframes shimmer {
+            0% { transform: translateX(-100%); }
+            100% { transform: translateX(100%); }
+        }
+        
+        /* Button enhancements */
+        .btn-primary {
+            background: var(--primary-gradient);
+            border: none;
+            border-radius: 8px;
+            padding: 0.75rem 1.5rem;
+            color: white;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+        }
+        
+        .btn-success {
+            background: var(--success-gradient);
+            border: none;
+            border-radius: 8px;
+            padding: 0.75rem 1.5rem;
+            color: white;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);
+        }
+        
+        .btn-success:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(79, 172, 254, 0.4);
+        }
+        
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .content-animate {
+            animation: fadeInUp 0.6s ease-out;
+        }
+        
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #f1f5f9;
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-gradient);
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: linear-gradient(135deg, #5a67d8 0%, #667eea 100%);
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans">
+    <!-- Header -->
+    <header class="bg-white shadow-sm border-b border-gray-200">
+        <div class="flex items-center justify-between px-6 py-4">
+            <div class="flex items-center space-x-4">
+                <h1 class="text-2xl font-bold text-gray-900">AI Tax Lawyer BD</h1>
+                <span class="text-sm text-gray-500">Project Planning Dashboard</span>
+            </div>
+            <div class="flex items-center space-x-4">
+                <button onclick="toggleAIChat()" class="bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition-colors">
+                    <i class="fas fa-robot mr-2"></i>AI Assistant
+                </button>
+                <button onclick="saveProgress()" class="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition-colors">
+                    <i class="fas fa-save mr-2"></i>Save
+                </button>
+                <button onclick="exportData()" class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+                    <i class="fas fa-download mr-2"></i>Export
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <div class="flex h-screen">
+        <!-- Sidebar -->
+        <aside class="w-80 bg-gray-800 text-white overflow-y-auto">
+            <div class="p-4">
+                <h2 class="text-lg font-semibold mb-4">Project Phases</h2>
+                <nav class="space-y-1">
+                    <!-- Phase 0 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item active flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase0')">
+                            <div class="flex items-center">
+                                <i class="fas fa-rocket mr-3"></i>
+                                <span>Phase 0: Foundation</span>
+                            </div>
+                            <span class="phase-badge phase-0">Month 1-2</span>
+                        </div>
+                        <div id="phase0-submenu" class="ml-6 mt-2 space-y-1">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase0-overview')">
+                                <i class="fas fa-eye mr-2"></i>Overview & Goals
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase0-technical')">
+                                <i class="fas fa-code mr-2"></i>Technical Foundation
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase0-revenue')">
+                                <i class="fas fa-dollar-sign mr-2"></i>Revenue Generation
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase0-tasks')">
+                                <i class="fas fa-tasks mr-2"></i>Task List
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Phase 1 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase1')">
+                            <div class="flex items-center">
+                                <i class="fas fa-brain mr-3"></i>
+                                <span>Phase 1: AI Engine</span>
+                            </div>
+                            <span class="phase-badge phase-1">Month 3-6</span>
+                        </div>
+                        <div id="phase1-submenu" class="ml-6 mt-2 space-y-1 hidden">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase1-multirap')">
+                                <i class="fas fa-network-wired mr-2"></i>Multi-Hop RAG
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase1-taxengine')">
+                                <i class="fas fa-calculator mr-2"></i>Tax Engine
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase1-learning')">
+                                <i class="fas fa-graduation-cap mr-2"></i>Learning System
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase1-tasks')">
+                                <i class="fas fa-tasks mr-2"></i>Task List
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Phase 2 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase2')">
+                            <div class="flex items-center">
+                                <i class="fas fa-chart-line mr-3"></i>
+                                <span>Phase 2: Market Expansion</span>
+                            </div>
+                            <span class="phase-badge phase-2">Month 7-18</span>
+                        </div>
+                        <div id="phase2-submenu" class="ml-6 mt-2 space-y-1 hidden">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase2-scaling')">
+                                <i class="fas fa-expand-arrows-alt mr-2"></i>Platform Scaling
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase2-partnerships')">
+                                <i class="fas fa-handshake mr-2"></i>CA/Lawyer Partnerships
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase2-enterprise')">
+                                <i class="fas fa-building mr-2"></i>Enterprise Solutions
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Phase 3 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase3')">
+                            <div class="flex items-center">
+                                <i class="fas fa-crown mr-3"></i>
+                                <span>Phase 3: Market Leadership</span>
+                            </div>
+                            <span class="phase-badge phase-3">Month 19-36</span>
+                        </div>
+                        <div id="phase3-submenu" class="ml-6 mt-2 space-y-1 hidden">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase3-advanced-ai')">
+                                <i class="fas fa-microchip mr-2"></i>Advanced AI Models
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase3-browser-ext')">
+                                <i class="fas fa-puzzle-piece mr-2"></i>Browser Extension
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase3-whitelabel')">
+                                <i class="fas fa-tag mr-2"></i>White-label API
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Phase 4 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase4')">
+                            <div class="flex items-center">
+                                <i class="fas fa-university mr-3"></i>
+                                <span>Phase 4: Government Relations</span>
+                            </div>
+                            <span class="phase-badge phase-4">Month 37-48</span>
+                        </div>
+                        <div id="phase4-submenu" class="ml-6 mt-2 space-y-1 hidden">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase4-stakeholders')">
+                                <i class="fas fa-users mr-2"></i>Stakeholder Mapping
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase4-pilot')">
+                                <i class="fas fa-flask mr-2"></i>Pilot Program
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase4-negotiation')">
+                                <i class="fas fa-handshake mr-2"></i>Contract Negotiation
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Phase 5 -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-item flex items-center justify-between p-3 rounded cursor-pointer" 
+                             onclick="togglePhase('phase5')">
+                            <div class="flex items-center">
+                                <i class="fas fa-globe mr-3"></i>
+                                <span>Phase 5: Market Domination</span>
+                            </div>
+                            <span class="phase-badge phase-5">Month 49-60</span>
+                        </div>
+                        <div id="phase5-submenu" class="ml-6 mt-2 space-y-1 hidden">
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase5-national')">
+                                <i class="fas fa-flag mr-2"></i>National Rollout
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase5-international')">
+                                <i class="fas fa-plane mr-2"></i>International Expansion
+                            </div>
+                            <div class="sidebar-item p-2 text-sm cursor-pointer hover:bg-gray-700 rounded" 
+                                 onclick="loadContent('phase5-legacy')">
+                                <i class="fas fa-trophy mr-2"></i>Market Legacy
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="flex-1 overflow-y-auto">
+            <div class="p-6">
+                <!-- Content Header -->
+                <div class="flex items-center justify-between mb-6">
+                    <div>
+                        <h2 id="content-title" class="text-3xl font-bold text-gray-900">Phase 0: Technical Foundation & Revenue</h2>
+                        <p id="content-subtitle" class="text-gray-600 mt-1">Build AI Tax Engine MVP while generating initial revenue</p>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <div class="flex items-center space-x-2">
+                            <span class="text-sm text-gray-500">Progress:</span>
+                            <div class="w-32 bg-gray-200 rounded-full h-2">
+                                <div id="progress-bar" class="bg-blue-600 h-2 rounded-full" style="width: 15%"></div>
+                            </div>
+                            <span id="progress-text" class="text-sm font-medium text-gray-700">15%</span>
+                        </div>
+                        <button onclick="editContent()" class="bg-yellow-600 text-white px-3 py-1 rounded text-sm hover:bg-yellow-700 transition-colors">
+                            <i class="fas fa-edit mr-1"></i>Edit
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Content Area -->
+                <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                    <div id="content-display" class="editable-content">
+                        <!-- Default content will be loaded here -->
+                        <div class="space-y-6">
+                            <div class="border-l-4 border-blue-500 pl-4">
+                                <h3 class="text-xl font-semibold text-gray-900 mb-2">Current Objective</h3>
+                                <p class="text-gray-700">Build AI Tax Engine MVP while generating ₹1-3 lakh through AI tools</p>
+                            </div>
+                            
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                <div class="bg-green-50 p-4 rounded-lg">
+                                    <h4 class="font-semibold text-green-900 mb-2">Revenue Target</h4>
+                                    <p class="text-2xl font-bold text-green-700">₹1-3 Lakh</p>
+                                    <p class="text-sm text-green-600">Month 1-2</p>
+                                </div>
+                                <div class="bg-blue-50 p-4 rounded-lg">
+                                    <h4 class="font-semibold text-blue-900 mb-2">Users Target</h4>
+                                    <p class="text-2xl font-bold text-blue-700">500-1,000</p>
+                                    <p class="text-sm text-blue-600">Active Users</p>
+                                </div>
+                            </div>
+
+                            <div>
+                                <h4 class="font-semibold text-gray-900 mb-3">Key Milestones</h4>
+                                <div class="space-y-2">
+                                    <div class="flex items-center">
+                                        <div class="w-4 h-4 bg-green-500 rounded-full mr-3"></div>
+                                        <span class="text-gray-700">Multi-Hop RAG Architecture Setup</span>
+                                        <span class="ml-auto text-sm text-green-600 font-medium">Completed</span>
+                                    </div>
+                                    <div class="flex items-center">
+                                        <div class="w-4 h-4 bg-yellow-500 rounded-full mr-3"></div>
+                                        <span class="text-gray-700">WhatsApp Business Integration</span>
+                                        <span class="ml-auto text-sm text-yellow-600 font-medium">In Progress</span>
+                                    </div>
+                                    <div class="flex items-center">
+                                        <div class="w-4 h-4 bg-gray-300 rounded-full mr-3"></div>
+                                        <span class="text-gray-700">Tax Calculation Engine</span>
+                                        <span class="ml-auto text-sm text-gray-500 font-medium">Pending</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Edit Mode -->
+                    <div id="content-editor" class="hidden">
+                        <textarea id="content-textarea" class="w-full h-96 p-4 border border-gray-300 rounded-lg font-mono text-sm"></textarea>
+                        <div class="flex justify-end space-x-3 mt-4">
+                            <button onclick="cancelEdit()" class="px-4 py-2 text-gray-600 hover:text-gray-800">Cancel</button>
+                            <button onclick="saveEdit()" class="bg-green-600 text-white px-4 py-2 rounded hover:bg-green-700">Save Changes</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Task Management Section -->
+                <div class="mt-8">
+                    <div class="bg-white rounded-lg shadow-sm border border-gray-200 p-6">
+                        <div class="flex items-center justify-between mb-4">
+                            <h3 class="text-xl font-semibold text-gray-900">Task Management</h3>
+                            <button onclick="addNewTask()" class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 text-sm">
+                                <i class="fas fa-plus mr-1"></i>Add Task
+                            </button>
+                        </div>
+                        <div id="task-list" class="space-y-3">
+                            <!-- Tasks will be dynamically loaded -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- AI Chat Modal -->
+    <div id="ai-chat-modal" class="fixed inset-0 bg-black bg-opacity-50 hidden z-50">
+        <div class="flex items-center justify-center min-h-screen p-4">
+            <div class="ai-chat-box text-white p-6 w-full max-w-md">
+                <div class="flex items-center justify-between mb-4">
+                    <h3 class="text-xl font-semibold">AI Assistant</h3>
+                    <button onclick="toggleAIChat()" class="text-white hover:text-gray-300">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                
+                <div id="chat-messages" class="bg-white bg-opacity-10 rounded-lg p-4 h-64 overflow-y-auto mb-4">
+                    <div class="text-sm text-gray-100">
+                        👋 Hi! I'm your AI project assistant. I can help you with:
+                        <ul class="mt-2 ml-4 list-disc">
+                            <li>Generate embeddings for your tax data</li>
+                            <li>Create task breakdowns</li>
+                            <li>Technical planning advice</li>
+                            <li>Code architecture suggestions</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="flex space-x-2">
+                    <input type="text" id="chat-input" placeholder="Ask me anything..." 
+                           class="flex-1 px-3 py-2 bg-white bg-opacity-20 text-white placeholder-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-white">
+                    <button onclick="sendMessage()" class="bg-white bg-opacity-20 hover:bg-opacity-30 px-4 py-2 rounded-lg">
+                        <i class="fas fa-paper-plane"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
