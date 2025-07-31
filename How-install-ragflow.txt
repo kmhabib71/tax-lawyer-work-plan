@@ -1,0 +1,43 @@
+Step-by-Step Setup Guide
+
+  Step 1: Download Miniconda
+
+  1. Go to: https://docs.conda.io/en/latest/miniconda.html
+  2. Download: "Miniconda3 Windows 64-bit" (latest Python version)
+  3. Run the installer
+
+  Step 2: Installation Settings
+
+  Important choices during installation:
+  - ☑️ "Add Miniconda3 to PATH" (check this!)
+  - ☑️ "Register Miniconda3 as default Python"
+  - Install location: C:\Miniconda3 (default is fine)
+
+  Step 3: Verify Installation
+
+  1. Open conda terminal
+  2. Type: conda --version
+  3. Should show something like: conda 23.x.x
+  
+  Step 1: Create Environment (any directory is fine)
+
+  conda create -n ragflow python=3.10 -y
+  conda activate ragflow
+
+  Step 2: Navigate to your project directory
+
+  # Go to your tax project folder
+  cd /d D:\Projects\Ai_TAX_LAWER_BANGLADESH\data-scrap
+
+  Step 3: Clone RAGFlow there
+
+  git clone https://github.com/infiniflow/ragflow.git
+  cd ragflow
+
+  Step 4: Install RAGFlow
+
+  # Install core ML packages with conda first
+  conda install pytorch numpy pandas scipy scikit-learn -c conda-forge -y
+
+  # Then install RAGFlow
+  pip install -e .

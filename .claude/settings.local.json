@@ -8,7 +8,17 @@
       "Bash(find:*)",
       "Bash(mkdir:*)",
       "Bash(python:*)",
-      "Bash(echo:*)"
+      "Bash(echo:*)",
+      "Bash(docker:*)",
+      "Bash(source ~/.bashrc)",
+      "Bash(export PATH=\"$HOME/.local/bin:$PATH\")",
+      "Bash(uv:*)",
+      "Bash(git clone:*)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(pip3 install:*)",
+      "Bash(powershell.exe:*)",
+      "Bash(conda activate:*)"
     ],
     "deny": []
   }
