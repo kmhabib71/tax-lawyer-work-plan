@@ -1,0 +1,229 @@
+{
+  "business_expense_limits": {
+    "metadata": {
+      "source": "Income Tax Act 2023 - Third Schedule",
+      "effective_date": "2024-25 tax year",
+      "last_updated": "2025-08-01",
+      "amendments": "Finance Ordinance 2025 incorporated"
+    },
+    "entertainment_expenses": {
+      "general_rule": {
+        "first_10_lakh": {
+          "rate": "4%",
+          "description": "4% of first 10 lakh Taka turnover",
+          "calculation": "min(turnover, 1000000) * 0.04"
+        },
+        "above_10_lakh": {
+          "rate": "2%", 
+          "description": "2% of turnover exceeding 10 lakh Taka",
+          "calculation": "max(0, turnover - 1000000) * 0.02"
+        }
+      },
+      "maximum_limit": "No absolute cap mentioned",
+      "conditions": [
+        "Must be business related",
+        "Proper documentation required",
+        "Cannot exceed reasonable commercial standards"
+      ]
+    },
+    "travel_expenses": {
+      "domestic_travel": {
+        "rate": "0.5%",
+        "description": "0.5% of total turnover",
+        "calculation": "turnover * 0.005"
+      },
+      "foreign_travel": {
+        "conditions": [
+          "Must be business purpose",
+          "Pre-approval for amounts above threshold",
+          "Detailed itinerary required"
+        ]
+      }
+    },
+    "promotional_expenses": {
+      "free_samples": {
+        "manufacturing": {
+          "rate": "1%",
+          "description": "1% of turnover for manufacturing companies",
+          "max_limit": "Subject to reasonableness test"
+        },
+        "trading": {
+          "rate": "0.5%", 
+          "description": "0.5% of turnover for trading companies",
+          "max_limit": "Subject to reasonableness test"
+        }
+      },
+      "advertising": {
+        "general": "No specific limit, subject to commercial reasonableness",
+        "conditions": [
+          "Must be for business promotion",
+          "Cannot include personal elements",
+          "Proper documentation required"
+        ]
+      }
+    },
+    "technical_fees_royalty": {
+      "percentage_of_turnover": {
+        "rate": "6%",
+        "description": "Maximum 6% of annual turnover",
+        "calculation": "min(actual_payment, turnover * 0.06)"
+      },
+      "percentage_of_profit": {
+        "rate": "15%",
+        "description": "Maximum 15% of net profit before tax",
+        "calculation": "min(actual_payment, net_profit * 0.15)"
+      },
+      "rule": "Lower of the two limits applies",
+      "conditions": [
+        "Must be arms-length transaction",
+        "Proper agreement required",
+        "Related to business operations"
+      ]
+    },
+    "depreciation_allowances": {
+      "plant_machinery": {
+        "rate": "20%",
+        "method": "Straight line depreciation",
+        "description": "20% per annum on plant and machinery"
+      },
+      "building_structure": {
+        "rate": "10%",
+        "method": "Straight line depreciation", 
+        "description": "10% per annum on building and structures"
+      },
+      "furniture_fixtures": {
+        "rate": "15%",
+        "method": "Straight line depreciation",
+        "description": "15% per annum on furniture and fixtures"
+      },
+      "vehicles": {
+        "rate": "20%",
+        "method": "Straight line depreciation",
+        "description": "20% per annum on vehicles"
+      }
+    },
+    "research_development": {
+      "current_expenditure": {
+        "deduction": "150%",
+        "description": "150% deduction for current R&D expenses",
+        "conditions": [
+          "Must be approved research project",
+          "Conducted in Bangladesh",
+          "Related to taxpayer's business"
+        ]
+      },
+      "capital_expenditure": {
+        "deduction": "100%",
+        "description": "100% immediate deduction for R&D capital expenses",
+        "year_of_claim": "Year of expenditure"
+      }
+    },
+    "training_expenses": {
+      "employee_training": {
+        "deduction": "150%",
+        "description": "150% deduction for employee skill development",
+        "conditions": [
+          "Approved training programs",
+          "Skills relevant to business",
+          "Conducted by recognized institutions"
+        ]
+      }
+    },
+    "bad_debts": {
+      "general_provision": {
+        "rate": "1%",
+        "description": "1% of total debts as general provision",
+        "calculation": "total_receivables * 0.01"
+      },
+      "specific_provision": {
+        "conditions": [
+          "Specific identification required",
+          "Legal action initiated",
+          "Reasonable evidence of non-recovery"
+        ]
+      }
+    },
+    "insurance_premiums": {
+      "business_insurance": {
+        "deduction": "100%",
+        "description": "Full deduction for business-related insurance",
+        "types": [
+          "Fire insurance",
+          "Public liability",
+          "Product liability", 
+          "Key person insurance"
+        ]
+      }
+    },
+    "professional_fees": {
+      "audit_fees": {
+        "deduction": "100%",
+        "description": "Full deduction for statutory audit fees"
+      },
+      "legal_fees": {
+        "deduction": "100%",
+        "description": "Full deduction for business-related legal fees",
+        "exclusions": [
+          "Personal legal matters",
+          "Capital acquisition legal costs"
+        ]
+      },
+      "consultancy_fees": {
+        "conditions": [
+          "Must be business-related",
+          "Arms-length pricing",
+          "Reasonable commercial rates"
+        ]
+      }
+    },
+    "sector_specific_allowances": {
+      "export_oriented": {
+        "cash_incentive": {
+          "treatment": "Taxable income",
+          "note": "Cash incentives are taxable but export expenses fully deductible"
+        }
+      },
+      "manufacturing": {
+        "utilities": {
+          "deduction": "100%",
+          "description": "Full deduction for manufacturing utilities"
+        },
+        "raw_materials": {
+          "deduction": "100%",
+          "description": "Full cost of raw materials"
+        }
+      },
+      "financial_services": {
+        "provision_requirements": {
+          "banks": "As per Bangladesh Bank guidelines",
+          "nbfi": "As per Financial Institutions Division rules"
+        }
+      }
+    },
+    "disallowed_expenses": {
+      "personal_expenses": {
+        "description": "Any expense of personal nature",
+        "examples": [
+          "Personal travel",
+          "Family entertainment",
+          "Personal insurance"
+        ]
+      },
+      "capital_expenses": {
+        "description": "Capital expenditure not allowed as revenue expense",
+        "note": "May qualify for depreciation allowance"
+      },
+      "penalties_fines": {
+        "description": "Penalties and fines paid to government",
+        "deduction": "Not allowed"
+      },
+      "donations": {
+        "general": "Not allowed as business expense",
+        "exceptions": [
+          "Approved charitable donations (with limits)",
+          "Zakat payments (with conditions)"
+        ]
+      }
+    }
+  }
+}

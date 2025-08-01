@@ -1,0 +1,458 @@
+{
+  "timestamp": "2025-08-01T18:12:16.806430",
+  "summary": {
+    "total_issues": 27,
+    "critical": 19,
+    "errors": 4,
+    "warnings": 3,
+    "info": 1
+  },
+  "issues_by_section": {
+    "tax_computation": [
+      {
+        "field": "tax_computation.calculated_tax",
+        "message": "Tax calculation mismatch. Expected: Tk. 54,500.15, Got: Tk. 42,500.00",
+        "severity": "error",
+        "rule_id": "CROSS_001",
+        "suggested_fix": "Recalculate tax based on total income"
+      },
+      {
+        "field": "tax_computation.calculated_tax",
+        "message": "Tax calculation mismatch. Expected: Tk. 42,500.15, Got: Tk. 10,000.00",
+        "severity": "error",
+        "rule_id": "CROSS_001",
+        "suggested_fix": "Recalculate tax based on total income"
+      }
+    ],
+    "structure": [
+      {
+        "field": "income",
+        "message": "Required section 'income' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'income' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "financial_data",
+        "message": "Required section 'financial_data' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'financial_data' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "basic_info",
+        "message": "Required section 'basic_info' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'basic_info' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "basic_info",
+        "message": "Required section 'basic_info' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'basic_info' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      },
+      {
+        "field": "basic_info",
+        "message": "Required section 'basic_info' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'basic_info' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "deductions",
+        "message": "Required section 'deductions' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'deductions' section to your form"
+      },
+      {
+        "field": "tax_computation",
+        "message": "Required section 'tax_computation' is missing",
+        "severity": "critical",
+        "rule_id": "STRUCT_001",
+        "suggested_fix": "Add the 'tax_computation' section to your form"
+      }
+    ],
+    "basic_info": [
+      {
+        "field": "basic_info.tin",
+        "message": "TIN must be exactly 12 digits",
+        "severity": "error",
+        "rule_id": "IT10B_001",
+        "suggested_fix": "Enter a valid 12-digit TIN number"
+      }
+    ],
+    "income": [
+      {
+        "field": "income.salary.house_rent",
+        "message": "House rent exceeds 50% of basic salary",
+        "severity": "warning",
+        "rule_id": "SAL_001",
+        "suggested_fix": "Reduce house rent or increase basic salary"
+      },
+      {
+        "field": "income.business.expenses",
+        "message": "Business expenses seem high compared to turnover",
+        "severity": "warning",
+        "rule_id": "BUS_001",
+        "suggested_fix": "Review and justify high expense ratio"
+      },
+      {
+        "field": "income.investment",
+        "message": "Investment income detected - ensure proper documentation",
+        "severity": "info",
+        "rule_id": "INV_001",
+        "suggested_fix": "Attach investment certificates and statements"
+      }
+    ],
+    "company_info": [
+      {
+        "field": "company_info.registration_number",
+        "message": "Registration number format invalid (should be XX-123456)",
+        "severity": "error",
+        "rule_id": "IT10BB_001",
+        "suggested_fix": null
+      }
+    ],
+    "business_logic": [
+      {
+        "field": "income.business.cost_of_goods_sold",
+        "message": "Cost of goods sold ratio (90.0%) outside normal range (60-85%)",
+        "severity": "warning",
+        "rule_id": "SECTOR_001",
+        "suggested_fix": null
+      }
+    ]
+  },
+  "detailed_results": [
+    {
+      "field": "tax_computation.calculated_tax",
+      "message": "Tax calculation mismatch. Expected: Tk. 54,500.15, Got: Tk. 42,500.00",
+      "severity": "error",
+      "form_type": "IT-10B",
+      "section": "tax_computation",
+      "rule_id": "CROSS_001",
+      "suggested_fix": "Recalculate tax based on total income"
+    },
+    {
+      "field": "income",
+      "message": "Required section 'income' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'income' section to your form"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "basic_info.tin",
+      "message": "TIN must be exactly 12 digits",
+      "severity": "error",
+      "form_type": "IT-10B",
+      "section": "basic_info",
+      "rule_id": "IT10B_001",
+      "suggested_fix": "Enter a valid 12-digit TIN number"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "income.salary.house_rent",
+      "message": "House rent exceeds 50% of basic salary",
+      "severity": "warning",
+      "form_type": "IT-10B",
+      "section": "income",
+      "rule_id": "SAL_001",
+      "suggested_fix": "Reduce house rent or increase basic salary"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10BB",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "financial_data",
+      "message": "Required section 'financial_data' is missing",
+      "severity": "critical",
+      "form_type": "IT-10BB",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'financial_data' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10BB",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "company_info.registration_number",
+      "message": "Registration number format invalid (should be XX-123456)",
+      "severity": "error",
+      "form_type": "IT-10BB",
+      "section": "company_info",
+      "rule_id": "IT10BB_001",
+      "suggested_fix": null
+    },
+    {
+      "field": "basic_info",
+      "message": "Required section 'basic_info' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'basic_info' section to your form"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "income.business.cost_of_goods_sold",
+      "message": "Cost of goods sold ratio (90.0%) outside normal range (60-85%)",
+      "severity": "warning",
+      "form_type": "IT-10B",
+      "section": "business_logic",
+      "rule_id": "SECTOR_001",
+      "suggested_fix": null
+    },
+    {
+      "field": "basic_info",
+      "message": "Required section 'basic_info' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'basic_info' section to your form"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "income.business.expenses",
+      "message": "Business expenses seem high compared to turnover",
+      "severity": "warning",
+      "form_type": "IT-10B",
+      "section": "income",
+      "rule_id": "BUS_001",
+      "suggested_fix": "Review and justify high expense ratio"
+    },
+    {
+      "field": "basic_info",
+      "message": "Required section 'basic_info' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'basic_info' section to your form"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation.calculated_tax",
+      "message": "Tax calculation mismatch. Expected: Tk. 42,500.15, Got: Tk. 10,000.00",
+      "severity": "error",
+      "form_type": "IT-10B",
+      "section": "tax_computation",
+      "rule_id": "CROSS_001",
+      "suggested_fix": "Recalculate tax based on total income"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "deductions",
+      "message": "Required section 'deductions' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'deductions' section to your form"
+    },
+    {
+      "field": "tax_computation",
+      "message": "Required section 'tax_computation' is missing",
+      "severity": "critical",
+      "form_type": "IT-10B",
+      "section": "structure",
+      "rule_id": "STRUCT_001",
+      "suggested_fix": "Add the 'tax_computation' section to your form"
+    },
+    {
+      "field": "income.investment",
+      "message": "Investment income detected - ensure proper documentation",
+      "severity": "info",
+      "form_type": "IT-10B",
+      "section": "income",
+      "rule_id": "INV_001",
+      "suggested_fix": "Attach investment certificates and statements"
+    }
+  ]
+}
