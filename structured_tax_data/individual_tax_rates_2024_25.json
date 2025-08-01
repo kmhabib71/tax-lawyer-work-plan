@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "source": "Income Tax Circular 2024-25",
+    "tax_year": "2024-25",
+    "effective_date": "2024-07-01",
+    "currency": "BDT",
+    "taxpayer_type": "individual",
+    "last_updated": "2025-07-31"
+  },
+  "individual_tax_rates": {
+    "progressive_slabs": [
+      {
+        "slab_id": "slab_1",
+        "range_description_bengali": "প্রথম ৩,৫০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",
+        "range_description_english": "First BDT 3,50,000 of total income",
+        "min_amount": 0,
+        "max_amount": 350000,
+        "tax_rate_percent": 0,
+        "cumulative_tax": 0,
+        "marginal_calculation": "0% of income up to BDT 3,50,000"
+      },
+      {
+        "slab_id": "slab_2", 
+        "range_description_bengali": "পরবর্তী ১,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",
+        "range_description_english": "Next BDT 1,00,000 of total income",
+        "min_amount": 350001,
+        "max_amount": 450000,
+        "tax_rate_percent": 5,
+        "cumulative_tax": 5000,
+        "marginal_calculation": "5% of income from BDT 3,50,001 to BDT 4,50,000"
+      },
+      {
+        "slab_id": "slab_3",
+        "range_description_bengali": "পরবর্তী ৪,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",  
+        "range_description_english": "Next BDT 4,00,000 of total income",
+        "min_amount": 450001,
+        "max_amount": 850000,
+        "tax_rate_percent": 10,
+        "cumulative_tax": 45000,
+        "marginal_calculation": "10% of income from BDT 4,50,001 to BDT 8,50,000"
+      },
+      {
+        "slab_id": "slab_4",
+        "range_description_bengali": "পরবর্তী ৫,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",
+        "range_description_english": "Next BDT 5,00,000 of total income", 
+        "min_amount": 850001,
+        "max_amount": 1350000,
+        "tax_rate_percent": 15,
+        "cumulative_tax": 120000,
+        "marginal_calculation": "15% of income from BDT 8,50,001 to BDT 13,50,000"
+      },
+      {
+        "slab_id": "slab_5",
+        "range_description_bengali": "পরবর্তী ৫,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",
+        "range_description_english": "Next BDT 5,00,000 of total income",
+        "min_amount": 1350001, 
+        "max_amount": 1850000,
+        "tax_rate_percent": 20,
+        "cumulative_tax": 220000,
+        "marginal_calculation": "20% of income from BDT 13,50,001 to BDT 18,50,000"
+      },
+      {
+        "slab_id": "slab_6",
+        "range_description_bengali": "পরবর্তী ২০,০০,০০০/- টাকা পর্যন্ত মোট আয়ের উপর",
+        "range_description_english": "Next BDT 20,00,000 of total income",
+        "min_amount": 1850001,
+        "max_amount": 3850000, 
+        "tax_rate_percent": 25,
+        "cumulative_tax": 720000,
+        "marginal_calculation": "25% of income from BDT 18,50,001 to BDT 38,50,000"
+      },
+      {
+        "slab_id": "slab_7",
+        "range_description_bengali": "অবশিষ্ট মোট আয়ের উপর",
+        "range_description_english": "Remaining total income above BDT 38,50,000",
+        "min_amount": 3850001,
+        "max_amount": null,
+        "tax_rate_percent": 30,
+        "cumulative_tax": null,
+        "marginal_calculation": "30% of income above BDT 38,50,000"
+      }
+    ]
+  },
+  "tax_calculation_examples": {
+    "example_1": {
+      "income": 500000,
+      "calculation": [
+        {"slab": 1, "taxable": 350000, "rate": 0, "tax": 0},
+        {"slab": 2, "taxable": 100000, "rate": 5, "tax": 5000}, 
+        {"slab": 3, "taxable": 50000, "rate": 10, "tax": 5000}
+      ],
+      "total_tax": 10000,
+      "effective_rate": 2.0
+    },
+    "example_2": {
+      "income": 1000000,
+      "calculation": [
+        {"slab": 1, "taxable": 350000, "rate": 0, "tax": 0},
+        {"slab": 2, "taxable": 100000, "rate": 5, "tax": 5000},
+        {"slab": 3, "taxable": 400000, "rate": 10, "tax": 40000},
+        {"slab": 4, "taxable": 150000, "rate": 15, "tax": 22500}
+      ],
+      "total_tax": 67500,
+      "effective_rate": 6.75
+    }
+  },
+  "special_provisions": {
+    "tax_free_threshold": 350000,
+    "minimum_tax": "Applicable in certain cases",
+    "surcharge": "Additional tax may apply for high income",
+    "senior_citizen_exemption": "Additional exemption available",
+    "female_taxpayer_exemption": "Additional exemption available",
+    "disabled_person_exemption": "Additional exemption available"
+  },
+  "validation_rules": {
+    "income_validation": {
+      "min_income": 0,
+      "max_income": 999999999999,
+      "required_fields": ["total_income", "taxpayer_type"]
+    },
+    "calculation_validation": {
+      "progressive_calculation": true, 
+      "slab_sequence": "mandatory",
+      "cumulative_validation": true
+    }
+  }
+}

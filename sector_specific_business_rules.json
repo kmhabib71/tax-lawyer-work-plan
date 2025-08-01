@@ -1,0 +1,289 @@
+{
+  "sector_specific_business_rules": {
+    "metadata": {
+      "source": "Income Tax Act 2023, Finance Ordinance 2025, VAT & SD Act 2012",
+      "effective_date": "2024-25 tax year",
+      "last_updated": "2025-08-01",
+      "coverage": "Manufacturing, Export-oriented, Financial Services, Real Estate"
+    },
+    "manufacturing_sector": {
+      "definition": "পণ্য প্রস্তুত বা কোন ধরনের উদ্যোগ (undertaking)",
+      "tax_incentives": {
+        "new_industrial_establishments": {
+          "minimum_tax_relief": {
+            "rate": "0.1%",
+            "description": "0.1% of gross receipts for first 3 years of commercial production",
+            "condition": "পণ্য উৎপাদনে নিয়োজিত কোনো শিল্প প্রতিষ্ঠানের ক্ষেত্রে ইহার বাণিজ্যিক উৎপাদন শুরুর প্রথম ৩ (তিন) বৎসরের জন্য"
+          }
+        },
+        "depreciation_allowances": {
+          "plant_machinery": {
+            "rate": "20%",
+            "method": "Straight line depreciation per annum"
+          },
+          "building_structure": {
+            "rate": "10%", 
+            "method": "Straight line depreciation per annum"
+          },
+          "immediate_deduction": {
+            "rd_capital_expenditure": "100% in year of expenditure"
+          }
+        }
+      },
+      "expense_deductions": {
+        "utilities": {
+          "deduction": "100%",
+          "description": "Full deduction for manufacturing utilities (electricity, gas, water)"
+        },
+        "raw_materials": {
+          "deduction": "100%",
+          "description": "Full cost of raw materials and components"
+        },
+        "factory_rent": {
+          "treatment": "Business expense",
+          "condition": "For manufacturing purposes only"
+        },
+        "free_samples": {
+          "rate": "1%",
+          "description": "1% of turnover for manufacturing companies",
+          "condition": "Subject to reasonableness test"
+        }
+      },
+      "vat_treatment": {
+        "input_tax_credit": {
+          "raw_materials": "Full credit available for manufacturing inputs",
+          "capital_machinery": "Credit available for production equipment",
+          "utilities": "Credit for manufacturing-related utilities"
+        },
+        "output_tax": {
+          "standard_rate": "15% on manufactured goods",
+          "export_rate": "0% (zero-rated) for direct exports"
+        }
+      },
+      "compliance_requirements": {
+        "factory_license": "Required for manufacturing operations",
+        "environmental_clearance": "Mandatory for certain industries",
+        "fire_license": "Required for factory operations",
+        "record_keeping": "Detailed production and sales records"
+      }
+    },
+    "export_oriented_sector": {
+      "definition": "বাংলাদেশের বাহিরে ভোগের জন্য অভিপ্রেত কোন পণ্য বা সেবা",
+      "tax_incentives": {
+        "cash_incentive": {
+          "treatment": "Taxable income",
+          "note": "Cash incentives from government are taxable but export expenses fully deductible"
+        },
+        "deemed_export": {
+          "definition": "প্রচ্ছন্ন রপ্তানি - domestic supply against foreign currency",
+          "vat_treatment": "Zero-rated for VAT purposes"
+        }
+      },
+      "vat_benefits": {
+        "zero_rating": {
+          "direct_exports": "0% VAT on goods exported outside Bangladesh",
+          "deemed_exports": "0% VAT on supplies against foreign currency",
+          "international_tenders": "0% VAT on supplies under international tenders"
+        },
+        "input_tax_credit": {
+          "full_credit": "100% input tax credit available for export-oriented production",
+          "refund": "Excess input tax refundable for exporters"
+        }
+      },
+      "expense_deductions": {
+        "export_expenses": {
+          "deduction": "100%",
+          "types": [
+            "Freight and insurance costs",
+            "Export documentation fees",
+            "Quality certification costs",
+            "Export promotion expenses",
+            "Foreign travel for business development"
+          ]
+        },
+        "foreign_exchange_loss": {
+          "treatment": "Deductible business expense",
+          "condition": "Actual loss on export proceeds realization"
+        }
+      },
+      "compliance_requirements": {
+        "export_registration": "Registration with Export Promotion Bureau",
+        "foreign_exchange": "Compliance with foreign exchange regulations",
+        "quality_standards": "Adherence to international quality standards",
+        "export_documentation": "Proper export documents and certificates"
+      },
+      "special_provisions": {
+        "bonded_warehouse": {
+          "benefit": "Duty-free import of raw materials for export production",
+          "condition": "Minimum export commitment required"
+        },
+        "epz_benefits": {
+          "tax_holiday": "Available for EPZ enterprises",
+          "duty_free_imports": "For export-oriented production"
+        }
+      }
+    },
+    "financial_services_sector": {
+      "definition": "ব্যাংক, বীমা কোম্পানী বা অনুরূপ আর্থিক প্রতিষ্ঠান",
+      "regulatory_framework": {
+        "terminology_update": {
+          "old_term": "আর্থিক প্রতিষ্ঠান (Financial Institution)",
+          "new_term": "ফাইন্যান্স কোম্পানি (Finance Company)",
+          "effective_date": "Finance Act 2024"
+        },
+        "governing_law": {
+          "old": "Financial Institution Act 1993",
+          "new": "Finance Company Act 2023"
+        }
+      },
+      "banks": {
+        "provision_requirements": {
+          "bad_debts": "As per Bangladesh Bank guidelines",
+          "general_provision": "1% of total loans and advances",
+          "specific_provision": "Based on loan classification"
+        },
+        "income_recognition": {
+          "interest_income": "Accrual basis for performing loans",
+          "non_performing_loans": "Cash basis recognition"
+        },
+        "expense_deductions": {
+          "interest_paid": "Fully deductible on deposits and borrowings",
+          "provision_expenses": "Deductible as per central bank guidelines"
+        }
+      },
+      "insurance_companies": {
+        "premium_income": "Taxable when received",
+        "claim_reserves": {
+          "treatment": "Deductible provision for outstanding claims",
+          "validation": "Actuarial valuation required"
+        },
+        "investment_income": "Subject to normal tax rules"
+      },
+      "leasing_companies": {
+        "lease_income": "Recognized over lease term",
+        "depreciation": "Available on leased assets",
+        "finance_lease": "Treated as loan for tax purposes"
+      },
+      "nbfi": {
+        "provision_requirements": "As per Financial Institutions Division rules",
+        "capital_adequacy": "Minimum capital requirements applicable"
+      },
+      "tds_obligations": {
+        "withholding_entity": "All financial institutions are TDS deducting entities",
+        "deposit_interest": "10% TDS on interest payments above threshold",
+        "loan_interest": "Various rates based on borrower type"
+      },
+      "vat_treatment": {
+        "financial_services": {
+          "vat_rate": "15% on most financial services",
+          "exemptions": [
+            "Interest on loans and deposits",
+            "Life insurance premiums",
+            "Pension fund services"
+          ]
+        }
+      }
+    },
+    "real_estate_sector": {
+      "definition": "রিয়েল এস্টেট বা ভূমি উন্নয়ন (ল্যান্ড ডেভেলপমেন্ট) ব্যবসার সহিত জড়িত",
+      "developer_provisions": {
+        "land_owner_payments": {
+          "tds_rate": "15%",
+          "description": "15% TDS on payments to land owners",
+          "scope": "সাইনিং মানি, পণমূল্য (subsistence money), বাড়ির ভাড়া বা অন্য কোনো অর্থ"
+        },
+        "registration_requirements": {
+          "condition": "নির্ধারিত হারে কর প্রদান না করা পর্যন্ত দলিল নিবন্ধন হবে না",
+          "documentation": "Registration Act 1908 compliance required"
+        }
+      },
+      "property_transfer_tax": {
+        "urban_areas": {
+          "dhaka_specific": "তেজগাঁও শিল্পাঞ্চল থানা সহ ১৩টি থানার অন্তর্গত সকল মৌজা",
+          "rate_structure": "Area-based calculation system"
+        },
+        "registration_mandatory": "All property transfers must be registered"
+      },
+      "income_recognition": {
+        "project_completion": {
+          "method": "Percentage of completion method allowed",
+          "advance_received": "Treated as liability until completion"
+        },
+        "installment_sales": {
+          "recognition": "Income recognized as installments received",
+          "default_provision": "Provision for doubtful receivables allowed"
+        }
+      },
+      "expense_deductions": {
+        "land_development": {
+          "infrastructure": "Roads, drainage, utilities - fully deductible",
+          "approval_costs": "RAJUK/municipal approval fees deductible"
+        },
+        "construction_materials": {
+          "deduction": "Full cost deductible when used",
+          "credit_purchases": "Special provision for non-real estate taxpayers"
+        },
+        "marketing_expenses": {
+          "advertising": "Fully deductible for project promotion",
+          "sales_commission": "Deductible at reasonable rates"
+        }
+      },
+      "vat_treatment": {
+        "apartment_sales": {
+          "threshold": "Above 1,600 sq ft - 15% VAT",
+          "below_threshold": "Below 1,600 sq ft - exempt"
+        },
+        "land_sales": {
+          "developed_land": "Subject to VAT if developed",
+          "raw_land": "Generally exempt from VAT"
+        }
+      },
+      "special_rules": {
+        "non_real_estate_taxpayers": {
+          "construction_materials": "যেইক্ষেত্রে রিয়েল এস্টেট ব্যবসায় জড়িত নহে এইরূপ কোনো করদাতা",
+          "payment_period": "2 years to pay for materials purchased on credit",
+          "deemed_income": "Unpaid amounts treated as 'other income' after 2 years"
+        }
+      },
+      "compliance_requirements": {
+        "rajuk_approval": "Development permission from RAJUK",
+        "environmental_clearance": "For large projects",
+        "utility_connections": "Gas, electricity, water connections",
+        "handover_certificate": "Completion certificate from authorities"
+      }
+    },
+    "cross_sector_provisions": {
+      "minimum_tax": {
+        "rates": {
+          "companies": "Gross receipts-based rates in schedules",
+          "manufacturing_benefit": "0.1% for first 3 years of new industries"
+        }
+      },
+      "advance_tax": {
+        "rates": "Sector-specific rates for different business types",
+        "adjustment": "Adjustable against final tax liability"
+      },
+      "bank_transfer_compliance": {
+        "requirement": "All business expenses above threshold through banking channels",
+        "benefit": "Additional deduction benefits for bank transfer compliance"
+      },
+      "digital_services": {
+        "vat_treatment": "15% VAT on digital services",
+        "registration": "Foreign digital service providers must register"
+      }
+    },
+    "sme_provisions": {
+      "definition": "Small and Medium Enterprises with specific turnover thresholds",
+      "benefits": {
+        "simplified_accounting": "Allowed for smaller businesses",
+        "reduced_compliance": "Relaxed documentation requirements",
+        "tax_rates": "Preferential rates for certain SME categories"
+      },
+      "turnover_thresholds": {
+        "vat_registration": "50 lakh Taka annual turnover",
+        "vat_listing": "30 lakh Taka annual turnover",
+        "minimum_tax": "Various thresholds based on entity type"
+      }
+    }
+  }
+}

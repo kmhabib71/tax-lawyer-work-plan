@@ -18,7 +18,9 @@
       "Bash(sudo apt install:*)",
       "Bash(pip3 install:*)",
       "Bash(powershell.exe:*)",
-      "Bash(conda activate:*)"
+      "Bash(conda activate:*)",
+      "WebFetch(domain:www.caripon.com)",
+      "Bash(cp:*)"
     ],
     "deny": []
   }

@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "source": "Income Tax Act 2023, Sixth Schedule",
+    "schedule_name": "Tax Exemptions, Rebates & Credits",
+    "effective_date": "2023-07-01",
+    "last_updated": "2025-07-31",
+    "rebate_rate": "15%"
+  },
+  "investment_rebate": {
+    "general_provisions": {
+      "rebate_rate_percent": 15,
+      "maximum_rebate_limit": "15% of investment OR gross tax liability, whichever is lower",
+      "total_investment_limit": 10000000,
+      "eligible_taxpayers": ["resident_individual", "non_resident_bangladeshi_individual"]
+    },
+    "rebate_categories": [
+      {
+        "category_id": "life_insurance",
+        "category_name_bengali": "জীবন বিমা প্রিমিয়াম",
+        "category_name_english": "Life Insurance Premium",
+        "maximum_limit": 1000000,
+        "conditions": [
+          "Must be paid to approved life insurance company",
+          "Policy must be in taxpayer's name or spouse/children",
+          "Premium payment must be regular"
+        ],
+        "required_documents": ["Premium payment receipt", "Policy document"]
+      },
+      {
+        "category_id": "dps",
+        "category_name_bengali": "জমা পেনশন স্কিম (ডিপিএস)",
+        "category_name_english": "Deposit Pension Scheme (DPS)", 
+        "maximum_limit": 1200000,
+        "conditions": [
+          "Must be with approved bank or financial institution",
+          "Minimum lock-in period as per scheme",
+          "Regular monthly deposits required"
+        ],
+        "required_documents": ["DPS certificate", "Monthly deposit receipts"]
+      },
+      {
+        "category_id": "government_securities",
+        "category_name_bengali": "সরকারি সঞ্চয়পত্র",
+        "category_name_english": "Government Sanchayapatra",
+        "maximum_limit": 5000000,
+        "conditions": [
+          "Must be government issued securities",
+          "Valid for various types of sanchayapatra",
+          "Purchase must be in taxpayer's name"
+        ],
+        "required_documents": ["Sanchayapatra certificate", "Purchase receipt"]
+      },
+      {
+        "category_id": "stock_market",
+        "category_name_bengali": "শেয়ার বাজারে বিনিয়োগ",
+        "category_name_english": "Stock Market Investment",
+        "maximum_limit": 5000000,
+        "conditions": [
+          "Must be listed company shares",
+          "Purchased through registered broker",
+          "Minimum holding period may apply"
+        ],
+        "required_documents": ["Share certificate", "Broker statement", "BO account statement"]
+      },
+      {
+        "category_id": "mutual_fund",
+        "category_name_bengali": "মিউচুয়াল ফান্ড/ইটিএফ",
+        "category_name_english": "Mutual Fund/ETF Investment",
+        "maximum_limit": 2000000,
+        "conditions": [
+          "Must be SEC approved mutual fund",
+          "Units purchased through authorized agent",
+          "Fund must be compliant with regulations"
+        ],
+        "required_documents": ["Unit certificate", "Investment statement"]
+      },
+      {
+        "category_id": "provident_fund",
+        "category_name_bengali": "সাধারণ/গ্র্যাচুইটি প্রভিডেন্ট ফান্ড", 
+        "category_name_english": "General/Gratuity Provident Fund (GPF/RPF)",
+        "maximum_limit": 2000000,
+        "conditions": [
+          "Employer contribution to approved fund",
+          "Employee contribution eligible",
+          "Fund must be recognized"
+        ],
+        "required_documents": ["GPF/RPF statement", "Employer certificate"]
+      },
+      {
+        "category_id": "zakat_fund",
+        "category_name_bengali": "যাকাত ফান্ডে অনুদান",
+        "category_name_english": "Contribution to Zakat Fund",
+        "maximum_limit": 1000000,
+        "conditions": [
+          "Must be paid to approved zakat fund",
+          "Contribution must be voluntary",
+          "Proper documentation required"
+        ],
+        "required_documents": ["Zakat fund receipt", "Contribution certificate"]
+      },
+      {
+        "category_id": "universal_pension",
+        "category_name_bengali": "সার্বজনীন পেনশন স্কিম",
+        "category_name_english": "Universal Pension Scheme",
+        "maximum_limit": 1200000,
+        "conditions": [
+          "Must be government approved scheme",
+          "Regular contribution required",
+          "Age and eligibility criteria apply"
+        ],
+        "required_documents": ["Pension scheme certificate", "Contribution receipts"]
+      }
+    ]
+  },
+  "calculation_rules": {
+    "rebate_calculation": {
+      "method": "Progressive calculation after tax computation",
+      "formula": "MIN(15% of total_investment, gross_tax_liability)",
+      "sequence": [
+        "1. Calculate gross tax on total income",
+        "2. Sum all qualifying investments", 
+        "3. Calculate 15% of total investments",
+        "4. Take minimum of step 3 and gross tax",
+        "5. Subtract rebate from gross tax"
+      ]
+    },
+    "investment_validation": {
+      "category_limits": "Each category has specific maximum limit",
+      "total_limit": "Overall investment limit: BDT 1,00,00,000",
+      "documentation": "Proper documents required for each category",
+      "timing": "Investment must be made within tax year"
+    }
+  },
+  "examples": {
+    "example_1": {
+      "scenario": "Salaried employee with BDT 8,00,000 income",
+      "gross_tax": 27500,
+      "investments": {
+        "life_insurance": 100000,
+        "dps": 200000,
+        "stock_market": 150000
+      },
+      "total_investment": 450000,
+      "rebate_calculation": "MIN(15% of 450000, 27500) = MIN(67500, 27500) = 27500",
+      "final_tax": 0,
+      "note": "Full tax liability offset by rebate"
+    },
+    "example_2": {
+      "scenario": "High income taxpayer with BDT 25,00,000 income", 
+      "gross_tax": 287500,
+      "investments": {
+        "life_insurance": 1000000,
+        "government_securities": 2000000,
+        "stock_market": 1500000
+      },
+      "total_investment": 4500000,
+      "rebate_calculation": "MIN(15% of 4500000, 287500) = MIN(675000, 287500) = 287500",
+      "final_tax": 0,
+      "note": "Rebate limited by gross tax liability"
+    }
+  },
+  "validation_scenarios": {
+    "tier_1_simple": {
+      "applicable": true,
+      "common_investments": ["life_insurance", "dps", "government_securities"],
+      "validation_priority": "high"
+    },
+    "tier_2_business": {
+      "applicable": true,
+      "common_investments": ["stock_market", "mutual_fund", "provident_fund"],
+      "validation_priority": "medium"
+    },
+    "tier_3_corporate": {
+      "applicable": false,
+      "note": "Corporate taxpayers have different rebate structure"
+    }
+  }
+}
