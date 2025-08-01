@@ -1,0 +1,194 @@
+{
+  "package_info": {
+    "taxpayer_name": "Md. Rahman Ahmed",
+    "tin": "123456789012",
+    "assessment_year": "2024-2025",
+    "income_year": "2023-2024",
+    "generated_date": "2025-08-01 12:00:32",
+    "required_forms": [
+      "IT-11GA",
+      "IT-10B",
+      "IT-10BB",
+      "Schedule-5"
+    ],
+    "package_status": "Complete - Ready for Submission"
+  },
+  "forms": {
+    "IT-11GA": {
+      "form_type": "IT-11GA",
+      "form_title": "Income Tax Return for Individual Taxpayer",
+      "assessment_year": "2024-2025",
+      "income_year": "2023-2024",
+      "taxpayer_info": {
+        "name": "Md. Rahman Ahmed",
+        "tin": "123456789012",
+        "circle": "Dhaka-1",
+        "zone": "Dhaka North"
+      },
+      "income_details": {
+        "employment_income": 800000,
+        "business_income": 300000,
+        "rental_income": 100000,
+        "interest_income": 0,
+        "dividend_income": 0,
+        "capital_gains": 0,
+        "other_income": 0,
+        "total_income": 1200000
+      },
+      "tax_calculation": {
+        "gross_tax": 87500.0,
+        "calculation_method": "Progressive tax on 1,200,000 Taka",
+        "investment_rebate": {
+          "investment_amount": 150000,
+          "rebate_rate": 25,
+          "max_eligible_income": 1200000,
+          "max_rebate_amount": 300000.0,
+          "actual_rebate": 37500.0,
+          "remaining_rebate_capacity": 262500.0
+        },
+        "net_tax": 50000.0
+      },
+      "advance_tax": {
+        "tds_deducted": 15000,
+        "advance_tax_paid": 5000,
+        "total_advance_tax": 20000
+      },
+      "final_calculation": {
+        "net_payable_tax": 50000.0,
+        "advance_tax_paid": 20000,
+        "final_amount": 30000.0,
+        "status": "Payable"
+      },
+      "submission_info": {
+        "generated_date": "2025-08-01 12:00:32",
+        "due_date": "2024-11-30",
+        "form_status": "Generated - Ready for Review"
+      }
+    },
+    "IT-10B": {
+      "form_type": "IT-10B",
+      "form_title": "Statement of Assets and Liabilities",
+      "assessment_year": "2024-2025",
+      "taxpayer_info": {
+        "name": "Md. Rahman Ahmed",
+        "tin": "123456789012"
+      },
+      "assets": {
+        "cash_and_bank": {
+          "cash_in_hand": 0,
+          "bank_deposits": 500000,
+          "fixed_deposits": 0,
+          "other_deposits": 0,
+          "subtotal": 500000
+        },
+        "investments": {
+          "govt_securities": 0,
+          "shares_debentures": 0,
+          "mutual_funds": 0,
+          "other_investments": 0,
+          "subtotal": 0
+        },
+        "fixed_assets": {
+          "land_property": 3000000,
+          "building": 2000000,
+          "motor_vehicles": 1500000,
+          "furniture_equipment": 0,
+          "jewelry": 0,
+          "other_assets": 0,
+          "subtotal": 6500000
+        }
+      },
+      "liabilities": {
+        "loans_borrowings": {
+          "bank_loans": 0,
+          "other_loans": 0,
+          "credit_card_dues": 0,
+          "other_liabilities": 0,
+          "subtotal": 0
+        }
+      },
+      "summary": {
+        "total_assets": 7000000,
+        "total_liabilities": 0,
+        "net_wealth": 7000000,
+        "requirement_reason": "Gross wealth exceeds 50 lakh Taka"
+      },
+      "submission_info": {
+        "generated_date": "2025-08-01 12:00:32",
+        "form_status": "Generated - Ready for Review"
+      }
+    },
+    "IT-10BB": {
+      "form_type": "IT-10BB",
+      "form_title": "Statement of Lifestyle Expenditure",
+      "assessment_year": "2024-2025",
+      "taxpayer_info": {
+        "name": "Md. Rahman Ahmed",
+        "tin": "123456789012"
+      },
+      "lifestyle_expenditure": {
+        "personal_expenditure": {
+          "food_clothing": 200000,
+          "housing_utilities": 150000,
+          "transport": 100000,
+          "education": 50000,
+          "medical": 0,
+          "entertainment": 0,
+          "other_personal": 0,
+          "subtotal": 500000
+        },
+        "asset_expenditure": {
+          "property_purchase": 0,
+          "vehicle_purchase": 0,
+          "jewelry_purchase": 0,
+          "investment_made": 0,
+          "other_asset_purchase": 0,
+          "subtotal": 0
+        },
+        "loan_repayment": {
+          "bank_loan_repayment": 0,
+          "other_loan_repayment": 0,
+          "subtotal": 0
+        }
+      },
+      "summary": {
+        "total_lifestyle_expenditure": 500000,
+        "declared_income": 1200000,
+        "expenditure_vs_income_ratio": 41.66666666666667,
+        "requirement_reason": "Motor car ownership requires lifestyle declaration"
+      },
+      "submission_info": {
+        "generated_date": "2025-08-01 12:00:32",
+        "form_status": "Generated - Ready for Review"
+      }
+    },
+    "Schedule-5": {
+      "form_type": "Schedule-5",
+      "form_title": "Investment Tax Credit Details",
+      "assessment_year": "2024-2025",
+      "investment_details": {
+        "approved_securities": 0,
+        "unit_certificates": 0,
+        "life_insurance": 0,
+        "dps_schemes": 0,
+        "provident_fund": 0,
+        "pension_scheme": 0,
+        "zakat_donation": 0,
+        "other_approved": 0,
+        "total_investment": 150000
+      },
+      "rebate_calculation": {
+        "investment_amount": 150000,
+        "rebate_rate": 25,
+        "max_eligible_income": 1200000,
+        "max_rebate_amount": 300000.0,
+        "actual_rebate": 37500.0,
+        "remaining_rebate_capacity": 262500.0
+      },
+      "submission_info": {
+        "generated_date": "2025-08-01 12:00:32",
+        "form_status": "Generated - Ready for Review"
+      }
+    }
+  }
+}

@@ -69,6 +69,8 @@ lerna-debug.log*
 .next/
 # add any folder name with .next in the project
 # Logs
+#how to remove all ready cached files via git add . which stored the .next folder
+
 *.log
 logs/
 scraper.log

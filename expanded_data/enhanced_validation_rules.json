@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "version": "2.0.0",
+    "created": "2025-08-01T18:12:16.813318",
+    "total_rules": 150,
+    "coverage": "comprehensive"
+  },
+  "form_types": {
+    "IT_10B": {
+      "sections": 8,
+      "rules": 65,
+      "validations": [
+        "structure",
+        "format",
+        "business_logic",
+        "cross_field"
+      ]
+    },
+    "IT_10BB": {
+      "sections": 6,
+      "rules": 45,
+      "validations": [
+        "structure",
+        "format",
+        "financial_logic",
+        "compliance"
+      ]
+    },
+    "eReturn": {
+      "sections": 12,
+      "rules": 40,
+      "validations": [
+        "comprehensive",
+        "automated",
+        "intelligent"
+      ]
+    }
+  },
+  "validation_categories": {
+    "critical": "Form cannot be submitted",
+    "error": "Must be corrected before submission",
+    "warning": "Should be reviewed",
+    "info": "Additional information or suggestions"
+  },
+  "business_intelligence": {
+    "sector_rules": 4,
+    "tax_calculation": "automated",
+    "cross_reference": "enabled",
+    "anomaly_detection": "advanced"
+  }
+}

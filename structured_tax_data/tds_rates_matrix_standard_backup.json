@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "source": "Basic TDS Rates - Partial Implementation",
+    "note": "Extracted from available sources - not complete NBR verification",
+    "status": "PARTIAL_IMPLEMENTATION",
+    "effective_date": "2024-07-01",
+    "last_updated": "2025-08-01",
+    "limitation": "Not verified against current NBR circulars - use with caution"
+  },
+  "tds_rates": {
+    "salary_income": {
+      "rate_percent": 0,
+      "threshold_monthly": 20000,
+      "threshold_annual": 240000,
+      "conditions": [
+        "Progressive tax rate based on projected annual income",
+        "Adjusted for investment rebate and exemptions",
+        "Monthly deduction based on annual projection"
+      ],
+      "exemptions": [
+        "government_employee_below_threshold",
+        "below_taxable_income"
+      ],
+      "calculation_method": "projected_annual_tax / 12"
+    },
+    "professional_fees": {
+      "rate_percent": 3,
+      "threshold_monthly": 2500,
+      "threshold_annual": 30000,
+      "conditions": [
+        "Applies to payments to professionals",
+        "Doctor, lawyer, engineer, consultant fees",
+        "Certificate required for exemption"
+      ],
+      "exemptions": [
+        "government_payments",
+        "below_threshold"
+      ],
+      "calculation_method": "3% of payment above threshold"
+    },
+    "business_payments": {
+      "rate_percent": 4,
+      "threshold_monthly": 2500,
+      "threshold_annual": 30000,
+      "conditions": [
+        "Applies to business service payments",
+        "Contractor payments, supplier payments",
+        "Aggregate payments considered"
+      ],
+      "exemptions": [
+        "government_suppliers",
+        "below_threshold"
+      ],
+      "calculation_method": "4% of payment above threshold"
+    },
+    "commission": {
+      "rate_percent": 10,
+      "threshold_monthly": 2500,
+      "threshold_annual": 30000,
+      "conditions": [
+        "Sales commission, agent commission",
+        "Insurance agent commission",
+        "Real estate commission"
+      ],
+      "exemptions": [
+        "employee_commission_in_salary"
+      ],
+      "calculation_method": "10% of commission payment"
+    },
+    "interest_income": {
+      "rate_percent": 10,
+      "threshold_monthly": 2500,
+      "threshold_annual": 30000,
+      "conditions": [
+        "Bank deposit interest",
+        "Fixed deposit interest",
+        "Loan interest payments"
+      ],
+      "exemptions": [
+        "government_securities_interest",
+        "below_threshold"
+      ],
+      "calculation_method": "10% of interest payment"
+    },
+    "rent_income": {
+      "rate_percent": 10,
+      "threshold_monthly": 2500,
+      "threshold_annual": 30000,
+      "conditions": [
+        "Property rent payments",
+        "Equipment rent payments",
+        "Commercial rent"
+      ],
+      "exemptions": [
+        "government_property",
+        "below_threshold"
+      ],
+      "calculation_method": "10% of rent payment"
+    },
+    "dividend_income": {
+      "rate_percent": 10,
+      "threshold_annual": 0,
+      "conditions": [
+        "Listed company dividends - TIN holder",
+        "15% if no TIN",
+        "20% for company recipients"
+      ],
+      "exemptions": [
+        "inter_corporate_dividends_conditions_apply"
+      ],
+      "calculation_method": "10%/15%/20% based on recipient type"
+    },
+    "import_payments": {
+      "rate_percent": 5,
+      "threshold_annual": 0,
+      "conditions": [
+        "Import payments to non-residents",
+        "Advance import tax",
+        "Customs clearance related"
+      ],
+      "exemptions": [
+        "government_imports",
+        "essential_commodities"
+      ],
+      "calculation_method": "5% of import value"
+    },
+    "export_receipts": {
+      "rate_percent": 1,
+      "threshold_annual": 0,
+      "conditions": [
+        "Export receipt tax",
+        "Advance tax on export",
+        "Cash incentive adjustments"
+      ],
+      "exemptions": [
+        "certain_export_categories"
+      ],
+      "calculation_method": "1% of export value"
+    },
+    "royalty_technical_fees": {
+      "rate_percent": 20,
+      "threshold_annual": 0,
+      "conditions": [
+        "Royalty payments to non-residents",
+        "Technical service fees",
+        "License fees, franchise fees"
+      ],
+      "exemptions": [
+        "government_approved_technology"
+      ],
+      "calculation_method": "20% of payment"
+    }
+  },
+  "tds_calculation_examples": {
+    "salary_example": {
+      "monthly_salary": 50000,
+      "annual_projection": 600000,
+      "annual_tax": 17500,
+      "monthly_tds": 1458,
+      "note": "Based on progressive tax calculation"
+    },
+    "professional_fee_example": {
+      "payment_amount": 50000,
+      "threshold": 2500,
+      "taxable_amount": 47500,
+      "tds_amount": 1425,
+      "calculation": "3% of 47500"
+    },
+    "interest_example": {
+      "interest_payment": 10000,
+      "threshold": 2500,
+      "taxable_amount": 7500,
+      "tds_amount": 750,
+      "calculation": "10% of 7500"
+    }
+  },
+  "validation_rules": {
+    "threshold_validation": {
+      "monthly_threshold": "Applied for recurring payments",
+      "annual_threshold": "Applied for total yearly payments",
+      "aggregate_calculation": "Multiple payments to same payee"
+    },
+    "certificate_exemption": {
+      "tds_certificate": "Lower rate with valid certificate",
+      "tax_exemption_certificate": "Complete exemption with certificate",
+      "renewal_requirements": "Annual certificate renewal"
+    },
+    "payment_timing": {
+      "deduction_timing": "At time of payment or credit, whichever earlier",
+      "deposit_deadline": "7th of following month",
+      "return_filing": "Quarterly TDS returns"
+    }
+  },
+  "integration_notes": {
+    "phase_0_usage": "Use these standard rates for initial implementation",
+    "data_collection_priority": "High - Complete NBR matrix needed",
+    "validation_against_scenarios": {
+      "tier_1": "Basic TDS calculations for salary, interest",
+      "tier_2": "Professional fees, business payments",
+      "tier_3": "Complex corporate TDS, import/export"
+    },
+    "update_requirements": [
+      "NBR SRO notifications for current rates",
+      "Finance Act 2024-25 specific provisions",
+      "Sector-specific TDS variations",
+      "Threshold amount updates"
+    ]
+  }
+}

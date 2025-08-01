@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "purpose": "Bengali legal terms for tax processing",
+    "version": "1.0",
+    "term_count": 50,
+    "created_date": "2025-08-01"
+  },
+  "terms": {
+    "আয়কর": {
+      "english": "income_tax",
+      "category": "tax_type"
+    },
+    "করদাতা": {
+      "english": "taxpayer",
+      "category": "person"
+    },
+    "কর নিরূপণ": {
+      "english": "tax_assessment",
+      "category": "process"
+    },
+    "রিটার্ন": {
+      "english": "tax_return",
+      "category": "document"
+    },
+    "বেতন": {
+      "english": "salary",
+      "category": "income_type"
+    },
+    "ব্যবসায়িক আয়": {
+      "english": "business_income",
+      "category": "income_type"
+    },
+    "ভাড়া": {
+      "english": "rent",
+      "category": "income_type"
+    },
+    "সুদ": {
+      "english": "interest_penalty",
+      "category": "punishment"
+    },
+    "লভ্যাংশ": {
+      "english": "dividend",
+      "category": "income_type"
+    },
+    "পুঁজিগত লাভ": {
+      "english": "capital_gain",
+      "category": "income_type"
+    },
+    "উৎসে কর কর্তন": {
+      "english": "tax_deducted_at_source",
+      "category": "tds"
+    },
+    "উৎসে কর": {
+      "english": "tds",
+      "category": "tds"
+    },
+    "কর কর্তন": {
+      "english": "tax_deduction",
+      "category": "tds"
+    },
+    "কর কর্তনকারী": {
+      "english": "tax_deductor",
+      "category": "person"
+    },
+    "কর কর্তন সনদ": {
+      "english": "tds_certificate",
+      "category": "document"
+    },
+    "সীমা": {
+      "english": "threshold",
+      "category": "amount"
+    },
+    "ছাড়": {
+      "english": "exemption",
+      "category": "relief"
+    },
+    "রেয়াত": {
+      "english": "rebate",
+      "category": "relief"
+    },
+    "জরিমানা": {
+      "english": "penalty",
+      "category": "punishment"
+    },
+    "পেশাজীবী": {
+      "english": "professional",
+      "category": "person"
+    },
+    "ডাক্তার": {
+      "english": "doctor",
+      "category": "profession"
+    },
+    "আইনজীবী": {
+      "english": "lawyer",
+      "category": "profession"
+    },
+    "প্রকৌশলী": {
+      "english": "engineer",
+      "category": "profession"
+    },
+    "পরামর্শদাতা": {
+      "english": "consultant",
+      "category": "profession"
+    },
+    "ব্যবসায়ী": {
+      "english": "businessman",
+      "category": "person"
+    },
+    "কোম্পানি": {
+      "english": "company",
+      "category": "entity"
+    },
+    "অংশীদারিত্ব": {
+      "english": "partnership",
+      "category": "entity"
+    },
+    "একক মালিকানা": {
+      "english": "sole_proprietorship",
+      "category": "entity"
+    },
+    "কত টাকা": {
+      "english": "how_much_money",
+      "category": "query"
+    },
+    "কি হার": {
+      "english": "what_rate",
+      "category": "query"
+    },
+    "কিভাবে": {
+      "english": "how_to",
+      "category": "query"
+    },
+    "কোথায়": {
+      "english": "where",
+      "category": "query"
+    },
+    "কখন": {
+      "english": "when",
+      "category": "query"
+    },
+    "লাখ": {
+      "english": "100000",
+      "category": "number"
+    },
+    "কোটি": {
+      "english": "10000000",
+      "category": "number"
+    },
+    "হাজার": {
+      "english": "1000",
+      "category": "number"
+    },
+    "শত": {
+      "english": "100",
+      "category": "number"
+    },
+    "ফরম": {
+      "english": "form",
+      "category": "document"
+    },
+    "আবেদন": {
+      "english": "application",
+      "category": "document"
+    },
+    "দাখিল": {
+      "english": "submission",
+      "category": "process"
+    },
+    "জমা": {
+      "english": "deposit",
+      "category": "process"
+    },
+    "মাসিক": {
+      "english": "monthly",
+      "category": "frequency"
+    },
+    "বার্ষিক": {
+      "english": "annual",
+      "category": "frequency"
+    },
+    "ত্রৈমাসিক": {
+      "english": "quarterly",
+      "category": "frequency"
+    },
+    "সময়সীমা": {
+      "english": "deadline",
+      "category": "time"
+    }
+  },
+  "query_patterns": {
+    "income_query": [
+      "আমার আয়",
+      "আমার বেতন",
+      "আমার ব্যবসায়িক আয়"
+    ],
+    "tax_calculation": [
+      "কত কর",
+      "কর হিসাব",
+      "কর গণনা"
+    ],
+    "tds_query": [
+      "উৎসে কর",
+      "কর কর্তন",
+      "TDS"
+    ],
+    "form_query": [
+      "কোন ফরম",
+      "ফরম পূরণ",
+      "রিটার্ন দাখিল"
+    ],
+    "threshold_query": [
+      "সীমা কত",
+      "কত টাকার উপর",
+      "ছাড় কত"
+    ]
+  }
+}
