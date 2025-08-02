@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 228 Correctness of assessment, etc., not to be questioned",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২২৮",
+          "title": "ধারা ২২৮ - কর নির্ধারণের সঠিকতা, ইত্যাদি বিষয়ে কোনো প্রশ্ন উত্থাপন করা যাইবে না এই অধ্যায়ের অধীন কোনো ফেরত প্রাপ্তির দাবির ক্ষেত্রে কোনো দাবিদার কোনো ",
+          "content_text": "ধারা ২২৮ - কর নির্ধারণের সঠিকতা, ইত্যাদি বিষয়ে কোনো প্রশ্ন উত্থাপন করা যাইবে না এই অধ্যায়ের অধীন কোনো ফেরত প্রাপ্তির দাবির ক্ষেত্রে কোনো দাবিদার কোনো কর নির্ধারণী আদেশের সঠিকতা বা বৈধতার বিষয়ে অথবা অন্য কোনো বিষয় যাহা চূড়ান্ত ও সমাপ্ত হইয়াছে, তাহা সম্পর্কে কোনো প্রশ্ন উত্থাপন করিতে পারিবেন না বা উক্ত বিষয় পুনঃ বিবেচনার জন্য অনুরোধ করিতে পারিবেন না এবং দাবিদার অতিরিক্ত কর পরিশোধের কারণে অর্থ ফেরত পাওয়া ব্যতীত অন্য কোনো বিষয়ে কোনো প্রতিকার পাইবার অধিকারী হইবেন না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২২৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-228-correctness-of-assessment-etc-not-to-be-questioned/",
+    "original_title": "Income Tax Act Bangla Section 228 Correctness of assessment, etc., not to be questioned – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 228 Correctness of assessment, etc., not to be questioned"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

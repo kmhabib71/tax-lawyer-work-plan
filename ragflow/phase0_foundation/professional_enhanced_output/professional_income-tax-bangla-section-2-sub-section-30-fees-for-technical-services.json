@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 30 Fees for technical services",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩০ - কারিগরি সেবার ফি “কারিগরি সেবার ফি” অর্থ ব্যবস্থাপনা, কারিগরি বা পরামর্শক সেবা প্রদানের মাধ্যমে প্রাপ্ত প্রতিদান, এককালীন প্রাপ্ত প্রত",
+          "content_text": "ধারা ২ দফা ৩০ - কারিগরি সেবার ফি “কারিগরি সেবার ফি” অর্থ ব্যবস্থাপনা, কারিগরি বা পরামর্শক সেবা প্রদানের মাধ্যমে প্রাপ্ত প্রতিদান, এককালীন প্রাপ্ত প্রতিদানসহ, এবং কোনো কারিগরি বা অন্য কোনো পেশাজীবীর সেবাও ইহার অন্তর্ভুক্ত হইবে, তবে নিম্নবর্ণিত বিষয়াদি ইহার অন্তর্ভুক্ত হইবে না, যথা:- (ক) প্রতিদান গ্রহীতা কর্তৃক গৃহীত কোনো নির্মাণ কার্য, যন্ত্রাদি জোড়া প্রদানের কার্য, খনি বিষয়ক কার্য বা এইরূপ বিষয় সংক্রান্ত প্রকল্প হইতে প্রাপ্য প্রতিদান; অথবা (খ) প্রতিদান গ্রহীতার “চাকরি হইতে আয়” আয় হিসাবে শ্রেণিবিন্যাসযোগ্য কোনো প্রতিদান;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) প্রতিদান গ্রহীতা কর্তৃক গৃহীত কোনো নির্মাণ কার্য, যন্ত্রাদি জোড়া প্রদানের কার্য, খনি বিষয়ক কার্য বা এইরূপ বিষয় সংক্রান্ত প্রকল্প হইতে প্রাপ্য প্রতিদান; অথবা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) প্রতিদান গ্রহীতার “চাকরি হইতে আয়” আয় হিসাবে শ্রেণিবিন্যাসযোগ্য কোনো প্রতিদান;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-30-fees-for-technical-services/",
+    "original_title": "Income tax bangla section 2 sub-section 30 Fees for technical services – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 30 Fees for technical services"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

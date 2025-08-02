@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 290 Appeal against order of Tax Recovery Officer",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৯০",
+          "title": "ধারা ২৯০ - ট্যাক্স রিকোভারি অফিসারের আদেশের বিরুদ্ধে আপিল",
+          "content_text": "ধারা ২৯০ - ট্যাক্স রিকোভারি অফিসারের আদেশের বিরুদ্ধে আপিল",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৯০"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২১৭",
+          "title": "ধারা ২১৭ এর অধীন ট্যাক্স রিকোভারি অফিসারের জারীকৃত আদেশে সংক্ষুদ্ধ ব্যক্তি আদেশটি জারির ৩০ (ত্রিশ) দিনের মধ্যে এই মর্মে কর কমিশনার কর্তৃক নির্ধারিত পর",
+          "content_text": "ধারা ২১৭ এর অধীন ট্যাক্স রিকোভারি অফিসারের জারীকৃত আদেশে সংক্ষুদ্ধ ব্যক্তি আদেশটি জারির ৩০ (ত্রিশ) দিনের মধ্যে এই মর্মে কর কমিশনার কর্তৃক নির্ধারিত পরিদর্শী অতিরিক্ত কর কমিশনারের নিকট আপিল করিতে পারিবেন, এবং এইরূপ আপিলের ক্ষেত্রে, পরিদর্শী অতিরিক্ত কর কমিশনারের সিদ্ধান্ত চূড়ান্ত বলিয়া গণ্য হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২১৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-290-appeal-against-order-of-tax-recovery-officer/",
+    "original_title": "Income Tax Act Bangla Section 290 Appeal against order of Tax Recovery Officer – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 290 Appeal against order of Tax Recovery Officer"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

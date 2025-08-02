@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 131",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "131",
+          "title": "Section 131 - Collection of Tax from Issue and Renewal of Trade License A person responsible for the renewal of a trade license shall collect tax at t",
+          "content_text": "Section 131 - Collection of Tax from Issue and Renewal of Trade License A person responsible for the renewal of a trade license shall collect tax at the following rates for each renewal of a trade license, namely:- (a) Tk. 3,000 (three thousand) in Dhaka South City Corporation, Dhaka North City Corporation or Chittagong City Corporation; (b) Tk. 2,000 (two thousand) in any other city corporation; (c) Tk. 1,000 (one thousand) in any district headquarters municipality; (d) Tk. 500 (five hundred) in any municipality;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) Tk. 3,000 (three thousand) in Dhaka South City Corporation, Dhaka North City Corporation or Chittagong City Corporation;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) Tk. 2,000 (two thousand) in any other city corporation;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) Tk. 1,000 (one thousand) in any district headquarters municipality;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "d",
+              "text": "(d) Tk. 500 (five hundred) in any municipality;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "131"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-131/",
+    "original_title": "Income Tax Act 2023 Section 131 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 131"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

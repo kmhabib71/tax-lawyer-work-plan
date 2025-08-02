@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 79 Exemption of certain income of co-operative societies",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৭৯",
+          "title": "ধারা ৭৯ - সমবায় সমিতির কতিপয় আয়ের অব্যাহতি কোনো সমবায় সমিতি কর্তৃক নিম্নবর্ণিত কার্যক্রম হইতে অর্জিত আয় প্রদেয় কর হইতে অব্যাহতি প্রাপ্ত হইবে, যথা",
+          "content_text": "ধারা ৭৯ - সমবায় সমিতির কতিপয় আয়ের অব্যাহতি কোনো সমবায় সমিতি কর্তৃক নিম্নবর্ণিত কার্যক্রম হইতে অর্জিত আয় প্রদেয় কর হইতে অব্যাহতি প্রাপ্ত হইবে, যথা:- (ক) ফসল উৎপাদন; (খ) কুটির শিল্প পরিচালনা; (গ) ইহার সদস্যগণ কর্তৃক কৃষিজাত পণ্য বাজারজাতকরণ। ব্যাখ্যা। - এই ধারার উদ্দেশ্যপূরণকল্পে, “কুটির শিল্প” অর্থ একটি উদ্যোগ, যাহা জয়েন্ট স্টক কোম্পানির নিবন্ধনপ্রাপ্ত নহে, যেখানে- (ক) ব্যবসা প্রতিষ্ঠানের মালিক একজন বিনিয়োগকারী, পূর্ণসময়কালীন কর্মী এবং প্রকৃত উদ্যোক্তা; (খ) ব্যবসা প্রতিষ্ঠানের প্লান্ট, যন্ত্রপাতি ও উপকরণে বিনিয়োগকৃত মূলধন আয়বর্ষের যেকোনো সময়ে ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম করে না; (গ) মালিক ও তাহার পরিবারের সদস্যসহ ব্যবসা প্রতিষ্ঠানে কর্মরত শ্রমিকের সংখ্যা ১৫ (পনেরো) জনের অধিক নহে।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ফসল উৎপাদন;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) কুটির শিল্প পরিচালনা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) ইহার সদস্যগণ কর্তৃক কৃষিজাত পণ্য বাজারজাতকরণ। ব্যাখ্যা। - এই ধারার উদ্দেশ্যপূরণকল্পে, “কুটির শিল্প” অর্থ একটি উদ্যোগ, যাহা জয়েন্ট স্টক কোম্পানির নিবন্ধনপ্রাপ্ত নহে, যেখানে-",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ক",
+              "text": "(ক) ব্যবসা প্রতিষ্ঠানের মালিক একজন বিনিয়োগকারী, পূর্ণসময়কালীন কর্মী এবং প্রকৃত উদ্যোক্তা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) ব্যবসা প্রতিষ্ঠানের প্লান্ট, যন্ত্রপাতি ও উপকরণে বিনিয়োগকৃত মূলধন আয়বর্ষের যেকোনো সময়ে ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম করে না;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) মালিক ও তাহার পরিবারের সদস্যসহ ব্যবসা প্রতিষ্ঠানে কর্মরত শ্রমিকের সংখ্যা ১৫ (পনেরো) জনের অধিক নহে।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ৭৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-79-exemption-of-certain-income-of-co-operative-societies/",
+    "original_title": "Income Tax Act Bangla Section 79 Exemption of certain income of co-operative societies – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 79 Exemption of certain income of co-operative societies"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

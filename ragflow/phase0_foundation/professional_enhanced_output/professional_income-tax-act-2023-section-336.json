@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "336",
+          "title": "Section 336 - Certain Errors not to Vitiate Assessment etc. Any assessment, order, notice, warrant or other instrument made, issued or executed or dee",
+          "content_text": "Section 336 - Certain Errors not to Vitiate Assessment etc. Any assessment, order, notice, warrant or other instrument made, issued or executed or deemed to be made, issued or executed under this Act, merely for want of any prescribed form nor shall it be void or otherwise invalid by reason of any mistake, error or deviation therein unless such lack of form, mistake, error or deviation actually prejudices the taxpayer. Moreover, as per",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "336"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-336/",
+    "original_title": "Income Tax Act 2023 Section 336 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "302",
+          "title": "Section 302 - Procedure for Settlement through Alternative Dispute Resolution (1) On receipt of the application for alternative dispute resolution, th",
+          "content_text": "Section 302 - Procedure for Settlement through Alternative Dispute Resolution (1) On receipt of the application for alternative dispute resolution, the facilitator shall send a copy of the application to the Deputy Commissioner of Taxes concerned and seek his opinion on the matter and whether the conditions of section 298 have been complied with. (2) If the Deputy Commissioner of Taxes, after receiving the copy referred to in clause (c) of sub-section (3), fails to give his opinion as to the fulfillment of the conditions within 5 (five) working days, the conditions mentioned in the supporting application shall be deemed to have been fulfilled. (3) Facilitator- (a) notify the applicant and the Deputy Commissioner of Taxes or the Commissioner’s representative in writing to attend the dispute settlement meeting on the date specified in the notice; (b) adjourn meetings from time to time, if deemed necessary; (с) may call for documents or evidence from the Deputy Commissioner of Taxes or the applicant before or at the meeting for the purpose of settling the dispute; and may, if considered fit, be inquired into by any Income-tax authority before disposal of the application. (4) The Facilitator shall assist the applicant taxpayer and the representative of the Commissioner to agree for the purpose of settlement of the dispute through discussions and meetings. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) On receipt of the application for alternative dispute resolution, the facilitator shall send a copy of the application to the Deputy Commissioner of Taxes concerned and seek his opinion on the matter and whether the conditions of section 298 have been complied with.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the Deputy Commissioner of Taxes, after receiving the copy referred to in clause (c) of sub-section",
+              "clauses": [
+                {
+                  "identifier": "c",
+                  "text": "(c) of sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3), fails to give his opinion as to the fulfillment of the conditions within 5 (five) working days, the conditions mentioned in the supporting application shall be deemed to have been fulfilled.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Facilitator- (a) notify the applicant and the Deputy Commissioner of Taxes or the Commissioner’s representative in writing to attend the dispute settlement meeting on the date specified in the notice; (b) adjourn meetings from time to time, if deemed necessary; (с) may call for documents or evidence from the Deputy Commissioner of Taxes or the applicant before or at the meeting for the purpose of settling the dispute; and may, if considered fit, be inquired into by any Income-tax authority before disposal of the application.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) notify the applicant and the Deputy Commissioner of Taxes or the Commissioner’s representative in writing to attend the dispute settlement meeting on the date specified in the notice;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) adjourn meetings from time to time, if deemed necessary; (с) may call for documents or evidence from the Deputy Commissioner of Taxes or the applicant before or at the meeting for the purpose of settling the dispute; and may, if considered fit, be inquired into by any Income-tax authority before disposal of the application.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The Facilitator shall assist the applicant taxpayer and the representative of the Commissioner to agree for the purpose of settlement of the dispute through discussions and meetings. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "302"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-302/",
+    "original_title": "Income Tax Act 2023 Section 302 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

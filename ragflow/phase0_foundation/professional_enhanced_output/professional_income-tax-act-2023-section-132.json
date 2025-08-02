@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 132",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "132",
+          "title": "Section 132 - Collection of Tax from the Shipping Business of a Resident The Commissioner of Customs or any other authority duly empowered shall not g",
+          "content_text": "Section 132 - Collection of Tax from the Shipping Business of a Resident The Commissioner of Customs or any other authority duly empowered shall not grant port clearance to any ship carrying passengers, cattle, mail or goods owned or chartered by a resident taxpayer, unless the resident taxpayer has obtained from the Deputy Commissioner to Taxes concerned a certificate in the prescribed manner and pay tax at the rate of 5% (five percent) on the gross goods entering Bangladesh or sent abroad: Provided that a tax at the rate of 3% (three percent) shall be collected on goods received or transported in exchange for services rendered by two or more countries.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "132"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-132/",
+    "original_title": "Income Tax Act 2023 Section 132 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 132"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

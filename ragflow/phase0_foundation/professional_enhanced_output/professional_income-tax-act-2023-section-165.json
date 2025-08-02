@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "165",
+          "title": "Section 165 - Returns (1) The Board may determine such returns for taxpayers class wise and as it thinks fit. (2) A normal taxpayer’s return shall con",
+          "content_text": "Section 165 - Returns (1) The Board may determine such returns for taxpayers class wise and as it thinks fit. (2) A normal taxpayer’s return shall contain a statement of all types of income of the taxpayer, a statement of all types of assets and liabilities located in Bangladesh and outside Bangladesh and, as the case may be, a statement of all types of expenses related to living. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Board may determine such returns for taxpayers class wise and as it thinks fit.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) A normal taxpayer’s return shall contain a statement of all types of income of the taxpayer, a statement of all types of assets and liabilities located in Bangladesh and outside Bangladesh and, as the case may be, a statement of all types of expenses related to living. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "165"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-165/",
+    "original_title": "Income Tax Act 2023 Section 165 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

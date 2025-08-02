@@ -1,0 +1,27 @@
+{
+  "total_files": 4,
+  "successful_enhancements": 0,
+  "failed_enhancements": 4,
+  "processing_log": [
+    {
+      "file": "income-tax-bangla-section-2-sub-section-81-dividend.json",
+      "status": "failed",
+      "error": "Enhancement failed: expected string or bytes-like object, got 'dict'"
+    },
+    {
+      "file": "income-tax-bangla-section-2-sub-section-82-shareholder.json",
+      "status": "failed",
+      "error": "Enhancement failed: expected string or bytes-like object, got 'dict'"
+    },
+    {
+      "file": "income-tax-bangla-section-2-sub-section-83-member-taxes.json",
+      "status": "failed",
+      "error": "Enhancement failed: expected string or bytes-like object, got 'dict'"
+    },
+    {
+      "file": "income-tax-schedule-bangla-6th-schedule-part-4-tax-holidays.json",
+      "status": "failed",
+      "error": "Enhancement failed: expected string or bytes-like object, got 'dict'"
+    }
+  ]
+}

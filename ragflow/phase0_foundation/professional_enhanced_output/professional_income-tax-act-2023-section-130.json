@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 130",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "130",
+          "title": "Section 130 -Collection of Tax from Brick Manufacturer Any person responsible for granting or renewing a permit to manufacture bricks under The Brick ",
+          "content_text": "Section 130 -Collection of Tax from Brick Manufacturer Any person responsible for granting or renewing a permit to manufacture bricks under The Brick Making and Kiln Installation (Regulation) Act, 2013 (Act No. 59 of 2013) shall not grant or renew such permit, if the application for such permission or renewal shall accompanied by a certificate of payment of income tax for the previous tax year certified by the Deputy Commissioner to Taxes at the following rates, namely:- (a) For one section brick kiln – Tk. 45,000 (forty five thousand); (b) For one and half-section brick kiln – Tk. 70,000 (seventy thousand); (c) For two section brick kiln – Tk. 90,000 (ninety thousand); (d) For kilns producing bricks with automatic machines – Tk.1,50,000 (one lakh fifty thousand).",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) For one section brick kiln – Tk. 45,000 (forty five thousand);",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) For one and half-section brick kiln – Tk. 70,000 (seventy thousand);",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) For two section brick kiln – Tk. 90,000 (ninety thousand);",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "d",
+              "text": "(d) For kilns producing bricks with automatic machines – Tk.1,50,000 (one lakh fifty thousand).",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "130"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-130/",
+    "original_title": "Income Tax Act 2023 Section 130 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 130"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

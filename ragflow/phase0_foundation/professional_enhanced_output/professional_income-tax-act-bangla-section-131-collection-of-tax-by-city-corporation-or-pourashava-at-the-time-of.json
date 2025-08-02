@@ -1,0 +1,75 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 131 Collection of tax by City Corporation or Pourashava at the time of renewal of trade licence",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৩১",
+          "title": "ধারা ১৩১ - ট্রেড লাইসেন্স প্রদান বা নবায়নের সময় কর সংগ্রহ ১ [ ট্রেড ] লাইসেন্স নবায়নের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি প্রতিটি ১ [ ট্রেড ] লাইসেন্স ন",
+          "content_text": "ধারা ১৩১ - ট্রেড লাইসেন্স প্রদান বা নবায়নের সময় কর সংগ্রহ ১ [ ট্রেড ] লাইসেন্স নবায়নের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি প্রতিটি ১ [ ট্রেড ] লাইসেন্স নবায়নের জন্য নিম্নবর্ণিত হারে কর সংগ্রহ করিবে, যথা:- (ক) ঢাকা দক্ষিণ সিটি করপোরেশন, ঢাকা উত্তর সিটি করপোরেশন বা চট্টগ্রাম সিটি করপোরেশনে ৩ (তিন) হাজার টাকা; (খ) অন্য কোনো সিটি কর্পোরেশনে ২ (দুই) হাজার টাকা; (গ) কোনো জেলা সদর দফতরের পৌরসভায় ১ (এক) হাজার টাকা; (ঘ) কোনো পৌরসভায় ৫০০ (পাঁচশত) টাকা। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ৭৯ ধারাবলে দুইবার উল্লিখিত “বাণিজ্যিক” শব্দের পরিবর্তে “ট্রেড” শব্দ প্রতিস্থাপিত ।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ঢাকা দক্ষিণ সিটি করপোরেশন, ঢাকা উত্তর সিটি করপোরেশন বা চট্টগ্রাম সিটি করপোরেশনে ৩ (তিন) হাজার টাকা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) অন্য কোনো সিটি কর্পোরেশনে ২ (দুই) হাজার টাকা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) কোনো জেলা সদর দফতরের পৌরসভায় ১ (এক) হাজার টাকা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ঘ",
+              "text": "(ঘ) কোনো পৌরসভায় ৫০০ (পাঁচশত) টাকা। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ৭৯ ধারাবলে দুইবার উল্লিখিত “বাণিজ্যিক” শব্দের পরিবর্তে “ট্রেড” শব্দ প্রতিস্থাপিত ।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৩১"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-131-collection-of-tax-by-city-corporation-or-pourashava-at-the-time-of-renewal-of-trade-licence/",
+    "original_title": "Income Tax Act Bangla Section 131 Collection of tax by City Corporation or Pourashava at the time of renewal of trade licence – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 131 Collection of tax by City Corporation or Pourashava at the time of renewal of trade licence"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

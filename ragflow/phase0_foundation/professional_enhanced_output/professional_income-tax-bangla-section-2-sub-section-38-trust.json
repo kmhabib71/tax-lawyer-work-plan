@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 38 Trust",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩৮ - ট্রাস্ট “ট্রাস্ট” অর্থ Trust Act, 1882 (Act No. II of 1882) এর অধীন গঠিত ট্রাস্ট এবং Specific Relief Act, 1877 (Act No. II of 1877) এ ",
+          "content_text": "ধারা ২ দফা ৩৮ - ট্রাস্ট “ট্রাস্ট” অর্থ Trust Act, 1882 (Act No. II of 1882) এর অধীন গঠিত ট্রাস্ট এবং Specific Relief Act, 1877 (Act No. II of 1877) এ সংজ্ঞায়িত ট্রাস্টও ইহার অন্তর্ভুক্ত হইবে: তবে শর্ত থাকে যে, যেইক্ষেত্রে ট্রাস্ট কোনো কোম্পানি বা তহবিল গঠনের পূর্বশর্ত অথবা কোম্পানি বা তহবিল পরিচালনার উদ্দেশ্যে গঠিত হইয়া থাকে সেইক্ষেত্রে উক্ত কোম্পানি বা, ক্ষেত্রমত, তহবিল করযোগ্য সত্ত্বা হইবে এবং ট্রাস্ট করযোগ্য সত্ত্বা হিসাবে বিবেচিত হইবে না;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-38-trust/",
+    "original_title": "Income tax bangla section 2 sub-section 38 Trust – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 38 Trust"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

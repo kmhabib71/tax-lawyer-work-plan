@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "312",
+          "title": "Section 312 - Punishment for Tax Evasion (1) If any person willfully attempts to evade any tax payable under this Act by any means, he shall be liable",
+          "content_text": "Section 312 - Punishment for Tax Evasion (1) If any person willfully attempts to evade any tax payable under this Act by any means, he shall be liable to imprisonment for a term which may extend to 5 (five) years but not less than 6 (six) months, or to fine or to both. (2) A person shall be deemed to have willfully attempted to evade the tax payable under this Act, if he- (a) conceals particulars of income; (b) willfully furnishes false information about assets, liabilities and expenses to reduce liability to pay income tax; furnishes any false information or statement in respect of any account or other document under his possession or control, which is connected with any proceeding under this Act; (d) furnishes or makes any false information, or statement, in accounts or other statements; (e) intentionally omits or makes any relevant information or statement in the accounts or other statements; or (f) takes any other initiative for the purpose of non-payment of income-tax payable under this Act. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If any person willfully attempts to evade any tax payable under this Act by any means, he shall be liable to imprisonment for a term which may extend to 5 (five) years but not less than 6 (six) months, or to fine or to both.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) A person shall be deemed to have willfully attempted to evade the tax payable under this Act, if he- (a) conceals particulars of income; (b) willfully furnishes false information about assets, liabilities and expenses to reduce liability to pay income tax; furnishes any false information or statement in respect of any account or other document under his possession or control, which is connected with any proceeding under this Act; (d) furnishes or makes any false information, or statement, in accounts or other statements; (e) intentionally omits or makes any relevant information or statement in the accounts or other statements; or (f) takes any other initiative for the purpose of non-payment of income-tax payable under this Act. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) conceals particulars of income;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) willfully furnishes false information about assets, liabilities and expenses to reduce liability to pay income tax; furnishes any false information or statement in respect of any account or other document under his possession or control, which is connected with any proceeding under this Act;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) furnishes or makes any false information, or statement, in accounts or other statements;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) intentionally omits or makes any relevant information or statement in the accounts or other statements; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) takes any other initiative for the purpose of non-payment of income-tax payable under this Act. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "312"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-312/",
+    "original_title": "Income Tax Act 2023 Section 312 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

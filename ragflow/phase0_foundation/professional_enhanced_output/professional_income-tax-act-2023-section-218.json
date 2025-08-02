@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "218",
+          "title": "Section 218 - Power to Revoke of Certificate and Stay Proceedings (1) Notwithstanding the issue of a certificate for the purpose of recovery of tax un",
+          "content_text": "Section 218 - Power to Revoke of Certificate and Stay Proceedings (1) Notwithstanding the issue of a certificate for the purpose of recovery of tax under section 216, the Deputy Commissioner of Taxes reserves the power, by intimation to the Tax Recovery Officer, to revoke the same or to correct any clerical or arithmetical error. (2) If the amount for which a certificate is issued for recovery of tax is reduced by appeal or any other proceeding under this Act, but further proceedings under this Act are necessary for the purpose of final proceedings in the case the Deputy Commissioner of Taxes shall suspend the recovery of an amount equal to the reduced amount from the certificate until any proceedings remain pending. (3) After the issue of a certificate for recovery of arrears of tax, if the amount of the arrears claim is reduced on appeal or any other proceedings under this Act and the subject matter of the order is final and conclusive in the appeal or any other proceedings under this Act, the Deputy Commissioner of Taxes if necessary shall make correction revoke the certificate. (4) The Deputy Commissioner of Taxes shall notify the Tax Recovery Officer of any order relating to the cancellation, correction of errors, suspension of proceedings, revocation or, as the case may be, rectification of the certificate. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding the issue of a certificate for the purpose of recovery of tax under section 216, the Deputy Commissioner of Taxes reserves the power, by intimation to the Tax Recovery Officer, to revoke the same or to correct any clerical or arithmetical error.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the amount for which a certificate is issued for recovery of tax is reduced by appeal or any other proceeding under this Act, but further proceedings under this Act are necessary for the purpose of final proceedings in the case the Deputy Commissioner of Taxes shall suspend the recovery of an amount equal to the reduced amount from the certificate until any proceedings remain pending.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) After the issue of a certificate for recovery of arrears of tax, if the amount of the arrears claim is reduced on appeal or any other proceedings under this Act and the subject matter of the order is final and conclusive in the appeal or any other proceedings under this Act, the Deputy Commissioner of Taxes if necessary shall make correction revoke the certificate.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The Deputy Commissioner of Taxes shall notify the Tax Recovery Officer of any order relating to the cancellation, correction of errors, suspension of proceedings, revocation or, as the case may be, rectification of the certificate. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "218"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-218/",
+    "original_title": "Income Tax Act 2023 Section 218 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

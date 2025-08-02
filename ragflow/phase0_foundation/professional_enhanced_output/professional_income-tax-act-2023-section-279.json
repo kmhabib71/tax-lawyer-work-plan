@@ -1,0 +1,90 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "279",
+          "title": "Section 279 - Penalty for Non-compliance of",
+          "content_text": "Section 279 - Penalty for Non-compliance of",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "279"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "239",
+          "title": "Section 239 Where any person fails to file any report under",
+          "content_text": "Section 239 Where any person fails to file any report under",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "239"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "239",
+          "title": "Section 239, the Deputy Commissioner of Taxes may impose a fine not exceeding Tk 3 (three) lakhs on such person. Moreover, as per",
+          "content_text": "Section 239, the Deputy Commissioner of Taxes may impose a fine not exceeding Tk 3 (three) lakhs on such person. Moreover, as per",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "239"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-279/",
+    "original_title": "Income Tax Act 2023 Section 279 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 4,
+      "subsections_count": 1,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.3
+  },
+  "forms": []
+}

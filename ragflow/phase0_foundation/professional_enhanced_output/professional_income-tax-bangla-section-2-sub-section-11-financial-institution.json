@@ -1,0 +1,68 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ১৫(গ) ধারাবলে নিম্নরূপ দফা (১১) বিলুপ্ত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১১ - আর্থিক প্রতিষ্ঠান [ *** ] ১ অর্থ আইন, ২০২৪ এর ১৫(গ) ধারাবলে নিম্নরূপ দফা (১১) বিলুপ্ত",
+          "content_text": "ধারা ২ দফা ১১ - আর্থিক প্রতিষ্ঠান [ *** ] ১ অর্থ আইন, ২০২৪ এর ১৫(গ) ধারাবলে নিম্নরূপ দফা (১১) বিলুপ্ত । [",
+          "subsections": [
+            {
+              "identifier": "১১",
+              "text": "(১১) বিলুপ্ত । [",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "বিলুপ্ত"
+          ]
+        },
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১১ – আর্থিক প্রতিষ্ঠান “আর্থিক প্রতিষ্ঠান” অর্থ আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ (১৯৯৩ সনের ২৭ নং আইন) এ সংজ্ঞায়িত আর্থিক প্রতিষ্ঠান; ]",
+          "content_text": "ধারা ২ দফা ১১ – আর্থিক প্রতিষ্ঠান “আর্থিক প্রতিষ্ঠান” অর্থ আর্থিক প্রতিষ্ঠান আইন, ১৯৯৩ (১৯৯৩ সনের ২৭ নং আইন) এ সংজ্ঞায়িত আর্থিক প্রতিষ্ঠান; ]",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-11-financial-institution/",
+    "original_title": "Income tax bangla section 2 sub-section 11 Financial institution – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 11 Financial institution"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 151",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "151",
+          "title": "Section 151 - Payment of Tax in case of no Deduction is Made Direct tax shall be payable by the taxpayer under this Act in the following cases, namely",
+          "content_text": "Section 151 - Payment of Tax in case of no Deduction is Made Direct tax shall be payable by the taxpayer under this Act in the following cases, namely:- (a) fails to deduct or collect any tax required under the provisions of this Part; (b) the amount of the deficiency if the amount of tax deducted or collected is less than the tax payable by the taxpayer after regular assessment of tax; (c) in respect of such income if no provision is made for the deduction or collection of tax in respect of any income under this Part.",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) fails to deduct or collect any tax required under the provisions of this Part;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) the amount of the deficiency if the amount of tax deducted or collected is less than the tax payable by the taxpayer after regular assessment of tax;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) in respect of such income if no provision is made for the deduction or collection of tax in respect of any income under this Part.",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "151"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-151/",
+    "original_title": "Income Tax Act 2023 Section 151 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 151"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

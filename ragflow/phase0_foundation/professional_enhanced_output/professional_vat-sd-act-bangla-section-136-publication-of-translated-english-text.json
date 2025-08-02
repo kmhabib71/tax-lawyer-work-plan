@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩৬ - ইংরেজিতে অনূদিত পাঠ প্রকাশ (১) এই আইন প্রবর্তনের পর সরকার, প্রয়োজন মনে করিলে, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের বাংলা পাঠের ইংরেজিতে অনূদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিতে পারিবে",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৩৬",
+          "title": "ধারা ১৩৬ - ইংরেজিতে অনূদিত পাঠ প্রকাশ (১) এই আইন প্রবর্তনের পর সরকার, প্রয়োজন মনে করিলে, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের বাংলা পাঠের ইংরেজিতে",
+          "content_text": "ধারা ১৩৬ - ইংরেজিতে অনূদিত পাঠ প্রকাশ (১) এই আইন প্রবর্তনের পর সরকার, প্রয়োজন মনে করিলে, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের বাংলা পাঠের ইংরেজিতে অনূদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিতে পারিবে। (২) বাংলা পাঠ ও ইংরেজি পাঠের মধ্যে বিরোধের ক্ষেত্রে বাংলা পাঠ প্রাধান্য পাইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইন প্রবর্তনের পর সরকার, প্রয়োজন মনে করিলে, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের বাংলা পাঠের ইংরেজিতে অনূদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিতে পারিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) বাংলা পাঠ ও ইংরেজি পাঠের মধ্যে বিরোধের ক্ষেত্রে বাংলা পাঠ প্রাধান্য পাইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৩৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-136-publication-of-translated-english-text/",
+    "original_title": "VAT & SD Act Bangla Section 136 Publication of translated English text",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩৬ - ইংরেজিতে অনূদিত পাঠ প্রকাশ (১) এই আইন প্রবর্তনের পর সরকার, প্রয়োজন মনে করিলে, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের বাংলা পাঠের ইংরেজিতে অনূদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিতে পারিবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

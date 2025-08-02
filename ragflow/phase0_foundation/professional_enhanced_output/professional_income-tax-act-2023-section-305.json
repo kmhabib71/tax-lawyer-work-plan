@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "305",
+          "title": "Section 305 - Effect of Agreement (1) Notwithstanding anything contained in any other provision of this Act, an agreement entered into under subsectio",
+          "content_text": "Section 305 - Effect of Agreement (1) Notwithstanding anything contained in any other provision of this Act, an agreement entered into under subsection (9) of section 304 shall be binding on both parties and the taxpayer or any Income-tax authority cannot raise objection proceeding against it in any authority, tribunal or court. (2) In the case of a consensus reached under section 304, the matters mentioned therein shall be final and in respect of any matter outside the consensus, may be reopened in any proceeding under this Act. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in any other provision of this Act, an agreement entered into under subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "9",
+              "text": "(9) of section 304 shall be binding on both parties and the taxpayer or any Income-tax authority cannot raise objection proceeding against it in any authority, tribunal or court.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In the case of a consensus reached under section 304, the matters mentioned therein shall be final and in respect of any matter outside the consensus, may be reopened in any proceeding under this Act. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "305"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-305/",
+    "original_title": "Income Tax Act 2023 Section 305 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

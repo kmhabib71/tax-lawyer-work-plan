@@ -1,0 +1,129 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "47",
+          "title": "Section 47 - Calculation of Profit of Certain Businesses The profit of the business mentioned in column (2) of the table below shall be computed in ac",
+          "content_text": "Section 47 - Calculation of Profit of Certain Businesses The profit of the business mentioned in column (2) of the table below shall be computed in accordance with the provisions of the schedule mentioned in column (3) of the table, namely: Si. No. Business Schedule (1) (2) (3) 1. Insurance Business Fourth Schedule 2. Ext-action and exploration of natural gas, petroleum or other minerals Fifth Schedule Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the table below shall be computed in accordance with the provisions of the schedule mentioned in column",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) of the table, namely: Si. No. Business Schedule",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) 1. Insurance Business Fourth Schedule 2. Ext-action and exploration of natural gas, petroleum or other minerals Fifth Schedule Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Si. No.",
+                "Business",
+                "Schedule"
+              ],
+              "data": [
+                [
+                  "(1)",
+                  "(2)",
+                  "(3)"
+                ],
+                [
+                  "1.",
+                  "Insurance Business",
+                  "Fourth Schedule"
+                ],
+                [
+                  "2.",
+                  "Ext-action and exploration of natural gas, petroleum or other minerals",
+                  "Fifth Schedule"
+                ]
+              ],
+              "metadata": {
+                "row_count": 3,
+                "column_count": 3,
+                "table_type": "schedule_table"
+              }
+            }
+          ],
+          "references": [
+            "2",
+            "47"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-47/",
+    "original_title": "Income Tax Act 2023 Section 47 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

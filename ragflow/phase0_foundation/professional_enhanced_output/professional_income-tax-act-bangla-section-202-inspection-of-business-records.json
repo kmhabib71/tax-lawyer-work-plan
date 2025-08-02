@@ -1,0 +1,50 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 202 Inspection of business records",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২০২",
+          "title": "ধারা ২০২ - ব্যবসায়িক রেকর্ড ১[উপস্থাপন] যেকোনো আয়কর কর্তৃপক্ষ এই আইনের অধীন অনিষ্পন্ন কোনো তদন্ত সম্পর্কিত বা চলমান কোনো কার্যক্রমের জন্য প্রয়োজনীয় বা",
+          "content_text": "ধারা ২০২ - ব্যবসায়িক রেকর্ড ১[উপস্থাপন] যেকোনো আয়কর কর্তৃপক্ষ এই আইনের অধীন অনিষ্পন্ন কোনো তদন্ত সম্পর্কিত বা চলমান কোনো কার্যক্রমের জন্য প্রয়োজনীয় বা প্রাসঙ্গিক হইতে পারে এইরূপ যেকোনো ব্যক্তি বা প্রতিষ্ঠান ও প্রয়োজনে যেকোনো ব্যবসায়িক রেকর্ডের কপি সংগ্রহ বা কপি প্রদানে বাধ্য করিতে পারিবে। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ১১১ ধারাবলে উপান্তটীকায় “পরিদর্শন” শব্দের পরিবর্তে “উপস্থাপন” শব্দ প্রতিস্থাপিত ।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২০২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-202-inspection-of-business-records/",
+    "original_title": "Income Tax Act Bangla Section 202 Inspection of business records – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 202 Inspection of business records"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

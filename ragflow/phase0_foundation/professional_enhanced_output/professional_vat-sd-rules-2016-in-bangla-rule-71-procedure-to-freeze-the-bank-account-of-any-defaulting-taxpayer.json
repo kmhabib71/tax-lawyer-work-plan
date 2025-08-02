@@ -1,0 +1,74 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭১ - কোনো খেলাপি করদাতার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার পদ্ধতি ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক্ষেত্রে বকেয়া আদায় কর্মকর্তা বিধি ৬৪ এর বিধান অনুসরণ করিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯৫",
+          "title": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক",
+          "content_text": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক্ষেত্রে বকেয়া আদায় কর্মকর্তা বিধি ৬৪ এর বিধান অনুসরণ করিবেন।",
+          "subsections": [
+            {
+              "identifier": "৫",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৫",
+              "text": "(৫) এর দফা (ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক্ষেত্রে বকেয়া আদায় কর্মকর্তা বিধি ৬৪ এর বিধান অনুসরণ করিবেন।",
+              "clauses": [
+                {
+                  "identifier": "ঙ",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ঙ",
+                  "text": "(ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক্ষেত্রে বকেয়া আদায় কর্মকর্তা বিধি ৬৪ এর বিধান অনুসরণ করিবেন।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "৬৪",
+            "ধারা ৯৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-71-procedure-to-freeze-the-bank-account-of-any-defaulting-taxpayer/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 71 Procedure to freeze the bank account of any defaulting taxpayer – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭১ - কোনো খেলাপি করদাতার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার পদ্ধতি ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ঙ) এর অধীন কোনো খেলাপি করদাতার নিকট হইতে বকেয়া অর্থ আদায়ের লক্ষ্যে তাহার ব্যাংক হিসাব অপরিচালনযোগ্য (freeze) করিবার ক্ষেত্রে বকেয়া আদায় কর্মকর্তা বিধি ৬৪ এর বিধান অনুসরণ করিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

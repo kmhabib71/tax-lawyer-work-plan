@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 314 Punishment for false certificate",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩১৪",
+          "title": "ধারা ৩১৪ - মিথ্যা সনদপত্রের দণ্ড যদি কোনো ব্যক্তি এই আইনের অধীন এইরূপ কোনো সনদপত্র স্বাক্ষর বা জারি করেন, যাহা তিনি মিথ্যা বলিয়া জানেন বা বিশ্বাস করেন",
+          "content_text": "ধারা ৩১৪ - মিথ্যা সনদপত্রের দণ্ড যদি কোনো ব্যক্তি এই আইনের অধীন এইরূপ কোনো সনদপত্র স্বাক্ষর বা জারি করেন, যাহা তিনি মিথ্যা বলিয়া জানেন বা বিশ্বাস করেন বা সত্য বলিয়া বিশ্বাস করেন না, তাহা হইলে কোনো সনদপত্র স্বাক্ষর বা জারি করিবার জন্য তিনি ১ (এক) বৎসর পর্যন্ত কারাদণ্ডে, তবে ৩ (তিন) মাসের নিম্নে নহে, দণ্ডিত হইবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-314-punishment-for-false-certificate/",
+    "original_title": "Income Tax Act Bangla Section 314 Punishment for false certificate – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 314 Punishment for false certificate"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 121",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "121",
+          "title": "Section 121 -Collection of Tax from Manpower Export Director General of Bureau of Manpower, Employment and Training- (a) shall not grant clearance to ",
+          "content_text": "Section 121 -Collection of Tax from Manpower Export Director General of Bureau of Manpower, Employment and Training- (a) shall not grant clearance to manpower exporting agencies unless the agencies deposit challan of 10% (ten percent) tax of the service charge or fee charged on the manpower export along with the application; (b) shall not issue or renew a license under section 9 of the Foreign Employment and Immigration Act, 2013 (Act No.48 of 2013) unless the manpower exporting agency deposit advance tax challan of Tk. 50 (fifty) thousand with the application filed in this behalf.",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) shall not grant clearance to manpower exporting agencies unless the agencies deposit challan of 10% (ten percent) tax of the service charge or fee charged on the manpower export along with the application;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) shall not issue or renew a license under section 9 of the Foreign Employment and Immigration Act, 2013 (Act No.48 of 2013) unless the manpower exporting agency deposit advance tax challan of Tk. 50 (fifty) thousand with the application filed in this behalf.",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "121"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-121/",
+    "original_title": "Income Tax Act 2023 Section 121 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 121"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

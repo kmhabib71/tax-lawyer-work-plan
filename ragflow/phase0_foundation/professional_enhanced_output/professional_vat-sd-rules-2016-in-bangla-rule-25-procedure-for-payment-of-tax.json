@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২৫ - কর পরিশোধ পদ্ধতি (১) নিবন্ধিত বা তালিকাভুক্ত ব্যক্তি নির্দিষ্ট কর মেয়াদের নীট কর নিরূপণপূর্বক উহা নির্ধারিত হিসাব কোডে সরকারি কোষাগারে পরিশোধ করিবেন",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২৫ - কর পরিশোধ পদ্ধতি (১) নিবন্ধিত বা তালিকাভুক্ত",
+          "content_text": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২৫ - কর পরিশোধ পদ্ধতি (১) নিবন্ধিত বা তালিকাভুক্ত ব্যক্তি নির্দিষ্ট কর মেয়াদের নীট কর নিরূপণপূর্বক উহা নির্ধারিত হিসাব কোডে সরকারি কোষাগারে পরিশোধ করিবেন। (২) অনলাইনে কর পরিশোধের ক্ষেত্রে কর পরিশোধের পর মূসক কম্পিউটার সিস্টেম হইতে প্রদত্ত প্রাপ্তি স্বীকারপত্র (Acknowledgement Slip) কর পরিশোধের প্রমাণ হিসাবে বিবেচিত হইবে। (৩) অনলাইনে কর পরিশোধ ব্যতীত অন্য কোনো পদ্ধতিতে কর জমা প্রদানের ক্ষেত্রে দাখিলপত্রের সাথে কর জমা প্রদানের প্রামাণিক দলিল দাখিল করিতে হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-25-procedure-for-payment-of-tax/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 25 Procedure for payment of tax – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২৫ - কর পরিশোধ পদ্ধতি (১) নিবন্ধিত বা তালিকাভুক্ত ব্যক্তি নির্দিষ্ট কর মেয়াদের নীট কর নিরূপণপূর্বক উহা নির্ধারিত হিসাব কোডে সরকারি কোষাগারে পরিশোধ করিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

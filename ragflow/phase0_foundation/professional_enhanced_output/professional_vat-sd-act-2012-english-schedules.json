@@ -1,0 +1,133 @@
+{
+  "header": {
+    "title": "VAT imposable goods Schedule 3 Table 1 Part B 5% VAT imposable services Schedule 3 Table 2 Part A 7.5% VAT imposable goods Schedule 3 Table 2 Part B 7.5% VAT imposable services Schedule 3 Table 3 Part A 10% VAT imposable goods Schedule 3 Table 3 Part B 10% VAT imposable services Schedule 3 Table 4 Part A Specific VAT imposable goods Schedule 3 Table 4 Part B Specific VAT imposable services",
+    "document_type": "legal_schedule",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "Value Added Act & Supplementary Duty Act 2012 - Schedules Table of Contents Schedule Table Part Deta",
+          "content_text": "Value Added Act & Supplementary Duty Act 2012 - Schedules Table of Contents Schedule Table Part Details Schedule 1 Part A Goods exempted from Value Added Tax Schedule 1 Part B Services exempted from Value Added Tax Schedule 2 Table 1 Goods subject to supplementary duty at import stage Schedule 2 Table 2 Goods subject to supplementary duty at supply stage Schedule 2 Table 3 Services subject to supplementary duty at supply stage Schedule 3 Table 1 Part A 5% VAT imposable goods Schedule 3 Table 1 Part B 5% VAT imposable services Schedule 3 Table 2 Part A 7.5% VAT imposable goods Schedule 3 Table 2 Part B 7.5% VAT imposable services Schedule 3 Table 3 Part A 10% VAT imposable goods Schedule 3 Table 3 Part B 10% VAT imposable services Schedule 3 Table 4 Part A Specific VAT imposable goods Schedule 3 Table 4 Part B Specific VAT imposable services",
+          "subsections": [],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Schedule",
+                "Table",
+                "Part",
+                "Details"
+              ],
+              "data": [
+                [
+                  "Schedule 1",
+                  "Part A",
+                  "Goods exempted from Value Added Tax"
+                ],
+                [
+                  "Schedule 1",
+                  "Part B",
+                  "Services exempted from Value Added Tax"
+                ],
+                [
+                  "Schedule 2",
+                  "Table 1",
+                  "Goods subject to supplementary duty at import stage"
+                ],
+                [
+                  "Schedule 2",
+                  "Table 2",
+                  "Goods subject to supplementary duty at supply stage"
+                ],
+                [
+                  "Schedule 2",
+                  "Table 3",
+                  "Services subject to supplementary duty at supply stage"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 1",
+                  "Part A",
+                  "5% VAT imposable goods"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 1",
+                  "Part B",
+                  "5% VAT imposable services"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 2",
+                  "Part A",
+                  "7.5% VAT imposable goods"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 2",
+                  "Part B",
+                  "7.5% VAT imposable services"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 3",
+                  "Part A",
+                  "10% VAT imposable goods"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 3",
+                  "Part B",
+                  "10% VAT imposable services"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 4",
+                  "Part A",
+                  "Specific VAT imposable goods"
+                ],
+                [
+                  "Schedule 3",
+                  "Table 4",
+                  "Part B",
+                  "Specific VAT imposable services"
+                ]
+              ],
+              "metadata": {
+                "row_count": 13,
+                "column_count": 4,
+                "table_type": "schedule_table"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-2012-english-schedules/",
+    "original_title": "VAT & SD Act 2012 English Schedules – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "english",
+      "title": "VAT imposable goods Schedule 3 Table 1 Part B 5% VAT imposable services Schedule 3 Table 2 Part A 7.5% VAT imposable goods Schedule 3 Table 2 Part B 7.5% VAT imposable services Schedule 3 Table 3 Part A 10% VAT imposable goods Schedule 3 Table 3 Part B 10% VAT imposable services Schedule 3 Table 4 Part A Specific VAT imposable goods Schedule 3 Table 4 Part B Specific VAT imposable services"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

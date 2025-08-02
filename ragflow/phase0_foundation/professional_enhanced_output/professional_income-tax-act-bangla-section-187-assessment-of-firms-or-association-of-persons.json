@@ -1,0 +1,74 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 187 Assessment of firms or association of persons",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৮৭",
+          "title": "ধারা ১৮৭ - ফার্ম বা ব্যক্তিসংঘের কর নির্ধারণ কোনো ফার্ম বা ব্যক্তিসংঘের কর নির্ধারণের ক্ষেত্রে- (ক) প্রথমে ফার্মের বা ব্যক্তিসংঘের মোট আয় নির্ধারণ করি",
+          "content_text": "ধারা ১৮৭ - ফার্ম বা ব্যক্তিসংঘের কর নির্ধারণ কোনো ফার্ম বা ব্যক্তিসংঘের কর নির্ধারণের ক্ষেত্রে- (ক) প্রথমে ফার্মের বা ব্যক্তিসংঘের মোট আয় নির্ধারণ করিতে হইবে এবং অতঃপর মোট আয়ের ভিত্তিতে করদায় নিরূপণ করিতে হইবে; এবং (খ) পরবর্তীতে ১ [***] আয় অংশীদার বা সদস্যদের মধ্যে আনুপাতিক হারে বন্টন করিতে হইবে। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ১০৬ ধারাবলে দফা (খ) এ উল্লিখিত “করপরবর্তী” শব্দ বিলুপ্ত ।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) প্রথমে ফার্মের বা ব্যক্তিসংঘের মোট আয় নির্ধারণ করিতে হইবে এবং অতঃপর মোট আয়ের ভিত্তিতে করদায় নিরূপণ করিতে হইবে; এবং",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) পরবর্তীতে ১ [***] আয় অংশীদার বা সদস্যদের মধ্যে আনুপাতিক হারে বন্টন করিতে হইবে। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ১০৬ ধারাবলে",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "দফা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) এ উল্লিখিত “করপরবর্তী” শব্দ বিলুপ্ত ।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৮৭"
+          ],
+          "amendments": [
+            "বিলুপ্ত"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-187-assessment-of-firms-or-association-of-persons/",
+    "original_title": "Income Tax Act Bangla Section 187 Assessment of firms or association of persons – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 187 Assessment of firms or association of persons"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

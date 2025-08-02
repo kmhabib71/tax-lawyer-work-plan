@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 110",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "110",
+          "title": "Section 110 - Deductions from Receipts of Convention Hall, Conference Center etc. for Rendering Service Where any convention hall, conference center, ",
+          "content_text": "Section 110 - Deductions from Receipts of Convention Hall, Conference Center etc. for Rendering Service Where any convention hall, conference center, room, or as the case may be, hall, hotel, community center or any restaurant is rented or used by a specified person to any other person, if payment is to be made, the person responsible for the said payment shall deduct tax at the rate of 5% (five percent) on the entire amount paid for the said service at the time of said payment.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "110"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-110/",
+    "original_title": "Income Tax Act 2023 Section 110 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 110"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

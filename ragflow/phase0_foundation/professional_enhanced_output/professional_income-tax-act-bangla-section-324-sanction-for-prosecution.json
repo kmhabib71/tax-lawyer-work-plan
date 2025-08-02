@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 324 Sanction for prosecution",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩২৪",
+          "title": "ধারা ৩২৪ - মামলা পরিচালনার অনুমোদন কর কমিশনারের পূর্বানুমোদন ব্যতীত এই অংশের কোনো বিধানের অধীন শাস্তিযোগ্য অপরাধের জন্য কোনো মামলা দায়ের করা যাইবে না",
+          "content_text": "ধারা ৩২৪ - মামলা পরিচালনার অনুমোদন কর কমিশনারের পূর্বানুমোদন ব্যতীত এই অংশের কোনো বিধানের অধীন শাস্তিযোগ্য অপরাধের জন্য কোনো মামলা দায়ের করা যাইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩২৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-324-sanction-for-prosecution/",
+    "original_title": "Income Tax Act Bangla Section 324 Sanction for prosecution – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 324 Sanction for prosecution"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,5 @@
+{
+  "error": "Enhancement failed: expected string or bytes-like object, got 'dict'",
+  "original_file": "json_output/income-tax-schedule-bangla-6th-schedule-part-4-tax-holidays.json",
+  "status": "enhancement_failed"
+}

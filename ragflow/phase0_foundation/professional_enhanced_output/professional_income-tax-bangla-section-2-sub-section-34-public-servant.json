@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 34 Public servant",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩৪ - গণকর্মচারী “গণকর্মচারী” অর্থ Penal Code, 1860 (Act No. XLV of 1860) এর section 21 এ সংজ্ঞায়িত অর্থে কোনো গণকর্মচারী;",
+          "content_text": "ধারা ২ দফা ৩৪ - গণকর্মচারী “গণকর্মচারী” অর্থ Penal Code, 1860 (Act No. XLV of 1860) এর section 21 এ সংজ্ঞায়িত অর্থে কোনো গণকর্মচারী;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-34-public-servant/",
+    "original_title": "Income tax bangla section 2 sub-section 34 Public servant – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 34 Public servant"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

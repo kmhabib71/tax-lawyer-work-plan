@@ -1,0 +1,128 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "315",
+          "title": "Section 315 - Punishment for Failure to Deduct or Collect Tax at Source and Deposit to the Govt. Treasury (1) Any person shall be punished with rigoro",
+          "content_text": "Section 315 - Punishment for Failure to Deduct or Collect Tax at Source and Deposit to the Govt. Treasury (1) Any person shall be punished with rigorous imprisonment for a term which may extend to 1 (one) year, or with fine, or with both, if he, without reasonable cause, (a) fails to levy or collect and pay the tax required under the provisions of Part 7; (b) fails to collect and pay tax as required under sub-section (3) of section 221. (2) If the amount of tax deducted, collected or paid does not exceed taka 25 (twenty-five) thousand, the provisions of sub-section (1) shall not apply. (3) Where a person voluntarily deducts tax under sub-section (1) before being identified by the Income-tax authority, no case shall be instituted against such person for failure to deduct, collect or pay tax within the prescribed time. (4) The fine mentioned in sub-section (1) shall be calculated at such a rate which shall not be less than taka 100 (one hundred) not more than taka 500 (five hundred) for each day during the continuous failure. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Any person shall be punished with rigorous imprisonment for a term which may extend to 1 (one) year, or with fine, or with both, if he, without reasonable cause, (a) fails to levy or collect and pay the tax required under the provisions of Part 7; (b) fails to collect and pay tax as required under sub-section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) fails to levy or collect and pay the tax required under the provisions of Part 7;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) fails to collect and pay tax as required under sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) of section 221.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the amount of tax deducted, collected or paid does not exceed taka 25 (twenty-five) thousand, the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall not apply.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where a person voluntarily deducts tax under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) before being identified by the Income-tax authority, no case shall be instituted against such person for failure to deduct, collect or pay tax within the prescribed time.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The fine mentioned in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall be calculated at such a rate which shall not be less than taka 100 (one hundred) not more than taka 500 (five hundred) for each day during the continuous failure. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "315"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-315/",
+    "original_title": "Income Tax Act 2023 Section 315 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 9,
+      "quality_score": 2.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

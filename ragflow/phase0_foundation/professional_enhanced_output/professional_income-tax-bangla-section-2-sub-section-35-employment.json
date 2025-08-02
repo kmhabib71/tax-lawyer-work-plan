@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 35 Employment",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩৫ - চাকরি “চাকরি” অর্থে অন্তর্ভুক্ত হইবে- (ক) কোনো পদ যাহাতে নিযুক্ত ব্যক্তি নির্ধারিত বা, সময় সময়, নির্ধারিতব্য পারিশ্রমিক প্রাপ্তির অধিক",
+          "content_text": "ধারা ২ দফা ৩৫ - চাকরি “চাকরি” অর্থে অন্তর্ভুক্ত হইবে- (ক) কোনো পদ যাহাতে নিযুক্ত ব্যক্তি নির্ধারিত বা, সময় সময়, নির্ধারিতব্য পারিশ্রমিক প্রাপ্তির অধিকারী; (খ) কোনো পরিচালক পদ বা কোম্পানির ব্যবস্থাপনার সহিত সংশ্লিষ্ট কোনো পদ; (গ) সরকারি অফিসের কোনো পদের দায়িত্বে থাকা বা কার্য করা;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) কোনো পদ যাহাতে নিযুক্ত ব্যক্তি নির্ধারিত বা, সময় সময়, নির্ধারিতব্য পারিশ্রমিক প্রাপ্তির অধিকারী;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) কোনো পরিচালক পদ বা কোম্পানির ব্যবস্থাপনার সহিত সংশ্লিষ্ট কোনো পদ;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) সরকারি অফিসের কোনো পদের দায়িত্বে থাকা বা কার্য করা;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-35-employment/",
+    "original_title": "Income tax bangla section 2 sub-section 35 Employment – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 35 Employment"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

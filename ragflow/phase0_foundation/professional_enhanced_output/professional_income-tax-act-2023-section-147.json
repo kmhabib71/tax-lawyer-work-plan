@@ -1,0 +1,125 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 147",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "147",
+          "title": "Section 147 - Confirmation and Verification of Deduction or Collection of Tax at source (1) Authority authorized in writing by the Commissioner of Tax",
+          "content_text": "Section 147 - Confirmation and Verification of Deduction or Collection of Tax at source (1) Authority authorized in writing by the Commissioner of Taxes or Director General, Central Intelligence Cell for the purpose of verification of deduction or collection of tax at source or for the purpose of enforcing the provisions of this Part- (a) any person or institution- (i) have full and unfettered access to the premises, place, goods, accounts and records of economic activities maintained in any form or manner, (ii) have access to any information, code or technology capable of unscrambling or retransforming any encrypted data stored or available in a computer into a readable and understandable format or text; (iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password; (v) copy or analyze any information, statements, documents, images or input; (vi) to affix identification marks or stamps on accounts and (vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act; (b) take with them such experts, valuers or forces as may be appropriate. (2) If any authority empowered under this section enters the premises or place of any person or if he faces any kind of obstruction or non-cooperation after expressing his intention to enter, he may impose a fine not exceeding Tk. 50 (fifty) lakhs on such person. (3) If any person fails to comply with the provisions of this section or this part of this Act, the Deputy Commissioner of Taxes shall collect the tax assessed and the penalty imposed by recording the explanation given by such person, or in the absence of any explanation unilaterally by completing the assessment of tax.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Authority authorized in writing by the Commissioner of Taxes or Director General, Central Intelligence Cell for the purpose of verification of deduction or collection of tax at source or for the purpose of enforcing the provisions of this Part- (a) any person or institution- (i) have full and unfettered access to the premises, place, goods, accounts and records of economic activities maintained in any form or manner, (ii) have access to any information, code or technology capable of unscrambling or retransforming any encrypted data stored or available in a computer into a readable and understandable format or text; (iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password; (v) copy or analyze any information, statements, documents, images or input; (vi) to affix identification marks or stamps on accounts and (vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act; (b) take with them such experts, valuers or forces as may be appropriate.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) any person or institution-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) have full and unfettered access to the premises, place, goods, accounts and records of economic activities maintained in any form or manner, (ii) have access to any information, code or technology capable of unscrambling or retransforming any encrypted data stored or available in a computer into a readable and understandable format or text; (iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) have full and unfettered access to the premises, place, goods, accounts and records of economic activities maintained in any form or manner, (ii) have access to any information, code or technology capable of unscrambling or retransforming any encrypted data stored or available in a computer into a readable and understandable format or text; (iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) have access to any information, code or technology capable of unscrambling or retransforming any encrypted data stored or available in a computer into a readable and understandable format or text; (iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password;"
+                    },
+                    {
+                      "identifier": "iii",
+                      "text": "(iii) extract data, images or any other input stored in electronic records or systems; (iv) can enter the system by breaking the password;"
+                    },
+                    {
+                      "identifier": "iv",
+                      "text": "(iv) can enter the system by breaking the password;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "v",
+                  "text": "(v) copy or analyze any information, statements, documents, images or input; (vi) to affix identification marks or stamps on accounts and (vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "v",
+                      "text": "(v) copy or analyze any information, statements, documents, images or input; (vi) to affix identification marks or stamps on accounts and (vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act;"
+                    },
+                    {
+                      "identifier": "vi",
+                      "text": "(vi) to affix identification marks or stamps on accounts and (vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act;"
+                    },
+                    {
+                      "identifier": "vii",
+                      "text": "(vii) other documents and to take copies or extracts thereof; seize and retain in their possession any accounts, documents, electronic records and systems; (viii) direct any person to do or refrain from doing any act;"
+                    },
+                    {
+                      "identifier": "viii",
+                      "text": "(viii) direct any person to do or refrain from doing any act;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) take with them such experts, valuers or forces as may be appropriate.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If any authority empowered under this section enters the premises or place of any person or if he faces any kind of obstruction or non-cooperation after expressing his intention to enter, he may impose a fine not exceeding Tk. 50 (fifty) lakhs on such person.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) If any person fails to comply with the provisions of this section or this part of this Act, the Deputy Commissioner of Taxes shall collect the tax assessed and the penalty imposed by recording the explanation given by such person, or in the absence of any explanation unilaterally by completing the assessment of tax.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "147"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-147/",
+    "original_title": "Income Tax Act 2023 Section 147 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 147"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

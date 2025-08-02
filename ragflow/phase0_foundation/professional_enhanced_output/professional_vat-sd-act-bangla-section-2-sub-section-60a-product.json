@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ৬০ক - পণ্য ঘোষণা “পণ্য ঘোষণা” অর্থ কাস্টমস আইন, ২০২৩ এর ধারা ২ এর উপ-ধারা (৩১) এ সংজ্ঞায়িত পণ্য ঘোষণা; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(ঙ) ধারাবলে নূতন দফা (৬০ক) সন্নিবেশিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬০ক - পণ্য ঘোষণা “পণ্য ঘোষণা” অর্থ কাস্টমস আইন, ২০২৩ এর",
+          "content_text": "ধারা ২ দফা ৬০ক - পণ্য ঘোষণা “পণ্য ঘোষণা” অর্থ কাস্টমস আইন, ২০২৩ এর",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২",
+          "title": "ধারা ২ এর উপ-ধারা (৩১) এ সংজ্ঞায়িত পণ্য ঘোষণা; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(ঙ) ধারাবলে নূতন দফা (৬০ক) সন্নিবেশিত",
+          "content_text": "ধারা ২ এর উপ-ধারা (৩১) এ সংজ্ঞায়িত পণ্য ঘোষণা; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(ঙ) ধারাবলে নূতন দফা (৬০ক) সন্নিবেশিত ।",
+          "subsections": [
+            {
+              "identifier": "৩১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩১",
+              "text": "(৩১) এ সংজ্ঞায়িত পণ্য ঘোষণা; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(ঙ) ধারাবলে নূতন দফা (৬০ক) সন্নিবেশিত ।",
+              "clauses": [
+                {
+                  "identifier": "ঙ",
+                  "text": "(ঙ) ধারাবলে নূতন",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "৬০ক",
+                  "text": "দফা (৬০ক) সন্নিবেশিত ।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-60a-product/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 60a Product – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ৬০ক - পণ্য ঘোষণা “পণ্য ঘোষণা” অর্থ কাস্টমস আইন, ২০২৩ এর ধারা ২ এর উপ-ধারা (৩১) এ সংজ্ঞায়িত পণ্য ঘোষণা; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(ঙ) ধারাবলে নূতন দফা (৬০ক) সন্নিবেশিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

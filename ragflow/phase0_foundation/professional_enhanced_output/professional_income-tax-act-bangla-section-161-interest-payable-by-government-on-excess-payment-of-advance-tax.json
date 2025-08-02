@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 161 Interest payable by Government on excess payment of advance tax",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৬১",
+          "title": "ধারা ১৬১ - পরিশোধিত অতিরিক্ত অগ্রিম করের উপর সরকার কর্তৃক প্রদেয় সুদ (১) কোনো ব্যক্তির কোনো অর্থবর্ষে অগ্রিম কর হিসাবে পরিশোধকৃত অর্থের সমষ্টি যদি নিয়",
+          "content_text": "ধারা ১৬১ - পরিশোধিত অতিরিক্ত অগ্রিম করের উপর সরকার কর্তৃক প্রদেয় সুদ (১) কোনো ব্যক্তির কোনো অর্থবর্ষে অগ্রিম কর হিসাবে পরিশোধকৃত অর্থের সমষ্টি যদি নিয়মিত কর নির্ধারণীর মাধ্যমে নিরূপিত করের পরিমাণ অপেক্ষা অধিক হয়, উক্ত অতিরিক্ত পরিশোধকৃত করের উপর সরকার বার্ষিক ১০% (দশ শতাংশ) হারে সরল সুদ প্রদান করিবে। (২) উপ-ধারা (১) এর অধীন অতিরিক্ত অগ্রিম কর পরিশোধের উপর সংশ্লিষ্ট করবর্ষের প্রথম দিন হইতে উক্ত করবর্ষের নিয়মিত কর নির্ধারণের তারিখ পর্যন্ত, বা সংশ্লিষ্ট করবর্ষের প্রথম দিন হইতে পরবর্তী ২ (দুই) বৎসর মেয়াদ পর্যন্ত, এই দুইয়ের মধ্যে যাহা কম, সময়ের জন্য সুদ পরিশোধ করিতে হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) কোনো ব্যক্তির কোনো অর্থবর্ষে অগ্রিম কর হিসাবে পরিশোধকৃত অর্থের সমষ্টি যদি নিয়মিত কর নির্ধারণীর মাধ্যমে নিরূপিত করের পরিমাণ অপেক্ষা অধিক হয়, উক্ত অতিরিক্ত পরিশোধকৃত করের উপর সরকার বার্ষিক ১০% (দশ শতাংশ) হারে সরল সুদ প্রদান করিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন অতিরিক্ত অগ্রিম কর পরিশোধের উপর সংশ্লিষ্ট করবর্ষের প্রথম দিন হইতে উক্ত করবর্ষের নিয়মিত কর নির্ধারণের তারিখ পর্যন্ত, বা সংশ্লিষ্ট করবর্ষের প্রথম দিন হইতে পরবর্তী ২ (দুই) বৎসর মেয়াদ পর্যন্ত, এই দুইয়ের মধ্যে যাহা কম, সময়ের জন্য সুদ পরিশোধ করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-161-interest-payable-by-government-on-excess-payment-of-advance-tax/",
+    "original_title": "Income Tax Act Bangla Section 161 Interest payable by Government on excess payment of advance tax – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 161 Interest payable by Government on excess payment of advance tax"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

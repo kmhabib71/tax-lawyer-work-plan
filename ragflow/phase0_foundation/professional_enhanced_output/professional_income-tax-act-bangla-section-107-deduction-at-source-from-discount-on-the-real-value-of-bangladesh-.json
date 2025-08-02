@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 107 Deduction at source from discount on the real value of Bangladesh Bank bills",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০৭",
+          "title": "ধারা ১০৭ - বাংলাদেশ ব্যাংক বিলের প্রকৃত মূল্যের ছাড়ের উপর উৎসে কর কর্তন বাংলাদেশ ব্যাংক বিলের প্রকৃত মূল্যের ছাড় বা কর্তনের জন্য কোনো পরিমাণ অর্থ পরিশ",
+          "content_text": "ধারা ১০৭ - বাংলাদেশ ব্যাংক বিলের প্রকৃত মূল্যের ছাড়ের উপর উৎসে কর কর্তন বাংলাদেশ ব্যাংক বিলের প্রকৃত মূল্যের ছাড় বা কর্তনের জন্য কোনো পরিমাণ অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি উক্তরূপ অর্থ প্রদানকালে, উহার উপর প্রযোজ্য পরিমাণের সর্বোচ্চ হারে কর কর্তন করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-107-deduction-at-source-from-discount-on-the-real-value-of-bangladesh-bank-bills/",
+    "original_title": "Income Tax Act Bangla Section 107 Deduction at source from discount on the real value of Bangladesh Bank bills – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 107 Deduction at source from discount on the real value of Bangladesh Bank bills"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

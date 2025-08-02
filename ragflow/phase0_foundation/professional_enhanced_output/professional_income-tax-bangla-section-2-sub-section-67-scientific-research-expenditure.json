@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 67 Scientific research expenditure",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬৭ - বৈজ্ঞানিক গবেষণামূলক ব্যয় “বৈজ্ঞানিক গবেষণামূলক ব্যয়” অর্থে বোর্ড কর্তৃক অনুমোদিত কোনো বিশ্ববিদ্যালয়, কলেজ, কারিগরি বিদ্যালয় বা অন্যান",
+          "content_text": "ধারা ২ দফা ৬৭ - বৈজ্ঞানিক গবেষণামূলক ব্যয় “বৈজ্ঞানিক গবেষণামূলক ব্যয়” অর্থে বোর্ড কর্তৃক অনুমোদিত কোনো বিশ্ববিদ্যালয়, কলেজ, কারিগরি বিদ্যালয় বা অন্যান্য প্রতিষ্ঠানে প্রদত্ত দান অন্তর্ভুক্ত হইবে, তবে নিম্নবর্ণিত ক্ষেত্রে নির্বাহকৃত কোনো ব্যয় ইহার অন্তর্ভুক্ত হইবে না, যথা:- (ক) অবচয় বা অ্যার্মোটাইজেশন ভাতা প্রযোজ্য এইরূপ কোনো পরিসম্পদ বা স্পর্শাতীত (intangible) পরিসম্পদ অধিগ্রহণ; (খ) স্থায়ী পরিসম্পদ অধিগ্রহণ; বা (গ) কোনো প্রাকৃতিক পরিসম্পদের অস্তিত্ব, অবস্থান, ব্যাপ্তি বা মান নির্ধারণের উদ্দেশ্যে নির্বাহকৃত কোনো ব্যয়;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) অবচয় বা অ্যার্মোটাইজেশন ভাতা প্রযোজ্য এইরূপ কোনো পরিসম্পদ বা স্পর্শাতীত (intangible) পরিসম্পদ অধিগ্রহণ;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) স্থায়ী পরিসম্পদ অধিগ্রহণ; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) কোনো প্রাকৃতিক পরিসম্পদের অস্তিত্ব, অবস্থান, ব্যাপ্তি বা মান নির্ধারণের উদ্দেশ্যে নির্বাহকৃত কোনো ব্যয়;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-67-scientific-research-expenditure/",
+    "original_title": "Income tax bangla section 2 sub-section 67 Scientific research expenditure – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 67 Scientific research expenditure"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

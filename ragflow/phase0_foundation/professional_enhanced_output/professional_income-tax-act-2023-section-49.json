@@ -1,0 +1,269 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "49",
+          "title": "Section 49 - Allowable General Deductions in Computing Income from Business Subject to the provisions of this Act, in computing the income from a pers",
+          "content_text": "Section 49 - Allowable General Deductions in Computing Income from Business Subject to the provisions of this Act, in computing the income from a person’s business in any income year, the following expenses for each separate and distinct business shall be included in the general deduction, namely:- (a) expenditure on purchase of raw materials, stocks, goods for business purposes and for use in business and any depreciated expenditure; (b) such customs duties, municipal taxes, local taxes, land development taxes or rents and government fees not paid under this Act and the Donation Tax Act, 1990 (Act No. 44 of 1990), but paid for the purpose of business; (c) payment expenses for development and maintenance for the land and yeard used for business; (d) all such expenses, welfare expenses or remuneration which are deemed to be income from employment under this Act; (e) repair and maintenance expenses; (f) insurance premiums incurred and paid for business purposes; (g) electricity and fuel including other service charges; (h) transportation, clearing and forwarding charges of goods; (i) expenses in the nature of commissions, brokerage, discounts or warranty charges relating to the sale; (j) advertising and campaign expenses; (k) expenditure on account of training of personnel; (l) for conference, hotel and accommodation expenses of sales representatives; (m) expenses for conveyance and travelling; (n) internet service, postal and telecommunication related expenses; (o) expenses for receiving of legal, audit and other professional services; (p) expenses relating to entertainment and hospitality; (q) subject to the Third Schedule, cashed exchange loss of foreign currency; (r) subscriptions to any club or commercial association, including admission fees, for the use of their facilities; (s) any expenses incurred in connection with travelling abroad as a member of any trade delegation sponsored by the Government; (t) royalties, technical fees, head office expenses; (u) amount paid to the Labor Participation Fund, Welfare Fund and the Labor Welfare Foundation Fund established under section 234 of Labour Welfare Foundation Act, 2006 (Act No, 25 of 2006) not exceeding 5% (five percent) of the net business profits shown; and (v) other expenses incurred wholly and exclusively for business purposes. Moreover, as per",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) expenditure on purchase of raw materials, stocks, goods for business purposes and for use in business and any depreciated expenditure;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) such customs duties, municipal taxes, local taxes, land development taxes or rents and government fees not paid under this Act and the Donation Tax Act, 1990 (Act No. 44 of 1990), but paid for the purpose of business;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) payment expenses for development and maintenance for the land and yeard used for business;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "d",
+              "text": "(d) all such expenses, welfare expenses or remuneration which are deemed to be income from employment under this Act;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "e",
+              "text": "(e) repair and maintenance expenses;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "f",
+              "text": "(f) insurance premiums incurred and paid for business purposes;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "g",
+              "text": "(g) electricity and fuel including other service charges;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "h",
+              "text": "(h) transportation, clearing and forwarding charges of goods;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "i",
+              "text": "(i) expenses in the nature of commissions, brokerage, discounts or warranty charges relating to the sale;",
+              "sub_clauses": [
+                {
+                  "identifier": "i",
+                  "text": "(i) expenses in the nature of commissions, brokerage, discounts or warranty charges relating to the sale;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "j",
+              "text": "(j) advertising and campaign expenses;",
+              "sub_clauses": [
+                {
+                  "identifier": "j",
+                  "text": "(j) advertising and campaign expenses;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "k",
+              "text": "(k) expenditure on account of training of personnel;",
+              "sub_clauses": [
+                {
+                  "identifier": "k",
+                  "text": "(k) expenditure on account of training of personnel;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "l",
+              "text": "(l) for conference, hotel and accommodation expenses of sales representatives;",
+              "sub_clauses": [
+                {
+                  "identifier": "l",
+                  "text": "(l) for conference, hotel and accommodation expenses of sales representatives;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "m",
+              "text": "(m) expenses for conveyance and travelling;",
+              "sub_clauses": [
+                {
+                  "identifier": "m",
+                  "text": "(m) expenses for conveyance and travelling;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "n",
+              "text": "(n) internet service, postal and telecommunication related expenses;",
+              "sub_clauses": [
+                {
+                  "identifier": "n",
+                  "text": "(n) internet service, postal and telecommunication related expenses;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "o",
+              "text": "(o) expenses for receiving of legal, audit and other professional services;",
+              "sub_clauses": [
+                {
+                  "identifier": "o",
+                  "text": "(o) expenses for receiving of legal, audit and other professional services;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "p",
+              "text": "(p) expenses relating to entertainment and hospitality;",
+              "sub_clauses": [
+                {
+                  "identifier": "p",
+                  "text": "(p) expenses relating to entertainment and hospitality;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "q",
+              "text": "(q) subject to the Third Schedule, cashed exchange loss of foreign currency;",
+              "sub_clauses": [
+                {
+                  "identifier": "q",
+                  "text": "(q) subject to the Third Schedule, cashed exchange loss of foreign currency;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "r",
+              "text": "(r) subscriptions to any club or commercial association, including admission fees, for the use of their facilities;",
+              "sub_clauses": [
+                {
+                  "identifier": "r",
+                  "text": "(r) subscriptions to any club or commercial association, including admission fees, for the use of their facilities;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "s",
+              "text": "(s) any expenses incurred in connection with travelling abroad as a member of any trade delegation sponsored by the Government;",
+              "sub_clauses": [
+                {
+                  "identifier": "s",
+                  "text": "(s) any expenses incurred in connection with travelling abroad as a member of any trade delegation sponsored by the Government;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "t",
+              "text": "(t) royalties, technical fees, head office expenses;",
+              "sub_clauses": [
+                {
+                  "identifier": "t",
+                  "text": "(t) royalties, technical fees, head office expenses;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "u",
+              "text": "(u) amount paid to the Labor Participation Fund, Welfare Fund and the Labor Welfare Foundation Fund established under section 234 of Labour Welfare Foundation Act, 2006 (Act No, 25 of 2006) not exceeding 5% (five percent) of the net business profits shown; and",
+              "sub_clauses": [
+                {
+                  "identifier": "u",
+                  "text": "(u) amount paid to the Labor Participation Fund, Welfare Fund and the Labor Welfare Foundation Fund established under section 234 of Labour Welfare Foundation Act, 2006 (Act No, 25 of 2006) not exceeding 5% (five percent) of the net business profits shown; and"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "v",
+              "text": "(v) other expenses incurred wholly and exclusively for business purposes. Moreover, as per",
+              "sub_clauses": [
+                {
+                  "identifier": "v",
+                  "text": "(v) other expenses incurred wholly and exclusively for business purposes. Moreover, as per"
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "49"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-49/",
+    "original_title": "Income Tax Act 2023 Section 49 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

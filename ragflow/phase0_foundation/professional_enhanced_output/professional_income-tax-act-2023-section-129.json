@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 129",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "129",
+          "title": "Section 129 - Collection of Tax from Cigarette Manufacturer Any person responsible for the sale of bandrolls to any cigarette manufacturer shall, at t",
+          "content_text": "Section 129 - Collection of Tax from Cigarette Manufacturer Any person responsible for the sale of bandrolls to any cigarette manufacturer shall, at the time of sale of bandrolls, collect tax from such manufacturer at the rate of 10% (ten percent) of the total value of the bandrolls. Explanation.- For the purposes of this section, “Manufacture of Cigarettes” means the manufacture of cigarettes by conventional or domestic methods without any mechanical assistance.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "129"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-129/",
+    "original_title": "Income Tax Act 2023 Section 129 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 129"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

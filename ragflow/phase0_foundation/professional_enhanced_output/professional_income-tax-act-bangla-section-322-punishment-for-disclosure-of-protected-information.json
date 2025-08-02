@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 322 Punishment for disclosure of protected information",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩২২",
+          "title": "ধারা ৩২২ - সুরক্ষিত তথ্য প্রকাশের দণ্ড কোনো গণকর্মচারী, বা সহায়তাকারী কোনো ব্যক্তি, বা নিয়োজিত ব্যক্তি বা এই আইন বাস্তবায়নের সহিত সম্পৃক্ত কোনো ব্যক্ত",
+          "content_text": "ধারা ৩২২ - সুরক্ষিত তথ্য প্রকাশের দণ্ড কোনো গণকর্মচারী, বা সহায়তাকারী কোনো ব্যক্তি, বা নিয়োজিত ব্যক্তি বা এই আইন বাস্তবায়নের সহিত সম্পৃক্ত কোনো ব্যক্তি",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩২২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৩০৯",
+          "title": "ধারা ৩০৯ এর বিধান লঙ্ঘনক্রমে কোনো সুরক্ষিত দলিলাদি, বিশেষ বিবরণী বা তথ্য প্রকাশ করিলে তিনি অনধিক ৬ (ছয়) মাস পর্যন্ত কারাদণ্ডে, বা অর্থদণ্ডে, বা উভয়দণ্",
+          "content_text": "ধারা ৩০৯ এর বিধান লঙ্ঘনক্রমে কোনো সুরক্ষিত দলিলাদি, বিশেষ বিবরণী বা তথ্য প্রকাশ করিলে তিনি অনধিক ৬ (ছয়) মাস পর্যন্ত কারাদণ্ডে, বা অর্থদণ্ডে, বা উভয়দণ্ডে দণ্ডিত হইবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-322-punishment-for-disclosure-of-protected-information/",
+    "original_title": "Income Tax Act Bangla Section 322 Punishment for disclosure of protected information – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 322 Punishment for disclosure of protected information"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

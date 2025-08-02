@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 20 Commissioner (Appeal)",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ২০ - কমিশনার (আপিল) “কমিশনার (আপিল)” অর্থ",
+          "content_text": "ধারা ২ দফা ২০ - কমিশনার (আপিল) “কমিশনার (আপিল)” অর্থ",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৪",
+          "title": "ধারা ৪ এ উল্লিখিত কর কমিশনার (আপিল)",
+          "content_text": "ধারা ৪ এ উল্লিখিত কর কমিশনার (আপিল)",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-20-commissioner-appeal/",
+    "original_title": "Income tax bangla section 2 sub-section 20 Commissioner (Appeal) – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 20 Commissioner (Appeal)"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

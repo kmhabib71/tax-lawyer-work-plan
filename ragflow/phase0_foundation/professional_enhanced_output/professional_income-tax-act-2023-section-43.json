@@ -1,0 +1,104 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "43",
+          "title": "Section 43 - Computation of special deductions in case of non-maintenance of Books of Accounts (1) If it appears that,— (a) the taxpayer does not foll",
+          "content_text": "Section 43 - Computation of special deductions in case of non-maintenance of Books of Accounts (1) If it appears that,— (a) the taxpayer does not follow a regular accounting system; (b) the taxpayer applies any method on the basis of which it appears to the Deputy Commissioner of Taxes that it is not possible to arrive at a conclusion as to the income of the taxpayer; (c) the taxpayer has failed to maintain records of accounts or transactions; or (d) the accounts or records of transactions maintained by the taxpayer are not verifiable, notwithstanding anything contained in any other section, 60% (sixty percent) of the market value of the agricultural produce so produced shall be treated as allowable expenditure. (2) This clause shall not apply in cases where the owner of the land or yard receives income from agriculture at the rate of Adhi, Barga, Bhaga or share. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If it appears that,— (a) the taxpayer does not follow a regular accounting system; (b) the taxpayer applies any method on the basis of which it appears to the Deputy Commissioner of Taxes that it is not possible to arrive at a conclusion as to the income of the taxpayer; (c) the taxpayer has failed to maintain records of accounts or transactions; or (d) the accounts or records of transactions maintained by the taxpayer are not verifiable, notwithstanding anything contained in any other section, 60% (sixty percent) of the market value of the agricultural produce so produced shall be treated as allowable expenditure.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) the taxpayer does not follow a regular accounting system;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the taxpayer applies any method on the basis of which it appears to the Deputy Commissioner of Taxes that it is not possible to arrive at a conclusion as to the income of the taxpayer;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) the taxpayer has failed to maintain records of accounts or transactions; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) the accounts or records of transactions maintained by the taxpayer are not verifiable, notwithstanding anything contained in any other section, 60% (sixty percent) of the market value of the agricultural produce so produced shall be treated as allowable expenditure.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) This clause shall not apply in cases where the owner of the land or yard receives income from agriculture at the rate of Adhi, Barga, Bhaga or share. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "43"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-43/",
+    "original_title": "Income Tax Act 2023 Section 43 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

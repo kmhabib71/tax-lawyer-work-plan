@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 146 Payment to Government of tax deducted",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৪৬",
+          "title": "ধারা ১৪৬ - কর্তিত কর সরকারের অনুকূলে জমা প্রদান (১) এই অংশের বিধানাবলির অধীন কর্তন বা সংগ্রহকৃত সকল অর্থ, নির্ধারিত সময়ের মধ্যে, অথবা বোর্ড কর্তৃক প্র",
+          "content_text": "ধারা ১৪৬ - কর্তিত কর সরকারের অনুকূলে জমা প্রদান (১) এই অংশের বিধানাবলির অধীন কর্তন বা সংগ্রহকৃত সকল অর্থ, নির্ধারিত সময়ের মধ্যে, অথবা বোর্ড কর্তৃক প্রদত্ত নির্দেশনা অনুসারে, কর্তন বা সংগ্রহকারী ব্যক্তি কর্তৃক সরকারের অনুকূলে জমা প্রদান করিতে হইবে। (২) এই আইনের বিধানাবলি ব্যতীত, কোনো ব্যক্তি, প্রত্যক্ষ বা পরোক্ষভাবে, কর হিসাবে কোনো অর্থ ধার্য, স্থগিত (উইথহোল্ড), কর্তন বা সংগ্রহ করিতে পারিবেন না, এবং এইরূপভাবে কোনো অর্থ ধার্য, স্থগিত (উইথহোল্ড), কর্তন বা সংগ্রহ করা হইলে তাহা এই ধারা অনুসারে জমা করিতে হইবে। Click here to view Rule 9 of TDS Rules 2024",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই অংশের বিধানাবলির অধীন কর্তন বা সংগ্রহকৃত সকল অর্থ, নির্ধারিত সময়ের মধ্যে, অথবা বোর্ড কর্তৃক প্রদত্ত নির্দেশনা অনুসারে, কর্তন বা সংগ্রহকারী ব্যক্তি কর্তৃক সরকারের অনুকূলে জমা প্রদান করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এই আইনের বিধানাবলি ব্যতীত, কোনো ব্যক্তি, প্রত্যক্ষ বা পরোক্ষভাবে, কর হিসাবে কোনো অর্থ ধার্য, স্থগিত (উইথহোল্ড), কর্তন বা সংগ্রহ করিতে পারিবেন না, এবং এইরূপভাবে কোনো অর্থ ধার্য, স্থগিত (উইথহোল্ড), কর্তন বা সংগ্রহ করা হইলে তাহা এই ধারা অনুসারে জমা করিতে হইবে। Click here to view Rule 9 of TDS Rules 2024",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৪৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-146-payment-to-government-of-tax-deducted/",
+    "original_title": "Income Tax Act Bangla Section 146 Payment to Government of tax deducted – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 146 Payment to Government of tax deducted"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

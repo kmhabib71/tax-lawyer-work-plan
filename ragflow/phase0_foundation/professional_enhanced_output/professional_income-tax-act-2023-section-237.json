@@ -1,0 +1,97 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "237",
+          "title": "Section 237 - Preservation and Maintenance of Information, Documents and Records (1) Every such person who has international transactions shall preser",
+          "content_text": "Section 237 - Preservation and Maintenance of Information, Documents and Records (1) Every such person who has international transactions shall preserve and maintain such information, documents and records as may be prescribed by rule. (2) Without prejudice to the provisions of sub-section (1), the Board may by rule prescribe the period for the preservation and maintenance of information, documents and records. (3) The Deputy Commissioner of Taxes may, by notice in writing, direct any person to supply the information, documents and records prescribed by rule under sub-section (1) within the period specified in the notice. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Every such person who has international transactions shall preserve and maintain such information, documents and records as may be prescribed by rule.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Without prejudice to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the Board may by rule prescribe the period for the preservation and maintenance of information, documents and records.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The Deputy Commissioner of Taxes may, by notice in writing, direct any person to supply the information, documents and records prescribed by rule under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) within the period specified in the notice. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "237"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-237/",
+    "original_title": "Income Tax Act 2023 Section 237 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

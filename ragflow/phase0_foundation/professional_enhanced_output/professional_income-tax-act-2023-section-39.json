@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "39",
+          "title": "Section 39 - Limitation of Approval of Expenditure (1) In respect of any such expenditure to which tax is deductable at source, if the tax is not dedu",
+          "content_text": "Section 39 - Limitation of Approval of Expenditure (1) In respect of any such expenditure to which tax is deductable at source, if the tax is not deducted or collected at source, or if the tax deducted or collected is not duly deposited in favor of the Government in accordance with the provisions of this Act, such expenditure shall not be allowable as expenditure under this Chapter. (2) In case of partial rent of the property, expenses shall be allowable at the rate proportionate against the partial rent. (3) Where a property is rented for part of the income year, the expenditure shall be admissible at the rate proportionate to the period of rental. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) In respect of any such expenditure to which tax is deductable at source, if the tax is not deducted or collected at source, or if the tax deducted or collected is not duly deposited in favor of the Government in accordance with the provisions of this Act, such expenditure shall not be allowable as expenditure under this Chapter.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In case of partial rent of the property, expenses shall be allowable at the rate proportionate against the partial rent.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where a property is rented for part of the income year, the expenditure shall be admissible at the rate proportionate to the period of rental. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "39"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-39/",
+    "original_title": "Income Tax Act 2023 Section 39 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Customs",
+    "document_type": "legal_document",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "Customs Customs Act 2023 Customs Act - 1st Schedule Customs Act - 2nd Schedule Customs SRO Duty Calc",
+          "content_text": "Customs Customs Act 2023 Customs Act - 1st Schedule Customs Act - 2nd Schedule Customs SRO Duty Calculator Operative Tariff Customs Tariff Schedule Other Customs Reference",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/customs/",
+    "original_title": "Customs – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_document",
+      "language": "english",
+      "title": "Customs"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 203 Searching sources of income",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২০৩",
+          "title": "ধারা ২০৩ - আয়ের উৎস অনুসন্ধান যদি কোনো আয়কর কর্তৃপক্ষ এই আইনের অধীন অনিষ্পন্ন কার্যক্রম তদন্তের বা অনুসন্ধানের জন্য প্রয়োজনীয় বিবেচনা করে, তাহা হইলে উ",
+          "content_text": "ধারা ২০৩ - আয়ের উৎস অনুসন্ধান যদি কোনো আয়কর কর্তৃপক্ষ এই আইনের অধীন অনিষ্পন্ন কার্যক্রম তদন্তের বা অনুসন্ধানের জন্য প্রয়োজনীয় বিবেচনা করে, তাহা হইলে উক্ত কার্যক্রমের সহিত সংশ্লিষ্ট কোনো ব্যক্তির আয়ের উৎস সম্পর্কিত কোনো তথ্যাদির অনুসন্ধান করিতে পারিবে এবং আয়ের উৎস সম্পর্কিত তথ্য ও রেকর্ডের কপি সংগ্রহ বা কপি প্রদানে বাধ্য করিতে পারিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২০৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-203-searching-sources-of-income/",
+    "original_title": "Income Tax Act Bangla Section 203 Searching sources of income – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 203 Searching sources of income"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

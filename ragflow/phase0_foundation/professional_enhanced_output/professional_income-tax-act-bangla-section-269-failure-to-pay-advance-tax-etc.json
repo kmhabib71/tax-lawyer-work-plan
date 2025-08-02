@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 269 Failure to pay advance tax, etc.",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৬৯",
+          "title": "ধারা ২৬৯ - অগ্রিম কর, ইত্যাদি পরিশোধে ব্যর্থতার জন্য জরিমানা যেইক্ষেত্রে অংশ ১০ এর আওতায় কর নির্ধারণ সম্পর্কীয় কোনো কার্যক্রম চলাকালে উপকর কমিশনার এই ",
+          "content_text": "ধারা ২৬৯ - অগ্রিম কর, ইত্যাদি পরিশোধে ব্যর্থতার জন্য জরিমানা যেইক্ষেত্রে অংশ ১০ এর আওতায় কর নির্ধারণ সম্পর্কীয় কোনো কার্যক্রম চলাকালে উপকর কমিশনার এই মর্মে সন্তুষ্ট হন যে, কোনো ব্যক্তি- (ক) যৌক্তিক কারণ ব্যতীত,",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) যৌক্তিক কারণ ব্যতীত,",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২৬৯"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৫৪",
+          "title": "ধারা ১৫৪ এর বিধান অনুযায়ী অগ্রিম কর পরিশোধে ব্যর্থ হইয়াছেন; বা (খ)",
+          "content_text": "ধারা ১৫৪ এর বিধান অনুযায়ী অগ্রিম কর পরিশোধে ব্যর্থ হইয়াছেন; বা (খ)",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "খ",
+              "text": "(খ)",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৫৪"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৫৫",
+          "title": "ধারা ১৫৫ এর অধীন তাহার দ্বারা প্রদেয় করের এইরূপ কোনো প্রাক্কলন উপস্থাপন করেন যাহা তাহার জানামতে বা বিশ্বাস অনুযায়ী অসত্য, সেইক্ষেত্রে তিনি উক্ত ব্যক্ত",
+          "content_text": "ধারা ১৫৫ এর অধীন তাহার দ্বারা প্রদেয় করের এইরূপ কোনো প্রাক্কলন উপস্থাপন করেন যাহা তাহার জানামতে বা বিশ্বাস অনুযায়ী অসত্য, সেইক্ষেত্রে তিনি উক্ত ব্যক্তির উপর সর্বোচ্চ এইরূপ পরিমাণ জরিমানা আরোপ করিতে পারিবেন যাহা উক্ত ব্যক্তির প্রদেয় কর ও প্রকৃতপক্ষে পরিশোধিত কর, এই দুইয়ের মধ্যে ব্যবধানের অধিক নহে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৫৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-269-failure-to-pay-advance-tax-etc/",
+    "original_title": "Income Tax Act Bangla Section 269 Failure to pay advance tax, etc. – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 269 Failure to pay advance tax, etc."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

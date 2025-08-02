@@ -1,0 +1,38 @@
+{
+  "url": "https://www.taxvatpoint.com/income-tax-act-2023-section-139/",
+  "title": "Income Tax Act 2023 Section 139 – Tax VAT Point",
+  "main_content": "Section 139 - Collection of Tax from Operation of Vessels (1) The person in charge under the Inland Shipping Ordinance, 1976 (Ordinance No. LXXII of 1976) shall not grant a survey certificate to any vessel under section 9 of the said Ordinance or renew a survey certificate under section 12 of the said Ordinance, unless receipt of survey certificate or application for renewal of survey certificate is accompanied by advance tax deposit challan at the rates mentioned in the table below, namely: Table Serial No. Vessel Description Advance Tax (Tk.) (1) (2) (3) 1 Inland ships engaged in carrying passengers in inland water ways Tk.125 (one hundred twenty five) per passenger based on daytime passenger capacity 2 Cargo, Container (multi-purpose) and Coaster engaged in carrying goods in inland water Tk.170 (one hundred seventy) per gross tonnage 3 Dump barge engaged in carrying goods in inland water ways transport Tk.125 (one hundred twenty five) per gross tonnage on the basis of cargo carrying capacity (2) In cases where the survey certificate is issued or the survey certificate is renewed for more than one year, the tax payable under subsection (1) shall be collected on or before the 30* day of June of any year following the year of issue of the survey certificate or renewal of the survey certificate. (3) In case any person fails to pay advance tax as per sub-section (2) in any year, the amount of advance tax to be paid by such person in the following year under rule a+b, where- a= amount of advance tax unpaid in previous year or years, and b = amount of advance tax payable under sub-section (1) in the year of payment. (4) In this section “Inland Ship” and “Inland Water” shall mean “Inland Ship” and “Inland Water” respectively as defined in the Inland Shipping Ordinance, 1976 (Ordinance No. LXXII of 1976). Click here to see English version বিশেষ দ্রষ্টব্য: এই ওয়েবসাইটে উল্লিখিত কোনো কিছু যদি সরকার কর্তৃক ইস্যুকৃত আইন, বিধি, প্রজ্ঞাপন ও আদেশের সহিত সাংঘর্ষিক হয় সেইক্ষেত্রে উক্ত ইস্যুকৃত আইন, বিধি, প্রজ্ঞাপন ও আদেশই প্রাধান্য পাবে।",
+  "tables": [
+    {
+      "headers": [
+        "Serial No.",
+        "Vessel Description",
+        "Advance Tax (Tk.)"
+      ],
+      "data": [
+        [
+          "(1)",
+          "(2)",
+          "(3)"
+        ],
+        [
+          "1",
+          "Inland ships engaged in carrying passengers in inland water ways",
+          "Tk.125 (one hundred twenty five) per passenger based on daytime passenger capacity"
+        ],
+        [
+          "2",
+          "Cargo, Container (multi-purpose) and Coaster engaged in carrying goods in inland water",
+          "Tk.170 (one hundred seventy) per gross tonnage"
+        ],
+        [
+          "3",
+          "Dump barge engaged in carrying goods in inland water ways transport",
+          "Tk.125 (one hundred twenty five) per gross tonnage on the basis of cargo carrying capacity"
+        ]
+      ]
+    }
+  ],
+  "forms": [],
+  "status": "success"
+}

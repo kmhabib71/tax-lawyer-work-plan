@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 7 Subordination and control of income tax authorities",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৭",
+          "title": "ধারা ৭ - আয়কর কর্তৃপক্ষের অধীনস্থতা ও নিয়ন্ত্রণ বোর্ড, আদেশ দ্বারা, আয়কর কর্তৃপক্ষসমূহের অধীনস্থতা ও নিয়ন্ত্রণ সম্পর্কিত বিধান করিতে পারিবে",
+          "content_text": "ধারা ৭ - আয়কর কর্তৃপক্ষের অধীনস্থতা ও নিয়ন্ত্রণ বোর্ড, আদেশ দ্বারা, আয়কর কর্তৃপক্ষসমূহের অধীনস্থতা ও নিয়ন্ত্রণ সম্পর্কিত বিধান করিতে পারিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-7-subordination-and-control-of-income-tax-authorities/",
+    "original_title": "Income Tax Act Bangla Section 7 Subordination and control of income tax authorities – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 7 Subordination and control of income tax authorities"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,87 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ৫৫(ক) ধারাবলে “অতিরিক্ত” শব্দটির পরিবর্তে “অধিক বা কম” শব্দগুলি প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৬৪",
+          "title": "ধারা ১৬৪ - উৎসে ১[অধিক বা কম] কর্তিত বা সংগৃহীত কর ন্যূনতম করের ভিত্তি না হওয়া যেইক্ষেত্রে সঠিক পরিমাণের অধিক ২ [ বা কম] কর কর্তন বা সংগ্রহ করা হয়, সে",
+          "content_text": "ধারা ১৬৪ - উৎসে ১[অধিক বা কম] কর্তিত বা সংগৃহীত কর ন্যূনতম করের ভিত্তি না হওয়া যেইক্ষেত্রে সঠিক পরিমাণের অধিক ২ [ বা কম] কর কর্তন বা সংগ্রহ করা হয়, সেইক্ষেত্রে",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬৪"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৬৩",
+          "title": "ধারা ১৬৩ এর অধীন ন্যূনতম কর হিসাব করিবার উদ্দেশ্যে উক্তরূপ অধিক ২ [ বা কম] কর্তন বা সংগ্রহ করা হইয়াছে মর্মে বিবেচনা করা যাইবে না",
+          "content_text": "ধারা ১৬৩ এর অধীন ন্যূনতম কর হিসাব করিবার উদ্দেশ্যে উক্তরূপ অধিক ২ [ বা কম] কর্তন বা সংগ্রহ করা হইয়াছে মর্মে বিবেচনা করা যাইবে না। ১ অর্থ আইন, ২০২৪ এর ৫৫(ক) ধারাবলে “অতিরিক্ত” শব্দটির পরিবর্তে “অধিক বা কম” শব্দগুলি প্রতিস্থাপিত । ২ অর্থ আইন, ২০২৪ এর ৫৫(খ) ধারাবলে",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ধারাবলে “অতিরিক্ত” শব্দটির পরিবর্তে “অধিক বা কম” শব্দগুলি প্রতিস্থাপিত । ২ অর্থ আইন, ২০২৪ এর ৫৫",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) ধারাবলে",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৬৩"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        },
+        {
+          "number": "১৬৪",
+          "title": "ধারা ১৬৪ এ দুইবার উল্লিখিত “অধিক” শব্দের পর “বা কম” শব্দগুলি সন্নিবেশিত হইবে",
+          "content_text": "ধারা ১৬৪ এ দুইবার উল্লিখিত “অধিক” শব্দের পর “বা কম” শব্দগুলি সন্নিবেশিত হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-164-additional-tax-deducted-or-collected-at-source-not-being-base-of-minimum-tax/",
+    "original_title": "Income Tax Act Bangla Section 164 Additional tax deducted or collected at source not being base of minimum tax – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 164 Additional tax deducted or collected at source not being base of minimum tax"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

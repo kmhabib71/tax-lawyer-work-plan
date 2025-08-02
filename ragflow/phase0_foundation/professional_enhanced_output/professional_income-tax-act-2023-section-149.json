@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 149",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "149",
+          "title": "Section 149 - Indemnity for Tax Deducted or Collected at Source Where any amount is collected or deducted as tax under this Part and deposited in favo",
+          "content_text": "Section 149 - Indemnity for Tax Deducted or Collected at Source Where any amount is collected or deducted as tax under this Part and deposited in favor of the Government- (a) the tax shall be deemed to have been paid by the person from whom the tax is deducted or collected; (b) In respect of such deduction or collection, the person referred to in clause (a) shall not take any legal action against the deduction or, as the case may be, the collection and the deduction or, as the case may be, the collector shall be indemnified from liability of deduction or collection of tax.",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) the tax shall be deemed to have been paid by the person from whom the tax is deducted or collected;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) In respect of such deduction or collection, the person referred to in clause",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "a",
+              "text": "(a) shall not take any legal action against the deduction or, as the case may be, the collection and the deduction or, as the case may be, the collector shall be indemnified from liability of deduction or collection of tax.",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "149"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-149/",
+    "original_title": "Income Tax Act 2023 Section 149 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 149"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

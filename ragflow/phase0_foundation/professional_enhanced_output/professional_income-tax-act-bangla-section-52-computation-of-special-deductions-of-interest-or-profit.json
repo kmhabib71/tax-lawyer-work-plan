@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 52 Computation of special deductions of interest or profit",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৫২",
+          "title": "ধারা ৫২ - সুদ বা মুনাফার বিশেষ বিয়োজন পরিগণনা (১) ব্যবসায়ের উদ্দেশ্যে ধারকৃত কোনো মূলধনের উপর কোনো সুদ পরিশোধ বা, ক্ষেত্রমত, কোনো মুনাফা ভাগের অর্থ পর",
+          "content_text": "ধারা ৫২ - সুদ বা মুনাফার বিশেষ বিয়োজন পরিগণনা (১) ব্যবসায়ের উদ্দেশ্যে ধারকৃত কোনো মূলধনের উপর কোনো সুদ পরিশোধ বা, ক্ষেত্রমত, কোনো মুনাফা ভাগের অর্থ পরিশোধ করা হইলে তাহা ব্যবসায়িক ব্যয় হিসাবে অনুমোদিত হইবে। (২) যদি দেখা যায় যে, ধারকৃত অর্থের কোনো অংশ ব্যবসায়ের বাহিরে অন্য উদ্দেশ্যে ব্যবহার করা হইয়াছে বা ধারকৃত অর্থে অর্জিত সম্পদের কোনো অংশ ব্যবসায়ের বাহিরে অন্য কোথাও স্থানান্তর করা হইয়াছে যেখানে অর্থলগ্নী করা স্থানান্তরকারীর ব্যবসা নহে, তাহা হইলে উক্ত অর্থ বা সম্পদের যে অংশ ব্যবসায়ের কাজে ব্যবহার করা হইয়াছে সেই অংশের আনুপাতিক হারে সুদ বা মুনাফা ব্যয় অনুমোদিত হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) ব্যবসায়ের উদ্দেশ্যে ধারকৃত কোনো মূলধনের উপর কোনো সুদ পরিশোধ বা, ক্ষেত্রমত, কোনো মুনাফা ভাগের অর্থ পরিশোধ করা হইলে তাহা ব্যবসায়িক ব্যয় হিসাবে অনুমোদিত হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) যদি দেখা যায় যে, ধারকৃত অর্থের কোনো অংশ ব্যবসায়ের বাহিরে অন্য উদ্দেশ্যে ব্যবহার করা হইয়াছে বা ধারকৃত অর্থে অর্জিত সম্পদের কোনো অংশ ব্যবসায়ের বাহিরে অন্য কোথাও স্থানান্তর করা হইয়াছে যেখানে অর্থলগ্নী করা স্থানান্তরকারীর ব্যবসা নহে, তাহা হইলে উক্ত অর্থ বা সম্পদের যে অংশ ব্যবসায়ের কাজে ব্যবহার করা হইয়াছে সেই অংশের আনুপাতিক হারে সুদ বা মুনাফা ব্যয় অনুমোদিত হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৫২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-52-computation-of-special-deductions-of-interest-or-profit/",
+    "original_title": "Income Tax Act Bangla Section 52 Computation of special deductions of interest or profit – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 52 Computation of special deductions of interest or profit"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

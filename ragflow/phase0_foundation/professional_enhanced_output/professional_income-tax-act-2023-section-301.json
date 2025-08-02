@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "301",
+          "title": "Section 301 - Rights and Obligations of Taxpayer for Alternative Dispute Resolution (1) The taxpayer included in the alternative Dispute Resolution pr",
+          "content_text": "Section 301 - Rights and Obligations of Taxpayer for Alternative Dispute Resolution (1) The taxpayer included in the alternative Dispute Resolution process shall have the right to participate in mediation with the representative of the Commissioner himself or through his authorized representative. (2) In alternative dispute resolution mediation, the taxpayer shall be limited to presenting legal and factual documents and arguments along with the related disputed issues. (3) If an agreement can be reached, the taxpayer shall pay any tax imposed on the basis of the agreement within the agreed period. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The taxpayer included in the alternative Dispute Resolution process shall have the right to participate in mediation with the representative of the Commissioner himself or through his authorized representative.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In alternative dispute resolution mediation, the taxpayer shall be limited to presenting legal and factual documents and arguments along with the related disputed issues.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) If an agreement can be reached, the taxpayer shall pay any tax imposed on the basis of the agreement within the agreed period. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "301"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-301/",
+    "original_title": "Income Tax Act 2023 Section 301 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

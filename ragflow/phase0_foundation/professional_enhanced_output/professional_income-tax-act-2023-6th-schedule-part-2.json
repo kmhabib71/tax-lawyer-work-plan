@@ -1,0 +1,113 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_schedule",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "76",
+          "title": "Section 76] Part 2 - Deductions from Gross Income The following income shall be deducted from the total income, namely",
+          "content_text": "Section 76] Part 2 - Deductions from Gross Income The following income shall be deducted from the total income, namely:- : (1) By bank transfer by the taxpayer in any income year- (a) any income donated to any fund established under or by the Prime Minister’s Education Assistance Trust Act, 2012 (Act No. 15 of 2012), subject to the following maximum amount, namely:- (i) 10% (ten percent) of the income of a company or 8 (eight) crores, whichever is less; (ii) 10% (ten percent) of the income of any taxpayer other than the company or 1 (one) crore, whichever is less; (b) income donated to any girls’ school or women’s college approved by the Ministry of Education of the Government; and (c) income donated to any technical and vocational training institute approved by the Ministry of Education of the Government; (2) Income donated by the taxpayer in any income year through bank transfer to any national level institution involved in research and development for agricultural, scientific, technological and industrial development. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) By bank transfer by the taxpayer in any income year- (a) any income donated to any fund established under or by the Prime Minister’s Education Assistance Trust Act, 2012 (Act No. 15 of 2012), subject to the following maximum amount, namely:- (i) 10% (ten percent) of the income of a company or 8 (eight) crores, whichever is less; (ii) 10% (ten percent) of the income of any taxpayer other than the company or 1 (one) crore, whichever is less; (b) income donated to any girls’ school or women’s college approved by the Ministry of Education of the Government; and (c) income donated to any technical and vocational training institute approved by the Ministry of Education of the Government;",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) any income donated to any fund established under or by the Prime Minister’s Education Assistance Trust Act, 2012 (Act No. 15 of 2012), subject to the following maximum amount, namely:-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) 10% (ten percent) of the income of a company or 8 (eight) crores, whichever is less; (ii) 10% (ten percent) of the income of any taxpayer other than the company or 1 (one) crore, whichever is less;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) 10% (ten percent) of the income of a company or 8 (eight) crores, whichever is less; (ii) 10% (ten percent) of the income of any taxpayer other than the company or 1 (one) crore, whichever is less;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) 10% (ten percent) of the income of any taxpayer other than the company or 1 (one) crore, whichever is less;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) income donated to any girls’ school or women’s college approved by the Ministry of Education of the Government; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) income donated to any technical and vocational training institute approved by the Ministry of Education of the Government;",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Income donated by the taxpayer in any income year through bank transfer to any national level institution involved in research and development for agricultural, scientific, technological and industrial development. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "76"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-6th-schedule-part-2/",
+    "original_title": "Income Tax Act 2023 6th Schedule Part 2 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "68",
+          "title": "Section 68 - Allowable deductions in computing income from other Sources (1) Subject to the provisions of this Act, in computing the income of any per",
+          "content_text": "Section 68 - Allowable deductions in computing income from other Sources (1) Subject to the provisions of this Act, in computing the income of any person under “income from other sources” in any income year, such expenditure shall be allowable as expenditure, not capital or sonal expenditure, incurred by such person only for the purpose of earning the relevant income. (2) Except sub-sections (5) and (6) of section 67, no expenditure of any kind shall be allowed in computing income under other sub-sections of section 67, (3) In allowing expenditure under sub-section (1), the reasonableness of such expenditure shall be considered. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of this Act, in computing the income of any person under “income from other sources” in any income year, such expenditure shall be allowable as expenditure, not capital or sonal expenditure, incurred by such person only for the purpose of earning the relevant income.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Except sub-sections",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "6",
+              "text": "(6) of section 67, no expenditure of any kind shall be allowed in computing income under other sub-sections of section 67,",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) In allowing expenditure under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the reasonableness of such expenditure shall be considered. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "68"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-68/",
+    "original_title": "Income Tax Act 2023 Section 68 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 7,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

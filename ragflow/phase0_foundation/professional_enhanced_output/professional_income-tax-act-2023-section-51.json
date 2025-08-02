@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "51",
+          "title": "Section 51 - Approval of bad debt Expenditure (1) Bad debt expenses shall be allowable in cases other than banks and financial institutions, if— (a) b",
+          "content_text": "Section 51 - Approval of bad debt Expenditure (1) Bad debt expenses shall be allowable in cases other than banks and financial institutions, if— (a) bad debt or part of the bad debt becomes unpaid and appears as written off in the books of account; (b) all reasonable steps have been taken for the recovery of the amount due as bad debt prior to the forfeiture; (c) bad debt or part of the bad debt is treated as income in determining income in any income year. (2) In the case of banks and financial institutions, bad debt expenditure shall be allowable, if— (a) bad debt or part of bad debt is finalized as uncollectible by International Accounting Standards (IAS) and applicable in banks and financial institutions in Bangladesh and shown as written off in books as business; (b) all reasonable steps are taken for the recovery of the amount of bad debt as arrears before written off; (c) bad debt or part of the bad debt is treated as income in determining income in any income year. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Bad debt expenses shall be allowable in cases other than banks and financial institutions, if— (a) bad debt or part of the bad debt becomes unpaid and appears as written off in the books of account; (b) all reasonable steps have been taken for the recovery of the amount due as bad debt prior to the forfeiture; (c) bad debt or part of the bad debt is treated as income in determining income in any income year.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) bad debt or part of the bad debt becomes unpaid and appears as written off in the books of account;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) all reasonable steps have been taken for the recovery of the amount due as bad debt prior to the forfeiture;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) bad debt or part of the bad debt is treated as income in determining income in any income year.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In the case of banks and financial institutions, bad debt expenditure shall be allowable, if— (a) bad debt or part of bad debt is finalized as uncollectible by International Accounting Standards (IAS) and applicable in banks and financial institutions in Bangladesh and shown as written off in books as business; (b) all reasonable steps are taken for the recovery of the amount of bad debt as arrears before written off; (c) bad debt or part of the bad debt is treated as income in determining income in any income year. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) bad debt or part of bad debt is finalized as uncollectible by International Accounting Standards (IAS) and applicable in banks and financial institutions in Bangladesh and shown as written off in books as business;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) all reasonable steps are taken for the recovery of the amount of bad debt as arrears before written off;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) bad debt or part of the bad debt is treated as income in determining income in any income year. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "51"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-51/",
+    "original_title": "Income Tax Act 2023 Section 51 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

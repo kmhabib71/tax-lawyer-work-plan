@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 343 Power to make rules",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৪৩",
+          "title": "ধারা ৩৪৩ - বিধি প্রণয়নের ক্ষমতা বোর্ড, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের উদ্দেশ্যপূরণকল্পে, বিধি প্রণয়ন করিতে পারিবে",
+          "content_text": "ধারা ৩৪৩ - বিধি প্রণয়নের ক্ষমতা বোর্ড, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের উদ্দেশ্যপূরণকল্পে, বিধি প্রণয়ন করিতে পারিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৪৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-343-power-to-make-rules/",
+    "original_title": "Income Tax Act Bangla Section 343 Power to make rules – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 343 Power to make rules"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

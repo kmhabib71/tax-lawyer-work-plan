@@ -1,0 +1,123 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "168",
+          "title": "Section 168 - Filing of Living Statement Expenses (1) Every ordinary taxpayer shall compulsorily file a living expenses statement in the return, (a) t",
+          "content_text": "Section 168 - Filing of Living Statement Expenses (1) Every ordinary taxpayer shall compulsorily file a living expenses statement in the return, (a) the income of the said person in the relevant income year exceeds Tk. 5 (five) lakh; (b) the person acquired ownership of the motor vehicle at any time during the relevant income year; (c) the person derives any income from business; (d) the person becomes a shareholder director of any company; or (e) the person invests in house property or apartment within the city corporation area during the relevant income year. (2) The Deputy Commissioner of Taxes may, by notice in writing, require any person to furnish a statement of living expenses in any income year, if- (a) the said person has not filed the said statement of expenditure in the relevant income year; or (b) the said expenditure statement appears to be necessary for determining the tax liability of the said taxpayer for the relevant income year. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Every ordinary taxpayer shall compulsorily file a living expenses statement in the return, (a) the income of the said person in the relevant income year exceeds Tk. 5 (five) lakh; (b) the person acquired ownership of the motor vehicle at any time during the relevant income year; (c) the person derives any income from business; (d) the person becomes a shareholder director of any company; or (e) the person invests in house property or apartment within the city corporation area during the relevant income year.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) the income of the said person in the relevant income year exceeds Tk. 5 (five) lakh;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the person acquired ownership of the motor vehicle at any time during the relevant income year;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) the person derives any income from business;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) the person becomes a shareholder director of any company; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) the person invests in house property or apartment within the city corporation area during the relevant income year.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The Deputy Commissioner of Taxes may, by notice in writing, require any person to furnish a statement of living expenses in any income year, if- (a) the said person has not filed the said statement of expenditure in the relevant income year; or (b) the said expenditure statement appears to be necessary for determining the tax liability of the said taxpayer for the relevant income year. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) the said person has not filed the said statement of expenditure in the relevant income year; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the said expenditure statement appears to be necessary for determining the tax liability of the said taxpayer for the relevant income year. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "168"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-168/",
+    "original_title": "Income Tax Act 2023 Section 168 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

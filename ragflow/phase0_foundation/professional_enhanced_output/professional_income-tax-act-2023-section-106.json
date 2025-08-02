@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 106",
+    "document_type": "legal_section",
+    "language": "mixed"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "106",
+          "title": "Section 106 - Deduction of Tax from Interest on Securities Government securities or any person responsible for the issue of securities authorized the ",
+          "content_text": "Section 106 - Deduction of Tax from Interest on Securities Government securities or any person responsible for the issue of securities authorized the Government or the Bangladesh Securities and Exchange commission shall deduct tax at the rate of 5% (five percent) on payment of discount, interest or profit or credit, whichever occurs first.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "106"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-106/",
+    "original_title": "Income Tax Act 2023 Section 106 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "mixed",
+      "title": "Income Tax Act 2023 Section 106"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

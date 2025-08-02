@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 9 Legal representative",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৯ - আইনগত প্রতিনিধি “আইনগত প্রতিনিধি” অর্থ Code of Civil Procedure, 1908 (Act No. V of 1908) এর section 2 এর clause (11) এ সংজ্ঞায়িত কোনো আ",
+          "content_text": "ধারা ২ দফা ৯ - আইনগত প্রতিনিধি “আইনগত প্রতিনিধি” অর্থ Code of Civil Procedure, 1908 (Act No. V of 1908) এর section 2 এর clause (11) এ সংজ্ঞায়িত কোনো আইনগত প্রতিনিধি;",
+          "subsections": [
+            {
+              "identifier": "11",
+              "text": "(11) এ সংজ্ঞায়িত কোনো আইনগত প্রতিনিধি;",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-9-legal-representative/",
+    "original_title": "Income tax bangla section 2 sub-section 9 Legal representative – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 9 Legal representative"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

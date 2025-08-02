@@ -1,0 +1,97 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 305 Effect of agreement",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩০৫",
+          "title": "ধারা ৩০৫ - মতৈক্যের ফলাফল (১) এই আইনের অন্য কোনো বিধানে যাহা কিছুই থাকুক না কেন,",
+          "content_text": "ধারা ৩০৫ - মতৈক্যের ফলাফল (১) এই আইনের অন্য কোনো বিধানে যাহা কিছুই থাকুক না কেন,",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইনের অন্য কোনো বিধানে যাহা কিছুই থাকুক না কেন,",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০৫"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৩০৪",
+          "title": "ধারা ৩০৪ এর উপ-ধারা (৯) এর অধীন সম্পাদিত সমঝোতা উভয় পক্ষের জন্য বাধ্যতামূলক হইবে এবং উহার বিরুদ্ধে করদাতা বা কোনো আয়কর কর্তৃপক্ষ কোনো কর্তৃপক্ষ, ট্রাই",
+          "content_text": "ধারা ৩০৪ এর উপ-ধারা (৯) এর অধীন সম্পাদিত সমঝোতা উভয় পক্ষের জন্য বাধ্যতামূলক হইবে এবং উহার বিরুদ্ধে করদাতা বা কোনো আয়কর কর্তৃপক্ষ কোনো কর্তৃপক্ষ, ট্রাইব্যুনাল বা আদালতে আপত্তি উত্থাপন করিতে পারিবে না। (২)",
+          "subsections": [
+            {
+              "identifier": "৯",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৯",
+              "text": "(৯) এর অধীন সম্পাদিত সমঝোতা উভয় পক্ষের জন্য বাধ্যতামূলক হইবে এবং উহার বিরুদ্ধে করদাতা বা কোনো আয়কর কর্তৃপক্ষ কোনো কর্তৃপক্ষ, ট্রাইব্যুনাল বা আদালতে আপত্তি উত্থাপন করিতে পারিবে না।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০৪"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৩০৪",
+          "title": "ধারা ৩০৪ এর অধীন নিষ্পন্নকৃত মতৈক্যের ক্ষেত্রে উহাতে উল্লিখিত বিষয় চূড়ান্ত হইবে এবং মতৈক্য বহির্ভূত কোনো বিষয়ে, এই আইনের অধীন যেকোনো কার্যধারায় পুনঃউন",
+          "content_text": "ধারা ৩০৪ এর অধীন নিষ্পন্নকৃত মতৈক্যের ক্ষেত্রে উহাতে উল্লিখিত বিষয় চূড়ান্ত হইবে এবং মতৈক্য বহির্ভূত কোনো বিষয়ে, এই আইনের অধীন যেকোনো কার্যধারায় পুনঃউন্মোচন করা যাইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-305-effect-of-agreement/",
+    "original_title": "Income Tax Act Bangla Section 305 Effect of agreement – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 305 Effect of agreement"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 4,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.7
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 28 Taxed dividend",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ২৮ - করারোপিত লভ্যাংশ “করারোপিত লভ্যাংশ” অর্থ সেই লভ্যাংশ আয় যাহার উপর ইতোমধ্যে এই আইনের অধীন আয়কর পরিশোধ করা হইয়াছে;",
+          "content_text": "ধারা ২ দফা ২৮ - করারোপিত লভ্যাংশ “করারোপিত লভ্যাংশ” অর্থ সেই লভ্যাংশ আয় যাহার উপর ইতোমধ্যে এই আইনের অধীন আয়কর পরিশোধ করা হইয়াছে;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-28-taxed-dividend/",
+    "original_title": "Income tax bangla section 2 sub-section 28 Taxed dividend – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 28 Taxed dividend"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

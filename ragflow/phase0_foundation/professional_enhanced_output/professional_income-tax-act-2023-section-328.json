@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "328",
+          "title": "Section 328 - Electronic Tax Management (1) Where any return, return of tax at source, statement, application or document of any kind under any provis",
+          "content_text": "Section 328 - Electronic Tax Management (1) Where any return, return of tax at source, statement, application or document of any kind under any provision of this Act is to be filed with any Income Tax Authority or in the Taxes Appellate Tribunal, the said return, statement, application or document may be filed by an accepted or approved electronic, computer-readable or machine-readable form and manner by the Board. 2) Any notice, order, demand letter, certificate, communication, letter or acknowledgment receipt received or transmitted in a specified computer or electronic system approved by the Board shall be deemed to be a notice, order, demand letter, certificate, communication, letter or acknowledgment receipt under this Act. (3) The Board may, under any provision of this Act, develop, use and operate any computer or electronic system for ensuring the attendance or hearing of any matter before the Income Tax Authority or the Taxes Appellate Tribunal by electronic means and issue necessary orders for ensuring attendance and hearing through the said system. (4) The Board may, by special order, make it compulsory to file electronically any return, return of tax at source, any statement, application or document in respect of any specified class of persons or any specified class of income to any Income-tax authority or Taxes Appellate Tribunal. (5) The Board may issue special orders regarding payment of tax or other matters relating to tax compliance through electronic means. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where any return, return of tax at source, statement, application or document of any kind under any provision of this Act is to be filed with any Income Tax Authority or in the Taxes Appellate Tribunal, the said return, statement, application or document may be filed by an accepted or approved electronic, computer-readable or machine-readable form and manner by the Board. 2) Any notice, order, demand letter, certificate, communication, letter or acknowledgment receipt received or transmitted in a specified computer or electronic system approved by the Board shall be deemed to be a notice, order, demand letter, certificate, communication, letter or acknowledgment receipt under this Act.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The Board may, under any provision of this Act, develop, use and operate any computer or electronic system for ensuring the attendance or hearing of any matter before the Income Tax Authority or the Taxes Appellate Tribunal by electronic means and issue necessary orders for ensuring attendance and hearing through the said system.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The Board may, by special order, make it compulsory to file electronically any return, return of tax at source, any statement, application or document in respect of any specified class of persons or any specified class of income to any Income-tax authority or Taxes Appellate Tribunal.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) The Board may issue special orders regarding payment of tax or other matters relating to tax compliance through electronic means. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "328"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-328/",
+    "original_title": "Income Tax Act 2023 Section 328 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

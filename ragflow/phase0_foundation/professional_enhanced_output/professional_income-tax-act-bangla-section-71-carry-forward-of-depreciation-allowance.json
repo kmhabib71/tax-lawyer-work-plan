@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 71 Carry forward of depreciation allowance",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৭১",
+          "title": "ধারা ৭১ - অবচয় ভাতার জের টানা (১) এই আইনানুযায়ী অনুমোদিত কোনো অবচয় কোনো করবর্ষের গ্রস আয়ের বিপরীতে ব্যয় হিসাবে সম্পূর্ণরূপে চার্জ করা না গেলে তাহা পরব",
+          "content_text": "ধারা ৭১ - অবচয় ভাতার জের টানা (১) এই আইনানুযায়ী অনুমোদিত কোনো অবচয় কোনো করবর্ষের গ্রস আয়ের বিপরীতে ব্যয় হিসাবে সম্পূর্ণরূপে চার্জ করা না গেলে তাহা পরবর্তী করবর্ষের অবচয়ের সহিত যুক্ত হইবে। (২) এই আইনের কোনো বিধান পরিপালনে ব্যত্যয়ের কারণে কোনো অবচয় ভাতা অননুমোদিত হইলে উহার জের টানা যাইবে না। (৩) জের টানা অবচয়ের ভাতা চার্জ করিবার পূর্বে জের টানা ক্ষতির সমন্বয় করিতে হইবে। (৪) অনুমোদিত অবচয় ভাতা সম্পূর্ণরূপে সমন্বয়কৃত হওয়া পর্যন্ত জের টানা যাইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইনানুযায়ী অনুমোদিত কোনো অবচয় কোনো করবর্ষের গ্রস আয়ের বিপরীতে ব্যয় হিসাবে সম্পূর্ণরূপে চার্জ করা না গেলে তাহা পরবর্তী করবর্ষের অবচয়ের সহিত যুক্ত হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এই আইনের কোনো বিধান পরিপালনে ব্যত্যয়ের কারণে কোনো অবচয় ভাতা অননুমোদিত হইলে উহার জের টানা যাইবে না।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) জের টানা অবচয়ের ভাতা চার্জ করিবার পূর্বে জের টানা ক্ষতির সমন্বয় করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৪",
+              "text": "(৪) অনুমোদিত অবচয় ভাতা সম্পূর্ণরূপে সমন্বয়কৃত হওয়া পর্যন্ত জের টানা যাইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৭১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-71-carry-forward-of-depreciation-allowance/",
+    "original_title": "Income Tax Act Bangla Section 71 Carry forward of depreciation allowance – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 71 Carry forward of depreciation allowance"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

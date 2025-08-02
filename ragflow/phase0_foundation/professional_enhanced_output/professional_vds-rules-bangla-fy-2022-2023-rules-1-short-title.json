@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর কর্তন ও আদায় বিধিমালা, ২০২১ নামে অভিহিত হইবে",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "বিধি ১ – শিরোনাম এই বিধিমালা উৎসে মূল্য সংযোজন কর কর্তন ও আদায় বিধিমালা, ২০২১ নামে অভিহিত হইবে।",
+          "content_text": "বিধি ১ – শিরোনাম এই বিধিমালা উৎসে মূল্য সংযোজন কর কর্তন ও আদায় বিধিমালা, ২০২১ নামে অভিহিত হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vds-rules-bangla-fy-2022-2023-rules-1-short-title/",
+    "original_title": "VDS Rules Bangla FY 2022-2023 Rules 1 Short Title – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর কর্তন ও আদায় বিধিমালা, ২০২১ নামে অভিহিত হইবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

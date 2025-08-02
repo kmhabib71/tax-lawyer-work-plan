@@ -1,0 +1,138 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 102",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "102",
+          "title": "Section 102 - Deduction of Tax from Savings Deposits and Fixed Deposits, etc (1) Notwithstanding anything contained in this Act or any other law in fo",
+          "content_text": "Section 102 - Deduction of Tax from Savings Deposits and Fixed Deposits, etc (1) Notwithstanding anything contained in this Act or any other law in force in Bangladesh, if any interest or profit is paid to a resident person by any bank, co-operative bank, bank run on Islamic principles, nonbanking, a financial institution, a leasing company or a housing finance company pays any interest or profit against any savings deposit, fixed deposit, term deposit or any other form of deposit, the person liable for the payment of the interest or profit to a person at the time of credit interest or payment of profit, whichever occurs earlier, shall deduct tax at source at the rate specified in the table below and deposit it in the Government Treasury- Table Serial No. Payee Type Rate of Tar Deduction (1) (2) (3) 1 in case of com an 20% (twenty percent) 2 in case of persons other than company 10% (ten percent) 3 in case of Government University, any educational institution under monthly pay order, Chartered Accountant or Cost and Management Accountant or Institute of Chartered Secretaries) 10% (ten percent) 4 in respect of recognized Provident Funds, Approved Provident Funds, Approved Superannuation Funds and Pension Funds. 5% (five percent) (2) Nothing in this section shall apply to the following cases, namely: (a) any interest or profit arising from any deposit pension scheme sponsored by the Government or any Scheduled Bank with the prior approval of the Government; or (b) any specified recipient or class of recipients otherwise exempted from tax by the Board, by general or special order. (3) For the purposes of this section, evidence of the filing of the return by the legal guardian of the minor shall be deemed to be evidence of the filing of the return of the minor.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in this Act or any other law in force in Bangladesh, if any interest or profit is paid to a resident person by any bank, co-operative bank, bank run on Islamic principles, nonbanking, a financial institution, a leasing company or a housing finance company pays any interest or profit against any savings deposit, fixed deposit, term deposit or any other form of deposit, the person liable for the payment of the interest or profit to a person at the time of credit interest or payment of profit, whichever occurs earlier, shall deduct tax at source at the rate specified in the table below and deposit it in the Government Treasury- Table Serial No. Payee Type Rate of Tar Deduction",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) 1 in case of com an 20% (twenty percent) 2 in case of persons other than company 10% (ten percent) 3 in case of Government University, any educational institution under monthly pay order, Chartered Accountant or Cost and Management Accountant or Institute of Chartered Secretaries) 10% (ten percent) 4 in respect of recognized Provident Funds, Approved Provident Funds, Approved Superannuation Funds and Pension Funds. 5% (five percent)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Nothing in this section shall apply to the following cases, namely: (a) any interest or profit arising from any deposit pension scheme sponsored by the Government or any Scheduled Bank with the prior approval of the Government; or (b) any specified recipient or class of recipients otherwise exempted from tax by the Board, by general or special order.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) any interest or profit arising from any deposit pension scheme sponsored by the Government or any Scheduled Bank with the prior approval of the Government; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) any specified recipient or class of recipients otherwise exempted from tax by the Board, by general or special order.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) For the purposes of this section, evidence of the filing of the return by the legal guardian of the minor shall be deemed to be evidence of the filing of the return of the minor.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Serial No.",
+                "Payee Type",
+                "Rate of Tar Deduction"
+              ],
+              "data": [
+                [
+                  "(1)",
+                  "(2)",
+                  "(3)"
+                ],
+                [
+                  "1",
+                  "in case of com an",
+                  "20% (twenty percent)"
+                ],
+                [
+                  "2",
+                  "in case of persons other than company",
+                  "10% (ten percent)"
+                ],
+                [
+                  "3",
+                  "in case of Government University, any educational institution under monthly pay order, Chartered Accountant or Cost and Management Accountant or Institute of Chartered Secretaries)",
+                  "10% (ten percent)"
+                ],
+                [
+                  "4",
+                  "in respect of recognized Provident Funds, Approved Provident Funds, Approved Superannuation Funds and Pension Funds.",
+                  "5% (five percent)"
+                ]
+              ],
+              "metadata": {
+                "row_count": 5,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            }
+          ],
+          "references": [
+            "102"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-102/",
+    "original_title": "Income Tax Act 2023 Section 102 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 102"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 6,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.3
+  },
+  "forms": []
+}

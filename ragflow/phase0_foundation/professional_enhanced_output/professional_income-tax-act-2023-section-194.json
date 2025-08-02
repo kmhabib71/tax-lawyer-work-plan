@@ -1,0 +1,104 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "194",
+          "title": "Section 194 - Assessment of Tax in case of Income of a Deceased Person (1) If a person dies, his legal representative shall be liable to pay any tax o",
+          "content_text": "Section 194 - Assessment of Tax in case of Income of a Deceased Person (1) If a person dies, his legal representative shall be liable to pay any tax or other sum payable under this Act as he would have been liable had the deceased person not died for the purposes of this Act, the legal representatives of the deceased person shall be deemed to be taxpayers: Provided that before treating the legal representative of the deceased as a taxpayer, the Deputy Commissioner of Taxes shall send a notice to the legal representative in that regard. (2) For the purpose of assessing the income of the deceased person and collecting tax- (a) any proceedings taken against the deceased person before the death shall be deemed to have been taken against the legal representative and shall continue from the stage in which the proceedings were at the date of the death of the said deceased; and (b) the same proceedings shall be taken in respect of the legal representative as would have been taken in respect of the deceased person during his lifetime, and all the provisions of this Act shall be equally applicable to him to the extend applicable. (3) The liability of the legal representative under this Act shall be limited only to his ability to discharge the liability from the estate of the deceased. (4) For the purposes of this section and other sections, “legal representative” in relation to the rights, interests and liabilities of the deceased includes the executor, administrator and any person managing the estate of the deceased. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If a person dies, his legal representative shall be liable to pay any tax or other sum payable under this Act as he would have been liable had the deceased person not died for the purposes of this Act, the legal representatives of the deceased person shall be deemed to be taxpayers: Provided that before treating the legal representative of the deceased as a taxpayer, the Deputy Commissioner of Taxes shall send a notice to the legal representative in that regard.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) For the purpose of assessing the income of the deceased person and collecting tax- (a) any proceedings taken against the deceased person before the death shall be deemed to have been taken against the legal representative and shall continue from the stage in which the proceedings were at the date of the death of the said deceased; and (b) the same proceedings shall be taken in respect of the legal representative as would have been taken in respect of the deceased person during his lifetime, and all the provisions of this Act shall be equally applicable to him to the extend applicable.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) any proceedings taken against the deceased person before the death shall be deemed to have been taken against the legal representative and shall continue from the stage in which the proceedings were at the date of the death of the said deceased; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the same proceedings shall be taken in respect of the legal representative as would have been taken in respect of the deceased person during his lifetime, and all the provisions of this Act shall be equally applicable to him to the extend applicable.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The liability of the legal representative under this Act shall be limited only to his ability to discharge the liability from the estate of the deceased.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) For the purposes of this section and other sections, “legal representative” in relation to the rights, interests and liabilities of the deceased includes the executor, administrator and any person managing the estate of the deceased. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "194"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-194/",
+    "original_title": "Income Tax Act 2023 Section 194 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 91 Deduction from payment for intangible property",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯১",
+          "title": "ধারা ৯১ - স্পর্শাতীত সম্পত্তির জন্য পরিশোধিত অর্থ হইতে কর্তন রয়্যালটি, ফ্র্যাঞ্চাইজ বা লাইসেন্স, ট্রেডমার্ক, পেটেন্ট, কপিরাইট, শিল্প নকশা, উদ্ভিদের জা",
+          "content_text": "ধারা ৯১ - স্পর্শাতীত সম্পত্তির জন্য পরিশোধিত অর্থ হইতে কর্তন রয়্যালটি, ফ্র্যাঞ্চাইজ বা লাইসেন্স, ট্রেডমার্ক, পেটেন্ট, কপিরাইট, শিল্প নকশা, উদ্ভিদের জাত, ভৌগলিক নির্দেশক পণ্য বা মেধাসত্ত্ব সংক্রান্ত অন্য কোনো সম্পত্তি অথবা অভৌত বা অমূর্ত বা নিরাকার বিষয়ের জন্য অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি, উক্ত অর্থ প্রদান বা ক্রেডিটের সময় ১ [ ভিত্তিমূল্যের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন। ] ২ [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ৬২ ধারাবলে উল্লিখিত “নিম্নবর্ণিত সারণীতে উল্লিখিত হারে কর কর্তন করিবেন, যথা:-” চিহ্ন ও শব্দগুলির পরিবর্তে “ভিত্তিমূল্যের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন। ” সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত । ২ অর্থ অধ্যাদেশ, ২০২৫ এর ৬২ ধারাবলে নিম্নরূপ সারণী বিলুপ্ত । সারণী পরিশোধের বর্ণনা কর কর্তনের হার (১) (২) ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম না করিলে ১০% (দশ শতাংশ) ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম করিলে ১২% (বার শতাংশ)",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম না করিলে ১০% (দশ শতাংশ) ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম করিলে ১২% (বার শতাংশ)",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "পরিশোধের বর্ণনা",
+                "কর কর্তনের হার"
+              ],
+              "data": [
+                [
+                  "(১)",
+                  "(২)"
+                ],
+                [
+                  "ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম না করিলে",
+                  "১০% (দশ শতাংশ)"
+                ],
+                [
+                  "ভিত্তিমূল্যের পরিমাণ ২৫ (পঁচিশ) লক্ষ টাকা অতিক্রম করিলে",
+                  "১২% (বার শতাংশ)"
+                ]
+              ],
+              "metadata": {
+                "row_count": 3,
+                "column_count": 2,
+                "table_type": "tax_rate_table"
+              }
+            }
+          ],
+          "references": [
+            "ধারা ৯১"
+          ],
+          "amendments": [
+            "বিলুপ্ত",
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-91-deduction-from-payment-for-intangible-property/",
+    "original_title": "Income Tax Act Bangla Section 91 Deduction from payment for intangible property – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 91 Deduction from payment for intangible property"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 90 Deduction from the payment of services",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯০",
+          "title": "ধারা ৯০ - সেবার ক্ষেত্রে পরিশোধ হইতে কর্তন কোনো সেবার জন্য কোনো নির্দিষ্ট ব্যক্তি কর্তৃক কোনো নিবাসীকে কোনো নির্দিষ্ট পরিমাণ অর্থ প্রদান করা হইলে অর্থ",
+          "content_text": "ধারা ৯০ - সেবার ক্ষেত্রে পরিশোধ হইতে কর্তন কোনো সেবার জন্য কোনো নির্দিষ্ট ব্যক্তি কর্তৃক কোনো নিবাসীকে কোনো নির্দিষ্ট পরিমাণ অর্থ প্রদান করা হইলে অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি অর্থ পরিশোধের সময় নির্ধারিত, অনধিক ২০% (বিশ শতাংশ), হারে কর কর্তন করিবেন। Click here to view Rule 4 of TDS Rules 2024",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-90-deduction-from-the-payment-of-services/",
+    "original_title": "Income Tax Act Bangla Section 90 Deduction from the payment of services – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 90 Deduction from the payment of services"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

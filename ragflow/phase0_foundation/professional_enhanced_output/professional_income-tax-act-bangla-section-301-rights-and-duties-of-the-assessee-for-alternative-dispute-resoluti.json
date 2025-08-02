@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 301 Rights and duties of the assessee for Alternative Dispute Resolution",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩০১",
+          "title": "ধারা ৩০১ - বিকল্প বিরোধ নিষ্পত্তির জন্য করদাতার অধিকার ও কর্তব্যসমূহ (১) বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়ায় অন্তর্ভুক্ত করদাতার স্বয়ং বা তাহার ক্ষমতাপ",
+          "content_text": "ধারা ৩০১ - বিকল্প বিরোধ নিষ্পত্তির জন্য করদাতার অধিকার ও কর্তব্যসমূহ (১) বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়ায় অন্তর্ভুক্ত করদাতার স্বয়ং বা তাহার ক্ষমতাপ্রাপ্ত প্রতিনিধির মাধ্যমে কমিশনারের প্রতিনিধির সহিত মধ্যস্থতায় অংশগ্রহণ করিবার অধিকার থাকিবে। (২) বিকল্প বিরোধ নিষ্পত্তির মধ্যস্থতায় করদাতার সহিত সংশ্লিষ্ট বিতর্কিত বিষয়ে আইনগত ও তথ্যগত কাগজপত্র ও দলিল সহযোগে যুক্তি তর্ক উপস্থাপনে সীমাবদ্ধ থাকিবে। (৩) যদি কোনো সমঝোতায় উপনীত হওয়া যায়, তাহা হইলে করদাতাকে, উক্ত সমঝোতার ভিত্তিতে কোনো করদায় আরোপিত হইলে, সম্মত সময়সীমার মধ্যে উহা পরিশোধ করিতে হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়ায় অন্তর্ভুক্ত করদাতার স্বয়ং বা তাহার ক্ষমতাপ্রাপ্ত প্রতিনিধির মাধ্যমে কমিশনারের প্রতিনিধির সহিত মধ্যস্থতায় অংশগ্রহণ করিবার অধিকার থাকিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) বিকল্প বিরোধ নিষ্পত্তির মধ্যস্থতায় করদাতার সহিত সংশ্লিষ্ট বিতর্কিত বিষয়ে আইনগত ও তথ্যগত কাগজপত্র ও দলিল সহযোগে যুক্তি তর্ক উপস্থাপনে সীমাবদ্ধ থাকিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) যদি কোনো সমঝোতায় উপনীত হওয়া যায়, তাহা হইলে করদাতাকে, উক্ত সমঝোতার ভিত্তিতে কোনো করদায় আরোপিত হইলে, সম্মত সময়সীমার মধ্যে উহা পরিশোধ করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-301-rights-and-duties-of-the-assessee-for-alternative-dispute-resolution/",
+    "original_title": "Income Tax Act Bangla Section 301 Rights and duties of the assessee for Alternative Dispute Resolution – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 301 Rights and duties of the assessee for Alternative Dispute Resolution"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

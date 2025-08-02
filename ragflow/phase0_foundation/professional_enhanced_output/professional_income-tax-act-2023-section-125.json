@@ -1,0 +1,129 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 125",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "125",
+          "title": "Section 125 - Collection of Tax from Transfer of Property, etc (1) Under clauses (b), (c) or (d) of sub-section (1) of section 17 of the Registration ",
+          "content_text": "Section 125 - Collection of Tax from Transfer of Property, etc (1) Under clauses (b), (c) or (d) of sub-section (1) of section 17 of the Registration Act, 1908 (Act No. XVI of 1908) no registering officer responsible for the registration of a document shall not register any document without on payment of tax at the prescribed rate. (2) In the case of collection of tax under this section, the rate of tax- (a) Tk. 20 (twenty) lakhs per katha 1.65 (one point and sixty-five decimal in respect of land; (b) Tk. 1 (one) thousand per square meter in respect of any establishment, building, flat, apartment or floor space; or (c) 10% (ten percent) on the value mentioned in the deed, whichever is more, will not exceed (3) Nothing in this section shall apply to any document as follows, namely:- (a) sale by any bank or financial institution authorized to sell the mortgaged property; (b) mortgaged assets with a bank or financial institution against a loan; (c) transfer of any property from or to any trust or special purpose vehicle constituted for the purpose of issue of sukuk approved by the Bangladesh Securities and Exchange Commission or the Government.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Under clauses (b), (c) or (d) of sub-section",
+              "clauses": [
+                {
+                  "identifier": "b",
+                  "text": "(b),",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) of sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) of section 17 of the Registration Act, 1908 (Act No. XVI of 1908) no registering officer responsible for the registration of a document shall not register any document without on payment of tax at the prescribed rate.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In the case of collection of tax under this section, the rate of tax- (a) Tk. 20 (twenty) lakhs per katha 1.65 (one point and sixty-five decimal in respect of land; (b) Tk. 1 (one) thousand per square meter in respect of any establishment, building, flat, apartment or floor space; or (c) 10% (ten percent) on the value mentioned in the deed, whichever is more, will not exceed",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) Tk. 20 (twenty) lakhs per katha 1.65 (one point and sixty-five decimal in respect of land;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) Tk. 1 (one) thousand per square meter in respect of any establishment, building, flat, apartment or floor space; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) 10% (ten percent) on the value mentioned in the deed, whichever is more, will not exceed",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Nothing in this section shall apply to any document as follows, namely:- (a) sale by any bank or financial institution authorized to sell the mortgaged property; (b) mortgaged assets with a bank or financial institution against a loan; (c) transfer of any property from or to any trust or special purpose vehicle constituted for the purpose of issue of sukuk approved by the Bangladesh Securities and Exchange Commission or the Government.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) sale by any bank or financial institution authorized to sell the mortgaged property;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) mortgaged assets with a bank or financial institution against a loan;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) transfer of any property from or to any trust or special purpose vehicle constituted for the purpose of issue of sukuk approved by the Bangladesh Securities and Exchange Commission or the Government.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "125"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-125/",
+    "original_title": "Income Tax Act 2023 Section 125 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 125"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

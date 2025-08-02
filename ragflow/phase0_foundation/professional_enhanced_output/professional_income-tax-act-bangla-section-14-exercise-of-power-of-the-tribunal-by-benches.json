@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 14 Exercise of power of the Tribunal by Benches",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৪",
+          "title": "ধারা ১৪ - বেঞ্চ কর্তৃক ট্রাইব্যুনালের ক্ষমতা প্রয়োগ (১) প্রেসিডেন্ট কর্তৃক গঠিত কোনো বিশেষ ক্ষেত্রে বা শ্রেণির ক্ষেত্রে ব্যতিক্রমী সিদ্ধান্ত প্রদান না",
+          "content_text": "ধারা ১৪ - বেঞ্চ কর্তৃক ট্রাইব্যুনালের ক্ষমতা প্রয়োগ (১) প্রেসিডেন্ট কর্তৃক গঠিত কোনো বিশেষ ক্ষেত্রে বা শ্রেণির ক্ষেত্রে ব্যতিক্রমী সিদ্ধান্ত প্রদান না করা হইলে, আপিল ট্রাইব্যুনালের ক্ষমতা ও কার্যসমূহ ট্রাইব্যুনালের বেঞ্চসমূহ, অতঃপর বেঞ্চ বলিয়া উল্লিখিত, কর্তৃক প্রয়োগযোগ্য হইবে। (২) উপ-ধারা (১) এর অধীন গঠিত বেঞ্চে অন্যূন ২ (দুই) জন সদস্য থাকিবেন। (৩) উপ-ধারা (১) এর অধীন গঠিত প্রতিটি বেঞ্চের অন্যূন একজন সদস্য নিম্নবর্ণিত ব্যক্তিগণ হইতে নিযুক্ত হইবেন, যথা : (ক) জাতীয় রাজস্ব বোর্ডের একজন সদস্য, বা (খ) কর কমিশনার।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) প্রেসিডেন্ট কর্তৃক গঠিত কোনো বিশেষ ক্ষেত্রে বা শ্রেণির ক্ষেত্রে ব্যতিক্রমী সিদ্ধান্ত প্রদান না করা হইলে, আপিল ট্রাইব্যুনালের ক্ষমতা ও কার্যসমূহ ট্রাইব্যুনালের বেঞ্চসমূহ, অতঃপর বেঞ্চ বলিয়া উল্লিখিত, কর্তৃক প্রয়োগযোগ্য হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন গঠিত বেঞ্চে অন্যূন ২ (দুই) জন সদস্য থাকিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন গঠিত প্রতিটি বেঞ্চের অন্যূন একজন সদস্য নিম্নবর্ণিত ব্যক্তিগণ হইতে নিযুক্ত হইবেন, যথা : (ক) জাতীয় রাজস্ব বোর্ডের একজন সদস্য, বা (খ) কর কমিশনার।",
+              "clauses": [
+                {
+                  "identifier": "ক",
+                  "text": "(ক) জাতীয় রাজস্ব বোর্ডের একজন সদস্য, বা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "খ",
+                  "text": "(খ) কর কমিশনার।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-14-exercise-of-power-of-the-tribunal-by-benches/",
+    "original_title": "Income Tax Act Bangla Section 14 Exercise of power of the Tribunal by Benches – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 14 Exercise of power of the Tribunal by Benches"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 7,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

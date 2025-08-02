@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 250 Appeal",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৫০",
+          "title": "ধারা ২৫০ - আপিল উপকর কমিশনার কর্তৃক প্রদত্ত আদেশে কোনো পরিশোধকারী কর্তৃক দাবিকৃত বৈদেশিক কর রেয়াত, পূর্ণ বা আংশিক, অননুমোদন করা হইলে, উপকর কমিশনার কর্",
+          "content_text": "ধারা ২৫০ - আপিল উপকর কমিশনার কর্তৃক প্রদত্ত আদেশে কোনো পরিশোধকারী কর্তৃক দাবিকৃত বৈদেশিক কর রেয়াত, পূর্ণ বা আংশিক, অননুমোদন করা হইলে, উপকর কমিশনার কর্তৃক প্রদত্ত উক্ত আদেশ পরিশোধকারীর নিকট পৌঁছাইবার ৩০ (ত্রিশ) দিনের মধ্যে পরিশোধকারী আপিল যুগ্ম কমিশনার এর নিকট আপিল করিতে পারিবেন এবং একইভাবে অংশ ২০ এর দ্বিতীয় অধ্যায়ের বিধানাবলি, প্রয়োজনীয় সংশোধনসহ প্রযোজ্য হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৫০"
+          ],
+          "amendments": [
+            "সংশোধন"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-250-appeal/",
+    "original_title": "Income Tax Act Bangla Section 250 Appeal – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 250 Appeal"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

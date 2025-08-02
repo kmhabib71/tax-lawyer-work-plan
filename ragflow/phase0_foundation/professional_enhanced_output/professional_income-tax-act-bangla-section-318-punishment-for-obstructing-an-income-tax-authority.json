@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 318 Punishment for obstructing an income tax authority",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩১৮",
+          "title": "ধারা ৩১৮ - আয়কর কর্তৃপক্ষকে বাধা প্রদানের দণ্ড কোনো ব্যক্তি এই আইনের অধীন কার্যাবলি নির্বাহকালে কোনো আয়কর কর্তৃপক্ষকে বাধা প্রদান করিলে তিনি অন্যূন ১ ",
+          "content_text": "ধারা ৩১৮ - আয়কর কর্তৃপক্ষকে বাধা প্রদানের দণ্ড কোনো ব্যক্তি এই আইনের অধীন কার্যাবলি নির্বাহকালে কোনো আয়কর কর্তৃপক্ষকে বাধা প্রদান করিলে তিনি অন্যূন ১ (এক) বৎসর পর্যন্ত কারাদণ্ড বা অর্থদণ্ড বা উভয়দণ্ডে দণ্ডিত হইবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-318-punishment-for-obstructing-an-income-tax-authority/",
+    "original_title": "Income Tax Act Bangla Section 318 Punishment for obstructing an income tax authority – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 318 Punishment for obstructing an income tax authority"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

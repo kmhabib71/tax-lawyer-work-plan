@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৮৫ - সম্পত্তি ক্রোক বা জব্দকরণের সময় ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯৫",
+          "title": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে",
+          "content_text": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে।",
+          "subsections": [
+            {
+              "identifier": "৫",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৫",
+              "text": "(৫) এর দফা (ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে।",
+              "clauses": [
+                {
+                  "identifier": "ছ",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ছ",
+                  "text": "(ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-85-time-of-attachment-or-seizure-of-property/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 85 Time of attachment or seizure of property – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৮৫ - সম্পত্তি ক্রোক বা জব্দকরণের সময় ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) এর অধীন সূর্যোদয় হইতে সূর্যাস্তের মধ্যে খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিতে হইবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

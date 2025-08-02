@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "156",
+          "title": "Section 156 - Payment of Advance Tax by New Taxpayer The total income of any person not previously assessed to regular tax under this Act, subject to ",
+          "content_text": "Section 156 - Payment of Advance Tax by New Taxpayer The total income of any person not previously assessed to regular tax under this Act, subject to sub-section (2) of section 154, exceeds Tk. 6 (six) lakhs in the income year immediately following the tax year, he shall submit to the Deputy Commissioner of Taxes before the 15″ (fifteenth) day of June of every financial year an account of his estimated total income and the advance tax payable calculated in the manner prescribed in sub-section (1) of section 142 and sub-section (1) of section 155 and pay it within the installment date fixed, so that it does not exceed the revised installment date under sub-section (5) of section 155. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of section 154, exceeds Tk. 6 (six) lakhs in the income year immediately following the tax year, he shall submit to the Deputy Commissioner of Taxes before the 15″ (fifteenth) day of June of every financial year an account of his estimated total income and the advance tax payable calculated in the manner prescribed in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) of section 142 and sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) of section 155 and pay it within the installment date fixed, so that it does not exceed the revised installment date under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) of section 155. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "156"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-156/",
+    "original_title": "Income Tax Act 2023 Section 156 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

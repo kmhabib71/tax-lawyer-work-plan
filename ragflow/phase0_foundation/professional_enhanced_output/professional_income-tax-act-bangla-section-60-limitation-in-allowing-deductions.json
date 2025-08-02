@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 60 Limitation in allowing deductions",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৬০",
+          "title": "ধারা ৬০ - বিয়োজন অনুমোদনের সীমাবদ্ধতা উৎসে কর কর্তন প্রযোজ্য হয়, এইরূপ কোনো ব্যয়ের ক্ষেত্রে উৎসে কর কর্তন বা সংগ্রহ করা না হইলে এবং এই আইনের বিধান অনু",
+          "content_text": "ধারা ৬০ - বিয়োজন অনুমোদনের সীমাবদ্ধতা উৎসে কর কর্তন প্রযোজ্য হয়, এইরূপ কোনো ব্যয়ের ক্ষেত্রে উৎসে কর কর্তন বা সংগ্রহ করা না হইলে এবং এই আইনের বিধান অনুযায়ী উহা যথাযথভাবে পরিশোধ করা না হইলে, উক্ত ব্যয়কে এই অধ্যায়ের অধীন অনুমোদনযোগ্য বিয়োজন হিসাবে বিবেচনা করা যাইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-60-limitation-in-allowing-deductions/",
+    "original_title": "Income Tax Act Bangla Section 60 Limitation in allowing deductions – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 60 Limitation in allowing deductions"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

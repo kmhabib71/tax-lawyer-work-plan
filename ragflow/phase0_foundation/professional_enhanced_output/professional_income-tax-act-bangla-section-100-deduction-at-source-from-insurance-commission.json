@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 100 Deduction at source from insurance commission",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০০",
+          "title": "ধারা ১০০ - বিমার কমিশনের অর্থ হইতে কর্তন কমিশন বা অন্য কোনো উপায়ে সম্মানি বা পুরষ্কারের মাধ্যমে বিমা গ্রহণের জন্য আহ্বান বা বিমা সংগ্রহের ব্যবসাসহ বিম",
+          "content_text": "ধারা ১০০ - বিমার কমিশনের অর্থ হইতে কর্তন কমিশন বা অন্য কোনো উপায়ে সম্মানি বা পুরষ্কারের মাধ্যমে বিমা গ্রহণের জন্য আহ্বান বা বিমা সংগ্রহের ব্যবসাসহ বিমা পলিসির ধারাবাহিকতা বজায় রাখা, নবায়ন বা পুনরুজ্জীবনের সহিত সম্পর্কিত ব্যবসার জন্য কোনো অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি উক্ত অঙ্ক গ্রহীতার হিসাবে জমা প্রদানকালে বা উক্ত অঙ্কের অর্থ নগদ বা চেক বা ড্রাফট বা অন্য যেকোনো মাধ্যমে প্রদানকালে, যাহা আগে ঘটে, উক্ত অঙ্কের উপর পাঁচ শতাংশ (৫%) হারে কর কর্তন করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-100-deduction-at-source-from-insurance-commission/",
+    "original_title": "Income Tax Act Bangla Section 100 Deduction at source from insurance commission – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 100 Deduction at source from insurance commission"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

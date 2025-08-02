@@ -1,0 +1,78 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 15",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "15",
+          "title": "Section 15 - Decision of the Bench (1) Subject to the provisions of subsections (2) and (3), a decision shall be taken on the basis of the opinion Of ",
+          "content_text": "Section 15 - Decision of the Bench (1) Subject to the provisions of subsections (2) and (3), a decision shall be taken on the basis of the opinion Of the majority of members in any case or on any particular matter. (2) If the members of the Bench are equally divided on any matter, it shall be stated in writing and the same shall be referred by the President to One or more members of the Appellate Tribunal for hearing, and in such case the matter shall be decided on the basis of the opinion of the majority of the members of the Appellate Tribunal, including those who heard it for the first time. (3) If there are only 2 (two) members of the Appellate Tribunal and there is a difference of opinion, the Government may appoint additional members to the Appellate Tribunal for the purpose of hearing the said case and the decision of the case shall be taken according to the opinion of the majority of the members of the Appellate Tribunal composed of the additional members.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of subsections",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3), a decision shall be taken on the basis of the opinion Of the majority of members in any case or on any particular matter.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the members of the Bench are equally divided on any matter, it shall be stated in writing and the same shall be referred by the President to One or more members of the Appellate Tribunal for hearing, and in such case the matter shall be decided on the basis of the opinion of the majority of the members of the Appellate Tribunal, including those who heard it for the first time.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) If there are only 2 (two) members of the Appellate Tribunal and there is a difference of opinion, the Government may appoint additional members to the Appellate Tribunal for the purpose of hearing the said case and the decision of the case shall be taken according to the opinion of the majority of the members of the Appellate Tribunal composed of the additional members.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "15"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-15/",
+    "original_title": "Income Tax Act 2023 Section 15 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 15"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 5,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.0
+  },
+  "forms": []
+}

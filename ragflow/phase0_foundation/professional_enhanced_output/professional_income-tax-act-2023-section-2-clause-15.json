@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "2",
+          "title": "Section 2 Clause 15 - Income Year “Income Year” means the financial year immediately preceding the assessment year and shall include— (a) the period f",
+          "content_text": "Section 2 Clause 15 - Income Year “Income Year” means the financial year immediately preceding the assessment year and shall include— (a) the period from the date of first commencement of any business to the day of June next following; (b) if any new income arises up to the 30th day of June next following; (c) the period commencing on the first day of July to the date of winding up of any business or, as the case may be, the date of dissolution of an unincorporated body or winding up of a company; (d) the period from the first day of July to the date of retirement or death of a partner in an unincorporated (e) from the date immediately following the date of retirement or death of a partner in an unincorporated firm or the date of retirement or death of another partner in such unincorporated firm or, as the case may be, the 30th day of June immediately following the date of such retirement or death; (f) in the case of any bank, Insurance or financial institution or any of its subsidiaries, for the next 12 (twelve) months period commencing from the first day of January of the relevant year. Provided that in the case of a subsidiary company of a parent company incorporated outside Bangladesh, including subsidiary companies of the subsidiary company, or any of its holding companies or any of its branches, representatives or liaison offices, if such company has a different income year for the purpose of reconciling its accounts with those of the parent company expresses the intention to follow, with the approval of the Deputy Commissioner of Taxes, any separate 12 (twelve) months may be treated as an income year; Moreover, as per",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) the period from the date of first commencement of any business to the day of June next following;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) if any new income arises up to the 30th day of June next following;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) the period commencing on the first day of July to the date of winding up of any business or, as the case may be, the date of dissolution of an unincorporated body or winding up of a company;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "d",
+              "text": "(d) the period from the first day of July to the date of retirement or death of a partner in an unincorporated",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "e",
+              "text": "(e) from the date immediately following the date of retirement or death of a partner in an unincorporated firm or the date of retirement or death of another partner in such unincorporated firm or, as the case may be, the 30th day of June immediately following the date of such retirement or death;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "f",
+              "text": "(f) in the case of any bank, Insurance or financial institution or any of its subsidiaries, for the next 12 (twelve) months period commencing from the first day of January of the relevant year. Provided that in the case of a subsidiary company of a parent company incorporated outside Bangladesh, including subsidiary companies of the subsidiary company, or any of its holding companies or any of its branches, representatives or liaison offices, if such company has a different income year for the purpose of reconciling its accounts with those of the parent company expresses the intention to follow, with the approval of the Deputy Commissioner of Taxes, any separate 12 (twelve) months may be treated as an income year; Moreover, as per",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "2"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-2-clause-15/",
+    "original_title": "Income Tax Act 2023 Section 2 Clause 15 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

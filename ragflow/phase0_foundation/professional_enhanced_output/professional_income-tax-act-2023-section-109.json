@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 109",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "109",
+          "title": "Section 109 - Deduction of Tax at source from Rent (1) Where a specified person- (a) any house property; (b) hotel or guest house; (c) vacant premises",
+          "content_text": "Section 109 - Deduction of Tax at source from Rent (1) Where a specified person- (a) any house property; (b) hotel or guest house; (c) vacant premises or plant or machinery; or any reservoir other than a government reservoir, Incase of rent the said person shall deduct tax at the rate of 5% (five percent) on the rent payable while paying the rent of the said property. (2) In cases where it is found after assessment of tax for the relevant year that no tax is payable by the owner of the house property or the amount of tax paid is more than the tax payable, in that case the amount deducted shall be refunded at the rate stated below- (a) if no tax is payable, the whole portion; or (b) if the amount of tax deducted exceeds the amount of tax payable, whichever is more. (3) Where, on an application made in this behalf, the Deputy Commissioner of Taxes issues a certificate in good faith in the prescribed form to the effect that the owner of the house property has no assessable income for the said year or is exempt from income-tax subject to the provisions of this Act, provided under sub-section (1) the tax on the income received from the rent of the said house property shall not be deductible until the certificate is cancelled. (4) For the purposes of this section, ‘Rent’ means any payment, by whatever name it may be called, made by way of a lease, tenancy or any contract or agreement for the use of any building including any furniture, fixtures and land.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where a specified person- (a) any house property; (b) hotel or guest house; (c) vacant premises or plant or machinery; or any reservoir other than a government reservoir, Incase of rent the said person shall deduct tax at the rate of 5% (five percent) on the rent payable while paying the rent of the said property.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) any house property;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) hotel or guest house;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) vacant premises or plant or machinery; or any reservoir other than a government reservoir, Incase of rent the said person shall deduct tax at the rate of 5% (five percent) on the rent payable while paying the rent of the said property.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In cases where it is found after assessment of tax for the relevant year that no tax is payable by the owner of the house property or the amount of tax paid is more than the tax payable, in that case the amount deducted shall be refunded at the rate stated below- (a) if no tax is payable, the whole portion; or (b) if the amount of tax deducted exceeds the amount of tax payable, whichever is more.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) if no tax is payable, the whole portion; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) if the amount of tax deducted exceeds the amount of tax payable, whichever is more.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where, on an application made in this behalf, the Deputy Commissioner of Taxes issues a certificate in good faith in the prescribed form to the effect that the owner of the house property has no assessable income for the said year or is exempt from income-tax subject to the provisions of this Act, provided under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) the tax on the income received from the rent of the said house property shall not be deductible until the certificate is cancelled.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) For the purposes of this section, ‘Rent’ means any payment, by whatever name it may be called, made by way of a lease, tenancy or any contract or agreement for the use of any building including any furniture, fixtures and land.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "109"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-109/",
+    "original_title": "Income Tax Act 2023 Section 109 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 109"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 5,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.0
+  },
+  "forms": []
+}

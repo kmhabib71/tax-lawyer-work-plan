@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 12",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "12",
+          "title": "Section 12 - Exercise Power of Inspecting Additional Commissioner of Taxes in assessment Proceeding (1) The Commissioner may, with the prior approval ",
+          "content_text": "Section 12 - Exercise Power of Inspecting Additional Commissioner of Taxes in assessment Proceeding (1) The Commissioner may, with the prior approval of the Board, by general or special order in writing, direct any or all proceedings relating to any particular case or class of cases or particular person or class of persons under his jurisdiction to the effect that the powers of any authority under this Act, and the action may be exercised by the immediate superior income tax authority. (2) Any order issued under sub-section (1), any reference to the Income-tax authority under this Act or any rule made thereunder shall be deemed to have been made to the immediate superior Income-tax authority.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Commissioner may, with the prior approval of the Board, by general or special order in writing, direct any or all proceedings relating to any particular case or class of cases or particular person or class of persons under his jurisdiction to the effect that the powers of any authority under this Act, and the action may be exercised by the immediate superior income tax authority.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Any order issued under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), any reference to the Income-tax authority under this Act or any rule made thereunder shall be deemed to have been made to the immediate superior Income-tax authority.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "12"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-12/",
+    "original_title": "Income Tax Act 2023 Section 12 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 12"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

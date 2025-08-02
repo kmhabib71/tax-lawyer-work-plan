@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 149 Relief from deduction or collection of tax at source",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৪৯",
+          "title": "ধারা ১৪৯ - উৎসে কর কর্তন বা সংগ্রহের ক্ষেত্রে দায়মুক্তি যেইক্ষেত্রে এই অংশের অধীন কর হিসাবে কোনো অর্থ সংগ্রহ বা কর্তন করা হয় এবং সরকারের অনুকূলে জমা প",
+          "content_text": "ধারা ১৪৯ - উৎসে কর কর্তন বা সংগ্রহের ক্ষেত্রে দায়মুক্তি যেইক্ষেত্রে এই অংশের অধীন কর হিসাবে কোনো অর্থ সংগ্রহ বা কর্তন করা হয় এবং সরকারের অনুকূলে জমা প্রদান করা হয়, সেইক্ষেত্রে- (ক) যে ব্যক্তির নিকট হইতে কর কর্তন বা সংগ্রহ করা হইয়াছে সেই ব্যক্তি কর্তৃক তাহা পরিশোধ করা হইয়াছে মর্মে বিবেচিত হইবে; (খ) এইরূপ কর্তন বা সংগ্রহের ক্ষেত্রে, দফা (ক) এ উল্লিখিত ব্যক্তি কর্তনকারী বা, ক্ষেত্রমত, সংগ্রহকারীর বিরুদ্ধে কোনোরূপ আইনি ব্যবস্থা গ্রহণ করিতে পারিবেন না এবং আইনি ব্যবস্থা গ্রহণ করা হইলে কর্তনকারী বা, ক্ষেত্রমত, সংগ্রহকারী দায়মুক্তি পাইবেন।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) যে ব্যক্তির নিকট হইতে কর কর্তন বা সংগ্রহ করা হইয়াছে সেই ব্যক্তি কর্তৃক তাহা পরিশোধ করা হইয়াছে মর্মে বিবেচিত হইবে;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) এইরূপ কর্তন বা সংগ্রহের ক্ষেত্রে,",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ক",
+              "text": "দফা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ক",
+              "text": "(ক) এ উল্লিখিত ব্যক্তি কর্তনকারী বা, ক্ষেত্রমত, সংগ্রহকারীর বিরুদ্ধে কোনোরূপ আইনি ব্যবস্থা গ্রহণ করিতে পারিবেন না এবং আইনি ব্যবস্থা গ্রহণ করা হইলে কর্তনকারী বা, ক্ষেত্রমত, সংগ্রহকারী দায়মুক্তি পাইবেন।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৪৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-149-relief-from-deduction-or-collection-of-tax-at-source/",
+    "original_title": "Income Tax Act Bangla Section 149 Relief from deduction or collection of tax at source – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 149 Relief from deduction or collection of tax at source"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

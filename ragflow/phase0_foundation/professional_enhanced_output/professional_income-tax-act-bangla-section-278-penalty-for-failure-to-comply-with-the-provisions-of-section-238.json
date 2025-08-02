@@ -1,0 +1,71 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 278 Penalty for failure to comply with the provisions of section 238",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৭৮",
+          "title": "ধারা বিষয়বস্তু",
+          "content_text": "ধারা ২৭৮ -",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৭৮"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২৩৮",
+          "title": "ধারা ২৩৮ এর বিধান পরিপালন না করিবার জরিমানা যেইক্ষেত্রে কোনো ব্যক্তি",
+          "content_text": "ধারা ২৩৮ এর বিধান পরিপালন না করিবার জরিমানা যেইক্ষেত্রে কোনো ব্যক্তি",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৩৮"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২৩৮",
+          "title": "ধারা ২৩৮ এর বিধানাবলি পরিপালনে ব্যর্থ হন, সেইক্ষেত্রে উপকর কমিশনার উক্ত ব্যক্তির উপর ব্যক্তি কর্তৃক সম্পাদিত প্রতিটি আন্তর্জাতিক লেনদেনের মূল্যমানের অ",
+          "content_text": "ধারা ২৩৮ এর বিধানাবলি পরিপালনে ব্যর্থ হন, সেইক্ষেত্রে উপকর কমিশনার উক্ত ব্যক্তির উপর ব্যক্তি কর্তৃক সম্পাদিত প্রতিটি আন্তর্জাতিক লেনদেনের মূল্যমানের অনধিক ২% (দুই শতাংশ) জরিমানা আরোপ করিতে পারিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৩৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-278-penalty-for-failure-to-comply-with-the-provisions-of-section-238/",
+    "original_title": "Income Tax Act Bangla Section 278 Penalty for failure to comply with the provisions of section 238 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 278 Penalty for failure to comply with the provisions of section 238"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

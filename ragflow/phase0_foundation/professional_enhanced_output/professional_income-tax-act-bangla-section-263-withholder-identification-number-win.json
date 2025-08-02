@@ -1,0 +1,78 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 263 Withholder Identification Number (WIN)",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৬৩",
+          "title": "ধারা ২৬৩ - উইথহোল্ডার শনাক্তকরণ নম্বর (ডব্লিউআইএন) (১) অংশ ৭ এর অধীন কর কর্তন বা আদায় করিবার বাধ্যবাধকতা রহিয়াছে এইরূপ প্রত্যেক ব্যক্তিকে বোর্ড কর্তৃক",
+          "content_text": "ধারা ২৬৩ - উইথহোল্ডার শনাক্তকরণ নম্বর (ডব্লিউআইএন) (১) অংশ ৭ এর অধীন কর কর্তন বা আদায় করিবার বাধ্যবাধকতা রহিয়াছে এইরূপ প্রত্যেক ব্যক্তিকে বোর্ড কর্তৃক নির্ধারিত পদ্ধতিতে একটি উইথহোল্ডার শনাক্তকরণ নম্বর, অতঃপর ডব্লিউআইএন বলিয়া উল্লিখিত, গ্রহণ করিতে হইবে। (২) উপ-ধারা (১) এ উল্লিখিত কোনো ব্যক্তি ডব্লিউআইএন গ্রহণ না করিলেও ব্যক্তিগত দায় আরোপসহ উক্ত ব্যক্তির উপর যেকোনো কার্যক্রম গ্রহণের ক্ষেত্রে এই ধারার কোনো কিছুই বাধা হইবে না। (৩) যেইক্ষেত্রে কোনো ব্যক্তির ডব্লিউআইএন গ্রহণ করিবার বাধ্যবাধকতা রহিয়াছে, কিন্তু তাহা গ্রহণ করিতে ব্যর্থ হইয়াছে",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) অংশ ৭ এর অধীন কর কর্তন বা আদায় করিবার বাধ্যবাধকতা রহিয়াছে এইরূপ প্রত্যেক ব্যক্তিকে বোর্ড কর্তৃক নির্ধারিত পদ্ধতিতে একটি উইথহোল্ডার শনাক্তকরণ নম্বর, অতঃপর ডব্লিউআইএন বলিয়া উল্লিখিত, গ্রহণ করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এ উল্লিখিত কোনো ব্যক্তি ডব্লিউআইএন গ্রহণ না করিলেও ব্যক্তিগত দায় আরোপসহ উক্ত ব্যক্তির উপর যেকোনো কার্যক্রম গ্রহণের ক্ষেত্রে এই ধারার কোনো কিছুই বাধা হইবে না।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) যেইক্ষেত্রে কোনো ব্যক্তির ডব্লিউআইএন গ্রহণ করিবার বাধ্যবাধকতা রহিয়াছে, কিন্তু তাহা গ্রহণ করিতে ব্যর্থ হইয়াছে",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৬৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-263-withholder-identification-number-win/",
+    "original_title": "Income Tax Act Bangla Section 263 Withholder Identification Number (WIN) – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 263 Withholder Identification Number (WIN)"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 5,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.0
+  },
+  "forms": []
+}

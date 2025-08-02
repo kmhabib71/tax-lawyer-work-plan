@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 345 Publication of translated English text",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৪৫",
+          "title": "ধারা ৩৪৫ - ইংরেজিতে অনুদিত পাঠ প্রকাশ (১) এই আইন কার্যকর হইবার পর সরকার, সরকারি গেজেট প্রজ্ঞাপন দ্বারা, এই আইনের মূল বাংলা পাঠের ইংরেজিতে অনুদিত একটি ",
+          "content_text": "ধারা ৩৪৫ - ইংরেজিতে অনুদিত পাঠ প্রকাশ (১) এই আইন কার্যকর হইবার পর সরকার, সরকারি গেজেট প্রজ্ঞাপন দ্বারা, এই আইনের মূল বাংলা পাঠের ইংরেজিতে অনুদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিবে। (২) বাংলা ও ইংরেজি পাঠের মধ্যে বিরোধের ক্ষেত্রে বাংলা পাঠ প্রাধান্য পাইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইন কার্যকর হইবার পর সরকার, সরকারি গেজেট প্রজ্ঞাপন দ্বারা, এই আইনের মূল বাংলা পাঠের ইংরেজিতে অনুদিত একটি নির্ভরযোগ্য পাঠ (Authentic English Text) প্রকাশ করিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) বাংলা ও ইংরেজি পাঠের মধ্যে বিরোধের ক্ষেত্রে বাংলা পাঠ প্রাধান্য পাইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৪৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-345-publication-of-translated-english-text/",
+    "original_title": "Income Tax Act Bangla Section 345 Publication of translated English text – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 345 Publication of translated English text"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

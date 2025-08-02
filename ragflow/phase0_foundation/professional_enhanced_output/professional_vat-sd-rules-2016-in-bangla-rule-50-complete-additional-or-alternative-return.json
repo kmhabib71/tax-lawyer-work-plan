@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৫০ - পূর্ণ, অতিরিক্ত অথবা বিকল্প দাখিলপত্র (১) কমিশনার কর মেয়াদ ও দাখিলপত্র দাখিলের সময় নির্ধারণপূর্বক কোনো ব্যক্তিকে, তাহার নিজের পক্ষে হউক কিংবা অন্য কোনো ব্যক্তির এজেন্ট অথবা ট্রাস্টি হিসাবে হউক, একটি “পূর্ণ, অতিরিক্ত বা বিকল্প দাখিলপত্র” পেশ করিবার জন্য নির্দেশ প্রদান করিতে পারিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৮৫",
+          "title": "ধারা ৮৫ এর উপ-ধারা (১) এর দফা (চ) এর ব্যর্থতা বা অনিয়ম হিসাবে গণ্য হইবে",
+          "content_text": "ধারা ৮৫ এর উপ-ধারা (১) এর দফা (চ) এর ব্যর্থতা বা অনিয়ম হিসাবে গণ্য হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর দফা (চ) এর ব্যর্থতা বা অনিয়ম হিসাবে গণ্য হইবে।",
+              "clauses": [
+                {
+                  "identifier": "চ",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "চ",
+                  "text": "(চ) এর ব্যর্থতা বা অনিয়ম হিসাবে গণ্য হইবে।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৮৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-50-complete-additional-or-alternative-return/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 50 Complete, additional or alternative return – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৫০ - পূর্ণ, অতিরিক্ত অথবা বিকল্প দাখিলপত্র (১) কমিশনার কর মেয়াদ ও দাখিলপত্র দাখিলের সময় নির্ধারণপূর্বক কোনো ব্যক্তিকে, তাহার নিজের পক্ষে হউক কিংবা অন্য কোনো ব্যক্তির এজেন্ট অথবা ট্রাস্টি হিসাবে হউক, একটি “পূর্ণ, অতিরিক্ত বা বিকল্প দাখিলপত্র” পেশ করিবার জন্য নির্দেশ প্রদান করিতে পারিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

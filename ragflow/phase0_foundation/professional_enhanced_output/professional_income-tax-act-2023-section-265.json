@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "265",
+          "title": "Section 265 - Display of Proof of Submission of Return (1) A taxpayer whose income is derived from business liable to file a return under this Act sha",
+          "content_text": "Section 265 - Display of Proof of Submission of Return (1) A taxpayer whose income is derived from business liable to file a return under this Act shall display the proof of filing of return in a place where it is easily visible at his place of business. (2) Where a taxpayer fails to comply with the provisions of subsection (1), the Deputy Commissioner of Taxes may impose a fine of not less than 5 (five) thousand and not more than 20 (twenty) thousand. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) A taxpayer whose income is derived from business liable to file a return under this Act shall display the proof of filing of return in a place where it is easily visible at his place of business.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where a taxpayer fails to comply with the provisions of subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the Deputy Commissioner of Taxes may impose a fine of not less than 5 (five) thousand and not more than 20 (twenty) thousand. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "265"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-265/",
+    "original_title": "Income Tax Act 2023 Section 265 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

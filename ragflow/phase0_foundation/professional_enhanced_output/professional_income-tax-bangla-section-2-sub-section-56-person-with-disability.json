@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 56 Person with disability",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৫৬ - প্রতিবন্ধী ব্যক্তি “প্রতিবন্ধী ব্যক্তি” অর্থ প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩ (২০১৩ সনের ৩৯ নং আইন) এর",
+          "content_text": "ধারা ২ দফা ৫৬ - প্রতিবন্ধী ব্যক্তি “প্রতিবন্ধী ব্যক্তি” অর্থ প্রতিবন্ধী ব্যক্তির অধিকার ও সুরক্ষা আইন, ২০১৩ (২০১৩ সনের ৩৯ নং আইন) এর",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৩১",
+          "title": "ধারা ৩১ এর অধীন প্রতিবন্ধী ব্যক্তি হিসাবে নিবন্ধিত কোনো ব্যক্তি;",
+          "content_text": "ধারা ৩১ এর অধীন প্রতিবন্ধী ব্যক্তি হিসাবে নিবন্ধিত কোনো ব্যক্তি;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-56-person-with-disability/",
+    "original_title": "Income tax bangla section 2 sub-section 56 Person with disability – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 56 Person with disability"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

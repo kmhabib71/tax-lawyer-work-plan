@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 127 Collection of tax from the commission paid on government stamps, court fees, cartridge paper",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১২৭",
+          "title": "ধারা ১২৭ - সরকারি স্ট্যাম্প, কোর্ট ফি, কার্টিজ পেপার বাবদ পরিশোধিত কমিশন হইতে কর সংগ্রহ সরকারি স্ট্যাম্প, কোর্ট ফি, কার্টিজ পেপার বা অনুরূপ প্রকৃতির অ",
+          "content_text": "ধারা ১২৭ - সরকারি স্ট্যাম্প, কোর্ট ফি, কার্টিজ পেপার বাবদ পরিশোধিত কমিশন হইতে কর সংগ্রহ সরকারি স্ট্যাম্প, কোর্ট ফি, কার্টিজ পেপার বা অনুরূপ প্রকৃতির অন্য কোনো কিছু বিক্রয়ের বিপরীতে কোনো কমিশন, বাট্টা বা ফি, উহা যে নামেই অভিহিত হউক না কেন, পরিশোধকালে পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি উক্তরূপ পরিশোধিত অর্থ হইতে ১০% (দশ শতাংশ) হারে উৎসে কর কর্তন করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১২৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-127-collection-of-tax-from-the-commission-paid-on-government-stamps-court-fees-cartridge-paper/",
+    "original_title": "Income Tax Act Bangla Section 127 Collection of tax from the commission paid on government stamps, court fees, cartridge paper – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 127 Collection of tax from the commission paid on government stamps, court fees, cartridge paper"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

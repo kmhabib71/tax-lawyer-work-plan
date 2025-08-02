@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 178 Concurrent jurisdiction",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৭৮",
+          "title": "ধারা ১৭৮ - যৌথ এখতিয়ার রিটার্ন বা সংশোধিত রিটার্ন গ্রহণ এবং উহার প্রাপ্তি স্বীকার রসিদ ইস্যুকরণ সম্পর্কিত উপকর কমিশনারের ক্ষমতা ও কার্যাবলি যুগপৎভাবে ",
+          "content_text": "ধারা ১৭৮ - যৌথ এখতিয়ার রিটার্ন বা সংশোধিত রিটার্ন গ্রহণ এবং উহার প্রাপ্তি স্বীকার রসিদ ইস্যুকরণ সম্পর্কিত উপকর কমিশনারের ক্ষমতা ও কার্যাবলি যুগপৎভাবে যেকোনো আয়কর কর্তৃপক্ষ কর্তৃক প্রয়োগ বা সম্পাদনের নিমিত্ত বোর্ড সাধারণ বা বিশেষ আদেশ জারি করিতে পারিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৭৮"
+          ],
+          "amendments": [
+            "সংশোধিত"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-178-concurrent-jurisdiction/",
+    "original_title": "Income Tax Act Bangla Section 178 Concurrent jurisdiction – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 178 Concurrent jurisdiction"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

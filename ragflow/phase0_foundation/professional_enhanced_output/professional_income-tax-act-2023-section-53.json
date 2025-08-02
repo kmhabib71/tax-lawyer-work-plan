@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "53",
+          "title": "Section 53 - Limitation for Deduction of Interest (1) Notwithstanding anything contained in other provisions of this Act, subject to the provisions of",
+          "content_text": "Section 53 - Limitation for Deduction of Interest (1) Notwithstanding anything contained in other provisions of this Act, subject to the provisions of sub-section (2), the procedure to be prescribed by the Board in respect of the approval of interest expenditure in any tax year by a resident person other than a bank and financial institution shall be allowed in relation to a subsidiary as defined in section 233, in any tax year shall be allowed in accordance with the procedures and limits prescribed by the Board. (2) Notwithstanding anything contained in sub-section (1), this section shall not apply if the amount of interest paid in any income year does not exceed Tk. 15 (fifteen) lakhs. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in other provisions of this Act, subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), the procedure to be prescribed by the Board in respect of the approval of interest expenditure in any tax year by a resident person other than a bank and financial institution shall be allowed in relation to a subsidiary as defined in section 233, in any tax year shall be allowed in accordance with the procedures and limits prescribed by the Board.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Notwithstanding anything contained in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), this section shall not apply if the amount of interest paid in any income year does not exceed Tk. 15 (fifteen) lakhs. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "53"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-53/",
+    "original_title": "Income Tax Act 2023 Section 53 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

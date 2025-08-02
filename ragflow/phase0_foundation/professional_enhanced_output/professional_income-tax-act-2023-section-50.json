@@ -1,0 +1,122 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "50",
+          "title": "Section 50 - Allowable Special Deductions from Income from Business (1) The following expenses shall be deductible subject to the permissible limits a",
+          "content_text": "Section 50 - Allowable Special Deductions from Income from Business (1) The following expenses shall be deductible subject to the permissible limits and conditions set out in the Third Schedule, namely: (a) general depreciation allowance; (b) initial depreciation allowance; (c) accelerated depreciation allowance; (d) amortization allowance; and (e) research and development expenditure. (2) If an asset described in the Third Schedule is sold in any income year and the proceeds are less than the depreciated value, an amount equal to the difference between the depreciated value and the realized value, subject to deduction by the taxpayer. (3) Loan expenses allowed under section 51 shall be deducted in computing income from business. (4) The interest expense allowed under section 52 and 53 shall be deducted in computing income from business. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The following expenses shall be deductible subject to the permissible limits and conditions set out in the Third Schedule, namely: (a) general depreciation allowance; (b) initial depreciation allowance; (c) accelerated depreciation allowance; (d) amortization allowance; and (e) research and development expenditure.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) general depreciation allowance;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) initial depreciation allowance;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) accelerated depreciation allowance;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) amortization allowance; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) research and development expenditure.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If an asset described in the Third Schedule is sold in any income year and the proceeds are less than the depreciated value, an amount equal to the difference between the depreciated value and the realized value, subject to deduction by the taxpayer.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Loan expenses allowed under section 51 shall be deducted in computing income from business.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The interest expense allowed under section 52 and 53 shall be deducted in computing income from business. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "50"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-50/",
+    "original_title": "Income Tax Act 2023 Section 50 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

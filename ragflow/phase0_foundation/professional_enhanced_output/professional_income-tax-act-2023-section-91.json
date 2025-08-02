@@ -1,0 +1,106 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "91",
+          "title": "Section 91 - Deduction from Payment for Intangible Property A person responsible for payment of royalty, franchise or license, trademark, patent, copy",
+          "content_text": "Section 91 - Deduction from Payment for Intangible Property A person responsible for payment of royalty, franchise or license, trademark, patent, copyright, industrial design, plant variety, geographical indication product Or any other property related to intellectual property or immaterial or abstract or intangible matter; tax shall be deducted at the rate mentioned In the table below at the time of such payment or credit, namely:- Table Description of Repayment Tax Deduction Rate (1) (2) If the base price does not exceed TK. 25 (twenty five) lakhs 10% ( ten percent ) If the basic price exceeds TK. 25 (twenty five ) lakhs 12% ( twelve percent ) Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the base price does not exceed TK. 25 (twenty five) lakhs 10% ( ten percent ) If the basic price exceeds TK. 25 (twenty five ) lakhs 12% ( twelve percent ) Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Description of Repayment",
+                "Tax Deduction Rate"
+              ],
+              "data": [
+                [
+                  "(1)",
+                  "(2)"
+                ],
+                [
+                  "If the base price does not exceed TK. 25 (twenty five) lakhs",
+                  "10% ( ten percent )"
+                ],
+                [
+                  "If the basic price exceeds TK. 25 (twenty five ) lakhs",
+                  "12% ( twelve percent )"
+                ]
+              ],
+              "metadata": {
+                "row_count": 3,
+                "column_count": 2,
+                "table_type": "tax_rate_table"
+              }
+            }
+          ],
+          "references": [
+            "91"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-91/",
+    "original_title": "Income Tax Act 2023 Section 91 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

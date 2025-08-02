@@ -1,0 +1,141 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "287",
+          "title": "Section 287 - Filing of Appeal (1) Subject to the provisions of sub-section (2), every appeal under section 286 shall be in the prescribed form and ma",
+          "content_text": "Section 287 - Filing of Appeal (1) Subject to the provisions of sub-section (2), every appeal under section 286 shall be in the prescribed form and manner. (2) The Board, by notification in the Official Gazette- (a) may prescribe the grounds for filing appeals electronically or in any other machine-readable or computer-readable medium; and (b) may prescribe the form and manner of filing said appeal. (3) The appellant shall pay a fee of Taka 200 (two hundred) on or before the date of filing the appeal. (4) Subject to the provisions of sub-section (5), the appellant shall file the appeal within 45 (forty-five) days, if- (a) in the case of assessment of tax or penalty, from the date of issue of the tax demand notice relating to such assessment of tax or, as the case may be, penalty; and (b) in other cases, from the date of issue of the order against which the appeal lies. (5) The Appellate Income-tax Authority may entertain an appeal even after the expiry of the period mentioned in sub-section (4), if it appears to its satisfaction that sufficient cause existed for the appellant concerned to have failed to file the appeal within the said period. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), every appeal under section 286 shall be in the prescribed form and manner.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The Board, by notification in the Official Gazette- (a) may prescribe the grounds for filing appeals electronically or in any other machine-readable or computer-readable medium; and (b) may prescribe the form and manner of filing said appeal.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) may prescribe the grounds for filing appeals electronically or in any other machine-readable or computer-readable medium; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) may prescribe the form and manner of filing said appeal.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The appellant shall pay a fee of Taka 200 (two hundred) on or before the date of filing the appeal.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) Subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5), the appellant shall file the appeal within 45 (forty-five) days, if- (a) in the case of assessment of tax or penalty, from the date of issue of the tax demand notice relating to such assessment of tax or, as the case may be, penalty; and (b) in other cases, from the date of issue of the order against which the appeal lies.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) in the case of assessment of tax or penalty, from the date of issue of the tax demand notice relating to such assessment of tax or, as the case may be, penalty; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) in other cases, from the date of issue of the order against which the appeal lies.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) The Appellate Income-tax Authority may entertain an appeal even after the expiry of the period mentioned in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4), if it appears to its satisfaction that sufficient cause existed for the appellant concerned to have failed to file the appeal within the said period. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "287"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-287/",
+    "original_title": "Income Tax Act 2023 Section 287 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 9,
+      "quality_score": 2.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

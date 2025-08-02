@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 317 Punishment for improper use of Tax-payer's Identification Number",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩১৭",
+          "title": "ধারা ৩১৭ - করদাতা শনাক্তকরণ নম্বর অসঙ্গত ব্যবহারের দণ্ড কোনো ব্যক্তি ইচ্ছাকৃতভাবে জাল বা অপর কোনো ব্যক্তির করদাতা শনাক্তকরণ নম্বরের অসঙ্গত অনুচিত ব্যব",
+          "content_text": "ধারা ৩১৭ - করদাতা শনাক্তকরণ নম্বর অসঙ্গত ব্যবহারের দণ্ড কোনো ব্যক্তি ইচ্ছাকৃতভাবে জাল বা অপর কোনো ব্যক্তির করদাতা শনাক্তকরণ নম্বরের অসঙ্গত অনুচিত ব্যবহার করিলে উহা হইবে একটি অপরাধ এবং তিনি সর্বোচ্চ ১ (এক) বৎসর পর্যন্ত কারাদণ্ড বা ১ (এক) লক্ষ টাকা পর্যন্ত অর্থদণ্ড বা উভয়দণ্ডে দণ্ডিত হইবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-317-punishment-for-improper-use-of-tax-payers-identification-number/",
+    "original_title": "Income Tax Act Bangla Section 317 Punishment for improper use of Tax-payer's Identification Number – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 317 Punishment for improper use of Tax-payer's Identification Number"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "2",
+          "title": "Section 2 Clause 60 - Fair Market Value “Fair Market Value” means— (a) Where agricultural produce is sold in the general market in its raw state or is",
+          "content_text": "Section 2 Clause 60 - Fair Market Value “Fair Market Value” means— (a) Where agricultural produce is sold in the general market in its raw state or is processed and made fit for sale through a farmer engaged in production, the tax shall be assessed in the first year on the income arising from the produce at the price at which it was sold during the entire preceding year its average value; and (b) in cases where the said apicultural produce is not normally sold in the raw state in the market, the amount of the following sums:- (i) cost of cultivation; (ii) land development tax or rent on which the produce is grown; and (iii) the rate of profit reasonably determined by the Commissioner of Taxes on the sale price of the disputed as agricultural produce taking into account the circumstances; Moreover, as per",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) Where agricultural produce is sold in the general market in its raw state or is processed and made fit for sale through a farmer engaged in production, the tax shall be assessed in the first year on the income arising from the produce at the price at which it was sold during the entire preceding year its average value; and",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) in cases where the said apicultural produce is not normally sold in the raw state in the market, the amount of the following sums:-",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "i",
+              "text": "(i) cost of cultivation; (ii) land development tax or rent on which the produce is grown; and (iii) the rate of profit reasonably determined by the Commissioner of Taxes on the sale price of the disputed as agricultural produce taking into account the circumstances; Moreover, as per",
+              "sub_clauses": [
+                {
+                  "identifier": "i",
+                  "text": "(i) cost of cultivation; (ii) land development tax or rent on which the produce is grown; and (iii) the rate of profit reasonably determined by the Commissioner of Taxes on the sale price of the disputed as agricultural produce taking into account the circumstances; Moreover, as per"
+                },
+                {
+                  "identifier": "ii",
+                  "text": "(ii) land development tax or rent on which the produce is grown; and (iii) the rate of profit reasonably determined by the Commissioner of Taxes on the sale price of the disputed as agricultural produce taking into account the circumstances; Moreover, as per"
+                },
+                {
+                  "identifier": "iii",
+                  "text": "(iii) the rate of profit reasonably determined by the Commissioner of Taxes on the sale price of the disputed as agricultural produce taking into account the circumstances; Moreover, as per"
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "2"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-2-clause-60/",
+    "original_title": "Income Tax Act 2023 Section 2 Clause 60 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

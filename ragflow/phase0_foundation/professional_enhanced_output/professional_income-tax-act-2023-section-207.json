@@ -1,0 +1,97 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "207",
+          "title": "Section 207 - Transfer of seized Records to the Deputy Commissioner of Taxes (1) If the authorized officer and the Deputy Commissioner of Taxes are se",
+          "content_text": "Section 207 - Transfer of seized Records to the Deputy Commissioner of Taxes (1) If the authorized officer and the Deputy Commissioner of Taxes are separate persons, the authorized officer shall within 30 (thirty) days hand over the seized records under section 206, to the Deputy Commissioner of Taxes from the date of recording. (2) The officer authorized under sub-section 1) and the Deputy Commissioner of Taxes shall be treated as separate persons,if the authorized officer has no authority over the person from whom any account or document is seized. (3) If the authorized officer and the Deputy Commissioner of Taxes are the same person, the records relating to income referred to in subsection (1) shall be deemed to have been handed over to the Deputy Commissioner of Taxes on the date on which they are seized. (4) When the record relating to the income of a person is seized from another person, the authorized officer shall hand over the contents so seized to the Deputy Commissioner of Taxes having jurisdiction over the said person within 30 (thirty) days from the date of seizure. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If the authorized officer and the Deputy Commissioner of Taxes are separate persons, the authorized officer shall within 30 (thirty) days hand over the seized records under section 206, to the Deputy Commissioner of Taxes from the date of recording.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The officer authorized under sub-section 1) and the Deputy Commissioner of Taxes shall be treated as separate persons,if the authorized officer has no authority over the person from whom any account or document is seized.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) If the authorized officer and the Deputy Commissioner of Taxes are the same person, the records relating to income referred to in subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall be deemed to have been handed over to the Deputy Commissioner of Taxes on the date on which they are seized.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) When the record relating to the income of a person is seized from another person, the authorized officer shall hand over the contents so seized to the Deputy Commissioner of Taxes having jurisdiction over the said person within 30 (thirty) days from the date of seizure. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "207"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-207/",
+    "original_title": "Income Tax Act 2023 Section 207 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

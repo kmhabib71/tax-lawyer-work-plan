@@ -1,0 +1,104 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "74",
+          "title": "Section 74 - Method of Accounting for Long-term Contracts (1) Where a person follows the appropriate accounting method for computed income classified ",
+          "content_text": "Section 74 - Method of Accounting for Long-term Contracts (1) Where a person follows the appropriate accounting method for computed income classified as “Income from business” , the income arising from long-term contracts in any income year shall be calculated according to the percentage method. (2) The percentage of completion of long-term contracts in any financial year shall be determined by comparing the total allocated costs of the contract before the end of that financial year and the total contract costs determined at the beginning of the contract with the costs incurred. (3) For the purposes of this section— (a) “long-term contract” means a contract for the manufacture, installation, or construction, or the performance of services in connection with each contact, which is not completed within the financial year in which the work under the contract commences, but approximately 6 (six) months all contracts other than such contracts will expire from the date of commencement of the work under the contract; (b) “method of completion” means the generally accepted accounting policy under which revenue and expenditure covered by long-term contacts are recognized at the stage of completion of the revised contract under sub section (2). Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where a person follows the appropriate accounting method for computed income classified as “Income from business” , the income arising from long-term contracts in any income year shall be calculated according to the percentage method.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The percentage of completion of long-term contracts in any financial year shall be determined by comparing the total allocated costs of the contract before the end of that financial year and the total contract costs determined at the beginning of the contract with the costs incurred.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) For the purposes of this section— (a) “long-term contract” means a contract for the manufacture, installation, or construction, or the performance of services in connection with each contact, which is not completed within the financial year in which the work under the contract commences, but approximately 6 (six) months all contracts other than such contracts will expire from the date of commencement of the work under the contract; (b) “method of completion” means the generally accepted accounting policy under which revenue and expenditure covered by long-term contacts are recognized at the stage of completion of the revised contract under sub section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “long-term contract” means a contract for the manufacture, installation, or construction, or the performance of services in connection with each contact, which is not completed within the financial year in which the work under the contract commences, but approximately 6 (six) months all contracts other than such contracts will expire from the date of commencement of the work under the contract;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) “method of completion” means the generally accepted accounting policy under which revenue and expenditure covered by long-term contacts are recognized at the stage of completion of the revised contract under sub section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2). Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "74"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-74/",
+    "original_title": "Income Tax Act 2023 Section 74 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

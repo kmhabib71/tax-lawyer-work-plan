@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "151",
+          "title": "Section 151 - Provisions for Deduction of Tax in case of Double Taxation Agreement (1) Where any agreement entered into with the Government is in forc",
+          "content_text": "Section 151 - Provisions for Deduction of Tax in case of Double Taxation Agreement (1) Where any agreement entered into with the Government is in force under the provisions of section 244 to the effect that any particular class of income accruing to a person resident in a contracting country shall be exempted from tax in Bangladesh and according to the provisions of the law, the tax shall be deductible from the said income, in that case the provisions of this section shall be applicable. 2) Where a person pays any such classified income (referred to in this section as a Bangladeshi payer) to a person entitled to enjoy the income of the specified country (referred to in this section as a non-resident), such person shall, subject to notice directed by or under the Board to the non-resident, pay any such income to the non-resident, may be paid without deduction and on the date on which such notice is issued, to the Bangladeshi payee, any amount of income, without any deduction under the provisions of this section, from the source specified in the notice to the non-resident person specified in the notice, or the probable income for any such year, of which the above contract remains in force, to be paid. (3) Any notice given under sub-section (2) shall be deemed to be invalid if in any case, whether so described, it is invalidated by any other made by the Board or by a cancellation notice issued thereunder; and if any such event occurs to the knowledge of the Bangladeshi payer or notice of cancellation is given to him, after such event becomes known to the Bangladeshi payer or, as the case may be, after the Bangladeshi payer receives the notice in respect of any payment by the Bangladeshi payer to such non-resident in accordance with the provisions of this Act, tax shall be deducted. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where any agreement entered into with the Government is in force under the provisions of section 244 to the effect that any particular class of income accruing to a person resident in a contracting country shall be exempted from tax in Bangladesh and according to the provisions of the law, the tax shall be deductible from the said income, in that case the provisions of this section shall be applicable. 2) Where a person pays any such classified income (referred to in this section as a Bangladeshi payer) to a person entitled to enjoy the income of the specified country (referred to in this section as a non-resident), such person shall, subject to notice directed by or under the Board to the non-resident, pay any such income to the non-resident, may be paid without deduction and on the date on which such notice is issued, to the Bangladeshi payee, any amount of income, without any deduction under the provisions of this section, from the source specified in the notice to the non-resident person specified in the notice, or the probable income for any such year, of which the above contract remains in force, to be paid.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Any notice given under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) shall be deemed to be invalid if in any case, whether so described, it is invalidated by any other made by the Board or by a cancellation notice issued thereunder; and if any such event occurs to the knowledge of the Bangladeshi payer or notice of cancellation is given to him, after such event becomes known to the Bangladeshi payer or, as the case may be, after the Bangladeshi payer receives the notice in respect of any payment by the Bangladeshi payer to such non-resident in accordance with the provisions of this Act, tax shall be deducted. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "151"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-251/",
+    "original_title": "Income Tax Act 2023 Section 251 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

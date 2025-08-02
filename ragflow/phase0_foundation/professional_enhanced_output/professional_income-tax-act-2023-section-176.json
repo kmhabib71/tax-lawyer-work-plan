@@ -1,0 +1,109 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "176",
+          "title": "Section 176 - Consequences of Filing of Incomplete Return (1) In case of filing of any return or revised return, if the provisions of section 169 or a",
+          "content_text": "Section 176 - Consequences of Filing of Incomplete Return (1) In case of filing of any return or revised return, if the provisions of section 169 or any direction issued by the Board are not followed, the said return or revised return shall be deemed to be incomplete. (2) If the return or revised return is considered to be incomplete, the Deputy Commissioner of Taxes shall, with the reasons specified, send a notice to the taxpayer to submit the relevant information, verification, statement or document within the time specified in the notice. (3) If a taxpayer fails to fully comply with the notice given under subsection (2), the return or revised return, which was considered incomplete, shall be treated as void or ineffective as if it had not been filed. (4) The return or revised return shall be deemed to have been completed on the date of filing if the taxpayer has fully complied the contents of the notice given under sub-section (2). (5) A return shall not be deemed complete merely because of acknowledgment of receipt. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) In case of filing of any return or revised return, if the provisions of section 169 or any direction issued by the Board are not followed, the said return or revised return shall be deemed to be incomplete.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If the return or revised return is considered to be incomplete, the Deputy Commissioner of Taxes shall, with the reasons specified, send a notice to the taxpayer to submit the relevant information, verification, statement or document within the time specified in the notice.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) If a taxpayer fails to fully comply with the notice given under subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), the return or revised return, which was considered incomplete, shall be treated as void or ineffective as if it had not been filed.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The return or revised return shall be deemed to have been completed on the date of filing if the taxpayer has fully complied the contents of the notice given under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2).",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) A return shall not be deemed complete merely because of acknowledgment of receipt. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "176"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-176/",
+    "original_title": "Income Tax Act 2023 Section 176 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 8,
+      "quality_score": 2.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 337 Proceeding against companies under liquidation",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৩৭",
+          "title": "ধারা ৩৩৭ - কোম্পানি অবসায়নের ক্ষেত্রে গৃহীত ব্যবস্থাদি কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এ যাহা কিছুই থাকুক না কেন, অবসায়নের আদেশপ্রাপ্ত বা সাম",
+          "content_text": "ধারা ৩৩৭ - কোম্পানি অবসায়নের ক্ষেত্রে গৃহীত ব্যবস্থাদি কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এ যাহা কিছুই থাকুক না কেন, অবসায়নের আদেশপ্রাপ্ত বা সাময়িকভাবে অবসায়ক নিযুক্ত করা হইয়াছে, এইরূপ কোনো কোম্পানির ক্ষেত্রে এই আইনের অধীন কোনো কার্যক্রম চলমান রাখিতে বা কোনো কার্যক্রম শুরু করিবার জন্য “লিভ অব দি কোর্ট” প্রয়োজন হইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৩৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-337-proceeding-against-companies-under-liquidation/",
+    "original_title": "Income Tax Act Bangla Section 337 Proceeding against companies under liquidation – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 337 Proceeding against companies under liquidation"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

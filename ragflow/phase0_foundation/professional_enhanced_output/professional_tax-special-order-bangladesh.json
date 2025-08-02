@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Tax Special Order Bangladesh",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "Income Tax Special Order Table of Contents বিশেষ আদেশ নং তারিখ বিবরণ ডাউনলোড ০১/২০২৪-২০২৫ ২২/১০/২০২৪",
+          "content_text": "Income Tax Special Order Table of Contents বিশেষ আদেশ নং তারিখ বিবরণ ডাউনলোড ০১/২০২৪-২০২৫ ২২/১০/২০২৪ স্বাভাবিক ব্যক্তি করদাতাগণের ইলেক্ট্রনিক মাধ্যমে রিটার্ন দাখিল সংক্রান্ত বিশেষ আদেশ ডাউনলোড Tax Special Order Bangladesh – Tax Reference / Source: National Board of Revenue (NBR) ; Bangladesh Gazette;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "বিশেষ আদেশ নং",
+                "তারিখ",
+                "বিবরণ",
+                "ডাউনলোড"
+              ],
+              "data": [
+                [
+                  "০১/২০২৪-২০২৫",
+                  "২২/১০/২০২৪",
+                  "স্বাভাবিক ব্যক্তি করদাতাগণের ইলেক্ট্রনিক মাধ্যমে রিটার্ন দাখিল সংক্রান্ত বিশেষ আদেশ",
+                  "ডাউনলোড"
+                ]
+              ],
+              "metadata": {
+                "row_count": 1,
+                "column_count": 4,
+                "table_type": "general_table"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tax-special-order-bangladesh/",
+    "original_title": "Tax Special Order Bangladesh – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "Tax Special Order Bangladesh"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

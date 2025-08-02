@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 26 Tax exemption",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ২৬ - কর অব্যাহতি “কর অব্যাহতি” অর্থ কোনো ব্যক্তিকে নিম্নবর্ণিত সুবিধা প্রদানের মাধ্যমে এই আইনের অধীন উদ্ভূত কোনো করদায় হইতে আংশিক বা সম্পূর",
+          "content_text": "ধারা ২ দফা ২৬ - কর অব্যাহতি “কর অব্যাহতি” অর্থ কোনো ব্যক্তিকে নিম্নবর্ণিত সুবিধা প্রদানের মাধ্যমে এই আইনের অধীন উদ্ভূত কোনো করদায় হইতে আংশিক বা সম্পূর্ণ মুক্ত করা, যথা:- (ক) রেয়াত, অবকাশ, অব্যাহতি; (খ) হ্রাসকৃত হারে কর পরিশোধ; বা (গ) মোট আয় পরিগণনা হইতে কোনো আয় বাদ দেয়া;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) রেয়াত, অবকাশ, অব্যাহতি;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) হ্রাসকৃত হারে কর পরিশোধ; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) মোট আয় পরিগণনা হইতে কোনো আয় বাদ দেয়া;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-26-tax-exemption/",
+    "original_title": "Income tax bangla section 2 sub-section 26 Tax exemption – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 26 Tax exemption"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

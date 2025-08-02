@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "326",
+          "title": "Section 326 - Trial by Special Judge (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act No. V of 1898) or any other l",
+          "content_text": "Section 326 - Trial by Special Judge (1) Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act No. V of 1898) or any other law, an offense punishable under this Chapter, except an offense under section 322, Criminal Law Amendment Act, 1958 (Act No. XL of 1958) shall be tried by a Special Judge appointed as if the offense was a Scheduled offense to the said Act. (2) Subject to the provisions of section 324, the Special Judge may, on complaint in writing by the Deputy Commissioner of Taxes, try any offense under this Act, except an offense under section 322. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1898 (Act No. V of 1898) or any other law, an offense punishable under this Chapter, except an offense under section 322, Criminal Law Amendment Act, 1958 (Act No. XL of 1958) shall be tried by a Special Judge appointed as if the offense was a Scheduled offense to the said Act.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Subject to the provisions of section 324, the Special Judge may, on complaint in writing by the Deputy Commissioner of Taxes, try any offense under this Act, except an offense under section 322. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "326"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-326/",
+    "original_title": "Income Tax Act 2023 Section 326 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

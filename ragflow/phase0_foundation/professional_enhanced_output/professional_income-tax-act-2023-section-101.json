@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 101",
+    "document_type": "legal_section",
+    "language": "mixed"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "101",
+          "title": "Section 101 - Deduction of Tax from surveyor's fees etc of the General Insurance Company A person responsible for paying a resident by way of remunera",
+          "content_text": "Section 101 - Deduction of Tax from surveyor's fees etc of the General Insurance Company A person responsible for paying a resident by way of remuneration or fee for conducting a survey for the purpose of settling an insurance claim of an insurer shall, at the time of payment, deduct income-tax at the rate of 15% (fifteen percent) on the gross amount.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "101"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-101/",
+    "original_title": "Income Tax Act 2023 Section 101 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "mixed",
+      "title": "Income Tax Act 2023 Section 101"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

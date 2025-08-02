@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 126",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "126",
+          "title": "Section 126 - Collection of Tax from Developer of Real Estate or Land Developer (1) Any person responsible for registration of any deed document for t",
+          "content_text": "Section 126 - Collection of Tax from Developer of Real Estate or Land Developer (1) Any person responsible for registration of any deed document for transfer of any land or building or apartment under the provisions of Registration Act, 1908 (Act No. XVI of 1908), shall not register the deed of transfer by the transferee to any person engaged in the business of land development until payment of tax at the prescribed rate. (2) In the case of collection of tax under this section, the rate of tax- (a) Tk. 1,600 (one thousand six hundred) in case of building or apartment constructed for residential purpose, (b) Tk. 6,500 (six thousand five hundred) if not for residential use, (c) 5% (five percent) of the deed value in respect of the land concerned with the building or apartment not more than that.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Any person responsible for registration of any deed document for transfer of any land or building or apartment under the provisions of Registration Act, 1908 (Act No. XVI of 1908), shall not register the deed of transfer by the transferee to any person engaged in the business of land development until payment of tax at the prescribed rate.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In the case of collection of tax under this section, the rate of tax- (a) Tk. 1,600 (one thousand six hundred) in case of building or apartment constructed for residential purpose, (b) Tk. 6,500 (six thousand five hundred) if not for residential use, (c) 5% (five percent) of the deed value in respect of the land concerned with the building or apartment not more than that.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) Tk. 1,600 (one thousand six hundred) in case of building or apartment constructed for residential purpose,",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) Tk. 6,500 (six thousand five hundred) if not for residential use,",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) 5% (five percent) of the deed value in respect of the land concerned with the building or apartment not more than that.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "126"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-126/",
+    "original_title": "Income Tax Act 2023 Section 126 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 126"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

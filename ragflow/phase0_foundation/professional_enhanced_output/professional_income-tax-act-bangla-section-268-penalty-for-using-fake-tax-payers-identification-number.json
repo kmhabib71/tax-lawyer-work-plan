@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 268 Penalty for using fake Tax-payer's Identification Number",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৬৮",
+          "title": "ধারা ২৬৮ - জাল করদাতা শনাক্তকরণ নম্বর (টিআইএন) ব্যবহারের জন্য জরিমানা যেইক্ষেত্রে কোনো ব্যক্তি যুক্তিসঙ্গত কারণ ব্যতীত, তাহার রিটার্নে বা কোনো দলিলে, ",
+          "content_text": "ধারা ২৬৮ - জাল করদাতা শনাক্তকরণ নম্বর (টিআইএন) ব্যবহারের জন্য জরিমানা যেইক্ষেত্রে কোনো ব্যক্তি যুক্তিসঙ্গত কারণ ব্যতীত, তাহার রিটার্নে বা কোনো দলিলে, যেখানে এই আইনের অধীন করদাতা শনাক্তকরণ নম্বর (টিআইএন) আবশ্যক, অন্য কোনো ব্যক্তির অথবা জাল করদাতা শনাক্তকরণ নম্বর (টিআইএন) ব্যবহার করেন, সেইক্ষেত্রে উপকর কমিশনার উক্ত ব্যক্তির উপর অনধিক ২০ (বিশ) হাজার টাকা জরিমানা আরোপ করিতে পারিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৬৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-268-penalty-for-using-fake-tax-payers-identification-number/",
+    "original_title": "Income Tax Act Bangla Section 268 Penalty for using fake Tax-payer's Identification Number – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 268 Penalty for using fake Tax-payer's Identification Number"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

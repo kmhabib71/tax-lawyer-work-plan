@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭০ - কোনো ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংক হইতে কর্তন পদ্ধতি (১) কোনো খেলাপি করদাতার কোনো অর্থ কোনো ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংকের নিয়ন্ত্রণে থাকিলে বকেয়া আদায় কর্মকর্তা সংশ্লিষ্ট ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংককে ফরম “ মূসক – ১৪ . ২ ” এর মাধ্যমে বিধি ৬৮ এর উপ-বিধি (২) এ উল্লিখিত বকেয়া আদায় সার্টিফিকেট বা নোটিশের মূল কপি বা সার্টিফাইড কপিসহ অনুরোধপত্র প্রেরণ করিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৮২",
+          "title": "ধারা ৮২ এর উপ-ধারা (২) এর বিধানমতে বাধ্যতামূলক হইবে এবং এই বিধানের লংঘন একই",
+          "content_text": "ধারা ৮২ এর উপ-ধারা (২) এর বিধানমতে বাধ্যতামূলক হইবে এবং এই বিধানের লংঘন একই",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এর বিধানমতে বাধ্যতামূলক হইবে এবং এই বিধানের লংঘন একই",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৮২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৮৫",
+          "title": "ধারা ৮৫ এর উপ-ধারা (২) এর বিধানমতে দন্ডযোগ্য অপরাধ হিসাবে গণ্য হইবে",
+          "content_text": "ধারা ৮৫ এর উপ-ধারা (২) এর বিধানমতে দন্ডযোগ্য অপরাধ হিসাবে গণ্য হইবে।",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এর বিধানমতে দন্ডযোগ্য অপরাধ হিসাবে গণ্য হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৮৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-70-deduction-procedure-from-any-individual-associate-or-financial-institution-or-bank/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 70 Deduction procedure from any individual, associate or financial institution or bank – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭০ - কোনো ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংক হইতে কর্তন পদ্ধতি (১) কোনো খেলাপি করদাতার কোনো অর্থ কোনো ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংকের নিয়ন্ত্রণে থাকিলে বকেয়া আদায় কর্মকর্তা সংশ্লিষ্ট ব্যক্তি, সহযোগী বা আর্থিক প্রতিষ্ঠান বা ব্যাংককে ফরম “ মূসক – ১৪ . ২ ” এর মাধ্যমে বিধি ৬৮ এর উপ-বিধি (২) এ উল্লিখিত বকেয়া আদায় সার্টিফিকেট বা নোটিশের মূল কপি বা সার্টিফাইড কপিসহ অনুরোধপত্র প্রেরণ করিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

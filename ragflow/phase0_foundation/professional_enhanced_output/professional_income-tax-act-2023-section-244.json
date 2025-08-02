@@ -1,0 +1,149 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "244",
+          "title": "Section 244 - Tax Agreements (1) The Government may enter into agreements with the Government of any other country in respect of the following matters",
+          "content_text": "Section 244 - Tax Agreements (1) The Government may enter into agreements with the Government of any other country in respect of the following matters, namely:- (a) In respect of deduction of tax in respect of the following: (i)such income on which tax has been paid under this Act and under such laws in force in other countries; or (ii) any tax leviable under this Act and any such law in force in another country for the purpose of promoting reciprocal economic relations, trade and investment; (b) determination of income from sources within and outside Bangladesh; (c) prevention of avoidance of double taxation and evasion of revenue under this Act and similar laws in force in other country; (d) exchange of information for prevention of evasion or avoidance of tax or investigation of cases relating to such evasion under this Act and such laws in force in other country; (e) recover taxes under this Act and under such laws in force in other country; and (f) to carry out any purpose of this Act and any such law in force in another country. (2) The Board may, by notification in the Official Gazette, make regulations necessary for the implementation of tax treaties. (3) An agreement made under sub-section (1) may contain provisions relating to reduction of tax at any time prior to the enactment of this Act or this agreement and provisions relating to such income which is not automatically subject to double taxation. (4) In cases where an agreement entered into under this section contains any provision for granting an adjustment against the tax payable in Bangladesh in respect of tax payable under the laws of the country concerned, the provisions relating to foreign tax adjustment referred to in Chapter II of this Part shall apply. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Government may enter into agreements with the Government of any other country in respect of the following matters, namely:- (a) In respect of deduction of tax in respect of the following: (i)such income on which tax has been paid under this Act and under such laws in force in other countries; or (ii) any tax leviable under this Act and any such law in force in another country for the purpose of promoting reciprocal economic relations, trade and investment; (b) determination of income from sources within and outside Bangladesh; (c) prevention of avoidance of double taxation and evasion of revenue under this Act and similar laws in force in other country; (d) exchange of information for prevention of evasion or avoidance of tax or investigation of cases relating to such evasion under this Act and such laws in force in other country; (e) recover taxes under this Act and under such laws in force in other country; and (f) to carry out any purpose of this Act and any such law in force in another country.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) In respect of deduction of tax in respect of the following:",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i)such income on which tax has been paid under this Act and under such laws in force in other countries; or (ii) any tax leviable under this Act and any such law in force in another country for the purpose of promoting reciprocal economic relations, trade and investment;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i)such income on which tax has been paid under this Act and under such laws in force in other countries; or (ii) any tax leviable under this Act and any such law in force in another country for the purpose of promoting reciprocal economic relations, trade and investment;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) any tax leviable under this Act and any such law in force in another country for the purpose of promoting reciprocal economic relations, trade and investment;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) determination of income from sources within and outside Bangladesh;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) prevention of avoidance of double taxation and evasion of revenue under this Act and similar laws in force in other country;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) exchange of information for prevention of evasion or avoidance of tax or investigation of cases relating to such evasion under this Act and such laws in force in other country;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) recover taxes under this Act and under such laws in force in other country; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) to carry out any purpose of this Act and any such law in force in another country.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The Board may, by notification in the Official Gazette, make regulations necessary for the implementation of tax treaties.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) An agreement made under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) may contain provisions relating to reduction of tax at any time prior to the enactment of this Act or this agreement and provisions relating to such income which is not automatically subject to double taxation.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) In cases where an agreement entered into under this section contains any provision for granting an adjustment against the tax payable in Bangladesh in respect of tax payable under the laws of the country concerned, the provisions relating to foreign tax adjustment referred to in Chapter II of this Part shall apply. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "244"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-244/",
+    "original_title": "Income Tax Act 2023 Section 244 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

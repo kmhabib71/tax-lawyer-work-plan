@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 240 Avoidance of tax through transactions with non-residents",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৪০",
+          "title": "ধারা ২৪০ - অনিবাসীর সহিত লেনদেনের মাধ্যমে কর পরিহার যেইক্ষেত্রে একজন নিবাসী ও একজন অনিবাসীর মধ্যে কোনো ব্যবসা পরিচালিত হয় এবং উপকর কমিশনারের নিকট প্রত",
+          "content_text": "ধারা ২৪০ - অনিবাসীর সহিত লেনদেনের মাধ্যমে কর পরিহার যেইক্ষেত্রে একজন নিবাসী ও একজন অনিবাসীর মধ্যে কোনো ব্যবসা পরিচালিত হয় এবং উপকর কমিশনারের নিকট প্রতীয়মান হয় যে, উভয়ের মধ্যে ঘনিষ্ট সম্পর্কের ফলে ব্যবসায়ের কার্যক্রম এইরূপভাবে বিন্যস্ত করা হইয়াছে যে, উভয়ের মধ্যে সম্পাদিত ব্যবসায়িক লেনদেনের ফলস্বরূপ নিবাসী ব্যক্তির কোনো মুনাফা অর্জিত হয় নাই, অথবা হইলেও তাহা উক্ত ব্যবসার ঈপ্সিত স্বাভাবিক মুনাফা অপেক্ষা কম, সেইক্ষেত্রে উপকর কমিশনার উক্ত ব্যবসা হইতে নিবাসী ব্যক্তির উদ্ভূত হইতে পারে এইরূপ যুক্তিসঙ্গত আয়ের পরিমাণ নির্ধারণ করিবেন এবং উক্তরূপ নির্ধারিত আয় নিবাসীর মোট আয়ের অন্তর্ভুক্ত করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৪০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-240-avoidance-of-tax-through-transactions-with-non-residents/",
+    "original_title": "Income Tax Act Bangla Section 240 Avoidance of tax through transactions with non-residents – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 240 Avoidance of tax through transactions with non-residents"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

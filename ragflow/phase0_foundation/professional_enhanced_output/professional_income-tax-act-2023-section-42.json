@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "42",
+          "title": "Section 42 - Deductions from Agricultural income Subject to this Act, in computing the taxable income of a person in the agricultural income sector in",
+          "content_text": "Section 42 - Deductions from Agricultural income Subject to this Act, in computing the taxable income of a person in the agricultural income sector in any income year, the amount expended by the taxpayer in that year, other than capital expenditure or personal expenditure, wholly and solely for the purpose of agriculture shall be allowable as deduction and the following deductions shall be treated as ordinary deductions shall, namely:- (a) any tax, land development tax or rent paid on land or yeard used for agricultural purposes; (b) rent payable for land or yeard used for agricultural purposes, development & maintenance charges and cultivation charges; (c) interest or profit payable on loans taken for agricultural purposes; (d) maintenance and repair of machinery and equipment used in agriculture and rearing of livestock for cultivation, related processing or transportation; (e) insurance premiums payable for compensation of land or grounds or for compensation of crops or produced from the land or grounds or for the purpose of security in the rearing of cattle; (f) money spent to protect agriculture from natural calamities or any other damage; (g) the following expenses subject to the permissible limits specified in the Third Schedule— (i) depreciation of assets used by the taxpayer in agriculture concerned; (ii) amortization of intangible assets used in the agricultural activities concerned; (h) where the animal used in the taxpayer’s agricultural work has died or become permanently incapacitated, an amount equal to the difference between the actual purchase price of the animal and, as the case may be, the proceeds from the sale of the animal or the sale of its meat; (i) any expenditure incurred in connection with a visit abroad as a member of any delegation on agriculture sponsored by the Government, which is not capital in nature; (j) any expenditure incurred in imparting training to citizens of Bangladesh on matters related to any such scheme as approved by the Board; (k) expenditure incurred in the conduct of scientific research relating to agriculture or expenditure incurred in the conduct of such scientific research whereby the research is conducted wholly and exclusively for the purpose of agricultural development of the taxpayer in Bangladesh. (2) Only so much of any expenditure under this section as relates to income from agriculture shall be deemed to be allowable expenditure. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) Only so much of any expenditure under this section as relates to income from agriculture shall be deemed to be allowable expenditure. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "42"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-42/",
+    "original_title": "Income Tax Act 2023 Section 42 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 331 Tax to be calculated to nearest taka",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৩১",
+          "title": "ধারা ৩৩১ - নিকটতম টাকায় কর গণনা এই আইনের অধীন প্রদেয় অর্থ বা প্রত্যর্পণের পরিমাণ নির্ধারণে, টাকার কোনো ভগ্নাংশ ৫০ (পঞ্চাশ) পয়সা বা ততোধিক হইলে উহা ১ (",
+          "content_text": "ধারা ৩৩১ - নিকটতম টাকায় কর গণনা এই আইনের অধীন প্রদেয় অর্থ বা প্রত্যর্পণের পরিমাণ নির্ধারণে, টাকার কোনো ভগ্নাংশ ৫০ (পঞ্চাশ) পয়সা বা ততোধিক হইলে উহা ১ (এক) টাকা হিসাবে গণ্য হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৩১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-331-tax-to-be-calculated-to-nearest-taka/",
+    "original_title": "Income Tax Act Bangla Section 331 Tax to be calculated to nearest taka – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 331 Tax to be calculated to nearest taka"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "155",
+          "title": "Section 155 - Liability of Firm or Association for Irrecoverable Tax due from Partners or Members (1) Where any tax payable by any partner of a firm o",
+          "content_text": "Section 155 - Liability of Firm or Association for Irrecoverable Tax due from Partners or Members (1) Where any tax payable by any partner of a firm or any member of a association of individual is irrecoverable in respect of the partnership income of that firm or association of individual, as the case may be, the Deputy Commissioner of Taxes shall notify the firm or association of individual of the amount to the firm or association of individual. (2) Notwithstanding anything contained in any other law for the time being in force, on receipt of a notice relating to the amount of tax under sub-section (1), the firm or associations of individual receiving the notice shall be liable for the payment of the said tax and shall be deemed to be the taxpayer for the purpose of recovery of the said tax, and accordingly the provisions of this Act shall be applicable. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where any tax payable by any partner of a firm or any member of a association of individual is irrecoverable in respect of the partnership income of that firm or association of individual, as the case may be, the Deputy Commissioner of Taxes shall notify the firm or association of individual of the amount to the firm or association of individual.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Notwithstanding anything contained in any other law for the time being in force, on receipt of a notice relating to the amount of tax under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the firm or associations of individual receiving the notice shall be liable for the payment of the said tax and shall be deemed to be the taxpayer for the purpose of recovery of the said tax, and accordingly the provisions of this Act shall be applicable. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "155"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-255/",
+    "original_title": "Income Tax Act 2023 Section 255 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

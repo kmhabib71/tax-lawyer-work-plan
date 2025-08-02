@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 120 Collection of tax from importers",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১২০",
+          "title": "ধারা ১২০ - আমদানিকারকদের নিকট হইতে কর সংগ্রহ কমিশনার, কাস্টমস বা এতদুদ্দেশ্যে ক্ষমতাপ্রাপ্ত অন্য কোনো কর্মকর্তা পণ্যের আমদানি মূল্যের উপর নির্ধারিত, অ",
+          "content_text": "ধারা ১২০ - আমদানিকারকদের নিকট হইতে কর সংগ্রহ কমিশনার, কাস্টমস বা এতদুদ্দেশ্যে ক্ষমতাপ্রাপ্ত অন্য কোনো কর্মকর্তা পণ্যের আমদানি মূল্যের উপর নির্ধারিত, অনধিক ২০% (বিশ শতাংশ) হারে, উৎসে কর সংগ্রহ করিবেন। Click here to view Rule 8 of TDS Rules 2024",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১২০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-120-collection-of-tax-from-importers/",
+    "original_title": "Income Tax Act Bangla Section 120 Collection of tax from importers – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 120 Collection of tax from importers"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

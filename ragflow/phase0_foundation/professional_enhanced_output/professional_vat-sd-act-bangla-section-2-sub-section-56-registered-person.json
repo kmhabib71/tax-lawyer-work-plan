@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৫৬ - নিবন্ধিত ব্যক্তি ‘‘নিবন্ধিত ব্যক্তি’’ অর্থ ধারা ৬ এর অধীন মূসক নিবন্ধিত কোন ব্যক্তি;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৫৬ - নিবন্ধিত ব্যক্তি ‘‘নিবন্ধিত ব্যক্তি’’ অর্থ",
+          "content_text": "ধারা ২ দফা ৫৬ - নিবন্ধিত ব্যক্তি ‘‘নিবন্ধিত ব্যক্তি’’ অর্থ",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৬",
+          "title": "ধারা ৬ এর অধীন মূসক নিবন্ধিত কোন ব্যক্তি;",
+          "content_text": "ধারা ৬ এর অধীন মূসক নিবন্ধিত কোন ব্যক্তি;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-56-registered-person/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 56 Registered person",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৫৬ - নিবন্ধিত ব্যক্তি ‘‘নিবন্ধিত ব্যক্তি’’ অর্থ ধারা ৬ এর অধীন মূসক নিবন্ধিত কোন ব্যক্তি;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

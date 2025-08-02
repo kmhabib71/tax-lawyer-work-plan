@@ -1,0 +1,94 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 19 Commissioner",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১৯ - কমিশনার ১ [ (১৯) “কমিশনার” অর্থ দফা (২৬ক) এ উল্লিখিত কর কমিশনার; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯(ক) ধারাবলে নিম্নরূপ দফা (১৯) এর পরিবর্ত",
+          "content_text": "ধারা ২ দফা ১৯ - কমিশনার ১ [ (১৯) “কমিশনার” অর্থ দফা (২৬ক) এ উল্লিখিত কর কমিশনার; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯(ক) ধারাবলে নিম্নরূপ দফা (১৯) এর পরিবর্তে প্রতিস্থাপিত । [ (১৯) “কমিশনার” অর্থ",
+          "subsections": [
+            {
+              "identifier": "১৯",
+              "text": "(১৯) “কমিশনার” অর্থ দফা (২৬ক) এ উল্লিখিত কর কমিশনার; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯(ক) ধারাবলে নিম্নরূপ দফা",
+              "clauses": [
+                {
+                  "identifier": "২৬ক",
+                  "text": "দফা (২৬ক) এ উল্লিখিত কর কমিশনার; ] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "(ক) ধারাবলে নিম্নরূপ দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "১৯",
+              "text": "(১৯) এর পরিবর্তে প্রতিস্থাপিত । [",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১৯",
+              "text": "(১৯) “কমিশনার” অর্থ",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        },
+        {
+          "number": "৪",
+          "title": "ধারা ৪ এ উল্লিখিত কর কমিশনার বা কর কমিশনার (বৃহৎ করদাতা ইউনিট); ]",
+          "content_text": "ধারা ৪ এ উল্লিখিত কর কমিশনার বা কর কমিশনার (বৃহৎ করদাতা ইউনিট); ]",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-19-commissioner/",
+    "original_title": "Income tax bangla section 2 sub-section 19 Commissioner – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 19 Commissioner"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

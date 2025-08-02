@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Notification for WIP - English",
+    "document_type": "legal_document",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "আমাদের ইংরেজি সম্পাদনের কাজ চলমান রহিয়াছে। ইংরেজি সম্পাদনের কাজ সম্পূর্ণ হওয়ার সাথে সাথেই আমরা ওয়",
+          "content_text": "আমাদের ইংরেজি সম্পাদনের কাজ চলমান রহিয়াছে। ইংরেজি সম্পাদনের কাজ সম্পূর্ণ হওয়ার সাথে সাথেই আমরা ওয়েবসাইটে আপলোড করব। অনুগ্রহ করে অপেক্ষা করুন। Thanks for your patience.",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/notification-for-wip-english/",
+    "original_title": "Notification for WIP - English – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_document",
+      "language": "bengali",
+      "title": "Notification for WIP - English"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

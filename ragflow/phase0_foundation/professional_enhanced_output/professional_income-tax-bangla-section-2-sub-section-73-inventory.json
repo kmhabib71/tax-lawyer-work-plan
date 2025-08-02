@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 73 Inventory",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৭৩ - মজুদ “মজুদ” অর্থ ব্যবসায়ের স্বাভাবিক কার্যক্রমের আওতায়- (ক) উৎপাদিত বা তৈরিকৃত যেকোনো কিছু; (খ) তৈরি, বিক্রয় বা বিনিময়ের উদ্দেশ্যে আহর",
+          "content_text": "ধারা ২ দফা ৭৩ - মজুদ “মজুদ” অর্থ ব্যবসায়ের স্বাভাবিক কার্যক্রমের আওতায়- (ক) উৎপাদিত বা তৈরিকৃত যেকোনো কিছু; (খ) তৈরি, বিক্রয় বা বিনিময়ের উদ্দেশ্যে আহরিত বা ক্রয়কৃত যেকোনো কিছু; অথবা (গ) উৎপাদন বা তৈরি প্রক্রিয়ায় ব্যবহৃত হইয়াছে এইরূপ সকল উপাদান বা সরবরাহ, তবে শেয়ার বা স্টক ইহার অন্তর্ভুক্ত হইবে না;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) উৎপাদিত বা তৈরিকৃত যেকোনো কিছু;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) তৈরি, বিক্রয় বা বিনিময়ের উদ্দেশ্যে আহরিত বা ক্রয়কৃত যেকোনো কিছু; অথবা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) উৎপাদন বা তৈরি প্রক্রিয়ায় ব্যবহৃত হইয়াছে এইরূপ সকল উপাদান বা সরবরাহ, তবে শেয়ার বা স্টক ইহার অন্তর্ভুক্ত হইবে না;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-73-inventory/",
+    "original_title": "Income tax bangla section 2 sub-section 73 Inventory – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 73 Inventory"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

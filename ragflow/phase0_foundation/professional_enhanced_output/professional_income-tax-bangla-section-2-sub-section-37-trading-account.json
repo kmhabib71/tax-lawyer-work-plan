@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 37 Trading account",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩৭ - “ট্রেডিং অ্যাকাউন্ট” বা “প্রফিট এন্ড লস অ্যাকাউন্ট” “ট্রেডিং অ্যাকাউন্ট” বা “প্রফিট এন্ড লস অ্যাকাউন্ট” অর্থে International Financial ",
+          "content_text": "ধারা ২ দফা ৩৭ - “ট্রেডিং অ্যাকাউন্ট” বা “প্রফিট এন্ড লস অ্যাকাউন্ট” “ট্রেডিং অ্যাকাউন্ট” বা “প্রফিট এন্ড লস অ্যাকাউন্ট” অর্থে International Financial Reporting Standards (IFRS) এর আওতায় প্রস্তুতকৃত আয় বিবরণী এবং হিসাব সংক্রান্ত অন্যান্য সমরূপ বিবরণীও ইহার অন্তর্ভুক্ত হইবে;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-37-trading-account/",
+    "original_title": "Income tax bangla section 2 sub-section 37 Trading account – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 37 Trading account"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

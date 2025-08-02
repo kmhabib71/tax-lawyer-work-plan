@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ৬০ - সরবরাহের উপর সম্পূরক শুল্ক আদায় (১) সম্পূরক শুল্ক আরোপযোগ্য পণ্য বা সেবা সরবরাহের উপর যে সময়ে মূসক প্রদেয় হইবে, সেই একই সময়ে সম্পূরক শুল্ক প্রদেয় হইবে",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৬০",
+          "title": "ধারা ৬০ - সরবরাহের উপর সম্পূরক শুল্ক আদায় (১) সম্পূরক শুল্ক আরোপযোগ্য পণ্য বা সেবা সরবরাহের উপর যে সময়ে মূসক প্রদেয় হইবে, সেই একই সময়ে সম্পূরক শুল্ক প",
+          "content_text": "ধারা ৬০ - সরবরাহের উপর সম্পূরক শুল্ক আদায় (১) সম্পূরক শুল্ক আরোপযোগ্য পণ্য বা সেবা সরবরাহের উপর যে সময়ে মূসক প্রদেয় হইবে, সেই একই সময়ে সম্পূরক শুল্ক প্রদেয় হইবে। (২) সম্পূরক শুল্ক পরিশোধের জন্য দায়ী ব্যক্তি দাখিলপত্রে সম্পূরক শুল্ক সংক্রান্ত তথ্যাদি উল্লেখ করিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) সম্পূরক শুল্ক আরোপযোগ্য পণ্য বা সেবা সরবরাহের উপর যে সময়ে মূসক প্রদেয় হইবে, সেই একই সময়ে সম্পূরক শুল্ক প্রদেয় হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) সম্পূরক শুল্ক পরিশোধের জন্য দায়ী ব্যক্তি দাখিলপত্রে সম্পূরক শুল্ক সংক্রান্ত তথ্যাদি উল্লেখ করিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-60-collection-of-supplementary-duty-on-supplies/",
+    "original_title": "VAT & SD Act Bangla Section 60 Collection of supplementary duty on supplies",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ৬০ - সরবরাহের উপর সম্পূরক শুল্ক আদায় (১) সম্পূরক শুল্ক আরোপযোগ্য পণ্য বা সেবা সরবরাহের উপর যে সময়ে মূসক প্রদেয় হইবে, সেই একই সময়ে সম্পূরক শুল্ক প্রদেয় হইবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

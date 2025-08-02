@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 72 Bank transfer",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৭২ - ব্যাংক ট্রান্সফার “ব্যাংক ট্রান্সফার” অর্থে অন্তর্ভুক্ত হইবে- (ক) ব্যাংকের এক হিসাব হইতে অন্য হিসাবে ক্রসড চেক বা বাংলাদেশ ব্যাংক কর্ত",
+          "content_text": "ধারা ২ দফা ৭২ - ব্যাংক ট্রান্সফার “ব্যাংক ট্রান্সফার” অর্থে অন্তর্ভুক্ত হইবে- (ক) ব্যাংকের এক হিসাব হইতে অন্য হিসাবে ক্রসড চেক বা বাংলাদেশ ব্যাংক কর্তৃক অনুমোদিত অন্য কোনো পন্থায় অর্থের স্থানান্তর; (খ) মোবাইল ফাইন্যান্সিয়াল সার্ভিসেস এর মাধ্যমে এক হিসাব হইতে অন্য হিসাবে অর্থ স্থানান্তর; (গ) চালানের মাধ্যমে সরকার বা সরকারের কোনো কর্তৃপক্ষ কর্তৃক নির্ধারিত ফি, চার্জ, শুল্ক-করাদি বা অন্য কোনো অর্থ সরকার বা সরকারের কোনো কর্তৃপক্ষের অনুকূলে পরিশোধ;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ব্যাংকের এক হিসাব হইতে অন্য হিসাবে ক্রসড চেক বা বাংলাদেশ ব্যাংক কর্তৃক অনুমোদিত অন্য কোনো পন্থায় অর্থের স্থানান্তর;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) মোবাইল ফাইন্যান্সিয়াল সার্ভিসেস এর মাধ্যমে এক হিসাব হইতে অন্য হিসাবে অর্থ স্থানান্তর;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) চালানের মাধ্যমে সরকার বা সরকারের কোনো কর্তৃপক্ষ কর্তৃক নির্ধারিত ফি, চার্জ, শুল্ক-করাদি বা অন্য কোনো অর্থ সরকার বা সরকারের কোনো কর্তৃপক্ষের অনুকূলে পরিশোধ;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-72-bank-transfer/",
+    "original_title": "Income tax bangla section 2 sub-section 72 Bank transfer – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 72 Bank transfer"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

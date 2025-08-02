@@ -1,0 +1,222 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "262",
+          "title": "Section 262 - Cancellation of Registration of Taxpayers (1) A person shall apply for cancellation of registration, if such person- (a) cease to be bou",
+          "content_text": "Section 262 - Cancellation of Registration of Taxpayers (1) A person shall apply for cancellation of registration, if such person- (a) cease to be bound to furnish proof of filing of return under section 264 and- (i) is no longer defined as a taxpayer under clause 22 of section 2; (ii) has had zero taxable income for the past 3 (three) consecutive years and will have zero taxable income in the future due to physical disability or for any other reason; or (iii) no further return required to be filed under section 166; (b) ceases to exist by reason of death, termination, dissolution or any other similar cause; (c) leaves Bangladesh permanently and does not engage in any income-earning activities in Bangladesh; (d) has received duplicate registration or wrong registration; (e) changes legal status; (f) shows any other lawful cause. (2) The Income Tax Authority, after receiving an application for cancellation of registration, may, after scrutinizing the application, cancel the registration of the taxpayer, if he is satisfied that- (a) there is no outstanding liability payable by the taxpayer; (b) no tax assessment is pending against the taxpayer; (c) no income tax dispute is pending in any forum; and (d) the reason given by the taxpayer for cancellation of registration under sub-section (1) is true. (3) The Board may automatically cancel the registration of a taxpayer in the following cases, namely:- (a) grounds for deregistration of a taxpayer under sub-sections (1) and (2); (b) there is reasonable cause to believe that a taxpayer has no income from a genuine or legitimate source; (c) the registration is made for the purpose of the purpose of committing a financial crime or as part of a money laundering scheme; or (d) information provided in the registration process is incorrect and untrue. (4) The Board may retain all information and records of a deregistered taxpayer for such period as it may think fit. (5) For the purposes of this section, “deregistration” means the inactive, dormant and non-public use of a TIN, but does not mean the deletion or erasure of information already obtained. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) A person shall apply for cancellation of registration, if such person- (a) cease to be bound to furnish proof of filing of return under section 264 and- (i) is no longer defined as a taxpayer under clause 22 of section 2; (ii) has had zero taxable income for the past 3 (three) consecutive years and will have zero taxable income in the future due to physical disability or for any other reason; or (iii) no further return required to be filed under section 166; (b) ceases to exist by reason of death, termination, dissolution or any other similar cause; (c) leaves Bangladesh permanently and does not engage in any income-earning activities in Bangladesh; (d) has received duplicate registration or wrong registration; (e) changes legal status; (f) shows any other lawful cause.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) cease to be bound to furnish proof of filing of return under section 264 and-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) is no longer defined as a taxpayer under clause 22 of section 2; (ii) has had zero taxable income for the past 3 (three) consecutive years and will have zero taxable income in the future due to physical disability or for any other reason; or (iii) no further return required to be filed under section 166;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) is no longer defined as a taxpayer under clause 22 of section 2; (ii) has had zero taxable income for the past 3 (three) consecutive years and will have zero taxable income in the future due to physical disability or for any other reason; or (iii) no further return required to be filed under section 166;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) has had zero taxable income for the past 3 (three) consecutive years and will have zero taxable income in the future due to physical disability or for any other reason; or (iii) no further return required to be filed under section 166;"
+                    },
+                    {
+                      "identifier": "iii",
+                      "text": "(iii) no further return required to be filed under section 166;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) ceases to exist by reason of death, termination, dissolution or any other similar cause;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) leaves Bangladesh permanently and does not engage in any income-earning activities in Bangladesh;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) has received duplicate registration or wrong registration;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) changes legal status;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) shows any other lawful cause.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The Income Tax Authority, after receiving an application for cancellation of registration, may, after scrutinizing the application, cancel the registration of the taxpayer, if he is satisfied that- (a) there is no outstanding liability payable by the taxpayer; (b) no tax assessment is pending against the taxpayer; (c) no income tax dispute is pending in any forum; and (d) the reason given by the taxpayer for cancellation of registration under sub-section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) there is no outstanding liability payable by the taxpayer;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) no tax assessment is pending against the taxpayer;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) no income tax dispute is pending in any forum; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) the reason given by the taxpayer for cancellation of registration under sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) is true.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The Board may automatically cancel the registration of a taxpayer in the following cases, namely:- (a) grounds for deregistration of a taxpayer under sub-sections",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) grounds for deregistration of a taxpayer under sub-sections",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2); (b) there is reasonable cause to believe that a taxpayer has no income from a genuine or legitimate source; (c) the registration is made for the purpose of the purpose of committing a financial crime or as part of a money laundering scheme; or (d) information provided in the registration process is incorrect and untrue.",
+              "clauses": [
+                {
+                  "identifier": "b",
+                  "text": "(b) there is reasonable cause to believe that a taxpayer has no income from a genuine or legitimate source;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) the registration is made for the purpose of the purpose of committing a financial crime or as part of a money laundering scheme; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) information provided in the registration process is incorrect and untrue.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The Board may retain all information and records of a deregistered taxpayer for such period as it may think fit.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) For the purposes of this section, “deregistration” means the inactive, dormant and non-public use of a TIN, but does not mean the deletion or erasure of information already obtained. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "262"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-262/",
+    "original_title": "Income Tax Act 2023 Section 262 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 9,
+      "quality_score": 2.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

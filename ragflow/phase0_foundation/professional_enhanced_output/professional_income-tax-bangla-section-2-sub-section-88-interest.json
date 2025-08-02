@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 88 Interest",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৮৮ - সুদ “সুদ” অর্থে অন্তর্ভুক্ত হইবে- (ক) যেকোনো প্রকার আর্থিক সহায়তা, যেমন- ঋণ, ধার, ট্রেড ক্রেডিট, অগ্রিম, সিকিউরিটি বা গ্যারান্টির বিপর",
+          "content_text": "ধারা ২ দফা ৮৮ - সুদ “সুদ” অর্থে অন্তর্ভুক্ত হইবে- (ক) যেকোনো প্রকার আর্থিক সহায়তা, যেমন- ঋণ, ধার, ট্রেড ক্রেডিট, অগ্রিম, সিকিউরিটি বা গ্যারান্টির বিপরীতে পরিশোধিত যেকোনো প্রকারের সুদ বা আর্থিক দায়; বা (খ) সেবা ফি বা এইরূপ কোনো প্রকারের দায় বা পরিশোধ যাহা আর্থিক সমতুল্যে সুদ হিসাবে গণ্য হইবে, তবে অর্থ বা মূলধন সংগ্রহের সহিত জড়িত ব্যয় ইহার অন্তর্ভুক্ত হইবে না;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) যেকোনো প্রকার আর্থিক সহায়তা, যেমন- ঋণ, ধার, ট্রেড ক্রেডিট, অগ্রিম, সিকিউরিটি বা গ্যারান্টির বিপরীতে পরিশোধিত যেকোনো প্রকারের সুদ বা আর্থিক দায়; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) সেবা ফি বা এইরূপ কোনো প্রকারের দায় বা পরিশোধ যাহা আর্থিক সমতুল্যে সুদ হিসাবে গণ্য হইবে, তবে অর্থ বা মূলধন সংগ্রহের সহিত জড়িত ব্যয় ইহার অন্তর্ভুক্ত হইবে না;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-88-interest/",
+    "original_title": "Income tax bangla section 2 sub-section 88 Interest – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 88 Interest"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

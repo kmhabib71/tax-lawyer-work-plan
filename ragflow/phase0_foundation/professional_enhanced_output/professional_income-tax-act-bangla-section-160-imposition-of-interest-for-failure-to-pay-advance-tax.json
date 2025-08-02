@@ -1,0 +1,71 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 160 Imposition of interest for failure to pay advance tax",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৬০",
+          "title": "ধারা ১৬০ - অগ্রিম কর পরিশোধে ব্যর্থতার জন্য সুদ আরোপ অগ্রিম কর পরিশোধ করিতে হইবে এইরূপ কোনো ব্যক্তির ক্ষেত্রে যদি নিয়মিত কর নির্ধারণকালে পরিলক্ষিত হয় ",
+          "content_text": "ধারা ১৬০ - অগ্রিম কর পরিশোধে ব্যর্থতার জন্য সুদ আরোপ অগ্রিম কর পরিশোধ করিতে হইবে এইরূপ কোনো ব্যক্তির ক্ষেত্রে যদি নিয়মিত কর নির্ধারণকালে পরিলক্ষিত হয় যে, এই অংশের বিধানাবলি অনুসারে অগ্রিম কর পরিশোধ করা হয় নাই, তাহা হইলে",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬০"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৫৭",
+          "title": "ধারা ১৫৭ এর অধীন খেলাপি করদাতার পরিণামের বিধানকে ক্ষুণ্ন না করিয়া, উক্তরূপ কর নির্ধারণের ভিত্তিতে নিরূপিত করের সহিত",
+          "content_text": "ধারা ১৫৭ এর অধীন খেলাপি করদাতার পরিণামের বিধানকে ক্ষুণ্ন না করিয়া, উক্তরূপ কর নির্ধারণের ভিত্তিতে নিরূপিত করের সহিত",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৫৭"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৬২",
+          "title": "ধারা ১৬২ -তে নির্ধারিত হারে ও মেয়াদের জন্য উহার উপর সরল সুদ পরিগণনা করিতে হইবে",
+          "content_text": "ধারা ১৬২ -তে নির্ধারিত হারে ও মেয়াদের জন্য উহার উপর সরল সুদ পরিগণনা করিতে হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-160-imposition-of-interest-for-failure-to-pay-advance-tax/",
+    "original_title": "Income Tax Act Bangla Section 160 Imposition of interest for failure to pay advance tax – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 160 Imposition of interest for failure to pay advance tax"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

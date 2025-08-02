@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 68 Board",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬৮ - বোর্ড “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর article 3 এর clause (1) এর অধীন প্রতিষ্",
+          "content_text": "ধারা ২ দফা ৬৮ - বোর্ড “বোর্ড” অর্থ National Board of Revenue Order, 1972 (President’s Order No. 76 of 1972) এর article 3 এর clause (1) এর অধীন প্রতিষ্ঠিত জাতীয় রাজস্ব বোর্ড;",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) এর অধীন প্রতিষ্ঠিত জাতীয় রাজস্ব বোর্ড;",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-68-board/",
+    "original_title": "Income tax bangla section 2 sub-section 68 Board – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 68 Board"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

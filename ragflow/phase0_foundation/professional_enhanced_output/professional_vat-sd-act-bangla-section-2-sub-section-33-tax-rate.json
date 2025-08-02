@@ -1,0 +1,125 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৩৩ - করহার ‘‘করহার’’ অর্থ প্রাসঙ্গিকতা ভেদে― (ক) ধারা ১৫(৩) এ উল্লিখিত মূসক হার; (খ) ধারা ৫৫(৪) এ উল্লিখিত সম্পূরক শুল্কহার; বা (গ) ধারা ৬৩(১) এ উল্লিখিত টার্নওভার করহার;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৩৩ - করহার ‘‘করহার’’ অর্থ প্রাসঙ্গিকতা ভেদে― (ক)",
+          "content_text": "ধারা ২ দফা ৩৩ - করহার ‘‘করহার’’ অর্থ প্রাসঙ্গিকতা ভেদে― (ক)",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক)",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৫",
+          "title": "ধারা ১৫(৩) এ উল্লিখিত মূসক হার; (খ)",
+          "content_text": "ধারা ১৫(৩) এ উল্লিখিত মূসক হার; (খ)",
+          "subsections": [
+            {
+              "identifier": "৩",
+              "text": "(৩) এ উল্লিখিত মূসক হার; (খ)",
+              "clauses": [
+                {
+                  "identifier": "খ",
+                  "text": "(খ)",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৫"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৫৫",
+          "title": "ধারা ৫৫(৪) এ উল্লিখিত সম্পূরক শুল্কহার; বা (গ)",
+          "content_text": "ধারা ৫৫(৪) এ উল্লিখিত সম্পূরক শুল্কহার; বা (গ)",
+          "subsections": [
+            {
+              "identifier": "৪",
+              "text": "(৪) এ উল্লিখিত সম্পূরক শুল্কহার; বা (গ)",
+              "clauses": [
+                {
+                  "identifier": "গ",
+                  "text": "(গ)",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৫৫"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৬৩",
+          "title": "ধারা ৬৩(১) এ উল্লিখিত টার্নওভার করহার;",
+          "content_text": "ধারা ৬৩(১) এ উল্লিখিত টার্নওভার করহার;",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এ উল্লিখিত টার্নওভার করহার;",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-33-tax-rate/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 33 Tax rate",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৩৩ - করহার ‘‘করহার’’ অর্থ প্রাসঙ্গিকতা ভেদে― (ক) ধারা ১৫(৩) এ উল্লিখিত মূসক হার; (খ) ধারা ৫৫(৪) এ উল্লিখিত সম্পূরক শুল্কহার; বা (গ) ধারা ৬৩(১) এ উল্লিখিত টার্নওভার করহার;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 4,
+      "subsections_count": 3,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.9
+  },
+  "forms": []
+}

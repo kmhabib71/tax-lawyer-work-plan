@@ -1,0 +1,141 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "18",
+          "title": "Section 18 - Charge of Taxes (1) Income-tax shall be levied, imposed, paid or collected on the basis of the total income of any person in any income y",
+          "content_text": "Section 18 - Charge of Taxes (1) Income-tax shall be levied, imposed, paid or collected on the basis of the total income of any person in any income year. (2) Subject to the provisions of this Act, income-tax shall be levied, imposed, paid or collected at the prescribed rate for any tax year under an Act made by Parliament: However, income tax shall be imposed, levied, paid or collected at the prescribed rate on income earned in any period other than the income year, (3) The following taxes shall be imposed, levied, paid or collected in accordance with the provisions of this Act, namely:(a) tax at source; (b) advance income tax; (c) minimum tax; and (d) any other tax. (4) Subject to the provisions of this Act, a surcharge or any other charge shall be imposed levied, or collected at such rate and in such nature as may be prescribed under an Act made by Parliament, (5) Notwithstanding anything contained in this section, tax shall be levied at the rate specified in Part-VII and the Seventh Schedule in the following (a) cases, any namely:-income treated as capital income; (b) any income calculated as dividend; and (c) any money received by winning a lottery, slot game, card game, online game or game of any similar nature, such receipt. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Income-tax shall be levied, imposed, paid or collected on the basis of the total income of any person in any income year.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Subject to the provisions of this Act, income-tax shall be levied, imposed, paid or collected at the prescribed rate for any tax year under an Act made by Parliament: However, income tax shall be imposed, levied, paid or collected at the prescribed rate on income earned in any period other than the income year,",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The following taxes shall be imposed, levied, paid or collected in accordance with the provisions of this Act, namely:(a) tax at source; (b) advance income tax; (c) minimum tax; and (d) any other tax.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) tax at source;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) advance income tax;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) minimum tax; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) any other tax.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) Subject to the provisions of this Act, a surcharge or any other charge shall be imposed levied, or collected at such rate and in such nature as may be prescribed under an Act made by Parliament,",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) Notwithstanding anything contained in this section, tax shall be levied at the rate specified in Part-VII and the Seventh Schedule in the following (a) cases, any namely:-income treated as capital income; (b) any income calculated as dividend; and (c) any money received by winning a lottery, slot game, card game, online game or game of any similar nature, such receipt. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) cases, any namely:-income treated as capital income;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) any income calculated as dividend; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) any money received by winning a lottery, slot game, card game, online game or game of any similar nature, such receipt. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "18"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-18/",
+    "original_title": "Income Tax Act 2023 Section 18 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

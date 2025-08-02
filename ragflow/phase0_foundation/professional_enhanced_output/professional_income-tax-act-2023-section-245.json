@@ -1,0 +1,104 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "245",
+          "title": "Section 245 - Definitions (1) For the purposes of this Chapter- (a) “Bangladesh Tax” means income tax levied under the provisions of this Act; (b) “Fo",
+          "content_text": "Section 245 - Definitions (1) For the purposes of this Chapter- (a) “Bangladesh Tax” means income tax levied under the provisions of this Act; (b) “Foreign Tax” means, subject to the provisions of section 244, in relation to a treaty in force with a foreign State, a tax leviable under the laws of that country which is admissible under the treaty; (c) “Foreign Income Tax” means any foreign income tax corresponding to income tax. (2) Where any tax leviable under the laws of the State concerned is deemed to be an income tax in accordance with a treaty in force under section 244, such tax shall be deemed to be a foreign tax other than a foreign tax or a foreign income tax, as the case may be. (3) Any reference to foreign tax or foreign income tax in respect of concessions allowed under any treaty under this Chapter shall be deemed to be a reference to tax imposed by the Government of the country with which the treaty is concluded. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) For the purposes of this Chapter- (a) “Bangladesh Tax” means income tax levied under the provisions of this Act; (b) “Foreign Tax” means, subject to the provisions of section 244, in relation to a treaty in force with a foreign State, a tax leviable under the laws of that country which is admissible under the treaty; (c) “Foreign Income Tax” means any foreign income tax corresponding to income tax.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “Bangladesh Tax” means income tax levied under the provisions of this Act;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) “Foreign Tax” means, subject to the provisions of section 244, in relation to a treaty in force with a foreign State, a tax leviable under the laws of that country which is admissible under the treaty;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) “Foreign Income Tax” means any foreign income tax corresponding to income tax.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where any tax leviable under the laws of the State concerned is deemed to be an income tax in accordance with a treaty in force under section 244, such tax shall be deemed to be a foreign tax other than a foreign tax or a foreign income tax, as the case may be.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Any reference to foreign tax or foreign income tax in respect of concessions allowed under any treaty under this Chapter shall be deemed to be a reference to tax imposed by the Government of the country with which the treaty is concluded. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "245"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-245/",
+    "original_title": "Income Tax Act 2023 Section 245 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

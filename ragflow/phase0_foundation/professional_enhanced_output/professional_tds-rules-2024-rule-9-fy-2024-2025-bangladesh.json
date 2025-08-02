@@ -1,0 +1,88 @@
+{
+  "header": {
+    "title": "TDS Rules 2024 Rule 9 FY 2024-2025 Bangladesh",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "146",
+          "title": "Section 146 of ITA 2023",
+          "content_text": "Section 146 of ITA 2023",
+          "subsections": [],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "ক্রমিক নং",
+                "কর্তন ও সংগ্রহের সময়",
+                "সরকারি কোষাগারে জমাদানের তারিখ"
+              ],
+              "data": [
+                [
+                  "(১)",
+                  "(২)",
+                  "(৩)"
+                ],
+                [
+                  "ক।",
+                  "অর্থবৎসরের জুলাই থেকে মে মাসের যেকোনো কর্তন বা সংগ্রহের ক্ষেত্রে",
+                  "কর্তন বা সংগ্রহের মাসের শেষে পরবর্তী ০২ (দুই) সপ্তাহের মধ্যে"
+                ],
+                [
+                  "খ।",
+                  "অর্থবৎসরের জুন মাসের ১ম থেকে ২০তম দিনের যে কোনো দিনের কর্তন বা সংগ্রহের ক্ষেত্রে",
+                  "কর্তন বা সংগ্রহের দিনের পরবর্তী ০৭ (সাত) দিনের মধ্যে"
+                ],
+                [
+                  "গ।",
+                  "অর্থবৎসরের জুন মাসের অন্যান্য যেকোনো দিনের কর্তন বা সংগ্রহের ক্ষেত্রে",
+                  "কর্তন বা সংগ্রহের পরবর্তী দিন"
+                ],
+                [
+                  "ঘ।",
+                  "অর্থবৎসরের জুন মাসের শেষ কর্মদিবেসে কর কর্তন বা সংগ্রহের ক্ষেত্রে",
+                  "কর্তন বা সংগ্রহের দিন"
+                ]
+              ],
+              "metadata": {
+                "row_count": 5,
+                "column_count": 3,
+                "table_type": "general_table"
+              }
+            }
+          ],
+          "references": [
+            "146"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-2024-rule-9-fy-2024-2025-bangladesh/",
+    "original_title": "TDS Rules 2024 Rule 9 FY 2024-2025 Bangladesh",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "TDS Rules 2024 Rule 9 FY 2024-2025 Bangladesh"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

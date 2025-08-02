@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 50 Supply of goods",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৫০ - পণ্য সরবরাহ “পণ্য সরবরাহ” অর্থ- (ক) পণ্যের বিক্রয়, বিনিময় বা অন্যবিধভাবে পণ্যের অধিকার হস্তান্তর; বা (খ) লিজ, ভাড়া, কিস্তি বা অন্য কোন",
+          "content_text": "ধারা ২ দফা ৫০ - পণ্য সরবরাহ “পণ্য সরবরাহ” অর্থ- (ক) পণ্যের বিক্রয়, বিনিময় বা অন্যবিধভাবে পণ্যের অধিকার হস্তান্তর; বা (খ) লিজ, ভাড়া, কিস্তি বা অন্য কোনোভাবে পণ্যে ব্যবহারের অধিকার প্রদান এবং ফাইন্যান্স লিজের অধীন পণ্য বিক্রয় ও উহার অন্তর্ভুক্ত হইবে;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) পণ্যের বিক্রয়, বিনিময় বা অন্যবিধভাবে পণ্যের অধিকার হস্তান্তর; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) লিজ, ভাড়া, কিস্তি বা অন্য কোনোভাবে পণ্যে ব্যবহারের অধিকার প্রদান এবং ফাইন্যান্স লিজের অধীন পণ্য বিক্রয় ও উহার অন্তর্ভুক্ত হইবে;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-50-supply-of-goods/",
+    "original_title": "Income tax bangla section 2 sub-section 50 Supply of goods – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 50 Supply of goods"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

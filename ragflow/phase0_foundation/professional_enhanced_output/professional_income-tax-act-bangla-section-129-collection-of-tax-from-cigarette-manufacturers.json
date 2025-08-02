@@ -1,0 +1,63 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 129 Collection of tax from Cigarette manufacturers",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১২৯",
+          "title": "ধারা ১২৯ - সিগারেট ১[উৎপাদনকারী] হইতে কর সংগ্রহ কোনো সিগারেট ২ [ উৎপাদনকারীর ] কাছে ব্যান্ডরোল বিক্রির জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি, ব্যান্ডরোল বি",
+          "content_text": "ধারা ১২৯ - সিগারেট ১[উৎপাদনকারী] হইতে কর সংগ্রহ কোনো সিগারেট ২ [ উৎপাদনকারীর ] কাছে ব্যান্ডরোল বিক্রির জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি, ব্যান্ডরোল বিক্রয়কালে, উক্তরূপ ২ [ উৎপাদনকারীর ] নিকট হইতে ব্যান্ডরোলের মোট মূল্যমানের ১০% (দশ শতাংশ) হারে কর সংগ্রহ করিবেন। ব্যাখ্যা। - এই ধারার উদ্দেশ্যপূরণকল্পে, “সিগারেটের উৎপাদন” অর্থ কোনোরূপ যান্ত্রিক সহায়তা ব্যতীত প্রচলিত বা ঘরোয়া পদ্ধতিতে সিগারেট উৎপাদন। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ৭৮(ক) ধারাবলে উপান্তটীকায় উল্লিখিত “উৎপাদনকারীর” শব্দের পরিবর্তে “উৎপাদনকারী” শব্দ প্রতিস্থাপিত । ২ অর্থ অধ্যাদেশ, ২০২৫ এর ৭৮(খ) ধারাবলে দুইবার উল্লিখিত “প্রস্তুতকারকের” শব্দের পরিবর্তে “উৎপাদনকারীর” শব্দ প্রতিস্থাপিত ।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ধারাবলে উপান্তটীকায় উল্লিখিত “উৎপাদনকারীর” শব্দের পরিবর্তে “উৎপাদনকারী” শব্দ প্রতিস্থাপিত । ২ অর্থ অধ্যাদেশ, ২০২৫ এর ৭৮",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) ধারাবলে দুইবার উল্লিখিত “প্রস্তুতকারকের” শব্দের পরিবর্তে “উৎপাদনকারীর” শব্দ প্রতিস্থাপিত ।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১২৯"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-129-collection-of-tax-from-cigarette-manufacturers/",
+    "original_title": "Income Tax Act Bangla Section 129 Collection of tax from Cigarette manufacturers – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 129 Collection of tax from Cigarette manufacturers"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "TDS Rules Bangla Rules 1 Short title and commencement",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "বিধি ১ – শিরোনাম ও প্রবর্তন (১) এই বিধিমালা উৎসে কর বিধিমালা, ২০২৩ নামে অভিহিত হইবে। (২) এই বিধিমালা",
+          "content_text": "বিধি ১ – শিরোনাম ও প্রবর্তন (১) এই বিধিমালা উৎসে কর বিধিমালা, ২০২৩ নামে অভিহিত হইবে। (২) এই বিধিমালা ১ জুলাই ২০২৩ খ্রিষ্টাব্দ হইতে কার্যকর হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-bangla-rules-1-short-title-and-commencement/",
+    "original_title": "TDS Rules Bangla Rules 1 Short title and commencement – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "TDS Rules Bangla Rules 1 Short title and commencement"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

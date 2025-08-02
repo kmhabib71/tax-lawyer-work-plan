@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 151 Payment of tax where no deduction is made",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৫১",
+          "title": "ধারা ১৫১ - কোনো কর্তন না করিবার ক্ষেত্রে কর পরিশোধ করদাতা কর্তৃক এই আইনের অধীন নিম্নবর্ণিত ক্ষেত্রে সরাসরি কর পরিশোধযোগ্য হইবে, যথা",
+          "content_text": "ধারা ১৫১ - কোনো কর্তন না করিবার ক্ষেত্রে কর পরিশোধ করদাতা কর্তৃক এই আইনের অধীন নিম্নবর্ণিত ক্ষেত্রে সরাসরি কর পরিশোধযোগ্য হইবে, যথা:- (ক) এই অংশের বিধানাবলি সাপেক্ষে আবশ্যক কোনো কর কর্তন বা সংগ্রহ না করা হইলে; (খ) নিয়মিত কর নির্ধারণের পর করদাতার পরিশোধযোগ্য কর অপেক্ষা কর্তন বা সংগ্রহকৃত করের পরিমাণ কম হইলে ঘাটতির সমপরিমাণ; (গ) এই অংশের অধীন কোনো আয় বাবদ কর কর্তন বা সংগ্রহের বিধান করা না হইলে উক্ত আয়ের ক্ষেত্রে।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) এই অংশের বিধানাবলি সাপেক্ষে আবশ্যক কোনো কর কর্তন বা সংগ্রহ না করা হইলে;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) নিয়মিত কর নির্ধারণের পর করদাতার পরিশোধযোগ্য কর অপেক্ষা কর্তন বা সংগ্রহকৃত করের পরিমাণ কম হইলে ঘাটতির সমপরিমাণ;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) এই অংশের অধীন কোনো আয় বাবদ কর কর্তন বা সংগ্রহের বিধান করা না হইলে উক্ত আয়ের ক্ষেত্রে।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৫১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-151-payment-of-tax-where-no-deduction-is-made/",
+    "original_title": "Income Tax Act Bangla Section 151 Payment of tax where no deduction is made – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 151 Payment of tax where no deduction is made"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

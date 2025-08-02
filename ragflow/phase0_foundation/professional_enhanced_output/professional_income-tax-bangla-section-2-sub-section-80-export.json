@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 80 Export",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৮০ - রপ্তানি “রপ্তানি” অর্থ বাংলাদেশের অভ্যন্তর হইতে বাংলাদেশের ভৌগোলিক সীমার বাহিরে কোনো পণ্য বা সেবার সরবরাহ এবং অভ্যন্তরীণ ব্যাক টু ব্যা",
+          "content_text": "ধারা ২ দফা ৮০ - রপ্তানি “রপ্তানি” অর্থ বাংলাদেশের অভ্যন্তর হইতে বাংলাদেশের ভৌগোলিক সীমার বাহিরে কোনো পণ্য বা সেবার সরবরাহ এবং অভ্যন্তরীণ ব্যাক টু ব্যাক এলসির অধীন রপ্তানিমুখী শিল্পে স্থানীয়ভাবে উৎপাদিত কাঁচামাল ও অন্যান্য উপকরণ সরবরাহ ও রপ্তানি অর্থে অন্তর্ভুক্ত হইবে;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-80-export/",
+    "original_title": "Income tax bangla section 2 sub-section 80 Export – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 80 Export"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,133 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "2",
+          "title": "Section 2 Clause 33 - Research and Development “Research and Development” means systematic, investigative and experimental studies which— (a) any such",
+          "content_text": "Section 2 Clause 33 - Research and Development “Research and Development” means systematic, investigative and experimental studies which— (a) any such work never happened before and having or technical risk; (b) shall be from the field of science or technology; (c) should be conducted for the purpose of acquiring new knowledge; or (d) be conducted for the purpose of using the results of studies for the purpose of production or development of materials, equipment, products, agricultural products or processes, Studies conducted for the following purposes shall not be included in the meaning of research or development, namely:- (i) quality control or routine testing of materials, equipment or products; (ii) research conducted in the arts and humanities and social sciences; (iii) creation and development of financial instruments or financial products; (iv) market research or sales promotion, routine data collection, efficiency surveys or management studies; (v) routine substitution or alteration of materials, equipment products, processes or production methods; (vi) minor (cosmetic) alterations or style changes in materials, equipment, products, processes or production methods; or (vii) create or improve trademarks or reputation; Moreover, as per",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) any such work never happened before and having or technical risk;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) shall be from the field of science or technology;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "c",
+              "text": "(c) should be conducted for the purpose of acquiring new knowledge; or",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "d",
+              "text": "(d) be conducted for the purpose of using the results of studies for the purpose of production or development of materials, equipment, products, agricultural products or processes, Studies conducted for the following purposes shall not be included in the meaning of research or development, namely:-",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "i",
+              "text": "(i) quality control or routine testing of materials, equipment or products; (ii) research conducted in the arts and humanities and social sciences; (iii) creation and development of financial instruments or financial products; (iv) market research or sales promotion, routine data collection, efficiency surveys or management studies;",
+              "sub_clauses": [
+                {
+                  "identifier": "i",
+                  "text": "(i) quality control or routine testing of materials, equipment or products; (ii) research conducted in the arts and humanities and social sciences; (iii) creation and development of financial instruments or financial products; (iv) market research or sales promotion, routine data collection, efficiency surveys or management studies;"
+                },
+                {
+                  "identifier": "ii",
+                  "text": "(ii) research conducted in the arts and humanities and social sciences; (iii) creation and development of financial instruments or financial products; (iv) market research or sales promotion, routine data collection, efficiency surveys or management studies;"
+                },
+                {
+                  "identifier": "iii",
+                  "text": "(iii) creation and development of financial instruments or financial products; (iv) market research or sales promotion, routine data collection, efficiency surveys or management studies;"
+                },
+                {
+                  "identifier": "iv",
+                  "text": "(iv) market research or sales promotion, routine data collection, efficiency surveys or management studies;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "v",
+              "text": "(v) routine substitution or alteration of materials, equipment products, processes or production methods; (vi) minor (cosmetic) alterations or style changes in materials, equipment, products, processes or production methods; or (vii) create or improve trademarks or reputation; Moreover, as per",
+              "sub_clauses": [
+                {
+                  "identifier": "v",
+                  "text": "(v) routine substitution or alteration of materials, equipment products, processes or production methods; (vi) minor (cosmetic) alterations or style changes in materials, equipment, products, processes or production methods; or (vii) create or improve trademarks or reputation; Moreover, as per"
+                },
+                {
+                  "identifier": "vi",
+                  "text": "(vi) minor (cosmetic) alterations or style changes in materials, equipment, products, processes or production methods; or (vii) create or improve trademarks or reputation; Moreover, as per"
+                },
+                {
+                  "identifier": "vii",
+                  "text": "(vii) create or improve trademarks or reputation; Moreover, as per"
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "2"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-2-clause-33/",
+    "original_title": "Income Tax Act 2023 Section 2 Clause 33 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

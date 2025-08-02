@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "35",
+          "title": "Section 35 - Definition For the purposes of this chapter,— (1) “House Property” means— (a) furniture, fixtures, fittings which are an integral part of",
+          "content_text": "Section 35 - Definition For the purposes of this chapter,— (1) “House Property” means— (a) furniture, fixtures, fittings which are an integral part of the said house; and (b) the land on which the house is situated, but shall not include any factory building; (2) “Lease” means the grant of the right to use property for a specified period, whether or not owned, by a scheduled bank, investment bank, development finance institution or mudaraba or leasing company to any other person without relinquishing ownership or title; shall not include the payment of rent; (3) “Property” means house property, land, furniture, fixtures, factory buildings, business premises, machinery, personal vehicles and any other physical asset of capital nature, which is rentable. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) “House Property” means— (a) furniture, fixtures, fittings which are an integral part of the said house; and (b) the land on which the house is situated, but shall not include any factory building;",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) furniture, fixtures, fittings which are an integral part of the said house; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the land on which the house is situated, but shall not include any factory building;",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) “Lease” means the grant of the right to use property for a specified period, whether or not owned, by a scheduled bank, investment bank, development finance institution or mudaraba or leasing company to any other person without relinquishing ownership or title; shall not include the payment of rent;",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) “Property” means house property, land, furniture, fixtures, factory buildings, business premises, machinery, personal vehicles and any other physical asset of capital nature, which is rentable. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "35"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-35/",
+    "original_title": "Income Tax Act 2023 Section 35 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

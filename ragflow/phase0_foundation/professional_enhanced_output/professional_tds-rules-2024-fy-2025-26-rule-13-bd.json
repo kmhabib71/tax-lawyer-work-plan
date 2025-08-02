@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "TDS Rules 2024 FY 2025-26 Rule 13 BD",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "141",
+          "title": "Section 141 of ITA 2023",
+          "content_text": "Section 141 of ITA 2023",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "141"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-2024-fy-2025-26-rule-13-bd/",
+    "original_title": "TDS Rules 2024 FY 2025-26 Rule 13 BD – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "TDS Rules 2024 FY 2025-26 Rule 13 BD"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

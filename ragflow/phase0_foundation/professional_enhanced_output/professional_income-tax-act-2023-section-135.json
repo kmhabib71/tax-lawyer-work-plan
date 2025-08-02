@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 135",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "135",
+          "title": "Section 135 - Collection of Tax on Transfer of Securities (1) Bangladesh Securities and Exchange Commission or, as the case may be, the Stock Exchange",
+          "content_text": "Section 135 - Collection of Tax on Transfer of Securities (1) Bangladesh Securities and Exchange Commission or, as the case may be, the Stock Exchange at the time of declaration of transfer of shares by any sponsor shareholder or any director or any holding company in accordance with the permission of transfer of units of the sponsor or mutual fund listed on the stock exchange or any mutual fund sponsor or holder will collect tax at the rate of 5% (five percent) on the difference between the transfer price and the acquisition cost of the securities or mutual fund units. (2) For the purposes of this section- (a) “Transfer” includes a transfer by gift, donation, bequest or under any irrevocable trust; (b) the “Transfer Price” of any security or mutual fund unit shall be deemed to be the closing price of the security or mutual fund unit on the day approved by the Securities and Exchange Commission or the Stock Exchange, or where such securities or mutual fund unit is sold on such day; not when the securities or mutual fund units are last sold at the closing price of that day.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Bangladesh Securities and Exchange Commission or, as the case may be, the Stock Exchange at the time of declaration of transfer of shares by any sponsor shareholder or any director or any holding company in accordance with the permission of transfer of units of the sponsor or mutual fund listed on the stock exchange or any mutual fund sponsor or holder will collect tax at the rate of 5% (five percent) on the difference between the transfer price and the acquisition cost of the securities or mutual fund units.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) For the purposes of this section- (a) “Transfer” includes a transfer by gift, donation, bequest or under any irrevocable trust; (b) the “Transfer Price” of any security or mutual fund unit shall be deemed to be the closing price of the security or mutual fund unit on the day approved by the Securities and Exchange Commission or the Stock Exchange, or where such securities or mutual fund unit is sold on such day; not when the securities or mutual fund units are last sold at the closing price of that day.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “Transfer” includes a transfer by gift, donation, bequest or under any irrevocable trust;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the “Transfer Price” of any security or mutual fund unit shall be deemed to be the closing price of the security or mutual fund unit on the day approved by the Securities and Exchange Commission or the Stock Exchange, or where such securities or mutual fund unit is sold on such day; not when the securities or mutual fund units are last sold at the closing price of that day.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "135"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-135/",
+    "original_title": "Income Tax Act 2023 Section 135 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 135"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 9 Exercise of jurisdiction by successor",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯",
+          "title": "ধারা ৯ - উত্তরসূরি কর্তৃক কর্তৃত্ব প্রয়োগ এই আইনের অধীন কোনো কার্যধারার ক্ষেত্রে, যদি কোনো আয়কর কর্তৃপক্ষ অন্য কোনো আয়কর কর্তৃপক্ষ দ্বারা স্থলাভিষিক্ত",
+          "content_text": "ধারা ৯ - উত্তরসূরি কর্তৃক কর্তৃত্ব প্রয়োগ এই আইনের অধীন কোনো কার্যধারার ক্ষেত্রে, যদি কোনো আয়কর কর্তৃপক্ষ অন্য কোনো আয়কর কর্তৃপক্ষ দ্বারা স্থলাভিষিক্ত হয়, তাহা হইলে উক্তরূপ আয়কর কর্তৃপক্ষ পূর্বসূরি কোনো কার্য যে পর্যায়ে অসমাপ্ত রাখিয়া গিয়াছেন উক্ত পর্যায় হইতে শুরু করিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-9-exercise-of-jurisdiction-by-successor/",
+    "original_title": "Income Tax Act Bangla Section 9 Exercise of jurisdiction by successor – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 9 Exercise of jurisdiction by successor"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

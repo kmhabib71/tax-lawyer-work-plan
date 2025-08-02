@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 273 Penalty for incorrect or false audit report by chartered accountant",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৭৩",
+          "title": "ধারা ২৭৩ - চার্টার্ড অ্যাকাউন্টেন্ট কর্তৃক জাল নিরীক্ষা প্রতিবেদন প্রণয়নের জন্য জরিমানা যেইক্ষেত্রে এই আইনের অধীন কোনো কার্যক্রম চলাকালে, উপকর কমিশনার",
+          "content_text": "ধারা ২৭৩ - চার্টার্ড অ্যাকাউন্টেন্ট কর্তৃক জাল নিরীক্ষা প্রতিবেদন প্রণয়নের জন্য জরিমানা যেইক্ষেত্রে এই আইনের অধীন কোনো কার্যক্রম চলাকালে, উপকর কমিশনার, অতিরিক্ত কর কমিশনার (আপিল), কমিশনার (আপিল) অথবা কর আপিল ট্রাইব্যুনাল সন্দেহাতীতভাবে এই মর্মে সন্তুষ্ট হন যে, নিরীক্ষা প্রতিবেদনটি- (ক) কোনো চার্টার্ড অ্যাকাউন্টেন্ট কর্তৃক এই মর্মে প্রত্যয়িত নহে যে, হিসাব সংরক্ষণ, বিবরণী প্রস্তুত ও রিপোর্ট করিবার ক্ষেত্রে International Accounting Standards (IAS) ও International Financial Reporting Standards (IFRS) এবং নিরীক্ষার ক্ষেত্রে ইন্টারন্যাশনাল স্ট্যান্ডার্ডস অন অডিটিং (আই এসএ) অনুসরণ করা হইয়াছে; অথবা (খ) অসত্য বা অশুদ্ধ হয়, সেইক্ষেত্রে তিনি উক্ত চার্টার্ড অ্যাকাউন্টেন্টের উপর সর্বনিম্ন ৫০ (পঞ্চাশ) হাজার টাকা এবং সর্বোচ্চ ২ (দুই) লক্ষ টাকা জরিমানা আরোপ করিবেন।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) কোনো চার্টার্ড অ্যাকাউন্টেন্ট কর্তৃক এই মর্মে প্রত্যয়িত নহে যে, হিসাব সংরক্ষণ, বিবরণী প্রস্তুত ও রিপোর্ট করিবার ক্ষেত্রে International Accounting Standards (IAS) ও International Financial Reporting Standards (IFRS) এবং নিরীক্ষার ক্ষেত্রে ইন্টারন্যাশনাল স্ট্যান্ডার্ডস অন অডিটিং (আই এসএ) অনুসরণ করা হইয়াছে; অথবা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) অসত্য বা অশুদ্ধ হয়, সেইক্ষেত্রে তিনি উক্ত চার্টার্ড অ্যাকাউন্টেন্টের উপর সর্বনিম্ন ৫০ (পঞ্চাশ) হাজার টাকা এবং সর্বোচ্চ ২ (দুই) লক্ষ টাকা জরিমানা আরোপ করিবেন।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২৭৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-273-penalty-for-incorrect-or-false-audit-report-by-chartered-accountant/",
+    "original_title": "Income Tax Act Bangla Section 273 Penalty for incorrect or false audit report by chartered accountant – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 273 Penalty for incorrect or false audit report by chartered accountant"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

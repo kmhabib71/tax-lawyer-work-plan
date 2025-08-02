@@ -1,0 +1,71 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 189 Assessment in case of constitution of new successor firm",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৮৯",
+          "title": "ধারা ১৮৯ - উত্তরাধিকারী নূতন ফার্ম গঠনের ক্ষেত্রে কর নির্ধারণ যেইক্ষেত্রে কোনো ফার্মের কর নির্ধারণের সময় প্রতীয়মান হয় যে, কর নির্ধারণ সংশ্লিষ্ট ফার্মে",
+          "content_text": "ধারা ১৮৯ - উত্তরাধিকারী নূতন ফার্ম গঠনের ক্ষেত্রে কর নির্ধারণ যেইক্ষেত্রে কোনো ফার্মের কর নির্ধারণের সময় প্রতীয়মান হয় যে, কর নির্ধারণ সংশ্লিষ্ট ফার্মের উত্তরসূরি হিসাবে নূতন ফার্ম প্রতিষ্ঠা করা হইয়াছে এবং যাহার কর নির্ধারণ",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৮৯"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৮৮",
+          "title": "ধারা ১৮৮ দ্বারা নির্ধারণ করা সম্ভব নহে সেইক্ষেত্রে",
+          "content_text": "ধারা ১৮৮ দ্বারা নির্ধারণ করা সম্ভব নহে সেইক্ষেত্রে",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৮৮"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৯০",
+          "title": "ধারা ১৯০ এর অধীন ব্যবসার উত্তরাধিকার সংক্রান্ত কর নির্ধারণী বিধানের আলোকে পূর্বসূরি ফার্ম এবং উত্তরসূরি ফার্ম এর জন্য পৃথক কর নির্ধারণ করিতে হইবে",
+          "content_text": "ধারা ১৯০ এর অধীন ব্যবসার উত্তরাধিকার সংক্রান্ত কর নির্ধারণী বিধানের আলোকে পূর্বসূরি ফার্ম এবং উত্তরসূরি ফার্ম এর জন্য পৃথক কর নির্ধারণ করিতে হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৯০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-189-assessment-in-case-of-constitution-of-new-successor-firm/",
+    "original_title": "Income Tax Act Bangla Section 189 Assessment in case of constitution of new successor firm – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 189 Assessment in case of constitution of new successor firm"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

@@ -1,0 +1,86 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "56",
+          "title": "Section 56 - Special Business Income (1) Notwithstanding anything contained in any other provision of this Act, all expenditure disallowed under claus",
+          "content_text": "Section 56 - Special Business Income (1) Notwithstanding anything contained in any other provision of this Act, all expenditure disallowed under clauses other than those covered by clause (d) of section 55 shall be treated as special business income. (2) No expenditure, adjustment of losses or carry forward and no allowance under the Third Schedule shall be allowed deemed to be income of special areas as “special business income” or “income from business” under this Chapter and such income shall be taxable at the ordinary rate, Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in any other provision of this Act, all expenditure disallowed under clauses other than those covered by clause (d) of section 55 shall be treated as special business income.",
+              "clauses": [
+                {
+                  "identifier": "d",
+                  "text": "(d) of section 55 shall be treated as special business income.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) No expenditure, adjustment of losses or carry forward and no allowance under the Third Schedule shall be allowed deemed to be income of special areas as “special business income” or “income from business” under this Chapter and such income shall be taxable at the ordinary rate, Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "56"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-56/",
+    "original_title": "Income Tax Act 2023 Section 56 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

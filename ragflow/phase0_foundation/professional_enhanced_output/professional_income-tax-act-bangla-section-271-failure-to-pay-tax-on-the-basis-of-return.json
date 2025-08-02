@@ -1,0 +1,62 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ৭৫ ধারাবলে “ধারা ১৭৩ এর আবশ্যকতা অনুযায়ী কর” শব্দগুলি ও সংখ্যার পরিবর্তে “স্বীকৃত করদায়” শব্দগুলি প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৭১",
+          "title": "ধারা ২৭১ - রিটার্নের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরিমানা এই আইনের অধীন কোনো কার্যক্রম চলাকালে উপকর কমিশনার যদি এই মর্মে সন্তুষ্ট হন যে, কোনো ব্",
+          "content_text": "ধারা ২৭১ - রিটার্নের ভিত্তিতে কর পরিশোধে ব্যর্থতার জন্য জরিমানা এই আইনের অধীন কোনো কার্যক্রম চলাকালে উপকর কমিশনার যদি এই মর্মে সন্তুষ্ট হন যে, কোনো ব্যক্তি ১ [ স্বীকৃত করদায় ] পরিশোধ করেন নাই, সেইক্ষেত্রে উপকর কমিশনার উক্ত ব্যক্তির উপর সম্পূর্ণ করের অনধিক ২৫% (পঁচিশ শতাংশ) অথবা, ক্ষেত্রমত, অপরিশোধিত আংশিক করের সমপরিমাণ পর্যন্ত জরিমানা আরোপ করিতে পারিবেন। ১ অর্থ আইন, ২০২৪ এর ৭৫ ধারাবলে “",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৭১"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৭৩",
+          "title": "ধারা ১৭৩ এর আবশ্যকতা অনুযায়ী কর” শব্দগুলি ও সংখ্যার পরিবর্তে “স্বীকৃত করদায়” শব্দগুলি প্রতিস্থাপিত",
+          "content_text": "ধারা ১৭৩ এর আবশ্যকতা অনুযায়ী কর” শব্দগুলি ও সংখ্যার পরিবর্তে “স্বীকৃত করদায়” শব্দগুলি প্রতিস্থাপিত ।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৭৩"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-271-failure-to-pay-tax-on-the-basis-of-return/",
+    "original_title": "Income Tax Act Bangla Section 271 Failure to pay tax on the basis of return – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "অর্থ আইন, ২০২৪ এর ৭৫ ধারাবলে “ধারা ১৭৩ এর আবশ্যকতা অনুযায়ী কর” শব্দগুলি ও সংখ্যার পরিবর্তে “স্বীকৃত করদায়” শব্দগুলি প্রতিস্থাপিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

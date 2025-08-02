@@ -1,0 +1,106 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 62 Annual value",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬২ - বার্ষিক মূল্য (৬২) “বার্ষিক মূল্য” অর্থ কোনো সম্পত্তি ভাড়ার ক্ষেত্রে- ১ [ (ক) কোনো সম্পত্তির যুক্তিসঙ্গত বার্ষিক ভাড়া; ] (খ) যেইক্ষেত",
+          "content_text": "ধারা ২ দফা ৬২ - বার্ষিক মূল্য (৬২) “বার্ষিক মূল্য” অর্থ কোনো সম্পত্তি ভাড়ার ক্ষেত্রে- ১ [ (ক) কোনো সম্পত্তির যুক্তিসঙ্গত বার্ষিক ভাড়া; ] (খ) যেইক্ষেত্রে বার্ষিক ভাড়ার পরিমাণ উপ-দফা (ক) অনুযায়ী নিরূপিত অঙ্কের অধিক হয়, সেইক্ষেত্রে বার্ষিক ভাড়া; ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯(জ) ধারাবলে নিম্নরূপ উপ-দফা (ক) এর পরিবর্তে প্রতিস্থাপিত। [ (ক) বৎসরান্তে সম্পত্তির যুক্তিসংগত ভাড়া; বা ]",
+          "subsections": [
+            {
+              "identifier": "৬২",
+              "text": "(৬২) “বার্ষিক মূল্য” অর্থ কোনো সম্পত্তি ভাড়ার ক্ষেত্রে- ১ [ (ক) কোনো সম্পত্তির যুক্তিসঙ্গত বার্ষিক ভাড়া; ] (খ) যেইক্ষেত্রে বার্ষিক ভাড়ার পরিমাণ উপ-দফা (ক) অনুযায়ী নিরূপিত অঙ্কের অধিক হয়, সেইক্ষেত্রে বার্ষিক ভাড়া; ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯(জ) ধারাবলে নিম্নরূপ উপ-দফা (ক) এর পরিবর্তে প্রতিস্থাপিত। [ (ক) বৎসরান্তে সম্পত্তির যুক্তিসংগত ভাড়া; বা ]",
+              "clauses": [
+                {
+                  "identifier": "ক",
+                  "text": "(ক) কোনো সম্পত্তির যুক্তিসঙ্গত বার্ষিক ভাড়া; ]",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "খ",
+                  "text": "(খ) যেইক্ষেত্রে বার্ষিক ভাড়ার পরিমাণ উপ-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "(ক) অনুযায়ী নিরূপিত অঙ্কের অধিক হয়, সেইক্ষেত্রে বার্ষিক ভাড়া; ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২৯",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "জ",
+                  "text": "(জ) ধারাবলে নিম্নরূপ উপ-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "(ক) এর পরিবর্তে প্রতিস্থাপিত। [",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ক",
+                  "text": "(ক) বৎসরান্তে সম্পত্তির যুক্তিসংগত ভাড়া; বা ]",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-62-annual-value/",
+    "original_title": "Income tax bangla section 2 sub-section 62 Annual value – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 62 Annual value"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

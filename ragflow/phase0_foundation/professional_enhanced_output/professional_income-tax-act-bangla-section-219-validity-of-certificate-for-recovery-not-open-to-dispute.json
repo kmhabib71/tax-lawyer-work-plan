@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 219 Validity of certificate for recovery not open to dispute",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২১৯",
+          "title": "ধারা ২১৯ - আদায়ের সার্টিফিকেটের বৈধতা বিবাদযোগ্য নহে উপকর কমিশনার",
+          "content_text": "ধারা ২১৯ - আদায়ের সার্টিফিকেটের বৈধতা বিবাদযোগ্য নহে উপকর কমিশনার",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২১৯"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২১৬",
+          "title": "ধারা ২১৬ এর অধীন কর আদায়ের নিমিত্তে ট্যাক্স রিকোভারি অফিসারের নিকট সার্টিফিকেট প্রেরণ করিলে করদাতা কর নির্ধারণের সঠিকতার বিষয়ে ট্যাক্স রিকোভারি অফিসার",
+          "content_text": "ধারা ২১৬ এর অধীন কর আদায়ের নিমিত্তে ট্যাক্স রিকোভারি অফিসারের নিকট সার্টিফিকেট প্রেরণ করিলে করদাতা কর নির্ধারণের সঠিকতার বিষয়ে ট্যাক্স রিকোভারি অফিসারের নিকট আপত্তি তুলিবেন না এবং ট্যাক্স রিকোভারি অফিসার সার্টিফিকেটের কোনো গ্রাউন্ডের বিষয়ে কোনোরূপ আপত্তি গ্রহণ করিবেন না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২১৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-219-validity-of-certificate-for-recovery-not-open-to-dispute/",
+    "original_title": "Income Tax Act Bangla Section 219 Validity of certificate for recovery not open to dispute – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 219 Validity of certificate for recovery not open to dispute"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

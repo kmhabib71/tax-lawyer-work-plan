@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 63 Time of computation of income",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৬৩",
+          "title": "ধারা ৬৩ - আয় পরিগণনার সময় কোনো ব্যক্তি যেই আয়বর্ষে আর্থিক পরিসম্পদ হইতে আয় প্রাপ্ত হইবেন বা যেই আয়বর্ষে তাহার হিসাবে উক্ত আয় জমা হইবে, এর মধ্যে যাহা প",
+          "content_text": "ধারা ৬৩ - আয় পরিগণনার সময় কোনো ব্যক্তি যেই আয়বর্ষে আর্থিক পরিসম্পদ হইতে আয় প্রাপ্ত হইবেন বা যেই আয়বর্ষে তাহার হিসাবে উক্ত আয় জমা হইবে, এর মধ্যে যাহা পূর্বে ঘটে, সেই আয়বর্ষে তাহা অন্তর্ভুক্ত হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-63-time-of-computation-of-income/",
+    "original_title": "Income Tax Act Bangla Section 63 Time of computation of income – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 63 Time of computation of income"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩৩ - মূসক ছাড়পত্র প্রদান (১) কোন করদাতা নির্ধারিত শর্ত ও পদ্ধতিতে মূসক ছাড়পত্রের জন্য কমিশনারের নিকট আবেদন করিতে পারিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৩৩",
+          "title": "ধারা ১৩৩ - মূসক ছাড়পত্র প্রদান (১) কোন করদাতা নির্ধারিত শর্ত ও পদ্ধতিতে মূসক ছাড়পত্রের জন্য কমিশনারের নিকট আবেদন করিতে পারিবেন",
+          "content_text": "ধারা ১৩৩ - মূসক ছাড়পত্র প্রদান (১) কোন করদাতা নির্ধারিত শর্ত ও পদ্ধতিতে মূসক ছাড়পত্রের জন্য কমিশনারের নিকট আবেদন করিতে পারিবেন। (২) কমিশনার নির্ধারিত পদ্ধতিতে উক্ত করদাতাকে মূসক ছাড়পত্র প্রদান করিতে পারিবেন, যদি তিনি এই মর্মে নিশ্চিত হন যে― (ক) করদাতার নিকট কোন কর পাওনা বা বকেয়া নাই; বা (খ) করদাতা কর পরিশোধের জন্য জামানত প্রদান করিয়াছেন। Click here to see Rule 116 of VAT & SD Rules 2016 Click here to see Rule 117 of VAT & SD Rules 2016",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) কোন করদাতা নির্ধারিত শর্ত ও পদ্ধতিতে মূসক ছাড়পত্রের জন্য কমিশনারের নিকট আবেদন করিতে পারিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) কমিশনার নির্ধারিত পদ্ধতিতে উক্ত করদাতাকে মূসক ছাড়পত্র প্রদান করিতে পারিবেন, যদি তিনি এই মর্মে নিশ্চিত হন যে― (ক) করদাতার নিকট কোন কর পাওনা বা বকেয়া নাই; বা (খ) করদাতা কর পরিশোধের জন্য জামানত প্রদান করিয়াছেন। Click here to see Rule 116 of VAT & SD Rules 2016 Click here to see Rule 117 of VAT & SD Rules 2016",
+              "clauses": [
+                {
+                  "identifier": "ক",
+                  "text": "(ক) করদাতার নিকট কোন কর পাওনা বা বকেয়া নাই; বা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "খ",
+                  "text": "(খ) করদাতা কর পরিশোধের জন্য জামানত প্রদান করিয়াছেন। Click here to see Rule 116 of VAT & SD Rules 2016 Click here to see Rule 117 of VAT & SD Rules 2016",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৩৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-133-issuance-of-vat-clearance-certificate/",
+    "original_title": "VAT & SD Act Bangla Section 133 Issuance of VAT clearance certificate",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩৩ - মূসক ছাড়পত্র প্রদান (১) কোন করদাতা নির্ধারিত শর্ত ও পদ্ধতিতে মূসক ছাড়পত্রের জন্য কমিশনারের নিকট আবেদন করিতে পারিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

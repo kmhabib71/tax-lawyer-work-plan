@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১০৮ - ফরম, নোটিশ এবং দলিলাদির সত্যায়ন এই আইনের উদ্দেশ্য পূরণকল্পে কোন ফরম, নোটিশ, দাখিলপত্র এবং অন্যান্য দলিলের আকার এবং আকৃতি বোর্ড যেরূপ উপযুক্ত বলিয়া বিবেচনা করিবে, সেইরূপ পদ্ধতিতে নির্ধারণ করিতে পারিবে",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০৮",
+          "title": "ধারা ১০৮ - ফরম, নোটিশ এবং দলিলাদির সত্যায়ন এই আইনের উদ্দেশ্য পূরণকল্পে কোন ফরম, নোটিশ, দাখিলপত্র এবং অন্যান্য দলিলের আকার এবং আকৃতি বোর্ড যেরূপ উপযুক্",
+          "content_text": "ধারা ১০৮ - ফরম, নোটিশ এবং দলিলাদির সত্যায়ন এই আইনের উদ্দেশ্য পূরণকল্পে কোন ফরম, নোটিশ, দাখিলপত্র এবং অন্যান্য দলিলের আকার এবং আকৃতি বোর্ড যেরূপ উপযুক্ত বলিয়া বিবেচনা করিবে, সেইরূপ পদ্ধতিতে নির্ধারণ করিতে পারিবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-108-authentication-of-forms-notices-and-documents/",
+    "original_title": "VAT & SD Act Bangla Section 108 Authentication of forms, notices and documents",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১০৮ - ফরম, নোটিশ এবং দলিলাদির সত্যায়ন এই আইনের উদ্দেশ্য পূরণকল্পে কোন ফরম, নোটিশ, দাখিলপত্র এবং অন্যান্য দলিলের আকার এবং আকৃতি বোর্ড যেরূপ উপযুক্ত বলিয়া বিবেচনা করিবে, সেইরূপ পদ্ধতিতে নির্ধারণ করিতে পারিবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

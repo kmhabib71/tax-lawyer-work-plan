@@ -1,0 +1,90 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 150 Credit of tax deducted or collected at source",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৫০",
+          "title": "ধারা ১৫০ - উৎসে কর্তনকৃত বা সংগ্রহকৃত করের ক্রেডিট প্রদান (১) এই অংশের অধীন উৎসে কর কর্তন বা সংগ্রহ করিয়া তাহা সরকারের হিসাবে জমা প্রদান করা হইলে উক্ত",
+          "content_text": "ধারা ১৫০ - উৎসে কর্তনকৃত বা সংগ্রহকৃত করের ক্রেডিট প্রদান (১) এই অংশের অধীন উৎসে কর কর্তন বা সংগ্রহ করিয়া তাহা সরকারের হিসাবে জমা প্রদান করা হইলে উক্ত কর যে ব্যক্তির আয় হইতে কর্তন বা সংগ্রহ করা হইয়াছে সেই ব্যক্তির আয়ের উপর কর পরিশোধ করা হইয়াছে মর্মে বিবেচিত হইবে। (২) উপ-ধারা (১) এর অধীন আয় কর পরিশোধ করা হইলে, যেই আয়বর্ষে কর কর্তন বা সংগ্রহ করা হইয়াছে, সেই আয়বর্ষে উক্ত ব্যক্তির করদায় নির্ধারণের ক্ষেত্রে উহার ক্রেডিট প্রদান করা হইবে। (৩) যেইক্ষেত্রে কোনো ব্যক্তি কর্তৃক অপর ব্যক্তির পক্ষে উৎসে কর পরিশোধ করা হয়, সেইক্ষেত্রে উপ-ধারা (২) এ উল্লিখিত ক্রেডিট উক্ত অপর ব্যক্তির করদায় নির্ধারণের ক্ষেত্রে প্রদান করা হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই অংশের অধীন উৎসে কর কর্তন বা সংগ্রহ করিয়া তাহা সরকারের হিসাবে জমা প্রদান করা হইলে উক্ত কর যে ব্যক্তির আয় হইতে কর্তন বা সংগ্রহ করা হইয়াছে সেই ব্যক্তির আয়ের উপর কর পরিশোধ করা হইয়াছে মর্মে বিবেচিত হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন আয় কর পরিশোধ করা হইলে, যেই আয়বর্ষে কর কর্তন বা সংগ্রহ করা হইয়াছে, সেই আয়বর্ষে উক্ত ব্যক্তির করদায় নির্ধারণের ক্ষেত্রে উহার ক্রেডিট প্রদান করা হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) যেইক্ষেত্রে কোনো ব্যক্তি কর্তৃক অপর ব্যক্তির পক্ষে উৎসে কর পরিশোধ করা হয়, সেইক্ষেত্রে",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এ উল্লিখিত ক্রেডিট উক্ত অপর ব্যক্তির করদায় নির্ধারণের ক্ষেত্রে প্রদান করা হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৫০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-150-credit-of-tax-deducted-or-collected-at-source/",
+    "original_title": "Income Tax Act Bangla Section 150 Credit of tax deducted or collected at source – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 150 Credit of tax deducted or collected at source"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 7,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

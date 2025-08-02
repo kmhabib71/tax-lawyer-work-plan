@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 310 The provisions of this Part shall be consistent with other provisions",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩১০",
+          "title": "ধারা ৩১০ - এই অংশের বিধানসমূহ অন্যান্য বিধানের সহিত সামঞ্জস্যপূর্ণ হইবে (১) এই অংশের বিধানসমূহ অন্যান্য আইনের বিধানের ব্যত্যয় না ঘটাইয়া ফৌজদারি অপরাধ ",
+          "content_text": "ধারা ৩১০ - এই অংশের বিধানসমূহ অন্যান্য বিধানের সহিত সামঞ্জস্যপূর্ণ হইবে (১) এই অংশের বিধানসমূহ অন্যান্য আইনের বিধানের ব্যত্যয় না ঘটাইয়া ফৌজদারি অপরাধ মামলা পরিচালনার ক্ষেত্রে প্রয়োগযোগ্য হইবে। (২) এই অংশের বিধানসমূহ এই আইনের অধীন প্রণীত বা প্রণীতব্য অন্য কোনো আদেশের হানি না ঘটাইয়া স্বাধীনভাবে কার্যকর হইবে এবং সময়ের সীমাবদ্ধতার কারণে বা অন্য কোনো কারণে আদেশ জারি না করিবার বিষয়ে তাহা প্রতিরক্ষক হইবে না।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই অংশের বিধানসমূহ অন্যান্য আইনের বিধানের ব্যত্যয় না ঘটাইয়া ফৌজদারি অপরাধ মামলা পরিচালনার ক্ষেত্রে প্রয়োগযোগ্য হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এই অংশের বিধানসমূহ এই আইনের অধীন প্রণীত বা প্রণীতব্য অন্য কোনো আদেশের হানি না ঘটাইয়া স্বাধীনভাবে কার্যকর হইবে এবং সময়ের সীমাবদ্ধতার কারণে বা অন্য কোনো কারণে আদেশ জারি না করিবার বিষয়ে তাহা প্রতিরক্ষক হইবে না।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-310-the-provisions-of-this-part-shall-be-consistent-with-other-provisions/",
+    "original_title": "Income Tax Act Bangla Section 310 The provisions of this Part shall be consistent with other provisions – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 310 The provisions of this Part shall be consistent with other provisions"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

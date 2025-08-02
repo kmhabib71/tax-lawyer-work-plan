@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 238 Statement of international transactions to be submitted",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৩৮",
+          "title": "ধারা ২৩৮ - আন্তর্জাতিক লেনদেন সম্পর্কিত বিবরণী দাখিল আন্তর্জাতিক লেনদেন রহিয়াছে এইরূপ প্রত্যেক ব্যক্তি রিটার্নের সহিত বিধি দ্বারা নির্ধারিত ফরমে ও পদ্",
+          "content_text": "ধারা ২৩৮ - আন্তর্জাতিক লেনদেন সম্পর্কিত বিবরণী দাখিল আন্তর্জাতিক লেনদেন রহিয়াছে এইরূপ প্রত্যেক ব্যক্তি রিটার্নের সহিত বিধি দ্বারা নির্ধারিত ফরমে ও পদ্ধতিতে একটি আন্তর্জাতিক লেনদেন সম্পর্কিত বিবরণী দাখিল করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৩৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-238-statement-of-international-transactions-to-be-submitted/",
+    "original_title": "Income Tax Act Bangla Section 238 Statement of international transactions to be submitted – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 238 Statement of international transactions to be submitted"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

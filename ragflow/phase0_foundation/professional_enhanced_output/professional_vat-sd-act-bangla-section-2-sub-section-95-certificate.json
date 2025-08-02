@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৫ - সনদপত্র ‘‘সনদপত্র’’ অর্থ এই আইনের অধীন ১ [সংশ্লিষ্ট কর্মকর্তা] কর্তৃক সরবরাহকৃত কোন সনদপত্র; ১ অর্থ আইন, ২০১৯ এর ৫৩(২১) ধারাবলে “কমিশনার” শব্দটির পরিবর্তে “সংশ্লিষ্ট কর্মকর্তা” শব্দগুলি প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৯৫ - সনদপত্র ‘‘সনদপত্র’’ অর্থ এই আইনের অধীন ১ [সংশ্লিষ্ট কর্মকর্তা] কর্তৃক সরবরাহকৃত কোন সনদপত্র; ১ অর্থ আইন, ২০১৯ এর ৫৩(২১) ধারাবলে “কমিশন",
+          "content_text": "ধারা ২ দফা ৯৫ - সনদপত্র ‘‘সনদপত্র’’ অর্থ এই আইনের অধীন ১ [সংশ্লিষ্ট কর্মকর্তা] কর্তৃক সরবরাহকৃত কোন সনদপত্র; ১ অর্থ আইন, ২০১৯ এর ৫৩(২১) ধারাবলে “কমিশনার” শব্দটির পরিবর্তে “সংশ্লিষ্ট কর্মকর্তা” শব্দগুলি প্রতিস্থাপিত।",
+          "subsections": [
+            {
+              "identifier": "২১",
+              "text": "(২১) ধারাবলে “কমিশনার” শব্দটির পরিবর্তে “সংশ্লিষ্ট কর্মকর্তা” শব্দগুলি প্রতিস্থাপিত।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-95-certificate/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 95 Certificate",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৫ - সনদপত্র ‘‘সনদপত্র’’ অর্থ এই আইনের অধীন ১ [সংশ্লিষ্ট কর্মকর্তা] কর্তৃক সরবরাহকৃত কোন সনদপত্র; ১ অর্থ আইন, ২০১৯ এর ৫৩(২১) ধারাবলে “কমিশনার” শব্দটির পরিবর্তে “সংশ্লিষ্ট কর্মকর্তা” শব্দগুলি প্রতিস্থাপিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

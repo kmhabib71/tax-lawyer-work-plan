@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 78 Total income",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৭৮ - মোট আয় “মোট আয়” অর্থ এই আইনে বর্ণিত পদ্ধতিতে হিসাবকৃত",
+          "content_text": "ধারা ২ দফা ৭৮ - মোট আয় “মোট আয়” অর্থ এই আইনে বর্ণিত পদ্ধতিতে হিসাবকৃত",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২৬",
+          "title": "ধারা ২৬ এ উল্লিখিত মোট আয়, এবং তৎসহ এই আইনের বিধানাবলির অধীন কোনো করদাতার সর্বমোট আয়ের সহিত সংযুক্ত হইতে পারে এইরূপ অন্য যেকোনো আয়;",
+          "content_text": "ধারা ২৬ এ উল্লিখিত মোট আয়, এবং তৎসহ এই আইনের বিধানাবলির অধীন কোনো করদাতার সর্বমোট আয়ের সহিত সংযুক্ত হইতে পারে এইরূপ অন্য যেকোনো আয়;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-78-total-income/",
+    "original_title": "Income tax bangla section 2 sub-section 78 Total income – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 78 Total income"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

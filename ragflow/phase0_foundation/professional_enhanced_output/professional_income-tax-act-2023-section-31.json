@@ -1,0 +1,111 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "31",
+          "title": "Section 31 - Consolidation of Income (1) Save as otherwise provided in this Act, the following incomes shall be included in the gross income of a pers",
+          "content_text": "Section 31 - Consolidation of Income (1) Save as otherwise provided in this Act, the following incomes shall be included in the gross income of a person, namely:- (a) if the person is a partner in a firm or a member of a partnership, his share in the income of that firm or partnership; (b) the income of the spouse or minor child of such person, if— (i) the said spouse or minor child is dependent on him; (ii) the person has reasonable control over such income; or (iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child. (2) If a person is a partner in a firm or a member of an association of individual, his share in the income of the said firm or partnership shall be determined by the following formula, namely: a = e % of b + (c – d) , where— a = the person’s share of income from the firm or association, b = salary, interest, commission or other remuneration received by the said person from the said firm or association, c = total income of said firm or association, d = the sum of salary, interest, commission or other remuneration payable by the said firm or association to all partners or members, e = Percentage of shares held by the person in the firm or association. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Save as otherwise provided in this Act, the following incomes shall be included in the gross income of a person, namely:- (a) if the person is a partner in a firm or a member of a partnership, his share in the income of that firm or partnership; (b) the income of the spouse or minor child of such person, if— (i) the said spouse or minor child is dependent on him; (ii) the person has reasonable control over such income; or (iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) if the person is a partner in a firm or a member of a partnership, his share in the income of that firm or partnership;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the income of the spouse or minor child of such person, if—",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) the said spouse or minor child is dependent on him; (ii) the person has reasonable control over such income; or (iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child.",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) the said spouse or minor child is dependent on him; (ii) the person has reasonable control over such income; or (iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child."
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) the person has reasonable control over such income; or (iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child."
+                    },
+                    {
+                      "identifier": "iii",
+                      "text": "(iii) he intends such merger; Provided, that this provision shall not apply if separate tax is assessed on the said husband or wife or minor child."
+                    }
+                  ],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If a person is a partner in a firm or a member of an association of individual, his share in the income of the said firm or partnership shall be determined by the following formula, namely: a = e % of b + (c – d) , where— a = the person’s share of income from the firm or association, b = salary, interest, commission or other remuneration received by the said person from the said firm or association, c = total income of said firm or association, d = the sum of salary, interest, commission or other remuneration payable by the said firm or association to all partners or members, e = Percentage of shares held by the person in the firm or association. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "31"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-31/",
+    "original_title": "Income Tax Act 2023 Section 31 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

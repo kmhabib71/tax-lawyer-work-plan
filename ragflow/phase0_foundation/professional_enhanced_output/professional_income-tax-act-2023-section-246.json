@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "246",
+          "title": "Section 246 - Exemption for Income Earned Outside Bangladesh If it appears to the satisfaction of the Deputy Commissioner of Taxes in respect of the i",
+          "content_text": "Section 246 - Exemption for Income Earned Outside Bangladesh If it appears to the satisfaction of the Deputy Commissioner of Taxes in respect of the income of a person who is a resident of Bangladesh for any year that he has made a deduction or otherwise in such country in respect of such income arising or earned outside Bangladesh during that year, has paid tax with which there is no mutual agreement for exemption or avoidance of double taxation, the Deputy Commissioner of Taxes shall, in view of the existing provisions, charge the tax on such double taxed income at the average rate of tax prevailing in Bangladesh or the average rate of tax prevailing in that country, whichever is lower shall be assessed and deducted from the tax payable in Bangladesh. Explanation.— “Average rate of tax” means the rate obtained by dividing the tax assessed on gross income by such income. Moreover, as per",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "246"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-246/",
+    "original_title": "Income Tax Act 2023 Section 246 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

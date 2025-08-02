@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 28 Same income will not be included twice in the scope of total income",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৮",
+          "title": "ধারা ২৮ - মোট আয়ের আওতায় একই আয় দুই বার অন্তর্ভুক্ত না হওয়া যেইক্ষেত্রে কোনো আয়বর্ষে কোনো অর্থ কোনো ব্যক্তির বরাবর উপচিত বা উদ্ভূত হইয়া অথবা উপচিত বা ",
+          "content_text": "ধারা ২৮ - মোট আয়ের আওতায় একই আয় দুই বার অন্তর্ভুক্ত না হওয়া যেইক্ষেত্রে কোনো আয়বর্ষে কোনো অর্থ কোনো ব্যক্তির বরাবর উপচিত বা উদ্ভূত হইয়া অথবা উপচিত বা উদ্ভূত হইয়াছে বলিয়া গণ্য হইয়া সম্পূর্ণ বা আংশিক আয় হিসাবে মোট আয়ের অন্তর্ভুক্ত হইয়াছে সেইক্ষেত্রে উক্ত অর্থ উক্ত ব্যক্তির বরাবর বাংলাদেশে অন্য কোনো আয়বর্ষে গৃহীত বা গৃহীত হইয়াছে বলিয়া গণ্য হইয়া মোট আয়ের অন্তর্ভুক্ত হইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-28-same-income-will-not-be-included-twice-in-the-scope-of-total-income/",
+    "original_title": "Income Tax Act Bangla Section 28 Same income will not be included twice in the scope of total income – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 28 Same income will not be included twice in the scope of total income"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

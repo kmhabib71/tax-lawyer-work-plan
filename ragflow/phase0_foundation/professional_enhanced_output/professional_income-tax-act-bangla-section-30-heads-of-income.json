@@ -1,0 +1,90 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 30 Heads of income",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩০",
+          "title": "ধারা ৩০ - আয়ের খাতসমূহ এই আইনে ভিন্নরূপ কোনো কিছু না থাকিলে, আয়কর আরোপ এবং মোট আয় পরিগণনার জন্য, যেকোনো আয় নিম্নবর্ণিত কোনো একটি খাতে শ্রেণিবদ্ধ হইবে,",
+          "content_text": "ধারা ৩০ - আয়ের খাতসমূহ এই আইনে ভিন্নরূপ কোনো কিছু না থাকিলে, আয়কর আরোপ এবং মোট আয় পরিগণনার জন্য, যেকোনো আয় নিম্নবর্ণিত কোনো একটি খাতে শ্রেণিবদ্ধ হইবে, যথা:- (ক) চাকরি হইতে আয়; (খ) ভাড়া হইতে আয়; (গ) কৃষি হইতে আয়; (ঘ) ব্যবসা হইতে আয়; (ঙ) মূলধনি আয়; (চ) আর্থিক পরিসম্পদ হইতে আয়; (ছ) অন্যান্য উৎস হইতে আয়।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) চাকরি হইতে আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) ভাড়া হইতে আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) কৃষি হইতে আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ঘ",
+              "text": "(ঘ) ব্যবসা হইতে আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ঙ",
+              "text": "(ঙ) মূলধনি আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "চ",
+              "text": "(চ) আর্থিক পরিসম্পদ হইতে আয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ছ",
+              "text": "(ছ) অন্যান্য উৎস হইতে আয়।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ৩০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-30-heads-of-income/",
+    "original_title": "Income Tax Act Bangla Section 30 Heads of income – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 30 Heads of income"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

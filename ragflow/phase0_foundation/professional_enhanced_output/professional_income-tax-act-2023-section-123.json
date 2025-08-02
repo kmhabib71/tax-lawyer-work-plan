@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 123",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "123",
+          "title": "Section 123 - Collection of Tax from Export Proceeds (1) Any Bank shall deduct tax at the rate of 1% (one percent) of total export proceeds and deposi",
+          "content_text": "Section 123 - Collection of Tax from Export Proceeds (1) Any Bank shall deduct tax at the rate of 1% (one percent) of total export proceeds and deposit in the Government treasury received from the export of any product by the exporter while the export proceeds is deposited in the account of the exporter. (2) Where the Board, on application, issues a certificate in writing to the effect that the income of the exporter is exempted from tax or taxable under this Act at a reduced rate, the Bank shall, for the period specified in the certificate, pay without any deduction or after deducting tax at the reduced rate specified in the certificate shall deposit in the Government treasury.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Any Bank shall deduct tax at the rate of 1% (one percent) of total export proceeds and deposit in the Government treasury received from the export of any product by the exporter while the export proceeds is deposited in the account of the exporter.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where the Board, on application, issues a certificate in writing to the effect that the income of the exporter is exempted from tax or taxable under this Act at a reduced rate, the Bank shall, for the period specified in the certificate, pay without any deduction or after deducting tax at the reduced rate specified in the certificate shall deposit in the Government treasury.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "123"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-123/",
+    "original_title": "Income Tax Act 2023 Section 123 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 123"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

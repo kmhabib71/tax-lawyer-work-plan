@@ -1,0 +1,78 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৭০ - বিল অব এন্ট্রি [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(চ) ধারাবলে নিম্নরূপ দফা (৭০) বিলুপ্ত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৭০ - বিল অব এন্ট্রি [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(চ) ধারাবলে নিম্নরূপ দফা (৭০) বিলুপ্ত",
+          "content_text": "ধারা ২ দফা ৭০ - বিল অব এন্ট্রি [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(চ) ধারাবলে নিম্নরূপ দফা (৭০) বিলুপ্ত। [ ‘‘বিল অব এন্ট্রি’’ (Bill of Entry) অর্থ ** [কাস্টমস আইনের]",
+          "subsections": [
+            {
+              "identifier": "৭০",
+              "text": "(৭০) বিলুপ্ত। [ ‘‘বিল অব এন্ট্রি’’ (Bill of Entry) অর্থ ** [কাস্টমস আইনের]",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "বিলুপ্ত"
+          ]
+        },
+        {
+          "number": "২",
+          "title": "ধারা ২ (সি)-তে সংজ্ঞায়িত Bill of Entry; ] ** অর্থ আইন, ২০১৯ এর ৫৩(১৭) ধারাবলে “শুল্ক আইনের” শব্দগুলির পরিবর্তে “কাস্টমস আইনের” শব্দগুলি প্রতিস্থাপিত",
+          "content_text": "ধারা ২ (সি)-তে সংজ্ঞায়িত Bill of Entry; ] ** অর্থ আইন, ২০১৯ এর ৫৩(১৭) ধারাবলে “শুল্ক আইনের” শব্দগুলির পরিবর্তে “কাস্টমস আইনের” শব্দগুলি প্রতিস্থাপিত।",
+          "subsections": [
+            {
+              "identifier": "১৭",
+              "text": "(১৭) ধারাবলে “শুল্ক আইনের” শব্দগুলির পরিবর্তে “কাস্টমস আইনের” শব্দগুলি প্রতিস্থাপিত।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-70-bill-of-entry/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 70 Bill of entry",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৭০ - বিল অব এন্ট্রি [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ২(চ) ধারাবলে নিম্নরূপ দফা (৭০) বিলুপ্ত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

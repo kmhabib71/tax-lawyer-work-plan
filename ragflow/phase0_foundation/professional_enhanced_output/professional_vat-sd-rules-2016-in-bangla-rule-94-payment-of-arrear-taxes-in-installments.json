@@ -1,0 +1,84 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৯৪ - বকেয়া কর কিস্তিতে পরিশোধের পদ্ধতি (১) ধারা ১০৬ এর উপ-ধারা (১) এর উদ্দেশ্য পূরণকল্পে, খেলাপি করদাতার লিখিত আবেদনের ভিত্তিতে কমিশনার উক্ত ধারার উপ-ধারা (২) এর বিধান সাপেক্ষে কিস্তির সংখ্যা নির্ধারণ করিতে পারিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০৬",
+          "title": "ধারা ১০৬ এর উপ-ধারা (১) এর উদ্দেশ্য পূরণকল্পে, খেলাপি করদাতার লিখিত আবেদনের ভিত্তিতে কমিশনার উক্ত ধারার উপ-ধারা (২) এর বিধান সাপেক্ষে কিস্তির সংখ্যা ন",
+          "content_text": "ধারা ১০৬ এর উপ-ধারা (১) এর উদ্দেশ্য পূরণকল্পে, খেলাপি করদাতার লিখিত আবেদনের ভিত্তিতে কমিশনার উক্ত ধারার উপ-ধারা (২) এর বিধান সাপেক্ষে কিস্তির সংখ্যা নির্ধারণ করিতে পারিবেন। (২) উপ-বিধি (১) এর অধীন আবেদন করিবার পূর্বে মোট বকেয়া করের অন্যূন ১০% (দশ শতাংশ) পরিশোধ করিতে হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর উদ্দেশ্য পূরণকল্পে, খেলাপি করদাতার লিখিত আবেদনের ভিত্তিতে কমিশনার উক্ত ধারার",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এর বিধান সাপেক্ষে কিস্তির সংখ্যা নির্ধারণ করিতে পারিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) উপ-বিধি",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন আবেদন করিবার পূর্বে মোট বকেয়া করের অন্যূন ১০% (দশ শতাংশ) পরিশোধ করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-94-payment-of-arrear-taxes-in-installments/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 94 Payment of arrear taxes in installments – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৯৪ - বকেয়া কর কিস্তিতে পরিশোধের পদ্ধতি (১) ধারা ১০৬ এর উপ-ধারা (১) এর উদ্দেশ্য পূরণকল্পে, খেলাপি করদাতার লিখিত আবেদনের ভিত্তিতে কমিশনার উক্ত ধারার উপ-ধারা (২) এর বিধান সাপেক্ষে কিস্তির সংখ্যা নির্ধারণ করিতে পারিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 6,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.3
+  },
+  "forms": []
+}

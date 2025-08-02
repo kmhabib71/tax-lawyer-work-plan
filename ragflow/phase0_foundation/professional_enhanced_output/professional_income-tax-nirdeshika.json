@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Income Tax Nirdeshika",
+    "document_type": "legal_document",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "Income Tax Nirdeshika Income Tax Nirdeshika - Assessment Year 2024-25 Income Tax Nirdeshika - Assess",
+          "content_text": "Income Tax Nirdeshika Income Tax Nirdeshika - Assessment Year 2024-25 Income Tax Nirdeshika - Assessment Year 2023-24 Income Tax Nirdeshika - Assessment Year 2022-23 Income Tax Nirdeshika - Assessment Year 2021-22 Income Tax Nirdeshika - Assessment Year 2020-21 Income Tax Nirdeshika - Assessment Year 2019-20 Income Tax Nirdeshika - Assessment Year 2018-19 Income Tax Nirdeshika - Assessment Year 2017-18 Income Tax Nirdeshika - Assessment Year 2016-17 Income Tax Nirdeshika - Assessment Year 2015-16 Income Tax Nirdeshika - Assessment Year 2014-15 Income Tax Nirdeshika - Assessment Year 2013-14 Income Tax Nirdeshika – Reference/ Source: National Board of Revenue (NBR) ; Bangladesh Gazette;",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-nirdeshika/",
+    "original_title": "Income Tax Nirdeshika – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_document",
+      "language": "english",
+      "title": "Income Tax Nirdeshika"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,57 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ১৪(ক) ধারাবলে “আর্থিক প্রতিষ্ঠান” শব্দগুলির পরিবর্তে “ফাইন্যান্স কোম্পানি” শব্দগুলি প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩২৯",
+          "title": "ধারা ৩২৯ - আয়কর কর্তৃপক্ষকে সহায়তা প্রদান সরকারি ও আধা-সরকারি প্রতিষ্ঠান, আইন প্রয়োগকারী সংস্থা, স্বায়ত্তশাসিত সংস্থা, বিধিবদ্ধ সংস্থা, ১ [ ফাইন্যান্স",
+          "content_text": "ধারা ৩২৯ - আয়কর কর্তৃপক্ষকে সহায়তা প্রদান সরকারি ও আধা-সরকারি প্রতিষ্ঠান, আইন প্রয়োগকারী সংস্থা, স্বায়ত্তশাসিত সংস্থা, বিধিবদ্ধ সংস্থা, ১ [ ফাইন্যান্স কোম্পানি ], শিক্ষা প্রতিষ্ঠান, বেসরকারি সংস্থা, স্থানীয় কর্তৃপক্ষ এবং বেসরকারি সংস্থাসমূহের সকল কর্মকর্তা ও কর্মচারী এই আইনের অধীন আয়কর কর্তৃপক্ষকে তাহাদের কর্তব্য পালনে সহায়তা প্রদান করিবে। ১ অর্থ আইন, ২০২৪ এর ১৪(ক) ধারাবলে “আর্থিক প্রতিষ্ঠান” শব্দগুলির পরিবর্তে “ফাইন্যান্স কোম্পানি” শব্দগুলি প্রতিস্থাপিত।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) ধারাবলে “আর্থিক প্রতিষ্ঠান” শব্দগুলির পরিবর্তে “ফাইন্যান্স কোম্পানি” শব্দগুলি প্রতিস্থাপিত।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ৩২৯"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-329-assistance-to-income-tax-authorities/",
+    "original_title": "Income Tax Act Bangla Section 329 Assistance to income tax authorities – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "অর্থ আইন, ২০২৪ এর ১৪(ক) ধারাবলে “আর্থিক প্রতিষ্ঠান” শব্দগুলির পরিবর্তে “ফাইন্যান্স কোম্পানি” শব্দগুলি প্রতিস্থাপিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

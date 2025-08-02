@@ -1,0 +1,86 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_schedule",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "18",
+          "title": "Section 18] 1. Such income shall be treated as “capital income” under this Act and shall be taxed as under- (a) 15% (fifteen percent) on the capital i",
+          "content_text": "Section 18] 1. Such income shall be treated as “capital income” under this Act and shall be taxed as under- (a) 15% (fifteen percent) on the capital income earned by the; (b) In respect of taxpayers other than companies— (i) where the capital asset is acquired or transferred within 5 (five) years of receipt, such capital income shall be included in the gross income and the regular rate on the gross income; (ii) 15% (fifteen percent) of such capital income in cases where the capital asset is transferred after the expiry of five years from its acquisition or receipt. 2. Such income shall be deemed to be “dividend” as defined in clause (81) of section 2 and shall be taxed as follows. (a) 20% (twenty percent) on dividends earned by the company; (b) in the case of taxpayers other than companies such dividends shall be included in the gross income and the regular rate on the gross income. 3. Any money received from winnings in lottery, word games, card online games or games of any similar nature shall be taxed at the of 25% (twenty five percent) on such receipts. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "81",
+              "text": "(81) of section 2 and shall be taxed as follows. (a) 20% (twenty percent) on dividends earned by the company; (b) in the case of taxpayers other than companies such dividends shall be included in the gross income and the regular rate on the gross income. 3. Any money received from winnings in lottery, word games, card online games or games of any similar nature shall be taxed at the of 25% (twenty five percent) on such receipts. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) 20% (twenty percent) on dividends earned by the company;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) in the case of taxpayers other than companies such dividends shall be included in the gross income and the regular rate on the gross income. 3. Any money received from winnings in lottery, word games, card online games or games of any similar nature shall be taxed at the of 25% (twenty five percent) on such receipts. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "18"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-7th-schedule/",
+    "original_title": "Income Tax Act 2023 7th Schedule – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

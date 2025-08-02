@@ -1,0 +1,168 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "70",
+          "title": "Section 70 - Set off and Carry Forward of Lossess (1) Subject to the provisions of sub-section (2), the assessed loss of any head in any tax year shal",
+          "content_text": "Section 70 - Set off and Carry Forward of Lossess (1) Subject to the provisions of sub-section (2), the assessed loss of any head in any tax year shall be adjusted against the income of any other head. Si. No. Source of Income Adjustment (1) (2) (3) 1. Capital loss Adjustment can only be made with capital income. 2. Business Loss Adjustments can only be made with income from business. 3. Loss in speculative business Adjustments can only be made with income from speculative business. 4. Loss of business in tobacco products Adjustments can be made only with income from trading in tobacco products. (2) Any loss mentioned in the table below shall not be adjusted against income from any category or source other than income from that category or source only, namely:- (3) Loss of any source or category to which tax is exempted, reduced rate of tax or minimum tax is applicable shall not be adjusted or carried forward. (4) The assessed loss of a firm or partnership shall be adjusted only against the assessed income of the firm or partnership and shall hot be adjusted against the income of any partner of the firm or member of the partnership. (5) If the assessed loss of any category in a year is not fully adjusted with the income of any other category of source of that year, the adjustment will be made in die next 6 (six) tax years by carried forward of the unadjusted loss. (6) Subject to the Schedule, where a person is succeeded in a business or profession otherwise than by succession, the successor shall not be able to set off or set off the loss of the predecessor against any of his own income. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), the assessed loss of any head in any tax year shall be adjusted against the income of any other head. Si. No. Source of Income Adjustment",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) 1. Capital loss Adjustment can only be made with capital income. 2. Business Loss Adjustments can only be made with income from business. 3. Loss in speculative business Adjustments can only be made with income from speculative business. 4. Loss of business in tobacco products Adjustments can be made only with income from trading in tobacco products.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Any loss mentioned in the table below shall not be adjusted against income from any category or source other than income from that category or source only, namely:-",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Loss of any source or category to which tax is exempted, reduced rate of tax or minimum tax is applicable shall not be adjusted or carried forward.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The assessed loss of a firm or partnership shall be adjusted only against the assessed income of the firm or partnership and shall hot be adjusted against the income of any partner of the firm or member of the partnership.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) If the assessed loss of any category in a year is not fully adjusted with the income of any other category of source of that year, the adjustment will be made in die next 6 (six) tax years by carried forward of the unadjusted loss.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "6",
+              "text": "(6) Subject to the Schedule, where a person is succeeded in a business or profession otherwise than by succession, the successor shall not be able to set off or set off the loss of the predecessor against any of his own income. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Si. No.",
+                "Source of Income",
+                "Adjustment"
+              ],
+              "data": [
+                [
+                  "(1)",
+                  "(2)",
+                  "(3)"
+                ],
+                [
+                  "1.",
+                  "Capital loss",
+                  "Adjustment can only be made with capital income."
+                ],
+                [
+                  "2.",
+                  "Business Loss",
+                  "Adjustments can only be made with income from business."
+                ],
+                [
+                  "3.",
+                  "Loss in speculative business",
+                  "Adjustments can only be made with income from speculative business."
+                ],
+                [
+                  "4.",
+                  "Loss of business in tobacco products",
+                  "Adjustments can be made only with income from trading in tobacco products."
+                ]
+              ],
+              "metadata": {
+                "row_count": 5,
+                "column_count": 3,
+                "table_type": "general_table"
+              }
+            }
+          ],
+          "references": [
+            "70"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-70/",
+    "original_title": "Income Tax Act 2023 Section 70 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 11,
+      "quality_score": 3.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

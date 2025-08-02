@@ -1,0 +1,140 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "21",
+          "title": "Section 21 - Imposition of Penalty on Foreign Assets not Disclosed in Return (1) Where any such overseas property is found to be not shown in the retu",
+          "content_text": "Section 21 - Imposition of Penalty on Foreign Assets not Disclosed in Return (1) Where any such overseas property is found to be not shown in the return of a resident Bangladeshi taxpayer and the taxpayer fails to furnish any satisfactory explanation as to the source or nature of acquisition of such property or the explanation furnished is not satisfactory to the Commissioner of Taxes, the Commissioner of Taxes shall impose on the said taxpayer and collect an amount equal to the fair market value of the property, (2) The provisions of sub-section (l) shall not prejudice any liability arising under this Act or any other law in force in Bangladesh. (3) In the imposition of penalty under sub-section (1), the taxpayer shall be given a reasonable opportunity of being heard. (4) The Commissioner of Taxes may recover the penalty imposed under sub-section (1) by selling or confiscating any asset of the taxpayer or any other asset held on behalf of the taxpayer. (5) Where the Commissioner of Taxes has reasonable grounds to believe that there is foreign property not disclosed in the return of the taxpayer, he may make inquiries into the said property at home and abroad. (6) The Board, to prevent the retention of any property not shown in the return or to recover any property smuggled abroad— (a) take such action as it thinks fit; or (b) give consent, permit or take action to any such Income-tax authority not inferior to the Deputy Commissioner of Taxes for conducting inquiries or investigations. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where any such overseas property is found to be not shown in the return of a resident Bangladeshi taxpayer and the taxpayer fails to furnish any satisfactory explanation as to the source or nature of acquisition of such property or the explanation furnished is not satisfactory to the Commissioner of Taxes, the Commissioner of Taxes shall impose on the said taxpayer and collect an amount equal to the fair market value of the property,",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The provisions of sub-section (l) shall not prejudice any liability arising under this Act or any other law in force in Bangladesh.",
+              "clauses": [
+                {
+                  "identifier": "l",
+                  "text": "(l) shall not prejudice any liability arising under this Act or any other law in force in Bangladesh.",
+                  "sub_clauses": [
+                    {
+                      "identifier": "l",
+                      "text": "(l) shall not prejudice any liability arising under this Act or any other law in force in Bangladesh."
+                    }
+                  ],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) In the imposition of penalty under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the taxpayer shall be given a reasonable opportunity of being heard.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The Commissioner of Taxes may recover the penalty imposed under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) by selling or confiscating any asset of the taxpayer or any other asset held on behalf of the taxpayer.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) Where the Commissioner of Taxes has reasonable grounds to believe that there is foreign property not disclosed in the return of the taxpayer, he may make inquiries into the said property at home and abroad.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "6",
+              "text": "(6) The Board, to prevent the retention of any property not shown in the return or to recover any property smuggled abroad— (a) take such action as it thinks fit; or (b) give consent, permit or take action to any such Income-tax authority not inferior to the Deputy Commissioner of Taxes for conducting inquiries or investigations. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) take such action as it thinks fit; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) give consent, permit or take action to any such Income-tax authority not inferior to the Deputy Commissioner of Taxes for conducting inquiries or investigations. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "21"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-21/",
+    "original_title": "Income Tax Act 2023 Section 21 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 9,
+      "quality_score": 2.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

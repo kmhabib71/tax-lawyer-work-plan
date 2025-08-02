@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "VDS Rules English",
+    "document_type": "legal_rules",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "Value Added Tax Deduction and Collection at Source Rules Financial Year 2023-2024 Financial Year 202",
+          "content_text": "Value Added Tax Deduction and Collection at Source Rules Financial Year 2023-2024 Financial Year 2022-2023 Financial Year 2021-2022 Financial Year 2020-2021 Financial Year 2019-2020",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vds-rules-english/",
+    "original_title": "VDS Rules English – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_rules",
+      "language": "english",
+      "title": "VDS Rules English"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,128 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "186",
+          "title": "Section 186 - Audit of Return of Withholding Tax (1) With the approval of the Commissioner of Taxes, the Deputy Commissioner of Taxes shall select for",
+          "content_text": "Section 186 - Audit of Return of Withholding Tax (1) With the approval of the Commissioner of Taxes, the Deputy Commissioner of Taxes shall select for audit certain returns from the returns of tax at source filed under section 177. (2) The Deputy Commissioner of Taxes shall conduct the audit of selected tax at source returns on the following matters, namely:- (a) whether tax has been deducted or collected at the rate, amount and manner specified in Part 7 and rules made (b) whether the tax collected or deducted has been paid to the Government, or whether it has been paid at the time and in the manner prescribed; (c) whether the tax deduction or collection certificate has been issued in accordance with the provisions of this Act. (3) Where it appears under sub-section (2) that the provisions of this Act have not been followed in respect of the matters mentioned in the said sub-section, the Deputy Commissioner of Taxes shall take necessary action in conducting the audit, as required under sections 143, 144 and 266 of this Act.. (4) For the purpose of selecting returns for the purpose of audit under sub-section (1) and for carrying out the audit, the Board shall formulate such comprehensive audit guidelines as it may think fit to be compulsorily followed. (5) No such return shall be selected for audit after 4 (four) years have elapsed since the filing of the return. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) With the approval of the Commissioner of Taxes, the Deputy Commissioner of Taxes shall select for audit certain returns from the returns of tax at source filed under section 177.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The Deputy Commissioner of Taxes shall conduct the audit of selected tax at source returns on the following matters, namely:- (a) whether tax has been deducted or collected at the rate, amount and manner specified in Part 7 and rules made (b) whether the tax collected or deducted has been paid to the Government, or whether it has been paid at the time and in the manner prescribed; (c) whether the tax deduction or collection certificate has been issued in accordance with the provisions of this Act.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) whether tax has been deducted or collected at the rate, amount and manner specified in Part 7 and rules made",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) whether the tax collected or deducted has been paid to the Government, or whether it has been paid at the time and in the manner prescribed;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) whether the tax deduction or collection certificate has been issued in accordance with the provisions of this Act.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where it appears under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) that the provisions of this Act have not been followed in respect of the matters mentioned in the said sub-section, the Deputy Commissioner of Taxes shall take necessary action in conducting the audit, as required under sections 143, 144 and 266 of this Act..",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) For the purpose of selecting returns for the purpose of audit under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) and for carrying out the audit, the Board shall formulate such comprehensive audit guidelines as it may think fit to be compulsorily followed.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) No such return shall be selected for audit after 4 (four) years have elapsed since the filing of the return. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "186"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-186/",
+    "original_title": "Income Tax Act 2023 Section 186 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 8,
+      "quality_score": 2.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

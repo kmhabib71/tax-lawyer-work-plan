@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ২১ এর আওতায় শূন্যহার বিশিষ্ট সরবরাহের ক্ষেত্রে উৎসে মূসক কর্তন করিতে হইবে না",
+    "document_type": "legal_schedule",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২১",
+          "title": "ধারা ২১ এর আওতায় শূন্যহার বিশিষ্ট সরবরাহের ক্ষেত্রে উৎসে মূসক কর্তন করিতে হইবে না",
+          "content_text": "ধারা ২১ এর আওতায় শূন্যহার বিশিষ্ট সরবরাহের ক্ষেত্রে উৎসে মূসক কর্তন করিতে হইবে না । (৬) বিধি (৩) এর উপ-বিধি (২) এ বর্ণিত ছকে উল্লিখিত বিজ্ঞাপনী সংস্থা এবং টেলিভিশন ও অনলাইন সম্প্রচার মাধ্যমে অনুষ্ঠান শীর্ষক সেবা প্রদানকারী প্রতিষ্ঠানসমূহ রাজস্ব কর্মকর্তা কর্তৃক প্রত্যয়িত ফরম মূসক-৬.৩ প্রদান করিলে উৎসে মূসক কর্তন করিতে হইবে না ।",
+          "subsections": [
+            {
+              "identifier": "৬",
+              "text": "(৬) বিধি",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) এর উপ-বিধি",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এ বর্ণিত ছকে উল্লিখিত বিজ্ঞাপনী সংস্থা এবং টেলিভিশন ও অনলাইন সম্প্রচার মাধ্যমে অনুষ্ঠান শীর্ষক সেবা প্রদানকারী প্রতিষ্ঠানসমূহ রাজস্ব কর্মকর্তা কর্তৃক প্রত্যয়িত ফরম মূসক-৬.৩ প্রদান করিলে উৎসে মূসক কর্তন করিতে হইবে না ।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vds-rules-bangla-fy-2021-2022-rules-5-the-circumstances-where-vat-is-not-to-be-deducted-at-source/",
+    "original_title": "VDS Rules Bangla FY 2021-2022 Rules 5 The Circumstances where VAT is not to be deducted at source – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন, ২০১২ এর ধারা ২১ এর আওতায় শূন্যহার বিশিষ্ট সরবরাহের ক্ষেত্রে উৎসে মূসক কর্তন করিতে হইবে না"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

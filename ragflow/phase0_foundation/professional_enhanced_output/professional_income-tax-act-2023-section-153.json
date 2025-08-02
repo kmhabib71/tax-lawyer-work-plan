@@ -1,0 +1,293 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "153",
+          "title": "Section 153 - Advance Tax from Private Motor Vehicles Owners (1) Every private motor vehicle owner shall be deemed to have income necessary for the ma",
+          "content_text": "Section 153 - Advance Tax from Private Motor Vehicles Owners (1) Every private motor vehicle owner shall be deemed to have income necessary for the maintenance of said motor vehicle and he shall pay advance income tax at the prescribed rate and manner. (2) Subject to the provisions of sub-section (3), the person or authority responsible for the registration or renewal of fitness of a motor vehicle shall not renew the registration or fitness of a motor vehicle, unless an challan of advance tax paid at the rate specified in the table below is submitted with the application for registration or renewal of fitness of the motor vehicle, namely: Table Serial No. Type of vehicle & Engine Capacity Advance tax (Tk.) (1) (2) (3) 1 For each such motor vehicle not exceeding 1500 cc or 75 kW 25,000 (twenty five thousand) 2 For every such motor vehicle above 1500 cc or 75 kW but not above 2000 cc or 100 kW 50,000 (fifty thousand) 3 For every such motor vehicle of 2000 cc or above 100 kW but not above 2500 cc or 125 kW 75,000 (seventy five thousand) 4 For every such motor vehicle of 2500 cc or above 125 kW but not above 3000 cc or 150 kW 1,25,000 (one lakh twenty-five thousand) 5 For each such motor vehicle exceeding 3000 cc or 150 kW but not exceeding 3500 cc or 175 kW 1,50,000 (one lakh fifty thousand) 6 For every motor vehicle above 3500 cc or 175 kW 2,00,000 (two lakhs) 7 For each Microbus 30,000 (thirty thousand) Provided that if a person owns more than one motor vehicle in his own name or jointly with another person, tax shall be paid at the rate of 50% (fifty percent) higher for each motor vehicle in excess of one. (3) In cases where registration is granted or fitness renewed for more than one year, the tax payable under sub-section (2) shall be collected on or before the 30th day of June of any year following the year of registration or fitness renewal. (4) In case any person fails to pay advance tax as per sub-section (3) in any year, the amount of advance tax to be paid by such person in the following year shall be determined under rule atb, where- a = amount of advance tax unpaid in previous year or years, and b= amount of advance tax payable under sub-section (2) in the year of payment. (5) Advance tax shall not be collected under sub-section (2), if the motor vehicle belongs to the following persons or establishments, namely:- (a) Government or local authority; (b) any scheme, program or activity under the Government or local government; (c) any foreign diplomat, any diplomatic mission in Bangladesh, offices of the United Nations and its constituent organizations; (d) any foreign development partner of Bangladesh and its attached office or offices; (e) any educational institution under Government MPO (Monthly Payment Order); (f) public university; (g) Gazetted war wounded freedom fighter; or (h) any establishment receiving a certificate from the Board to the effect that no advance tax has to be paid. (6) Where a person pays advance tax under sub-section (2), and the tax applicable to the income from regular sources of such person is less than such advance tax, such person shall be deemed to have had such notional income in the year of income on which the computation is made. (7) Advance tax paid under sub-section (2) shall not be refundable. (8) For the purposes of this section- (a) “Motor Vehicle” shall include jeeps and microbuses, but shall not include any motor vehicle and motorcycle referred to in section 138; “Income from Regular Sources” means income from any source other than the sources mentioned in sub-section (2) of section 163; Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Every private motor vehicle owner shall be deemed to have income necessary for the maintenance of said motor vehicle and he shall pay advance income tax at the prescribed rate and manner.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3), the person or authority responsible for the registration or renewal of fitness of a motor vehicle shall not renew the registration or fitness of a motor vehicle, unless an challan of advance tax paid at the rate specified in the table below is submitted with the application for registration or renewal of fitness of the motor vehicle, namely: Table Serial No. Type of vehicle & Engine Capacity Advance tax (Tk.)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) 1 For each such motor vehicle not exceeding 1500 cc or 75 kW 25,000 (twenty five thousand) 2 For every such motor vehicle above 1500 cc or 75 kW but not above 2000 cc or 100 kW 50,000 (fifty thousand) 3 For every such motor vehicle of 2000 cc or above 100 kW but not above 2500 cc or 125 kW 75,000 (seventy five thousand) 4 For every such motor vehicle of 2500 cc or above 125 kW but not above 3000 cc or 150 kW 1,25,000 (one lakh twenty-five thousand) 5 For each such motor vehicle exceeding 3000 cc or 150 kW but not exceeding 3500 cc or 175 kW 1,50,000 (one lakh fifty thousand) 6 For every motor vehicle above 3500 cc or 175 kW 2,00,000 (two lakhs) 7 For each Microbus 30,000 (thirty thousand) Provided that if a person owns more than one motor vehicle in his own name or jointly with another person, tax shall be paid at the rate of 50% (fifty percent) higher for each motor vehicle in excess of one.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) In cases where registration is granted or fitness renewed for more than one year, the tax payable under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) shall be collected on or before the 30th day of June of any year following the year of registration or fitness renewal.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) In case any person fails to pay advance tax as per sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) in any year, the amount of advance tax to be paid by such person in the following year shall be determined under rule atb, where- a = amount of advance tax unpaid in previous year or years, and b= amount of advance tax payable under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) in the year of payment.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) Advance tax shall not be collected under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), if the motor vehicle belongs to the following persons or establishments, namely:- (a) Government or local authority; (b) any scheme, program or activity under the Government or local government; (c) any foreign diplomat, any diplomatic mission in Bangladesh, offices of the United Nations and its constituent organizations; (d) any foreign development partner of Bangladesh and its attached office or offices; (e) any educational institution under Government MPO (Monthly Payment Order); (f) public university; (g) Gazetted war wounded freedom fighter; or (h) any establishment receiving a certificate from the Board to the effect that no advance tax has to be paid.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) Government or local authority;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) any scheme, program or activity under the Government or local government;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) any foreign diplomat, any diplomatic mission in Bangladesh, offices of the United Nations and its constituent organizations;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) any foreign development partner of Bangladesh and its attached office or offices;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) any educational institution under Government MPO (Monthly Payment Order);",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) public university;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "g",
+                  "text": "(g) Gazetted war wounded freedom fighter; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "h",
+                  "text": "(h) any establishment receiving a certificate from the Board to the effect that no advance tax has to be paid.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "6",
+              "text": "(6) Where a person pays advance tax under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), and the tax applicable to the income from regular sources of such person is less than such advance tax, such person shall be deemed to have had such notional income in the year of income on which the computation is made.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "7",
+              "text": "(7) Advance tax paid under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) shall not be refundable.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "8",
+              "text": "(8) For the purposes of this section- (a) “Motor Vehicle” shall include jeeps and microbuses, but shall not include any motor vehicle and motorcycle referred to in section 138; “Income from Regular Sources” means income from any source other than the sources mentioned in sub-section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “Motor Vehicle” shall include jeeps and microbuses, but shall not include any motor vehicle and motorcycle referred to in section 138; “Income from Regular Sources” means income from any source other than the sources mentioned in sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) of section 163; Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Serial No.",
+                "Type of vehicle & Engine Capacity",
+                "Advance tax (Tk.)"
+              ],
+              "data": [
+                [
+                  "(1)",
+                  "(2)",
+                  "(3)"
+                ],
+                [
+                  "1",
+                  "For each such motor vehicle not exceeding 1500 cc or 75 kW",
+                  "25,000 (twenty five thousand)"
+                ],
+                [
+                  "2",
+                  "For every such motor vehicle above 1500 cc or 75 kW but not above 2000 cc or 100 kW",
+                  "50,000 (fifty thousand)"
+                ],
+                [
+                  "3",
+                  "For every such motor vehicle of 2000 cc or above 100 kW but not above 2500 cc or 125 kW",
+                  "75,000 (seventy five thousand)"
+                ],
+                [
+                  "4",
+                  "For every such motor vehicle of 2500 cc or above 125 kW but not above 3000 cc or 150 kW",
+                  "1,25,000 (one lakh twenty-five thousand)"
+                ],
+                [
+                  "5",
+                  "For each such motor vehicle exceeding 3000 cc or 150 kW but not exceeding 3500 cc or 175 kW",
+                  "1,50,000 (one lakh fifty thousand)"
+                ],
+                [
+                  "6",
+                  "For every motor vehicle above 3500 cc or 175 kW",
+                  "2,00,000 (two lakhs)"
+                ],
+                [
+                  "7",
+                  "For each Microbus",
+                  "30,000 (thirty thousand)"
+                ]
+              ],
+              "metadata": {
+                "row_count": 8,
+                "column_count": 3,
+                "table_type": "general_table"
+              }
+            }
+          ],
+          "references": [
+            "153"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-153/",
+    "original_title": "Income Tax Act 2023 Section 153 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 20,
+      "quality_score": 4.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

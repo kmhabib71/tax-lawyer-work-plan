@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "292",
+          "title": "Section 292 - Disposal of Appeal by Appellate Tribunal (1) The Appellate Tribunal shall, after giving an opportunity of being heard to both the partie",
+          "content_text": "Section 292 - Disposal of Appeal by Appellate Tribunal (1) The Appellate Tribunal shall, after giving an opportunity of being heard to both the parties to the appeal case, pass such order as it thinks fit in the appeal. (2) Before disposing of any appeal, the Appellate Tribunal may call for any information relating to the appeal or may order further inquiry by the Deputy Commissioner of Taxes. (3) In cases where any change is made in the tax assessment order of a firm or association of individuals due to the appeal case, or the tax assessment order of the firm or association of individuals has to be made afresh, in that case the Appellate Tribunal shall direct the Deputy Commissioner of Taxes to amend the relevant tax assessment order of the partner of the said firm or association of individuals in accordance with the change made by the Appellate Tribunal. (4) In case of disposal of any appeal case, the Appellate Tribunal shall communicate the said order to the appellant and the Commissioner of Taxes within 30 (thirty) days of the order passed by the authority. (5) The order passed by the Appellate Tribunal in respect of any appeal shall be deemed to be final except in the cases mentioned in this Chapter. (6) Notwithstanding anything contained in this Act, if an appeal is filed by a taxpayer in the Appellate Tribunal, the Appellate Tribunal fails to pass any order on the appeal before the expiry of 180 (one hundred and eighty) days subsequent to the month in which it was filed, the appeal shall be deemed to be allowed and in case the case is heard by the Appellate Tribunal consisting of 2 (two members and an additional member is appointed due to disagreement in the decision, the period shall be 240 (two hundred and forty) days subsequent to the month in which the appeal is filed. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Appellate Tribunal shall, after giving an opportunity of being heard to both the parties to the appeal case, pass such order as it thinks fit in the appeal.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Before disposing of any appeal, the Appellate Tribunal may call for any information relating to the appeal or may order further inquiry by the Deputy Commissioner of Taxes.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) In cases where any change is made in the tax assessment order of a firm or association of individuals due to the appeal case, or the tax assessment order of the firm or association of individuals has to be made afresh, in that case the Appellate Tribunal shall direct the Deputy Commissioner of Taxes to amend the relevant tax assessment order of the partner of the said firm or association of individuals in accordance with the change made by the Appellate Tribunal.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) In case of disposal of any appeal case, the Appellate Tribunal shall communicate the said order to the appellant and the Commissioner of Taxes within 30 (thirty) days of the order passed by the authority.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) The order passed by the Appellate Tribunal in respect of any appeal shall be deemed to be final except in the cases mentioned in this Chapter.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "6",
+              "text": "(6) Notwithstanding anything contained in this Act, if an appeal is filed by a taxpayer in the Appellate Tribunal, the Appellate Tribunal fails to pass any order on the appeal before the expiry of 180 (one hundred and eighty) days subsequent to the month in which it was filed, the appeal shall be deemed to be allowed and in case the case is heard by the Appellate Tribunal consisting of 2 (two members and an additional member is appointed due to disagreement in the decision, the period shall be 240 (two hundred and forty) days subsequent to the month in which the appeal is filed. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "292"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-292/",
+    "original_title": "Income Tax Act 2023 Section 292 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 7,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

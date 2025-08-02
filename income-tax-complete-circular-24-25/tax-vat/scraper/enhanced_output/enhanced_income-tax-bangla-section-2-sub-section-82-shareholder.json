@@ -1,0 +1,5 @@
+{
+  "error": "Enhancement failed: expected string or bytes-like object, got 'dict'",
+  "original_file": "json_output/income-tax-bangla-section-2-sub-section-82-shareholder.json",
+  "status": "enhancement_failed"
+}

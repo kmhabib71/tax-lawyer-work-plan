@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 111",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "111",
+          "title": "Section 111 - Deduction from Compensation for Acquisition of Property A person liable to pay any compensation to the owner of an immovable property fo",
+          "content_text": "Section 111 - Deduction from Compensation for Acquisition of Property A person liable to pay any compensation to the owner of an immovable property for the acquisition thereof, shall deduct tax at the following rate while paying the compensation; (a) 6% (six percent) of the total amount received as compensation if any immovable property is situated in a city corporation, municipality or cantonment board area; (b) 3% (three percent) of the total amount received compensation if any immovable property is situated outside the City Corporation, Municipality or Cantonment Board area.",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) 6% (six percent) of the total amount received as compensation if any immovable property is situated in a city corporation, municipality or cantonment board area;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) 3% (three percent) of the total amount received compensation if any immovable property is situated outside the City Corporation, Municipality or Cantonment Board area.",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "111"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-111/",
+    "original_title": "Income Tax Act 2023 Section 111 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 111"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

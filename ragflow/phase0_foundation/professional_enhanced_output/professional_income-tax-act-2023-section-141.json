@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 141",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "141",
+          "title": "Section 141 - Deduction or Collection of Tax by Gross-up in Respect of Payment without Tax (1) Where the person liable for payment makes any payment w",
+          "content_text": "Section 141 - Deduction or Collection of Tax by Gross-up in Respect of Payment without Tax (1) Where the person liable for payment makes any payment without any tax, tax shall be deducted at the applicable rate on the amount calculated in the manner described below, namely:- c= (100 × a) (100-b), where- c = Amount calculated for deduction purposes a = Payment of amount excluding tax, b = applicable tax rate (2) Where, the recipient of payment without tax- (a) obliged to furnish proof of filing of return but fails to furnish it; or (b) fails to make payment by bank transfer, In that case, ‘b’ referred to in sub-section (1) shall be determined in accordance with the provisions of this Chapter. (3) For the purposes of this section, “Payment without Tax” means any payment made by the payer to the payee without deduction or collection of tax at source under any contract or settlement.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where the person liable for payment makes any payment without any tax, tax shall be deducted at the applicable rate on the amount calculated in the manner described below, namely:- c= (100 × a) (100-b), where- c = Amount calculated for deduction purposes a = Payment of amount excluding tax, b = applicable tax rate",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where, the recipient of payment without tax- (a) obliged to furnish proof of filing of return but fails to furnish it; or (b) fails to make payment by bank transfer, In that case, ‘b’ referred to in sub-section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) obliged to furnish proof of filing of return but fails to furnish it; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) fails to make payment by bank transfer, In that case, ‘b’ referred to in sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall be determined in accordance with the provisions of this Chapter.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) For the purposes of this section, “Payment without Tax” means any payment made by the payer to the payee without deduction or collection of tax at source under any contract or settlement.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "141"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-141/",
+    "original_title": "Income Tax Act 2023 Section 141 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 141"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

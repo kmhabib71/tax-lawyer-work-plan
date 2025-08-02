@@ -1,0 +1,90 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 237 Maintenance and keeping of information, documents and records",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৩৭",
+          "title": "ধারা ২৩৭ - তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ (১) আন্তর্জাতিক লেনদেন রহিয়াছে এইরূপ প্রত্যেক ব্যক্তি, বিধি দ্বারা নির্ধারিত তথ্য, দলিলাদি ও ",
+          "content_text": "ধারা ২৩৭ - তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ (১) আন্তর্জাতিক লেনদেন রহিয়াছে এইরূপ প্রত্যেক ব্যক্তি, বিধি দ্বারা নির্ধারিত তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ করিবেন। (২) উপ-ধারা (১) এর বিধানাবলিকে ক্ষুন্ন না করিয়া, বোর্ড তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ করিবার মেয়াদ বিধি দ্বারা নির্ধারণ করিতে পারিবে। (৩) উপকর কমিশনার লিখিত নোটিশের মাধ্যমে কোনো ব্যক্তিকে নোটিশে উল্লিখিত সময়ের মধ্যে উপ-ধারা (১) এর অধীন বিধি দ্বারা নির্ধারিত তথ্য, দলিলাদি ও রেকর্ড সরবরাহের নির্দেশ প্রদান করিতে পারিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) আন্তর্জাতিক লেনদেন রহিয়াছে এইরূপ প্রত্যেক ব্যক্তি, বিধি দ্বারা নির্ধারিত তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ করিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর বিধানাবলিকে ক্ষুন্ন না করিয়া, বোর্ড তথ্য, দলিলাদি ও রেকর্ড সংরক্ষণ ও রক্ষণাবেক্ষণ করিবার মেয়াদ বিধি দ্বারা নির্ধারণ করিতে পারিবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) উপকর কমিশনার লিখিত নোটিশের মাধ্যমে কোনো ব্যক্তিকে নোটিশে উল্লিখিত সময়ের মধ্যে",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন বিধি দ্বারা নির্ধারিত তথ্য, দলিলাদি ও রেকর্ড সরবরাহের নির্দেশ প্রদান করিতে পারিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৩৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-237-maintenance-and-keeping-of-information-documents-and-records/",
+    "original_title": "Income Tax Act Bangla Section 237 Maintenance and keeping of information, documents and records – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 237 Maintenance and keeping of information, documents and records"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 7,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 274 Penalty for furnishing fake audit report",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৭৪",
+          "title": "ধারা ২৭৪ - জাল নিরীক্ষা প্রতিবেদন দাখিলের জন্য জরিমানা যেইক্ষেত্রে এই আইনের অধীন কোনো কার্যক্রম চলাকালে, উপকর কমিশনার, অতিরিক্ত কর কমিশনার (আপিল), কমি",
+          "content_text": "ধারা ২৭৪ - জাল নিরীক্ষা প্রতিবেদন দাখিলের জন্য জরিমানা যেইক্ষেত্রে এই আইনের অধীন কোনো কার্যক্রম চলাকালে, উপকর কমিশনার, অতিরিক্ত কর কমিশনার (আপিল), কমিশনার (আপিল) অথবা আপিল ট্রাইব্যুনাল সন্দেহাতীতভাবে এই মর্মে সন্তুষ্ট হন যে, করদাতা কর্তৃক কোনো আয়বর্ষের জন্য রিটার্নের সহিত বা পরবর্তী সময়ে দাখিলকৃত নিরীক্ষা প্রতিবেদনটি চার্টার্ড অ্যাকাউন্টেন্ট কর্তৃক স্বাক্ষরিত নহে বা অসত্য হিসাবে বিশ্বাসযোগ্য, সেইক্ষেত্রে উক্ত কর্তৃপক্ষ বা, ক্ষেত্রমত, ট্রাইব্যুনাল উক্ত করদাতার উপর উক্ত আয়বর্ষের জন্য ১ (এক) লক্ষ টাকা জরিমানা আরোপ করিতে পারিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৭৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-274-penalty-for-furnishing-fake-audit-report/",
+    "original_title": "Income Tax Act Bangla Section 274 Penalty for furnishing fake audit report – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 274 Penalty for furnishing fake audit report"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

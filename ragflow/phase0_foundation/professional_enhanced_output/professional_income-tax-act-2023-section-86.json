@@ -1,0 +1,109 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "86",
+          "title": "Section 86 - Deduction of Tax At Source from Employment Income (1) A person responsible for payment of any employment payment under the head “Income f",
+          "content_text": "Section 86 - Deduction of Tax At Source from Employment Income (1) A person responsible for payment of any employment payment under the head “Income from Employment” to a recipient shall, at the time of payment, deduct tax at the average rate of tax applicable to the estimated total income of the recipient under that head. (2) The person responsible for making any payment out of the accumulated balance of the recognized provident fund shall deduct tax as applicable as mentioned in paragraph 6 of Part 3 of the Second Schedule. (3) Where any Government officer has performed the functions of a Disbursing and Drawing Officer (DDO) or has prepared or signed a bill for himself or any other Government subordinate to collect “income from employment” from the Government or any other authority, he shall at the time of making or signing the bill, if the annual salary payable for that income year exceeds the tax-free limit, deduct tax at the average rate of tax applicable to the estimated total income for that income year. (4) In making any deduction under sub-sections (1) and (3), an amount equal to the surplus or deficit shall be increased or decreased to adjust it with any previous surplus or deficit. (5) Where tax has already been paid at source under this section, including advance tax payable under this Act, and the tax applicable to the probable goss income of an employee is considered to be close to the amount of tax so payable, the Deputy Commissioner of taxes shall, on the basis of the application and evidence furnished by the employee, may issue a certificate to the effect that no tax shall be deducted from the said employee or tax shall be deducted at a lower rate for the remaining income year. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) A person responsible for payment of any employment payment under the head “Income from Employment” to a recipient shall, at the time of payment, deduct tax at the average rate of tax applicable to the estimated total income of the recipient under that head.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The person responsible for making any payment out of the accumulated balance of the recognized provident fund shall deduct tax as applicable as mentioned in paragraph 6 of Part 3 of the Second Schedule.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where any Government officer has performed the functions of a Disbursing and Drawing Officer (DDO) or has prepared or signed a bill for himself or any other Government subordinate to collect “income from employment” from the Government or any other authority, he shall at the time of making or signing the bill, if the annual salary payable for that income year exceeds the tax-free limit, deduct tax at the average rate of tax applicable to the estimated total income for that income year.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) In making any deduction under sub-sections",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3), an amount equal to the surplus or deficit shall be increased or decreased to adjust it with any previous surplus or deficit.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) Where tax has already been paid at source under this section, including advance tax payable under this Act, and the tax applicable to the probable goss income of an employee is considered to be close to the amount of tax so payable, the Deputy Commissioner of taxes shall, on the basis of the application and evidence furnished by the employee, may issue a certificate to the effect that no tax shall be deducted from the said employee or tax shall be deducted at a lower rate for the remaining income year. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "86"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-86/",
+    "original_title": "Income Tax Act 2023 Section 86 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 8,
+      "quality_score": 2.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 99 Deduction of tax from any payment in excess of premium paid on life insurance policy",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯৯",
+          "title": "ধারা ৯৯ - জীবন বিমা পলিসির প্রিমিয়ামের অতিরিক্ত কোনো পরিশোধ হইতে কর কর্তন কোনো নিবাসীকে কোনো জীবন বিমা কোম্পানির সহিত কৃত কোনো জীবন বিমা পলিসির জন্য প",
+          "content_text": "ধারা ৯৯ - জীবন বিমা পলিসির প্রিমিয়ামের অতিরিক্ত কোনো পরিশোধ হইতে কর কর্তন কোনো নিবাসীকে কোনো জীবন বিমা কোম্পানির সহিত কৃত কোনো জীবন বিমা পলিসির জন্য প্রদত্ত প্রিমিয়ামের অতিরিক্ত কোনো অর্থ পরিশোধ করিবার জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি, পলিসি গ্রাহককে অতিরিক্ত পরিমাণ অর্থ প্রদানকালে ৫% (পাঁচ শতাংশ) হারে কর কর্তন করিবেন: তবে শর্ত থাকে যে, পলিসি গ্রহীতার মৃত্যুর ক্ষেত্রে কোনো কর কর্তন করা যাইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-99-deduction-of-tax-from-any-payment-in-excess-of-premium-paid-on-life-insurance-policy/",
+    "original_title": "Income Tax Act Bangla Section 99 Deduction of tax from any payment in excess of premium paid on life insurance policy – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 99 Deduction of tax from any payment in excess of premium paid on life insurance policy"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

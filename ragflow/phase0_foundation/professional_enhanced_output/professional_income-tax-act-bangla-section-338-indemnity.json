@@ -1,0 +1,68 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 338 Indemnity",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৩৮",
+          "title": "ধারা ৩৩৮ - দায়মুক্তি (১) কোনো ব্যক্তি এই আইনের ক্ষমতাবলে অপর কোনো ব্যক্তির আয় হইতে কোনো কর কর্তন, সংগ্রহ, ধারণ বা পরিশোধ করিলে, উক্তরূপ কর কর্তন, সংগ্",
+          "content_text": "ধারা ৩৩৮ - দায়মুক্তি (১) কোনো ব্যক্তি এই আইনের ক্ষমতাবলে অপর কোনো ব্যক্তির আয় হইতে কোনো কর কর্তন, সংগ্রহ, ধারণ বা পরিশোধ করিলে, উক্তরূপ কর কর্তন, সংগ্রহ, ধারণ বা পরিশোধের জন্য উক্ত ব্যক্তি দায়মুক্ত থাকিবেন। (২) এই আইনের অধীন কৃত কোনো কর নির্ধারণ নাকচ বা সংশোধনের জন্য বা অন্য কোনো আদেশের জন্য কোনো দেওয়ানি আদালতে মামলা দায়ের করা যাইবে না। (৩) এই আইনের অধীন সরল বিশ্বাসে কৃত কোনো কার্য বা কার্য করিবার উদ্যোগের জন্য কোনো সরকারি কর্মচারীর বিরুদ্ধে অন্য কোনো আইনে ফৌজদারি মামলা দায়ের বা অন্য কোনো কার্যধারা গ্রহণ করা যাইবে না।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) কোনো ব্যক্তি এই আইনের ক্ষমতাবলে অপর কোনো ব্যক্তির আয় হইতে কোনো কর কর্তন, সংগ্রহ, ধারণ বা পরিশোধ করিলে, উক্তরূপ কর কর্তন, সংগ্রহ, ধারণ বা পরিশোধের জন্য উক্ত ব্যক্তি দায়মুক্ত থাকিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) এই আইনের অধীন কৃত কোনো কর নির্ধারণ নাকচ বা সংশোধনের জন্য বা অন্য কোনো আদেশের জন্য কোনো দেওয়ানি আদালতে মামলা দায়ের করা যাইবে না।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) এই আইনের অধীন সরল বিশ্বাসে কৃত কোনো কার্য বা কার্য করিবার উদ্যোগের জন্য কোনো সরকারি কর্মচারীর বিরুদ্ধে অন্য কোনো আইনে ফৌজদারি মামলা দায়ের বা অন্য কোনো কার্যধারা গ্রহণ করা যাইবে না।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৩৮"
+          ],
+          "amendments": [
+            "সংশোধন"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-338-indemnity/",
+    "original_title": "Income Tax Act Bangla Section 338 Indemnity – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 338 Indemnity"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

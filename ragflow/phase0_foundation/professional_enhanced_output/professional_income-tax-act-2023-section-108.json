@@ -1,0 +1,109 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 108",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "108",
+          "title": "Section 108 - Deductions from Receipts in Respect of International Phone Calls (1) Tax at the rate of 1.5% (one point five percent) on the total amoun",
+          "content_text": "Section 108 - Deductions from Receipts in Respect of International Phone Calls (1) Tax at the rate of 1.5% (one point five percent) on the total amount deposited through a bank as an International Gateway (IGW) service provider for providing international gateway services in respect of international phone calls shall be deducted. (2) International Gateway (IGW) service operator, through which any payments are made in connection with international phone calls or Bangladesh Telecommunication including Interconnection Exchange (ICX), Access Network Services (ANS), Bangladesh Telecommunication Regulatory Commission (BTRC) or any other person, deposits made under an agreement with the Regulatory Commission (BTRC) shall deduct tax at the rate of 7.5% (seven and half percent) on the total amount paid or deposited under the said agreement. (3) Tax will be deducted at rate 7.5% (seven and half percent) on the amount paid or deposited where any amount is paid or deposited in exchange for provision of Interconnection Exchange (ICX) services or Access Network Services (ANS) in respect of outgoing international calls. (4) Notwithstanding anything contained in sub-section (l), (2) or (3), where the Board, on application by any person, grants a certificate in writing, such person shall be exempted from income-tax or otherwise referred to in this section, shall be liable to pay tax at the lower rate and the person responsible for such payment shall make the payment as under— (a) without deduction of tax; or (b) subject to deduction of tax at the rate specified in the certificate.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Tax at the rate of 1.5% (one point five percent) on the total amount deposited through a bank as an International Gateway (IGW) service provider for providing international gateway services in respect of international phone calls shall be deducted.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) International Gateway (IGW) service operator, through which any payments are made in connection with international phone calls or Bangladesh Telecommunication including Interconnection Exchange (ICX), Access Network Services (ANS), Bangladesh Telecommunication Regulatory Commission (BTRC) or any other person, deposits made under an agreement with the Regulatory Commission (BTRC) shall deduct tax at the rate of 7.5% (seven and half percent) on the total amount paid or deposited under the said agreement.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Tax will be deducted at rate 7.5% (seven and half percent) on the amount paid or deposited where any amount is paid or deposited in exchange for provision of Interconnection Exchange (ICX) services or Access Network Services (ANS) in respect of outgoing international calls.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) Notwithstanding anything contained in sub-section (l),",
+              "clauses": [
+                {
+                  "identifier": "l",
+                  "text": "(l),",
+                  "sub_clauses": [
+                    {
+                      "identifier": "l",
+                      "text": "(l),"
+                    }
+                  ],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) or",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3), where the Board, on application by any person, grants a certificate in writing, such person shall be exempted from income-tax or otherwise referred to in this section, shall be liable to pay tax at the lower rate and the person responsible for such payment shall make the payment as under— (a) without deduction of tax; or (b) subject to deduction of tax at the rate specified in the certificate.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) without deduction of tax; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) subject to deduction of tax at the rate specified in the certificate.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "108"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-108/",
+    "original_title": "Income Tax Act 2023 Section 108 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 108"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 6,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.3
+  },
+  "forms": []
+}

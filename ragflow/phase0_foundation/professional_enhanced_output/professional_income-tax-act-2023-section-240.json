@@ -1,0 +1,66 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "240",
+          "title": "Section 240 - Avoidance of Tax Through Transactions with Non-resident Where any business is carried on between a resident and a non-resident and it ap",
+          "content_text": "Section 240 - Avoidance of Tax Through Transactions with Non-resident Where any business is carried on between a resident and a non-resident and it appears to the Deputy Commissioner of Taxes that due to close relationship between them business activities is so arranged that in the course of business the resident either earn no profit or earn less than the expected normal profit, in this context the Deputy Commissioner of Taxes shall determine the amount of income which may reasonably be consider to have accrued to the resident from such business and include such income in the total income of the resident. Moreover, as per",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "240"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-240/",
+    "original_title": "Income Tax Act 2023 Section 240 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

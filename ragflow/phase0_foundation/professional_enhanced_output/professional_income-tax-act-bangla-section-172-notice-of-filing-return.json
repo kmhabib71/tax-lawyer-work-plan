@@ -1,0 +1,104 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 172 Notice of filing return",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৭২",
+          "title": "ধারা ১৭২ - রিটার্ন দাখিলের জন্য নোটিশ (১) উপকর কমিশনার",
+          "content_text": "ধারা ১৭২ - রিটার্ন দাখিলের জন্য নোটিশ (১) উপকর কমিশনার",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) উপকর কমিশনার",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৭২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৭১",
+          "title": "ধারা ১৭১ এ উল্লিখিত মেয়াদ উত্তীর্ণের পর যেকোনো সময়, কোনো ব্যক্তিকে, লিখিত নোটিশ দ্বারা, তাহার আয়ের রিটার্ন দাখিল করিবার জন্য নির্দেশ প্রদান করিতে পারি",
+          "content_text": "ধারা ১৭১ এ উল্লিখিত মেয়াদ উত্তীর্ণের পর যেকোনো সময়, কোনো ব্যক্তিকে, লিখিত নোটিশ দ্বারা, তাহার আয়ের রিটার্ন দাখিল করিবার জন্য নির্দেশ প্রদান করিতে পারিবেন, যদি- (ক)",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক)",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১৭১"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "১৬৬",
+          "title": "ধারা ১৬৬ এর অধীন উক্ত ব্যক্তির রিটার্ন দাখিল করা আবশ্যক হয়; বা (খ) উক্ত ব্যক্তির মোট আয় সংশ্লিষ্ট আয়বর্ষে কর আরোপযোগ্য হয়",
+          "content_text": "ধারা ১৬৬ এর অধীন উক্ত ব্যক্তির রিটার্ন দাখিল করা আবশ্যক হয়; বা (খ) উক্ত ব্যক্তির মোট আয় সংশ্লিষ্ট আয়বর্ষে কর আরোপযোগ্য হয়। (২) উপ-ধারা (১) এর অধীন, নোটিশে উল্লিখিত সময়ের মধ্যে, যাহা ২১ (একুশ) দিনের কম হইবে না, অথবা উপকর কমিশনার যেইরূপ অনুমোদন করিবে সেইরূপ বর্ধিত সময়ের মধ্যে রিটার্ন দাখিল করিতে হইবে।",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন, নোটিশে উল্লিখিত সময়ের মধ্যে, যাহা ২১ (একুশ) দিনের কম হইবে না, অথবা উপকর কমিশনার যেইরূপ অনুমোদন করিবে সেইরূপ বর্ধিত সময়ের মধ্যে রিটার্ন দাখিল করিতে হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৬৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-172-notice-of-filing-return/",
+    "original_title": "Income Tax Act Bangla Section 172 Notice of filing return – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 172 Notice of filing return"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 4,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.7
+  },
+  "forms": []
+}

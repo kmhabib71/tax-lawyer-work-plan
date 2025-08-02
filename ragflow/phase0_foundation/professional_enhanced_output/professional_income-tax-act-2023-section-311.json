@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "311",
+          "title": "Section 311 - Punishment for Non-compliance of Certain Obligation If any person fails to furnish information or perform the following acts without rea",
+          "content_text": "Section 311 - Punishment for Non-compliance of Certain Obligation If any person fails to furnish information or perform the following acts without reasonable cause, he shall be punished with rigorous imprisonment for a term which may extend to 1 (one) year or with fine or with both, if he- (a) fails or refuses to furnish information within the time prescribed under section 200, 201, 204 or 205; (b) does not grant permission to inspect or consent to the taking of copies under section 202; (c) fails to perform the duties required under sub-section (2) of section 204; (d) fails to provide facilities or information necessary to the Income-tax authority exercising powers under section 205; (e) disallows or obstructs the exercise of powers by any Income-tax authority under section 147 or section 206; (f) fails to comply with an order made under sub-section (1) of section 223. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of section 204; (d) fails to provide facilities or information necessary to the Income-tax authority exercising powers under section 205; (e) disallows or obstructs the exercise of powers by any Income-tax authority under section 147 or section 206; (f) fails to comply with an order made under sub-section",
+              "clauses": [
+                {
+                  "identifier": "d",
+                  "text": "(d) fails to provide facilities or information necessary to the Income-tax authority exercising powers under section 205;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) disallows or obstructs the exercise of powers by any Income-tax authority under section 147 or section 206;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) fails to comply with an order made under sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) of section 223. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "311"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-311/",
+    "original_title": "Income Tax Act 2023 Section 311 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

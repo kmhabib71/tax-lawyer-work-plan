@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "202",
+          "title": "Section 202 - Automatic Provision of Information The Board by notification in official Gazette, may passed order to any authority, person it entity to",
+          "content_text": "Section 202 - Automatic Provision of Information The Board by notification in official Gazette, may passed order to any authority, person it entity to provide information digitally to the Board or any other authority available with them relating to the assets, liabilities, income, expenditure and transactions of any class of persons under its control. (2) Providing information by digital means as described in subsection (1) shall include the following matters, namely: (a) uploading of data to the Board’s system; (b) data sharing in the Board’s digital or electronic system; (c) granting access authority to the intended digital or electronic information system. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) Providing information by digital means as described in subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall include the following matters, namely: (a) uploading of data to the Board’s system; (b) data sharing in the Board’s digital or electronic system; (c) granting access authority to the intended digital or electronic information system. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) uploading of data to the Board’s system;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) data sharing in the Board’s digital or electronic system;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) granting access authority to the intended digital or electronic information system. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "202"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-202/",
+    "original_title": "Income Tax Act 2023 Section 202 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

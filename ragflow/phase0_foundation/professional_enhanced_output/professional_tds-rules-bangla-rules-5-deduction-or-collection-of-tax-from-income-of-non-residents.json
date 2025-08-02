@@ -1,0 +1,208 @@
+{
+  "header": {
+    "title": "TDS Rules Bangla Rules 5 Deduction or collection of tax from income of non-residents",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "119",
+          "title": "Section 119 of ITA 2023",
+          "content_text": "Section 119 of ITA 2023",
+          "subsections": [],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "ক্রমিক নং",
+                "পরিশোধের বর্ণনা",
+                "হার"
+              ],
+              "data": [
+                [
+                  "১।",
+                  "উপদেষ্টা বা পরামর্শ",
+                  "২০%"
+                ],
+                [
+                  "২।",
+                  "প্রি-শিপমেন্ট পরিদর্শন",
+                  "২০%"
+                ],
+                [
+                  "৩।",
+                  "পেশাদার সেবা, প্রযুক্তিগত সেবা ফি, বা প্রযুক্তিগত সহায়তা ফি (Professional service, technical services, technical know-how or technical assistance)",
+                  "২০%"
+                ],
+                [
+                  "৪।",
+                  "আর্কিটেকচার, ইন্টেরিয়র ডিজাইন বা ল্যান্ডস্কেপ ডিজাইন, ফ্যাশন ডিজাইন বা প্রসেস ডিজাইন",
+                  "২০%"
+                ],
+                [
+                  "৫।",
+                  "সার্টিফিকেশন, রেটিং ইত্যাদি",
+                  "২০%"
+                ],
+                [
+                  "৬।",
+                  "স্যাটেলাইট, এয়ারটাইম বা ফ্রিকোয়েন্সি ব্যবহার বাবদ ভাড়া বা অন্য কোনো ব্যয়/ চ্যানেল সম্প্রচার বাবদ ভাড়া",
+                  "২০%"
+                ],
+                [
+                  "৭।",
+                  "আইনি সেবা",
+                  "২০%"
+                ],
+                [
+                  "৮।",
+                  "ইভেন্ট ম্যানেজমেন্টসহ ব্যবস্থাপনা সেবা",
+                  "২০%"
+                ],
+                [
+                  "৯।",
+                  "কমিশন",
+                  "২০%"
+                ],
+                [
+                  "১০।",
+                  "রয়্যালটি, লাইসেন্স ফি বা স্পর্শাতীত সম্পত্তির জন্য পরিশোধিত অর্থ",
+                  "২০%"
+                ],
+                [
+                  "১১।",
+                  "সুদ",
+                  "২০%"
+                ],
+                [
+                  "১২।",
+                  "বিজ্ঞাপন সম্প্রচার",
+                  "২০%"
+                ],
+                [
+                  "১৩।",
+                  "বিজ্ঞাপন নির্মাণ ও ডিজিটাল মার্কেটিং",
+                  "১৫%"
+                ],
+                [
+                  "১৪।",
+                  "বিমান পরিবহন বা নৌ পরিবহন",
+                  "৭.৫%"
+                ],
+                [
+                  "১৫।",
+                  "কন্ট্রাক্ট বা সাব-কন্ট্রাক্ট",
+                  "৭.৫%"
+                ],
+                [
+                  "১৬।",
+                  "সরবরাহ",
+                  "৭.৫%"
+                ],
+                [
+                  "১৭।",
+                  "মূলধনি মুনাফা",
+                  "১৫%"
+                ],
+                [
+                  "১৮।",
+                  "বীমা প্রিমিয়াম",
+                  "১০%"
+                ],
+                [
+                  "১৯।",
+                  "যন্ত্রপাতি, সরঞ্জাম ইত্যাদি ভাড়া",
+                  "১৫%"
+                ],
+                [
+                  "২০।",
+                  "লভ্যাংশ(১) কোম্পানি, তহবিল বা ট্রাস্ট(২) কোম্পানি, তহবিল বা ট্রাস্ট ব্যতীত অন্যান্য ব্যক্তি",
+                  "২০%৩০%"
+                ],
+                [
+                  "২১।",
+                  "শিল্পী, গায়ক বা খেলোয়ার",
+                  "৩০%"
+                ],
+                [
+                  "২২।",
+                  "বেতন বা পারিশ্রমিক",
+                  "৩০%"
+                ],
+                [
+                  "২৩।",
+                  "পেট্রোলিয়াম অপারেশনের অনুসন্ধান বা ড্রিলিং",
+                  "৫.২৫%"
+                ],
+                [
+                  "২৪।",
+                  "কয়লা, তেল বা গ্যাস অনুসন্ধানের জন্য সমীক্ষা",
+                  "২০%"
+                ],
+                [
+                  "২৫।",
+                  "জেনারেল ইন্স্যুরেন্স কোম্পানির সার্ভেয়ার ফি ইত্যাদি",
+                  "৫.২৫%"
+                ],
+                [
+                  "২৬।",
+                  "তেল বা গ্যাসক্ষেত্র এবং এর রপ্তানি পয়েন্টের মধ্যে সংযোগ স্থাপনের জন্য যেকোনো সেবা",
+                  "৫.২৫%"
+                ],
+                [
+                  "২৭।",
+                  "ব্যান্ডউইদ বাবদ পরিশোধ",
+                  "১০%"
+                ],
+                [
+                  "২৮।",
+                  "কুরিয়ার সার্ভিস",
+                  "১৫%"
+                ],
+                [
+                  "২৯।",
+                  "অন্য কোনো পরিশোধ",
+                  "২০%"
+                ]
+              ],
+              "metadata": {
+                "row_count": 29,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            }
+          ],
+          "references": [
+            "119"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-bangla-rules-5-deduction-or-collection-of-tax-from-income-of-non-residents/",
+    "original_title": "TDS Rules Bangla Rules 5 Deduction or collection of tax from income of non-residents – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "TDS Rules Bangla Rules 5 Deduction or collection of tax from income of non-residents"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

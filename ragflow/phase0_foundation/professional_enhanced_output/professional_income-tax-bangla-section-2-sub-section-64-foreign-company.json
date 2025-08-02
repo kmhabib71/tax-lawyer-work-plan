@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 64 Foreign company",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬৪ - বিদেশি কোম্পানি “বিদেশি কোম্পানি” অর্থ কোনো কোম্পানি যাহা বাংলাদেশি কোম্পানি নহে;",
+          "content_text": "ধারা ২ দফা ৬৪ - বিদেশি কোম্পানি “বিদেশি কোম্পানি” অর্থ কোনো কোম্পানি যাহা বাংলাদেশি কোম্পানি নহে;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-64-foreign-company/",
+    "original_title": "Income tax bangla section 2 sub-section 64 Foreign company – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 64 Foreign company"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "TDS Rules 2023 Bangla",
+    "document_type": "legal_act",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "উৎসে কর বিধিমালা (TDS Rules) আয়বর্ষ ২০২৫-২০২৬ আয়বর্ষ ২০২৪-২০২৫ আয়বর্ষ ২০২৩-২০২৪ TDS Rules – Refer",
+          "content_text": "উৎসে কর বিধিমালা (TDS Rules) আয়বর্ষ ২০২৫-২০২৬ আয়বর্ষ ২০২৪-২০২৫ আয়বর্ষ ২০২৩-২০২৪ TDS Rules – Reference/ Source: National Board of Revenue (NBR) ; Bangladesh Gazette;",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-bangla/",
+    "original_title": "TDS Rules 2023 Bangla – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "bengali",
+      "title": "TDS Rules 2023 Bangla"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

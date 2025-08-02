@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "Income Tax Rules English",
+    "document_type": "legal_rules",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "এই সেকশন সম্পাদনের কাজ চলমান রহিয়াছে। সম্পাদন কাজ সম্পূর্ণ হওয়ার সাথে সাথেই আমরা ওয়েবসাইটে আপলোড ",
+          "content_text": "এই সেকশন সম্পাদনের কাজ চলমান রহিয়াছে। সম্পাদন কাজ সম্পূর্ণ হওয়ার সাথে সাথেই আমরা ওয়েবসাইটে আপলোড করব। অনুগ্রহ করে অপেক্ষা করুন। Thanks for your patience.",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-rules-english/",
+    "original_title": "Income Tax Rules English – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_rules",
+      "language": "bengali",
+      "title": "Income Tax Rules English"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

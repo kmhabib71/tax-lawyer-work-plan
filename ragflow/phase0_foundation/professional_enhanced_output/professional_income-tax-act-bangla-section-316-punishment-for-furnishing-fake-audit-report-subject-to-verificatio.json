@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 316 Punishment for furnishing fake audit report subject to verification",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩১৬",
+          "title": "ধারা ৩১৬ - যাচাই সাপেক্ষে মিথ্যা নিরীক্ষিত বিবৃতি প্রদানের দণ্ড যদি কোনো ব্যক্তি রিটার্নের সহিত বা তদনুসারে কোনো নিরীক্ষিত হিসাববিবরণী দাখিল করেন যাহা",
+          "content_text": "ধারা ৩১৬ - যাচাই সাপেক্ষে মিথ্যা নিরীক্ষিত বিবৃতি প্রদানের দণ্ড যদি কোনো ব্যক্তি রিটার্নের সহিত বা তদনুসারে কোনো নিরীক্ষিত হিসাববিবরণী দাখিল করেন যাহা জাল বা মিথ্যা এবং তিনি জানেন বা বিশ্বাস করেন যে, তাহা জাল ও মিথ্যা, বা সত্য বলিয়া বিশ্বাস করেন না, তাহা হইলে তিনি অনধিক ৫ (পাঁচ) বৎসর পর্যন্ত সশ্রম কারাদণ্ডে, তবে ৬ (ছয়) মাসের নিম্নে নহে, দণ্ডিত হইবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩১৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-316-punishment-for-furnishing-fake-audit-report-subject-to-verification/",
+    "original_title": "Income Tax Act Bangla Section 316 Punishment for furnishing fake audit report subject to verification – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 316 Punishment for furnishing fake audit report subject to verification"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

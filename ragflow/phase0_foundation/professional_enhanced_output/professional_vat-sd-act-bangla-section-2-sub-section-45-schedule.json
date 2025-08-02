@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৪৫ - তফসিল ‘‘তফসিল’’ অর্থ এই আইনের কোন তফসিল;",
+    "document_type": "legal_schedule",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৪৫ - তফসিল ‘‘তফসিল’’ অর্থ এই আইনের কোন তফসিল;",
+          "content_text": "ধারা ২ দফা ৪৫ - তফসিল ‘‘তফসিল’’ অর্থ এই আইনের কোন তফসিল;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-45-schedule/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 45 Schedule",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৪৫ - তফসিল ‘‘তফসিল’’ অর্থ এই আইনের কোন তফসিল;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

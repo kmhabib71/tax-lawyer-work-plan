@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "157",
+          "title": "Section 157 - Liability of Directors for Irrecoverable Tax of Private Companies (1) Notwithstanding anything contained in the Companies Act, 1994 (Act",
+          "content_text": "Section 157 - Liability of Directors for Irrecoverable Tax of Private Companies (1) Notwithstanding anything contained in the Companies Act, 1994 (Act No. 18 of 1994), where a private company is wound up and before or during the winding up of the company of after the winding up, or if the business of the company has been closed for 3 (three) consecutive it is not possible to collect the tax assessed on the company in respect of any income in any income year, in which case every person who was a director of the company at any time during the relevant income year shall jointly and severally pay the said tax shall be liable and shall be treated as a taxpayer for the purpose of recovery of said tax, and the provisions of this Act shall apply accordingly. (2) Notwithstanding anything contained in sub-section (1), the liability of a person in respect of the income of a private company shall be suspended if he can prove to the Deputy Commissioner of Taxes that for non-recovery of the tax his gross negligence in respect of the activities of the company, abuse of lawful authority or which of his any duty is not responsible so as not to collect tax from the company, not liable for negligence, abuse of lawful authority or breach of any duty. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Notwithstanding anything contained in the Companies Act, 1994 (Act No. 18 of 1994), where a private company is wound up and before or during the winding up of the company of after the winding up, or if the business of the company has been closed for 3 (three) consecutive it is not possible to collect the tax assessed on the company in respect of any income in any income year, in which case every person who was a director of the company at any time during the relevant income year shall jointly and severally pay the said tax shall be liable and shall be treated as a taxpayer for the purpose of recovery of said tax, and the provisions of this Act shall apply accordingly.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Notwithstanding anything contained in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), the liability of a person in respect of the income of a private company shall be suspended if he can prove to the Deputy Commissioner of Taxes that for non-recovery of the tax his gross negligence in respect of the activities of the company, abuse of lawful authority or which of his any duty is not responsible so as not to collect tax from the company, not liable for negligence, abuse of lawful authority or breach of any duty. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "157"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-257/",
+    "original_title": "Income Tax Act 2023 Section 257 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

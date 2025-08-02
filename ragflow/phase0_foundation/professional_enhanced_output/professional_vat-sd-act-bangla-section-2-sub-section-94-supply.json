@@ -1,0 +1,96 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৪ - সরবরাহ ‘‘সরবরাহ’’ অর্থ যে কোন সরবরাহ এবং নিম্নবর্ণিত বিষয়সমূহও উহার অন্তর্ভুক্ত হইবে, যথা:― (ক) পণ্য সরবরাহ; (খ) স্থাবর সম্পত্তি সরবরাহ; (গ) সেবা সরবরাহ; বা (ঘ) দফা (ক), (খ) এবং (গ) তে বর্ণিত সরবরাহের সমাহার;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৯৪ - সরবরাহ ‘‘সরবরাহ’’ অর্থ যে কোন সরবরাহ এবং নিম্নবর্ণিত বিষয়সমূহও উহার অন্তর্ভুক্ত হইবে, যথা",
+          "content_text": "ধারা ২ দফা ৯৪ - সরবরাহ ‘‘সরবরাহ’’ অর্থ যে কোন সরবরাহ এবং নিম্নবর্ণিত বিষয়সমূহও উহার অন্তর্ভুক্ত হইবে, যথা:― (ক) পণ্য সরবরাহ; (খ) স্থাবর সম্পত্তি সরবরাহ; (গ) সেবা সরবরাহ; বা (ঘ) দফা (ক), (খ) এবং (গ) তে বর্ণিত সরবরাহের সমাহার;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) পণ্য সরবরাহ;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) স্থাবর সম্পত্তি সরবরাহ;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) সেবা সরবরাহ; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ঘ",
+              "text": "(ঘ)",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ক",
+              "text": "দফা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ক",
+              "text": "(ক),",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) এবং",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) তে বর্ণিত সরবরাহের সমাহার;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-94-supply/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 94 Supply",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৪ - সরবরাহ ‘‘সরবরাহ’’ অর্থ যে কোন সরবরাহ এবং নিম্নবর্ণিত বিষয়সমূহও উহার অন্তর্ভুক্ত হইবে, যথা:― (ক) পণ্য সরবরাহ; (খ) স্থাবর সম্পত্তি সরবরাহ; (গ) সেবা সরবরাহ; বা (ঘ) দফা (ক), (খ) এবং (গ) তে বর্ণিত সরবরাহের সমাহার;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

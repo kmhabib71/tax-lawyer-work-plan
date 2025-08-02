@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 3 The Act to prevail",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩",
+          "title": "ধারা ৩ - আইনের প্রাধান্য (১) আপাতত বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলি প্রাধান্য পাইবে",
+          "content_text": "ধারা ৩ - আইনের প্রাধান্য (১) আপাতত বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলি প্রাধান্য পাইবে। (২) অন্য কোনো আইন বা উহার কোনো বিধান যদি এই আইনের কোনো বিধানের সহিত অসামঞ্জস্যপূর্ণ হয়, তাহা হইলে সেই আইন বা সেই আইনের বিধান যতখানি অসামঞ্জস্যপূর্ণ, ততখানি অকার্যকর বলিয়া গণ্য হইবে।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) আপাতত বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলি প্রাধান্য পাইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) অন্য কোনো আইন বা উহার কোনো বিধান যদি এই আইনের কোনো বিধানের সহিত অসামঞ্জস্যপূর্ণ হয়, তাহা হইলে সেই আইন বা সেই আইনের বিধান যতখানি অসামঞ্জস্যপূর্ণ, ততখানি অকার্যকর বলিয়া গণ্য হইবে।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-3-the-act-to-prevail/",
+    "original_title": "Income Tax Act Bangla Section 3 The Act to prevail – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 3 The Act to prevail"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

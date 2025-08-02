@@ -1,0 +1,106 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৫৪ - ফেরত প্রদত্ত অর্থের প্রয়োগ ধারা ৭০ এর উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে, উক্ত উপ-ধারায় বর্ণিত অর্থ ধারা ৬৮ এর ১ [উপ-ধারা (৩)] এর বিধান মতে হ্রাসকারী সমন্বয় করিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৭০",
+          "title": "ধারা ৭০ এর উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে, উক্ত উপ-ধারায় বর্ণিত অর্থ",
+          "content_text": "ধারা ৭০ এর উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে, উক্ত উপ-ধারায় বর্ণিত অর্থ",
+          "subsections": [
+            {
+              "identifier": "৩",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) এর উদ্দেশ্য পূরণকল্পে, উক্ত উপ-ধারায় বর্ণিত অর্থ",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৭০"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৬৮",
+          "title": "ধারা ৬৮ এর ১ [উপ-ধারা (৩)] এর বিধান মতে হ্রাসকারী সমন্বয় করিবেন",
+          "content_text": "ধারা ৬৮ এর ১ [উপ-ধারা (৩)] এর বিধান মতে হ্রাসকারী সমন্বয় করিবেন। ১ এস.আর.ও. নং-১৪০-আইন/২০২১/১৩৭-মূসক, তারিখঃ ০৩ জুন, ২০২১ দ্বারা নিম্নরূপ “উপ-ধারা (৪) ও (৫)” এর পরিবর্তে প্রতিস্থাপিত।",
+          "subsections": [
+            {
+              "identifier": "৩",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩)] এর বিধান মতে হ্রাসকারী সমন্বয় করিবেন। ১ এস.আর.ও. নং-১৪০-আইন/২০২১/১৩৭-মূসক, তারিখঃ ০৩ জুন, ২০২১ দ্বারা নিম্নরূপ “",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৪",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৪",
+              "text": "(৪) ও",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৫",
+              "text": "(৫)” এর পরিবর্তে প্রতিস্থাপিত।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬৮"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-54-application-of-refunded-amount/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 54 Application of refunded amount – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৫৪ - ফেরত প্রদত্ত অর্থের প্রয়োগ ধারা ৭০ এর উপ-ধারা (৩) এর উদ্দেশ্য পূরণকল্পে, উক্ত উপ-ধারায় বর্ণিত অর্থ ধারা ৬৮ এর ১ [উপ-ধারা (৩)] এর বিধান মতে হ্রাসকারী সমন্বয় করিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 7,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

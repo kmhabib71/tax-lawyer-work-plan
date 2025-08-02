@@ -1,0 +1,43 @@
+{
+  "header": {
+    "title": "TDS Rules Bangla Schedule 1 Return of withholding tax",
+    "document_type": "legal_schedule",
+    "language": "unknown"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১",
+          "title": "বিষয়বস্তু",
+          "content_text": "",
+          "subsections": [],
+          "clauses": [],
+          "tables": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/tds-rules-bangla-schedule-1-return-of-withholding-tax/",
+    "original_title": "TDS Rules Bangla Schedule 1 Return of withholding tax – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "unknown",
+      "title": "TDS Rules Bangla Schedule 1 Return of withholding tax"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

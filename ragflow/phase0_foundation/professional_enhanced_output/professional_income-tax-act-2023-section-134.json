@@ -1,0 +1,75 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 134",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "134",
+          "title": "Section 134 - Collection of Tax on Transfer of Shares The person responsible for registering the transfer of shares in a company which is not register",
+          "content_text": "Section 134 - Collection of Tax on Transfer of Shares The person responsible for registering the transfer of shares in a company which is not registered from a resident person to another person shall not register such transfer, unless the resident transferee deposit challan of tax payment at the rate of 15% (fifteen percent) on the difference between the face value and the fair value of the shares transferred. Explanation- For the purposes of this section- (a) “Face Value” means the price determined by the issuer and includes any additional amount if the same; (i) completed by bank transfer; and (ii) is properly shown in the income tax return of the taxpayer; (b) “Fair Value” means the fair value determined by the Professional valuer in the valuation report made before the transfer of shares;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) “Face Value” means the price determined by the issuer and includes any additional amount if the same;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "i",
+              "text": "(i) completed by bank transfer; and (ii) is properly shown in the income tax return of the taxpayer;",
+              "sub_clauses": [
+                {
+                  "identifier": "i",
+                  "text": "(i) completed by bank transfer; and (ii) is properly shown in the income tax return of the taxpayer;"
+                },
+                {
+                  "identifier": "ii",
+                  "text": "(ii) is properly shown in the income tax return of the taxpayer;"
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) “Fair Value” means the fair value determined by the Professional valuer in the valuation report made before the transfer of shares;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "134"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-134/",
+    "original_title": "Income Tax Act 2023 Section 134 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 134"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

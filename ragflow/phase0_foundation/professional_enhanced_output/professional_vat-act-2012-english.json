@@ -1,0 +1,844 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali texts, the Bengali text shall prevail.",
+    "document_type": "legal_act",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "136",
+          "title": "Section 136(2) of the VAT & SD Act 2012 and",
+          "content_text": "Section 136(2) of the VAT & SD Act 2012 and",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the VAT & SD Act 2012 and",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "136"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali texts, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali texts, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali texts, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Chapter",
+                "Part",
+                "Section",
+                "Title of the section"
+              ],
+              "data": [
+                [
+                  "ONE – PRELIMINARY",
+                  "1",
+                  "Short title and commencement"
+                ],
+                [
+                  "ONE – PRELIMINARY",
+                  "2",
+                  "Definitions"
+                ],
+                [
+                  "ONE – PRELIMINARY",
+                  "3",
+                  "The Act to prevail"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "4",
+                  "Persons required to be registered for VAT"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "5",
+                  "Registration"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "6",
+                  "Procedure of VAT registration"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "7",
+                  "Publication and preservation of a list of registered persons"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "8",
+                  "Voluntary VAT registration"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "9",
+                  "Cancellation of VAT registration"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "10",
+                  "Persons required to be enlisted and their enlistment"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "11",
+                  "Cancellation of enlistment"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "12",
+                  "Registration or enlistment,[***] suo moto, of persons required to be registered or enlisted"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "13",
+                  "Responsibility of a registered or enlisted person to display certificates"
+                ],
+                [
+                  "TWO – VAT REGISTRATION AND TURNOVER TAX ENLISHMENT",
+                  "14",
+                  "Responsibility of a registered or enlisted person to keep informed of changes in information"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "15",
+                  "Imposition of VAT"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "16",
+                  "Persons liable to pay value added tax"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "17",
+                  "Supplies made within Bangladesh"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "18",
+                  "Registered Supplier and registered recipient"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "19",
+                  "VAT Agent of non-residents"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "20",
+                  "Imported services reverse charged to recipient"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "21",
+                  "Zero-rated supplies"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "22",
+                  "Land outside Bangladesh"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "23",
+                  "Supply of goods for export"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "24",
+                  "Supply of zero- rated services"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "25",
+                  "Travel Agent and tour operators"
+                ],
+                [
+                  "THREE – IMPOSITION OF VAT",
+                  "26",
+                  "Exempted supplies, or exempted imports"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part A – On imports",
+                  "27",
+                  "Manner of VAT collection in case of taxable imports"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part A – On imports",
+                  "28",
+                  "Determination of vat-imposable base value in case of taxable imports"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part A – On imports",
+                  "29",
+                  "Determination of value of re-imported goods"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part A – On imports",
+                  "30",
+                  "Imports for exports"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part A – On imports",
+                  "31",
+                  "Payment of advance tax at the time of import and its adjustment"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part B – On General Supplies",
+                  "32",
+                  "Determination of value of taxable supply"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part B – On General Supplies",
+                  "32A",
+                  "Explanation by the Board"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part B – On General Supplies",
+                  "33",
+                  "Time of payment of VAT on taxable supply"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part B – On General Supplies",
+                  "34",
+                  "Progressive or periodic supplies"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part B – On General Supplies",
+                  "35",
+                  "Supply multiple types of goods and services through single challan"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "36",
+                  "Sale of an establishment as a going concern"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "37",
+                  "Rights, options, and vouchers"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "38",
+                  "Supply of prepaid telecommunications products or services"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "39",
+                  "Lotteries, lucky draws, housie, raffles, and similar undertakings"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "40",
+                  "Value of in-kind benefits, given to an employee or officer, provided through goods instead of cash money"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "41",
+                  "Lay-by sales"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "42",
+                  "Cancelled transactions"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "43",
+                  "Sale of property to pay off a debt"
+                ],
+                [
+                  "FOUR – MANNER OF VAT COLLECTION",
+                  "Part C – On Special Supplies",
+                  "44",
+                  "Vending machines"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "45",
+                  "Manner of assessing net payable tax on supplies and payment thereof"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "46",
+                  "Input tax credit"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "47",
+                  "Partial input tax credit"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "48",
+                  "Adjustments"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "49",
+                  "Tax withheld at source and increasing adjustment by withholding entity"
+                ],
+                [
+                  "FIVE – ASSESSMENT OF NET PAYABLE TAX BY THE TAXPAYER AND PAYMENT THEREOF",
+                  "50",
+                  "Decreasing adjustment by the supplier after the tax withheld at source"
+                ],
+                [
+                  "SIX – TAX INVOICES AND OTHER DOCUMENT",
+                  "51",
+                  "Tax invoices"
+                ],
+                [
+                  "SIX – TAX INVOICES AND OTHER DOCUMENT",
+                  "52",
+                  "Credit notes and debit notes"
+                ],
+                [
+                  "SIX – TAX INVOICES AND OTHER DOCUMENT",
+                  "53",
+                  "Tax withholding certificate"
+                ],
+                [
+                  "SIX – TAX INVOICES AND OTHER DOCUMENT",
+                  "54",
+                  "Other provisions relating to tax documents"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "55",
+                  "Imposition of supplementary duty"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "56",
+                  "Persons liable to pay supplementary duty"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "57",
+                  "The value for imposition of supplementary duty"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "58",
+                  "Special schemes for tobacco and alcoholic goods"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "59",
+                  "Collection of supplementary duty on imports"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "60",
+                  "Collection of supplementary duty on supplies"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "61",
+                  "Presumed supply of goods subject to supplementary duty"
+                ],
+                [
+                  "SEVEN – IMPOSITION AND COLLECTION OF SUPPLEMENTARY DUTY",
+                  "62",
+                  "Decreasing adjustments for supplementary duty"
+                ],
+                [
+                  "EIGHT – IMPOSITION AND COLLECTION OF TURNOVER TAX",
+                  "63",
+                  "Imposition and collection of turnover tax"
+                ],
+                [
+                  "EIGHT – FILING OF RETURN AND AMMENDMENTS THERETO",
+                  "64",
+                  "Filing of return"
+                ],
+                [
+                  "NINE – FILING OF RETURN AND AMMENDMENTS THERETO",
+                  "65",
+                  "Late filing of return"
+                ],
+                [
+                  "NINE – FILING OF RETURN AND AMMENDMENTS THERETO",
+                  "66",
+                  "Amendments to return"
+                ],
+                [
+                  "NINE – FILING OF RETURN AND AMMENDMENTS THERETO",
+                  "67",
+                  "Filing of complete, additional, or alternative returns"
+                ],
+                [
+                  "TEN – CARRY FORWARD OF NEGATIVE NET AMOUNT AND REFUNDS",
+                  "68",
+                  "Carry forward and refund of negative net amount"
+                ],
+                [
+                  "TEN – CARRY FORWARD OF NEGATIVE NET AMOUNT AND REFUNDS",
+                  "69",
+                  "Refunds without carry forward of net negative amounts of money"
+                ],
+                [
+                  "TEN – CARRY FORWARD OF NEGATIVE NET AMOUNT AND REFUNDS",
+                  "70",
+                  "Application of the refunded money"
+                ],
+                [
+                  "TEN – CARRY FORWARD OF NEGATIVE NET AMOUNT AND REFUNDS",
+                  "71",
+                  "Refund of taxes paid by diplomats and other international organisations"
+                ],
+                [
+                  "TEN – CARRY FORWARD OF NEGATIVE NET AMOUNT AND REFUNDS",
+                  "72",
+                  "Refund or adjustment of taxes paid in excess"
+                ],
+                [
+                  "ELEVEN – [***] TAX DETERMINATION",
+                  "73",
+                  "Tax determination"
+                ],
+                [
+                  "ELEVEN – [***] TAX DETERMINATION",
+                  "74",
+                  "False declaration by the recipient of a supply"
+                ],
+                [
+                  "ELEVEN – [***] TAX DETERMINATION",
+                  "75",
+                  "False statement by supplier"
+                ],
+                [
+                  "ELEVEN – [***] TAX DETERMINATION",
+                  "76",
+                  "Grant of tax benefit or its negation"
+                ],
+                [
+                  "ELEVEN – [***] TAX DETERMINATION",
+                  "77",
+                  "Admissibility of tax determination notice"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "78",
+                  "Value Added Tax Authority and officers thereof"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "79",
+                  "Duties and responsibilities of the VAT Authority"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "80",
+                  "Power of the Board to amend or alter an order or decision of a VAT officer"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "81",
+                  "Delegation of Power"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "82",
+                  "Assistance to VAT officers"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "83",
+                  "Power to enter and search by VAT officers"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "84",
+                  "Seizure of goods and disposal thereof"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "85",
+                  "Imposition of monetary penalty for [ non-compliance, irregularities or tax evasion ]"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "86",
+                  "Monetary limits of the VAT officers in initiating a proceeding for adjudication"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "87",
+                  "Power to summons"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "88",
+                  "Duties and powers of the Customs Officers"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "89",
+                  "Confidentiality"
+                ],
+                [
+                  "TWELEVE – VALUE ADDED TAX AUTHORITY",
+                  "89A",
+                  "Application of other laws in case of Value Added Tax Act"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "90",
+                  "Audit and investigation of a taxpayer’s economic activities"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "90A",
+                  "Filing of annual audited financial statements"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "91",
+                  "Powers of the VAT officers"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "92",
+                  "Supervised supply, observation and surveillance"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "93",
+                  "Multiple departmental audits"
+                ],
+                [
+                  "THIRTEEN – AUDIT AND INVESTIGATION",
+                  "94",
+                  "Special audit"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "95",
+                  "Recovery of arrear tax"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "96",
+                  "Power of VAT officer under the Code of Civil Procedure"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "97",
+                  "Change in jurisdiction for recovery of arrear tax"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "98",
+                  "Disposal of money or security recovered"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "99",
+                  "Government lien on the immovable property of the defaulting taxpayer and attachment thereof"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "100",
+                  "Seizure of goods, sale of such goods and disposal of the sale proceeds thereof"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "101",
+                  "Liabilities and obligations of the representative"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "102",
+                  "Responsibilities of receivers"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "103",
+                  "Liability of directors or entrepreneurs of any company or association of persons or of property development joint venture"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "104",
+                  "Continuity of partnerships or unincorporated associations"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "105",
+                  "Death or insolvency of a taxpayer"
+                ],
+                [
+                  "FOURTEEN – RECOVERY OF ARREAR TAX",
+                  "106",
+                  "Payment of arrear tax by installments"
+                ],
+                [
+                  "FIFTEEN – MAINTENANCE OF FORMS, NOTICES, AND RECORDS",
+                  "107",
+                  "Keeping of records and accounts"
+                ],
+                [
+                  "FIFTEEN – MAINTENANCE OF FORMS, NOTICES, AND RECORDS",
+                  "108",
+                  "Authentication of forms, notices and documents"
+                ],
+                [
+                  "FIFTEEN – MAINTENANCE OF FORMS, NOTICES, AND RECORDS",
+                  "109",
+                  "Service of notices"
+                ],
+                [
+                  "FIFTEEN – MAINTENANCE OF FORMS, NOTICES, AND RECORDS",
+                  "110",
+                  "Authenticity of documents"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "111",
+                  "Offences relating to VAT registration certificate or turnover tax certificate and tax invoice, and punishment thereof"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "112",
+                  "Offence and punishment relating to false or misleading statement or description"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "113",
+                  "Offence and punishment for obstructions"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "114",
+                  "Investigation, trial and appeal of the offence"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "115",
+                  "Additional Power of the Judicial Magistrate or the Metropolitan Magistrate"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "116",
+                  "Offence committed by any company, association of persons or property development joint venture"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "117",
+                  "Abettor of offence"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "118",
+                  "Prior approval before filing a case"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "119",
+                  "Compoundability of the offences"
+                ],
+                [
+                  "SIXTEEN – OFFENCE, TRIAL AND PUNISHMENT",
+                  "120",
+                  "Fine additional to the tax payable"
+                ],
+                [
+                  "SEVENTEEN – APPEALS AND REVISIONS",
+                  "121",
+                  "Appeal to Commissioner (Appeal)"
+                ],
+                [
+                  "SEVENTEEN – APPEALS AND REVISIONS",
+                  "122",
+                  "Appeal to Appellate Tribunal"
+                ],
+                [
+                  "SEVENTEEN – APPEALS AND REVISIONS",
+                  "123",
+                  "Burden of proof in a proceeding"
+                ],
+                [
+                  "SEVENTEEN – APPEALS AND REVISIONS",
+                  "124",
+                  "Appeal to the High Court Division"
+                ],
+                [
+                  "SEVENTEEN – APPEALS AND REVISIONS",
+                  "125",
+                  "Alternative dispute resolution"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "126",
+                  "Exemption"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "126A",
+                  "Giving rewards and performance incentives"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "127",
+                  "Imposition of interest on payable tax"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "127A",
+                  "Power to write off government dues"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "127B",
+                  "Determination time and manner of payment of tax in case of certain goods or services"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "128",
+                  "Online performance of functions, filing of return and payment of tax, etc"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "129",
+                  "Bar to the lodgement of suits in the Court"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "129A",
+                  "Protection of acts done in good faith"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "130",
+                  "Appointment of VAT Consultant"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "131",
+                  "Correction of clerical mistakes, etc"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "132",
+                  "Certified copy of documents"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "133",
+                  "Issuance of VAT clearance certificate"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "134",
+                  "Acts to be done through a private organisation"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "135",
+                  "Power to make rules"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "135A",
+                  "Determination of uniform and allowances of VAT officers and employees"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "136",
+                  "Publication of translated English text"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "137",
+                  "Repeal and savings"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "138",
+                  "Tax accounting during transition"
+                ],
+                [
+                  "EIGHTEEN – MISCELLANEOUS",
+                  "139",
+                  "Agreements entered into after the introduction of this Act"
+                ]
+              ],
+              "metadata": {
+                "row_count": 147,
+                "column_count": 4,
+                "table_type": "general_table"
+              }
+            }
+          ],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-act-2012-english/",
+    "original_title": "VAT Act 2012 English – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_act",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali texts, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

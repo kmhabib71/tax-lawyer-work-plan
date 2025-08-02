@@ -1,0 +1,68 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 93 Transfer",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৯৩ - হস্তান্তর “হস্তান্তর” অর্থে মূলধনি পরিসম্পদের ক্ষেত্রে, বিক্রয়, বিনিময় বা ত্যাগ বা পরিসম্পদের কোনো স্বত্ব বিলোপিত হওয়া অন্তর্ভুক্ত হইব",
+          "content_text": "ধারা ২ দফা ৯৩ - হস্তান্তর “হস্তান্তর” অর্থে মূলধনি পরিসম্পদের ক্ষেত্রে, বিক্রয়, বিনিময় বা ত্যাগ বা পরিসম্পদের কোনো স্বত্ব বিলোপিত হওয়া অন্তর্ভুক্ত হইবে, তবে নিম্নবর্ণিত বিষয়াদি ইহার অন্তর্ভুক্ত হইবে না, যথা:- (ক) মূলধনি পরিসম্পদের হস্তান্তর যদি দানমূলে, উইলমূলে, অছিয়তমূলে বা অবাতিলযোগ্য কোনো ট্রাস্টমূলে সংঘটিত হয়; (খ) কোম্পানির অবসায়নকালে শেয়ার হোল্ডারগণের নিকট যদি উহার পরিসম্পদ যেকোনো উপায়ে বিতরণ করা হয়; এবং (গ) ফার্ম বা অন্যবিধ ব্যক্তিসংঘের বিলুপ্তির মুহূর্তে অথবা, হিন্দু অবিভক্ত পরিবার বিভক্তিকালে যদি কোনো মূলধনি পরিসম্পদের বিতরণ করা হয়।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) মূলধনি পরিসম্পদের হস্তান্তর যদি দানমূলে, উইলমূলে, অছিয়তমূলে বা অবাতিলযোগ্য কোনো ট্রাস্টমূলে সংঘটিত হয়;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) কোম্পানির অবসায়নকালে শেয়ার হোল্ডারগণের নিকট যদি উহার পরিসম্পদ যেকোনো উপায়ে বিতরণ করা হয়; এবং",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) ফার্ম বা অন্যবিধ ব্যক্তিসংঘের বিলুপ্তির মুহূর্তে অথবা, হিন্দু অবিভক্ত পরিবার বিভক্তিকালে যদি কোনো মূলধনি পরিসম্পদের বিতরণ করা হয়।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "বিলুপ্ত"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-93-transfer/",
+    "original_title": "Income tax bangla section 2 sub-section 93 Transfer – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 93 Transfer"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

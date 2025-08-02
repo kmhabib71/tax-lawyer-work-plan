@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 133",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "133",
+          "title": "Section 133 - Collection of Tax on Sale by Public Auction (1) Where a person sells by sealed tender any goods or property of a specified owner by publ",
+          "content_text": "Section 133 - Collection of Tax on Sale by Public Auction (1) Where a person sells by sealed tender any goods or property of a specified owner by public auction shall collect tax at the rate of 10% (ten percent) on the gross sale price of such goods or property before the transfer of title or permission to exercise any right. (2) Tax at source shall be collected at the rate of 1% (one percent) in case of sale of tea in public auction. (3) Deduction of tax under this section shall not be applicable if any land is sold in plot form by public auction. (4) For the purposes of this section- (a) “Sale of any Goods or Property” means the lease, jalmahal, balumhal, sayrat mahal lease, lease of rights of any kind, octroi duties or other levied taxes, by whatever name called, including the right to collect any goods or property; includes the right to grant a lease in the name of any person, but does not include the sale of any plot of land; (b) “Specified Owner” means any corporation or body including the Government or any other authority, unit, whose activities or main activities are authorized by any law, ordinance, order or instrument having the status of law or any entity authorized or established under any law in force in Bangladesh or any Company.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where a person sells by sealed tender any goods or property of a specified owner by public auction shall collect tax at the rate of 10% (ten percent) on the gross sale price of such goods or property before the transfer of title or permission to exercise any right.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Tax at source shall be collected at the rate of 1% (one percent) in case of sale of tea in public auction.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Deduction of tax under this section shall not be applicable if any land is sold in plot form by public auction.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) For the purposes of this section- (a) “Sale of any Goods or Property” means the lease, jalmahal, balumhal, sayrat mahal lease, lease of rights of any kind, octroi duties or other levied taxes, by whatever name called, including the right to collect any goods or property; includes the right to grant a lease in the name of any person, but does not include the sale of any plot of land; (b) “Specified Owner” means any corporation or body including the Government or any other authority, unit, whose activities or main activities are authorized by any law, ordinance, order or instrument having the status of law or any entity authorized or established under any law in force in Bangladesh or any Company.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “Sale of any Goods or Property” means the lease, jalmahal, balumhal, sayrat mahal lease, lease of rights of any kind, octroi duties or other levied taxes, by whatever name called, including the right to collect any goods or property; includes the right to grant a lease in the name of any person, but does not include the sale of any plot of land;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) “Specified Owner” means any corporation or body including the Government or any other authority, unit, whose activities or main activities are authorized by any law, ordinance, order or instrument having the status of law or any entity authorized or established under any law in force in Bangladesh or any Company.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "133"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-133/",
+    "original_title": "Income Tax Act 2023 Section 133 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 133"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

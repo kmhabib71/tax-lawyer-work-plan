@@ -1,0 +1,126 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "154",
+          "title": "Section 154 - Payment of Advance Tax (1) Subject to the provisions of this section, except as provided in sub-section (2), payment of advance tax on i",
+          "content_text": "Section 154 - Payment of Advance Tax (1) Subject to the provisions of this section, except as provided in sub-section (2), payment of advance tax on income by the taxpayer in every current financial year if his total income in the last assessed income year exceeds Tk. 06 (six) lakhs. shall be paid and in this case it shall be mentioned as “advance tax”. (2) Nothing in sub-section (1) shall apply to a taxpayer, if- (a) the taxpayer earns not more than Tk. 8 (eight) lakhs from the cultivation of land only; (b) The total income referred to in sub-section (1) includes the following income, namely:- (i) “Capital Income”; or (ii) “One-time Income” any income one time in nature which is not expected to be earned in the current financial year in which advance tax is payable under this section; Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of this section, except as provided in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), payment of advance tax on income by the taxpayer in every current financial year if his total income in the last assessed income year exceeds Tk. 06 (six) lakhs. shall be paid and in this case it shall be mentioned as “advance tax”.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Nothing in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall apply to a taxpayer, if- (a) the taxpayer earns not more than Tk. 8 (eight) lakhs from the cultivation of land only; (b) The total income referred to in sub-section",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) the taxpayer earns not more than Tk. 8 (eight) lakhs from the cultivation of land only;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) The total income referred to in sub-section",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) includes the following income, namely:- (i) “Capital Income”; or (ii) “One-time Income” any income one time in nature which is not expected to be earned in the current financial year in which advance tax is payable under this section; Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "i",
+                  "text": "(i) “Capital Income”; or (ii) “One-time Income” any income one time in nature which is not expected to be earned in the current financial year in which advance tax is payable under this section; Moreover, as per",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) “Capital Income”; or (ii) “One-time Income” any income one time in nature which is not expected to be earned in the current financial year in which advance tax is payable under this section; Moreover, as per"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) “One-time Income” any income one time in nature which is not expected to be earned in the current financial year in which advance tax is payable under this section; Moreover, as per"
+                    }
+                  ],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "154"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-154/",
+    "original_title": "Income Tax Act 2023 Section 154 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 6,
+      "quality_score": 2.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.8
+  },
+  "forms": []
+}

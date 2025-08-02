@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 196 Bar to question assessment",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৯৬",
+          "title": "ধারা ১৯৬ - কর নির্ধারণ লইয়া প্রশ্ন উত্থাপনে বাধা (১) এই আইন বা বাংলাদেশে বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন,",
+          "content_text": "ধারা ১৯৬ - কর নির্ধারণ লইয়া প্রশ্ন উত্থাপনে বাধা (১) এই আইন বা বাংলাদেশে বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন,",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইন বা বাংলাদেশে বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন,",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৯৬"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৪",
+          "title": "ধারা ৪ এ বর্ণিত আয়কর কর্তৃপক্ষ, এই আইনের অধীন প্রতিষ্ঠিত কর আপিল ট্রাইব্যুনাল এবং বাংলাদেশ সুপ্রীম কোর্ট ব্যতীত অন্য কোনো ব্যক্তি বা কর্তৃপক্ষ এই আইনে",
+          "content_text": "ধারা ৪ এ বর্ণিত আয়কর কর্তৃপক্ষ, এই আইনের অধীন প্রতিষ্ঠিত কর আপিল ট্রাইব্যুনাল এবং বাংলাদেশ সুপ্রীম কোর্ট ব্যতীত অন্য কোনো ব্যক্তি বা কর্তৃপক্ষ এই আইনের অধীন সম্পন্ন কোনো কর নির্ধারণ লইয়া প্রশ্ন উত্থাপন করিতে পারিবে না। (২) উপ-ধারা (১) এর বিধান লঙ্ঘন করিয়া কোনো কর্ম সম্পাদিত হইলে বা কোনো প্রকার প্রশ্ন উত্থাপিত হইলে উহা বাতিল বা অকার্যকর বলিয়া গণ্য হইবে এবং উহার কোনো প্রকার আইনি কার্যকারিতা থাকিবে না।",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর বিধান লঙ্ঘন করিয়া কোনো কর্ম সম্পাদিত হইলে বা কোনো প্রকার প্রশ্ন উত্থাপিত হইলে উহা বাতিল বা অকার্যকর বলিয়া গণ্য হইবে এবং উহার কোনো প্রকার আইনি কার্যকারিতা থাকিবে না।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-196-bar-to-question-assessment/",
+    "original_title": "Income Tax Act Bangla Section 196 Bar to question assessment – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 196 Bar to question assessment"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

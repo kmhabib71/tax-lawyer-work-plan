@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income tax bangla section 2 sub-section 1 Written down value",
+    "document_type": "legal_schedule",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১ - অবলোপিত মূল্য “অবলোপিত মূল্য” অর্থ তৃতীয় তফসিলের অংশ ১ এ সংজ্ঞায়িত অবলোপিত মূল্য;",
+          "content_text": "ধারা ২ দফা ১ - অবলোপিত মূল্য “অবলোপিত মূল্য” অর্থ তৃতীয় তফসিলের অংশ ১ এ সংজ্ঞায়িত অবলোপিত মূল্য;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-1-written-down-value/",
+    "original_title": "Income tax bangla section 2 sub-section 1 Written down value – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "bengali",
+      "title": "Income tax bangla section 2 sub-section 1 Written down value"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

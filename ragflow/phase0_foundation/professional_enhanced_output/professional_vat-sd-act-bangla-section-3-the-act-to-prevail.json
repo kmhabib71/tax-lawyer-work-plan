@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ৩ - আইনের প্রাধান্য আপাতত বলবৎ অন্য কোন আইন, বিধি, প্রবিধান বা আইনের ক্ষমতাসম্পন্ন অন্য কোনো দলিলে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলী প্রাধান্য পাইবে",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩",
+          "title": "ধারা ৩ - আইনের প্রাধান্য আপাতত বলবৎ অন্য কোন আইন, বিধি, প্রবিধান বা আইনের ক্ষমতাসম্পন্ন অন্য কোনো দলিলে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলী প্",
+          "content_text": "ধারা ৩ - আইনের প্রাধান্য আপাতত বলবৎ অন্য কোন আইন, বিধি, প্রবিধান বা আইনের ক্ষমতাসম্পন্ন অন্য কোনো দলিলে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলী প্রাধান্য পাইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-3-the-act-to-prevail/",
+    "original_title": "VAT & SD Act Bangla Section 3 The Act to prevail",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ৩ - আইনের প্রাধান্য আপাতত বলবৎ অন্য কোন আইন, বিধি, প্রবিধান বা আইনের ক্ষমতাসম্পন্ন অন্য কোনো দলিলে যাহা কিছুই থাকুক না কেন, এই আইনের বিধানাবলী প্রাধান্য পাইবে"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

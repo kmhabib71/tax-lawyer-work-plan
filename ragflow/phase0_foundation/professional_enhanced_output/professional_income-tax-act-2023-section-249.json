@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "249",
+          "title": "Section 249 - Limitation of Claim of Foreign Tax Credit (1) Subject to the provisions of sub-section (2), a claim for approval as credit for foreign t",
+          "content_text": "Section 249 - Limitation of Claim of Foreign Tax Credit (1) Subject to the provisions of sub-section (2), a claim for approval as credit for foreign tax paid in respect of any income shall be 2 (two) years after the tax year in which such income was or would have been chargeable in Bangladesh, within the office in which the income tax of the said payer has been imposed should be raised with the Deputy Commissioner of Taxes. (2) For the purpose of claiming refund of tax or reassessment of tax in circumstances arising as a result of the adjustment, where the benefit provided under the agreement is deemed to be excessive or insufficient as a result of adjustment of any tax payable in Bangladesh or as a result of adjustment of any tax payable under the law of any other country, as provided in this Act, the time limit shall not apply if the assessment or refund claim is not satisfied within 2 (two years after all such assessments, adjustments and other assessments arising therefrom have been completed in Bangladesh or elsewhere. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2), a claim for approval as credit for foreign tax paid in respect of any income shall be 2 (two) years after the tax year in which such income was or would have been chargeable in Bangladesh, within the office in which the income tax of the said payer has been imposed should be raised with the Deputy Commissioner of Taxes.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) For the purpose of claiming refund of tax or reassessment of tax in circumstances arising as a result of the adjustment, where the benefit provided under the agreement is deemed to be excessive or insufficient as a result of adjustment of any tax payable in Bangladesh or as a result of adjustment of any tax payable under the law of any other country, as provided in this Act, the time limit shall not apply if the assessment or refund claim is not satisfied within 2 (two years after all such assessments, adjustments and other assessments arising therefrom have been completed in Bangladesh or elsewhere. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "249"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-249/",
+    "original_title": "Income Tax Act 2023 Section 249 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

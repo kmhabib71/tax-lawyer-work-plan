@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৩ - সরকারী সত্তা ‘‘সরকারী সত্তা’’ অর্থ― (ক) সরকার বা উহার কোন মন্ত্রণালয়, বিভাগ, বা দপ্তর; (খ) আধাসরকারি বা স্বায়ত্তশাসিত কোন সংস্থা; (গ) রাষ্ট্রীয় মালিকানাধীন কোন প্রতিষ্ঠান; বা (ঘ) স্থানীয় কর্তৃপক্ষ, পরিষদ বা অনুরূপ কোন সংস্থা;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৯৩ - সরকারী সত্তা ‘‘সরকারী সত্তা’’ অর্থ― (ক) সরকার বা উহার কোন মন্ত্রণালয়, বিভাগ, বা দপ্তর; (খ) আধাসরকারি বা স্বায়ত্তশাসিত কোন সংস্থা; (গ) ",
+          "content_text": "ধারা ২ দফা ৯৩ - সরকারী সত্তা ‘‘সরকারী সত্তা’’ অর্থ― (ক) সরকার বা উহার কোন মন্ত্রণালয়, বিভাগ, বা দপ্তর; (খ) আধাসরকারি বা স্বায়ত্তশাসিত কোন সংস্থা; (গ) রাষ্ট্রীয় মালিকানাধীন কোন প্রতিষ্ঠান; বা (ঘ) স্থানীয় কর্তৃপক্ষ, পরিষদ বা অনুরূপ কোন সংস্থা;",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) সরকার বা উহার কোন মন্ত্রণালয়, বিভাগ, বা দপ্তর;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) আধাসরকারি বা স্বায়ত্তশাসিত কোন সংস্থা;",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "গ",
+              "text": "(গ) রাষ্ট্রীয় মালিকানাধীন কোন প্রতিষ্ঠান; বা",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "ঘ",
+              "text": "(ঘ) স্থানীয় কর্তৃপক্ষ, পরিষদ বা অনুরূপ কোন সংস্থা;",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-93-government-entity/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 93 Government entity",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৯৩ - সরকারী সত্তা ‘‘সরকারী সত্তা’’ অর্থ― (ক) সরকার বা উহার কোন মন্ত্রণালয়, বিভাগ, বা দপ্তর; (খ) আধাসরকারি বা স্বায়ত্তশাসিত কোন সংস্থা; (গ) রাষ্ট্রীয় মালিকানাধীন কোন প্রতিষ্ঠান; বা (ঘ) স্থানীয় কর্তৃপক্ষ, পরিষদ বা অনুরূপ কোন সংস্থা;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

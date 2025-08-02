@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "54",
+          "title": "Section 54 - General Conditions for Approval of Deduction (1) If in any income year any such expenditure is allowed as a deduction under this Chapter ",
+          "content_text": "Section 54 - General Conditions for Approval of Deduction (1) If in any income year any such expenditure is allowed as a deduction under this Chapter which represents in whole or in part of an asset, no further deduction shall be allowable in respect of that asset in the same income year. (2) In sanctioning any expenditure under section 49, the commercial reasonableness of the expenditure concerned shall be considered and the following matters shall be taken into account in considering the commercial reasonableness, namely:- (a) if the expenditure incurred on for the purpose of earning income from the business; (b) if the expenditure incurred is revenue in nature; and (c) if the expenditure incurred is reasonable in the circumstances. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If in any income year any such expenditure is allowed as a deduction under this Chapter which represents in whole or in part of an asset, no further deduction shall be allowable in respect of that asset in the same income year.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) In sanctioning any expenditure under section 49, the commercial reasonableness of the expenditure concerned shall be considered and the following matters shall be taken into account in considering the commercial reasonableness, namely:- (a) if the expenditure incurred on for the purpose of earning income from the business; (b) if the expenditure incurred is revenue in nature; and (c) if the expenditure incurred is reasonable in the circumstances. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) if the expenditure incurred on for the purpose of earning income from the business;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) if the expenditure incurred is revenue in nature; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) if the expenditure incurred is reasonable in the circumstances. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "54"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-54/",
+    "original_title": "Income Tax Act 2023 Section 54 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

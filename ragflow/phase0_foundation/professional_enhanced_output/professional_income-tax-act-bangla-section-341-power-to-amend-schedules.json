@@ -1,0 +1,77 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 341 Power to amend schedules",
+    "document_type": "legal_schedule",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩৪১",
+          "title": "ধারা ৩৪১ - তফসিল সংশোধনের ক্ষমতা ১ [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ১২৯ ধারাবলে নিম্নরূপ",
+          "content_text": "ধারা ৩৪১ - তফসিল সংশোধনের ক্ষমতা ১ [***] ১ অর্থ অধ্যাদেশ, ২০২৫ এর ১২৯ ধারাবলে নিম্নরূপ",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৪১"
+          ],
+          "amendments": [
+            "সংশোধন"
+          ]
+        },
+        {
+          "number": "৩৪১",
+          "title": "ধারা ৩৪১ বিলুপ্ত",
+          "content_text": "ধারা ৩৪১ বিলুপ্ত । [",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৪১"
+          ],
+          "amendments": [
+            "বিলুপ্ত"
+          ]
+        },
+        {
+          "number": "৩৪১",
+          "title": "ধারা ৩৪১ – তফসিল সংশোধনের ক্ষমতা বোর্ড, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের কোনো তফসিল সংশোধন করিতে পারিবে",
+          "content_text": "ধারা ৩৪১ – তফসিল সংশোধনের ক্ষমতা বোর্ড, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, এই আইনের কোনো তফসিল সংশোধন করিতে পারিবে। তবে শর্ত থাকে যে, উক্তরূপ সংশোধনীর মাধ্যমে কোনো প্রকার কর আরোপ বা করহার বৃদ্ধি করা যাইবে না। ]",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩৪১"
+          ],
+          "amendments": [
+            "সংশোধন"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-341-power-to-amend-schedules/",
+    "original_title": "Income Tax Act Bangla Section 341 Power to amend schedules – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 341 Power to amend schedules"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 0,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.5
+  },
+  "forms": []
+}

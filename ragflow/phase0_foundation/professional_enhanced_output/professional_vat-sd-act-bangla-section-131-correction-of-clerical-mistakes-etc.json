@@ -1,0 +1,49 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩১ - করণিক ত্রুটি, ইত্যাদির সংশোধন এই আইন বা তদধীন প্রণীত বিধিমালার অধীন কৃত কোন কর্মকাণ্ডে কোন করণিক বা গাণিতিক ভুল-ত্রুটি থাকিলে মূসক কর্মকর্তা উক্ত ভুল-ত্রুটি সংশোধন করিতে পারিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১৩১",
+          "title": "ধারা ১৩১ - করণিক ত্রুটি, ইত্যাদির সংশোধন এই আইন বা তদধীন প্রণীত বিধিমালার অধীন কৃত কোন কর্মকাণ্ডে কোন করণিক বা গাণিতিক ভুল-ত্রুটি থাকিলে মূসক কর্মকর্ত",
+          "content_text": "ধারা ১৩১ - করণিক ত্রুটি, ইত্যাদির সংশোধন এই আইন বা তদধীন প্রণীত বিধিমালার অধীন কৃত কোন কর্মকাণ্ডে কোন করণিক বা গাণিতিক ভুল-ত্রুটি থাকিলে মূসক কর্মকর্তা উক্ত ভুল-ত্রুটি সংশোধন করিতে পারিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৩১"
+          ],
+          "amendments": [
+            "সংশোধন"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-131-correction-of-clerical-mistakes-etc/",
+    "original_title": "VAT & SD Act Bangla Section 131 Correction of clerical mistakes, etc",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ১৩১ - করণিক ত্রুটি, ইত্যাদির সংশোধন এই আইন বা তদধীন প্রণীত বিধিমালার অধীন কৃত কোন কর্মকাণ্ডে কোন করণিক বা গাণিতিক ভুল-ত্রুটি থাকিলে মূসক কর্মকর্তা উক্ত ভুল-ত্রুটি সংশোধন করিতে পারিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

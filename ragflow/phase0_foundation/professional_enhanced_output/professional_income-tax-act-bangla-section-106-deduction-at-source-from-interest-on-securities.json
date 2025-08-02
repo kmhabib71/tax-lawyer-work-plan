@@ -1,0 +1,50 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 106 Deduction at source from interest on securities",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০৬",
+          "title": "ধারা ১০৬ - সিকিউরিটিজের সুদ হইতে উৎসে কর কর্তন সরকারি সিকিউরিটিজ অথবা সরকার বা বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন কর্তৃক অনুমোদিত সিকিউরিটিজ ",
+          "content_text": "ধারা ১০৬ - সিকিউরিটিজের সুদ হইতে উৎসে কর কর্তন সরকারি সিকিউরিটিজ অথবা সরকার বা বাংলাদেশ সিকিউরিটিজ অ্যান্ড এক্সচেঞ্জ কমিশন কর্তৃক অনুমোদিত সিকিউরিটিজ ইস্যুর দায়িত্বপ্রাপ্ত কোনো ব্যক্তি ডিসকাউন্ট, সুদ বা মুনাফা পরিশোধ বা ক্রেডিটকালে, যাহা আগে ঘটে, ১ [ ১০% (দশ শতাংশ) ] হারে কর কর্তন করিবেন। ১ অর্থ অধ্যাদেশ, ২০২৫ এর ৬৮ ধারাবলে “৫% (পাঁচ শতাংশ)” সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলির পরিবর্তে “১০% (দশ শতাংশ)” সংখ্যা, চিহ্ন, বন্ধনী ও শব্দগুলি প্রতিস্থাপিত ।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০৬"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-106-deduction-at-source-from-interest-on-securities/",
+    "original_title": "Income Tax Act Bangla Section 106 Deduction at source from interest on securities – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 106 Deduction at source from interest on securities"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

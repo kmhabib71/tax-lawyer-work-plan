@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 118 Deduction from income from lottery, etc.",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১১৮",
+          "title": "ধারা ১১৮ - লটারি, ইত্যাদি হইতে প্রাপ্ত আয় হইতে কর কর্তন লটারি, শব্দজট, কার্ড গেইম, অনলাইন গেইম অথবা এইরূপ যেকোনো প্রকৃতির খেলায় জয় লাভ করিয়া কোনো অর্থ",
+          "content_text": "ধারা ১১৮ - লটারি, ইত্যাদি হইতে প্রাপ্ত আয় হইতে কর কর্তন লটারি, শব্দজট, কার্ড গেইম, অনলাইন গেইম অথবা এইরূপ যেকোনো প্রকৃতির খেলায় জয় লাভ করিয়া কোনো অর্থ প্রাপ্ত হইলে অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি, উক্তরূপ অর্থ প্রদানকালে, ২০% (বিশ শতাংশ) হারে কর কর্তন করিবেন। ব্যাখ্যা। - এই ধারার উদ্দেশ্যপূরণকল্পে, “যেকোনো পরিমাণ” অভিব্যক্তিটির অর্থ কোনো পণ্য বা সম্পত্তির মূল্য যেখানে উক্ত বিজয়ীর হিসাবে নগদে অর্থ বা সম্পদ দ্বারা প্রদান করা হয়।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১১৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-118-deduction-from-income-from-lottery-etc/",
+    "original_title": "Income Tax Act Bangla Section 118 Deduction from income from lottery, etc. – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 118 Deduction from income from lottery, etc."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ১৬ - আমদানি ‘‘আমদানি’’ অর্থ বাংলাদেশের বাহির হইতে বাংলাদেশের ভৌগোলিক সীমার অভ্যন্তরে কোন পণ্য আনয়ন;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১৬ - আমদানি ‘‘আমদানি’’ অর্থ বাংলাদেশের বাহির হইতে বাংলাদেশের ভৌগোলিক সীমার অভ্যন্তরে কোন পণ্য আনয়ন;",
+          "content_text": "ধারা ২ দফা ১৬ - আমদানি ‘‘আমদানি’’ অর্থ বাংলাদেশের বাহির হইতে বাংলাদেশের ভৌগোলিক সীমার অভ্যন্তরে কোন পণ্য আনয়ন;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-16-import/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 16 Import",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ১৬ - আমদানি ‘‘আমদানি’’ অর্থ বাংলাদেশের বাহির হইতে বাংলাদেশের ভৌগোলিক সীমার অভ্যন্তরে কোন পণ্য আনয়ন;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

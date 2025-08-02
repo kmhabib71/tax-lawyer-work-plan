@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 299 Representative of Commissioner",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৯৯",
+          "title": "ধারা ২৯৯ - কমিশনারের প্রতিনিধি (১) সংশ্লিষ্ট কর কমিশনার, বিকল্প বিরোধ নিষ্পত্তিতে আবেদনকারী করদাতার সহিত মধ্যস্থতা করিবার জন্য, উপকর কমিশনার পদমর্যাদা",
+          "content_text": "ধারা ২৯৯ - কমিশনারের প্রতিনিধি (১) সংশ্লিষ্ট কর কমিশনার, বিকল্প বিরোধ নিষ্পত্তিতে আবেদনকারী করদাতার সহিত মধ্যস্থতা করিবার জন্য, উপকর কমিশনার পদমর্যাদার নিম্নে নহেন এইরূপ কোনো আয়কর কর্তৃপক্ষকে, অতঃপর আয়কর প্রতিনিধি বলিয়া উল্লিখিত, মনোনীত করিতে পারিবেন। (২) উপ-ধারা (১) এর অধীন মনোনীত আয়কর প্রতিনিধি বিকল্প বিরোধ নিষ্পত্তির সকল মধ্যস্থতা প্রক্রিয়ায় অংশগ্রহণ করিবেন এবং মতৈক্যে উপনীত হইলে উক্ত মধ্যস্থতা প্রক্রিয়ার সমঝোতাপত্রে স্বাক্ষর প্রদান করিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) সংশ্লিষ্ট কর কমিশনার, বিকল্প বিরোধ নিষ্পত্তিতে আবেদনকারী করদাতার সহিত মধ্যস্থতা করিবার জন্য, উপকর কমিশনার পদমর্যাদার নিম্নে নহেন এইরূপ কোনো আয়কর কর্তৃপক্ষকে, অতঃপর আয়কর প্রতিনিধি বলিয়া উল্লিখিত, মনোনীত করিতে পারিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১) এর অধীন মনোনীত আয়কর প্রতিনিধি বিকল্প বিরোধ নিষ্পত্তির সকল মধ্যস্থতা প্রক্রিয়ায় অংশগ্রহণ করিবেন এবং মতৈক্যে উপনীত হইলে উক্ত মধ্যস্থতা প্রক্রিয়ার সমঝোতাপত্রে স্বাক্ষর প্রদান করিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৯৯"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-299-representative-of-commissioner/",
+    "original_title": "Income Tax Act Bangla Section 299 Representative of Commissioner – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 299 Representative of Commissioner"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 4,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.7
+  },
+  "forms": []
+}

@@ -1,0 +1,56 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ১৫(চ) ধারাবলে নূতন দফা ২৬খ সংযোজিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ২৬খ - কর নির্ধারণ ১ [ “কর নির্ধারণ” অর্থ এই আইনের অধীন যেকোনো প্রকারের কর নির্ধারণ এবং পুনঃকর নির্ধারণ, অতিরিক্ত কর নির্ধারণ, অধিকতর কর নির",
+          "content_text": "ধারা ২ দফা ২৬খ - কর নির্ধারণ ১ [ “কর নির্ধারণ” অর্থ এই আইনের অধীন যেকোনো প্রকারের কর নির্ধারণ এবং পুনঃকর নির্ধারণ, অতিরিক্ত কর নির্ধারণ, অধিকতর কর নির্ধারণও ইহার অন্তর্ভুক্ত হইবে; ] ১ অর্থ আইন, ২০২৪ এর ১৫(চ) ধারাবলে নূতন দফা ২৬খ সংযোজিত ।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "চ",
+              "text": "(চ) ধারাবলে নূতন দফা ২৬খ সংযোজিত ।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "সংযোজিত"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-26kha-tax-assessment/",
+    "original_title": "Income Tax Bangla Section 2 sub-section 26kha Tax Assessment – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Bangla Section 2 sub-section 26kha Tax Assessment"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

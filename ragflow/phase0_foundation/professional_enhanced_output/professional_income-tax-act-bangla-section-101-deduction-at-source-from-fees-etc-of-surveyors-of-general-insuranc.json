@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 101 Deduction at source from fees, etc. of Surveyors of general insurance company",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১০১",
+          "title": "ধারা ১০১ - সাধারণ বিমা কোম্পানি জরিপকারীদের ফি, ইত্যাদি হইতে কর কর্তন কোনো বিমাকারীর বিমা দাবি নিষ্পত্তির লক্ষ্যে কোনো জরিপ পরিচালনার জন্য কোনো নিবাসী",
+          "content_text": "ধারা ১০১ - সাধারণ বিমা কোম্পানি জরিপকারীদের ফি, ইত্যাদি হইতে কর কর্তন কোনো বিমাকারীর বিমা দাবি নিষ্পত্তির লক্ষ্যে কোনো জরিপ পরিচালনার জন্য কোনো নিবাসীকে পারিশ্রমিক বা ফি দ্বারা অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি, অর্থ পরিশোধকালে, মোট অর্থের উপর ১৫% (পনেরো শতাংশ) হারে আয়কর কর্তন করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১০১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-101-deduction-at-source-from-fees-etc-of-surveyors-of-general-insurance-company/",
+    "original_title": "Income Tax Act Bangla Section 101 Deduction at source from fees, etc. of Surveyors of general insurance company – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 101 Deduction at source from fees, etc. of Surveyors of general insurance company"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

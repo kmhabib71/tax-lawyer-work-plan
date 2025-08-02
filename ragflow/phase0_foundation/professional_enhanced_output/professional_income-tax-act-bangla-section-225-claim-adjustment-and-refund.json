@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 225 Claim adjustment and refund",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২২৫",
+          "title": "ধারা ২২৫ - দাবি সমন্বয় ও প্রত্যর্পণ (১) এই আইনের বিধানাবলি, Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), Gift Tax Act, 1963 (Act No. XIV ",
+          "content_text": "ধারা ২২৫ - দাবি সমন্বয় ও প্রত্যর্পণ (১) এই আইনের বিধানাবলি, Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), Gift Tax Act, 1963 (Act No. XIV of 1963) অথবা দানকর আইন, ১৯৯০ (১৯৯০ সনের ৪৪ নং আইন) বা Wealth Tax Act, 1963 (Act No. XV of 1963) এর অধীন কোনো করদাতার নিকট কোনো মেয়াদে কোনো অর্থ বকেয়া থাকিলে, উক্ত করদাতাকে প্রত্যর্পণযোগ্য অর্থ পরিশোধের পূর্বে উক্ত বকেয়া সমন্বয় করা হইবে। (২) কোনো মেয়াদের জন্য বকেয়া কোনো পাওনার বিপরীতে প্রত্যর্পণযোগ্য অর্থের সমন্বয় করা হইলে, সমন্বয়কৃত অর্থ করদাতাকে পরিশোধ করা হইয়াছে মর্মে গণ্য হইবে এবং উপকর কমিশনার এতদুদ্দেশ্যে করদাতার কর রেকর্ডে তাহা যথাযথভাবে লিপিবদ্ধ করিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) এই আইনের বিধানাবলি, Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), Gift Tax Act, 1963 (Act No. XIV of 1963) অথবা দানকর আইন, ১৯৯০ (১৯৯০ সনের ৪৪ নং আইন) বা Wealth Tax Act, 1963 (Act No. XV of 1963) এর অধীন কোনো করদাতার নিকট কোনো মেয়াদে কোনো অর্থ বকেয়া থাকিলে, উক্ত করদাতাকে প্রত্যর্পণযোগ্য অর্থ পরিশোধের পূর্বে উক্ত বকেয়া সমন্বয় করা হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) কোনো মেয়াদের জন্য বকেয়া কোনো পাওনার বিপরীতে প্রত্যর্পণযোগ্য অর্থের সমন্বয় করা হইলে, সমন্বয়কৃত অর্থ করদাতাকে পরিশোধ করা হইয়াছে মর্মে গণ্য হইবে এবং উপকর কমিশনার এতদুদ্দেশ্যে করদাতার কর রেকর্ডে তাহা যথাযথভাবে লিপিবদ্ধ করিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২২৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-225-claim-adjustment-and-refund/",
+    "original_title": "Income Tax Act Bangla Section 225 Claim adjustment and refund – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 225 Claim adjustment and refund"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

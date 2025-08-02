@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "307",
+          "title": "Section 307 - Affirmation of Authenticity after Arbitration (1) The Board may, in the prescribed manner, monitor the progress of settlement of alterna",
+          "content_text": "Section 307 - Affirmation of Authenticity after Arbitration (1) The Board may, in the prescribed manner, monitor the progress of settlement of alternative dispute resolution applications and ensure the provision of necessary support and coordination services. (2) Copies of all matters relating to agreement or disagreement shall be forwarded by the facilitator to the concerned Commissioner and the Board for verification of legal or factual accuracy. (3) After receiving a copy related to the agreement or the matters of disagreement, if it appears to the Board that the agreement filed would cause damage to the revenue by fraud, misrepresentation or concealment of fact, the said agreement shall be deemed to be void and the matter shall be referred to the concerned authority, tribunal or to the court for taking necessary action. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Board may, in the prescribed manner, monitor the progress of settlement of alternative dispute resolution applications and ensure the provision of necessary support and coordination services.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Copies of all matters relating to agreement or disagreement shall be forwarded by the facilitator to the concerned Commissioner and the Board for verification of legal or factual accuracy.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) After receiving a copy related to the agreement or the matters of disagreement, if it appears to the Board that the agreement filed would cause damage to the revenue by fraud, misrepresentation or concealment of fact, the said agreement shall be deemed to be void and the matter shall be referred to the concerned authority, tribunal or to the court for taking necessary action. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "307"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-307/",
+    "original_title": "Income Tax Act 2023 Section 307 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

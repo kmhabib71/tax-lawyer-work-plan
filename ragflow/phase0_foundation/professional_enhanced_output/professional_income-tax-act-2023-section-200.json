@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "200",
+          "title": "Section 200 - Collection of Information (1) For the purposes of this Act, any such authority not below the Deputy Commissioner of Taxes shall, by noti",
+          "content_text": "Section 200 - Collection of Information (1) For the purposes of this Act, any such authority not below the Deputy Commissioner of Taxes shall, by notice in writing may call for information from any person, and in such manner and by means as may be specified in the notice, and within such time as may be specified in the notice, consider such information as may be necessary for the purpose of carrying out the functions under this Act. (2) Any such income-tax authority, not below the Deputy Commissioner of Taxes, shall, by written notice from any person or by electronic means and in the manner and by means specified in the notice, call for such information as may be necessary or relevant to any pending inquiry or proceeding under this Act, with in the time specified in the notice. Provided that no income tax authority subordinate to Commissioner of Taxes shall call for any information from any bank or financial institution without the approval of the Commissioner of Taxes. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) For the purposes of this Act, any such authority not below the Deputy Commissioner of Taxes shall, by notice in writing may call for information from any person, and in such manner and by means as may be specified in the notice, and within such time as may be specified in the notice, consider such information as may be necessary for the purpose of carrying out the functions under this Act.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Any such income-tax authority, not below the Deputy Commissioner of Taxes, shall, by written notice from any person or by electronic means and in the manner and by means specified in the notice, call for such information as may be necessary or relevant to any pending inquiry or proceeding under this Act, with in the time specified in the notice. Provided that no income tax authority subordinate to Commissioner of Taxes shall call for any information from any bank or financial institution without the approval of the Commissioner of Taxes. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "200"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-200/",
+    "original_title": "Income Tax Act 2023 Section 200 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

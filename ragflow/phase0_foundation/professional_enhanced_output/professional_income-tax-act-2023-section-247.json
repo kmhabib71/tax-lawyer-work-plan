@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "247",
+          "title": "Section 247 - Foreign Tax Credit (1) Subject to the provisions of this Act, where, under an agreement executed under section 244, an adjustment benefi",
+          "content_text": "Section 247 - Foreign Tax Credit (1) Subject to the provisions of this Act, where, under an agreement executed under section 244, an adjustment benefit is allowed against the tax levied in Bangladesh on any income, the tax chargeable shall, subject to the provisions of the said agreement, be reduced by an amount equal to such adjustment benefit. (2) An adjustment under sub-section (1) against the said income tax shall not be admissible if the taxpayer where income is changeable to tax in any income year is not a resident during the period on the basis of which such income is assessed. (3) In respect of any income, the amount of adjustment admissible on account of payment of foreign tax against tax in Bangladesh shall not exceed the amount assessed at the average rate of tax prescribed on double taxable income. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Subject to the provisions of this Act, where, under an agreement executed under section 244, an adjustment benefit is allowed against the tax levied in Bangladesh on any income, the tax chargeable shall, subject to the provisions of the said agreement, be reduced by an amount equal to such adjustment benefit.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) An adjustment under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) against the said income tax shall not be admissible if the taxpayer where income is changeable to tax in any income year is not a resident during the period on the basis of which such income is assessed.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) In respect of any income, the amount of adjustment admissible on account of payment of foreign tax against tax in Bangladesh shall not exceed the amount assessed at the average rate of tax prescribed on double taxable income. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "247"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-247/",
+    "original_title": "Income Tax Act 2023 Section 247 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

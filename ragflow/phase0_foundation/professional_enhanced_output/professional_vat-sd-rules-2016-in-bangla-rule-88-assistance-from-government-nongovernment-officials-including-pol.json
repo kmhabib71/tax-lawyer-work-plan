@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৮৮ - সম্পত্তি ক্রোক বা জব্দকরণের জন্য পুলিশসহ সরকারি-বেসরকারি কর্মকর্তার সহায়তা (১) কোনো খেলাপি করদাতার নিকট হইতে বকেয়া কর আদায়ের লক্ষ্যে বকেয়া আদায় কর্মকর্তা সংশ্লিষ্ট খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিবার লক্ষ্যে ধারা ৮২ এ উল্লিখিত কর্মকর্তার নিকট হইতে প্রয়োজনীয় সহায়তা গ্রহণ করিতে পারিবেন",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৮২",
+          "title": "ধারা ৮২ এ উল্লিখিত কর্মকর্তার নিকট হইতে প্রয়োজনীয় সহায়তা গ্রহণ করিতে পারিবেন",
+          "content_text": "ধারা ৮২ এ উল্লিখিত কর্মকর্তার নিকট হইতে প্রয়োজনীয় সহায়তা গ্রহণ করিতে পারিবেন। (২) বকেয়া আদায় কর্মকর্তা প্রয়োজনীয় ক্ষেত্রে ক্রোকি সম্পত্তির নিরাপত্তা নিশ্চিত করিবার লক্ষ্যে উক্ত সম্পত্তিতে বাংলাদেশ আনসার বাহিনীর সদস্য নিয়োগ প্রদানের ব্যবস্থা গ্রহণ করিতে পারিবেন।",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "(২) বকেয়া আদায় কর্মকর্তা প্রয়োজনীয় ক্ষেত্রে ক্রোকি সম্পত্তির নিরাপত্তা নিশ্চিত করিবার লক্ষ্যে উক্ত সম্পত্তিতে বাংলাদেশ আনসার বাহিনীর সদস্য নিয়োগ প্রদানের ব্যবস্থা গ্রহণ করিতে পারিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৮২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-88-assistance-from-government-nongovernment-officials-including-police-for-attaching-or-seizing-property/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 88 Assistance from government-nongovernment officials including police for attaching or seizing property – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৮৮ - সম্পত্তি ক্রোক বা জব্দকরণের জন্য পুলিশসহ সরকারি-বেসরকারি কর্মকর্তার সহায়তা (১) কোনো খেলাপি করদাতার নিকট হইতে বকেয়া কর আদায়ের লক্ষ্যে বকেয়া আদায় কর্মকর্তা সংশ্লিষ্ট খেলাপি করদাতার স্থাবর সম্পত্তি ক্রোক বা অস্থাবর সম্পত্তি জব্দ করিবার লক্ষ্যে ধারা ৮২ এ উল্লিখিত কর্মকর্তার নিকট হইতে প্রয়োজনীয় সহায়তা গ্রহণ করিতে পারিবেন"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

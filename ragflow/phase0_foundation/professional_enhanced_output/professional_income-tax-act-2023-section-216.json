@@ -1,0 +1,98 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "216",
+          "title": "Section 216 - Certificate for Recovery of Tax (1) If a taxpayer defaults or is deemed to be in default in payment of tax due, the Deputy Commissioner ",
+          "content_text": "Section 216 - Certificate for Recovery of Tax (1) If a taxpayer defaults or is deemed to be in default in payment of tax due, the Deputy Commissioner of Taxes may send a certificate under his signature to the Tax Recovery Officer for the purpose of recovery specifying the amount of arrears due from the taxpayer; and such certificate shall be issued notwithstanding any other proceedings taken for recovery of dues. 2) Any certificate under sub-section (1) shall be forwarded to the following Tax Recovery Officers, namely:- (a) the tax recovery officer under whose jurisdiction the taxpayer carries on business or where the principal place of business of the taxpayer is situated; (b) the tax recovery officer under whose jurisdiction the taxpayer resides or any immovable or immovable property of the taxpayer is situated; or (c) any taxpayer assessable to tax by the Deputy Commissioner of Taxes, over whom the jurisdiction of the Tax Recovery Officer concerned rests. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If a taxpayer defaults or is deemed to be in default in payment of tax due, the Deputy Commissioner of Taxes may send a certificate under his signature to the Tax Recovery Officer for the purpose of recovery specifying the amount of arrears due from the taxpayer; and such certificate shall be issued notwithstanding any other proceedings taken for recovery of dues. 2) Any certificate under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) shall be forwarded to the following Tax Recovery Officers, namely:- (a) the tax recovery officer under whose jurisdiction the taxpayer carries on business or where the principal place of business of the taxpayer is situated; (b) the tax recovery officer under whose jurisdiction the taxpayer resides or any immovable or immovable property of the taxpayer is situated; or (c) any taxpayer assessable to tax by the Deputy Commissioner of Taxes, over whom the jurisdiction of the Tax Recovery Officer concerned rests. Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) the tax recovery officer under whose jurisdiction the taxpayer carries on business or where the principal place of business of the taxpayer is situated;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) the tax recovery officer under whose jurisdiction the taxpayer resides or any immovable or immovable property of the taxpayer is situated; or",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) any taxpayer assessable to tax by the Deputy Commissioner of Taxes, over whom the jurisdiction of the Tax Recovery Officer concerned rests. Moreover, as per",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "216"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-216/",
+    "original_title": "Income Tax Act 2023 Section 216 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 93 Deduction from payment to actors, actresses, producers, etc.",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৯৩",
+          "title": "ধারা ৯৩ - অভিনেতা, অভিনেত্রী, প্রযোজক, ইত্যাদি ব্যক্তিকে পরিশোধিত অর্থ হইতে কর্তন (১) কোনো চলচ্চিত্র, নাটক বা টেলিভিশন বা রেডিও প্রোগ্রাম ক্রয়ের উদ্দে",
+          "content_text": "ধারা ৯৩ - অভিনেতা, অভিনেত্রী, প্রযোজক, ইত্যাদি ব্যক্তিকে পরিশোধিত অর্থ হইতে কর্তন (১) কোনো চলচ্চিত্র, নাটক বা টেলিভিশন বা রেডিও প্রোগ্রাম ক্রয়ের উদ্দেশ্যে ইহার আংশিক বা পূর্ণ অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি উক্ত অর্থ পরিশোধকালে বা প্রাপকের হিসাবে জমা প্রদানকালে পরিশোধিত বা পরিশোধযোগ্য অর্থের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন। (২) কোনো ব্যক্তি চলচ্চিত্র, নাটক, বিজ্ঞাপন বা কোনো টেলিভিশন বা রেডিও প্রোগ্রামে অভিনয় করিবার জন্য অন্য কোনো ব্যক্তিকে আংশিক বা পূর্ণ অর্থ পরিশোধকালে বা প্রাপকের হিসাবে জমা প্রদানকালে পরিশোধযোগ্য বা পরিশোধিত অর্থের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) কোনো চলচ্চিত্র, নাটক বা টেলিভিশন বা রেডিও প্রোগ্রাম ক্রয়ের উদ্দেশ্যে ইহার আংশিক বা পূর্ণ অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি উক্ত অর্থ পরিশোধকালে বা প্রাপকের হিসাবে জমা প্রদানকালে পরিশোধিত বা পরিশোধযোগ্য অর্থের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) কোনো ব্যক্তি চলচ্চিত্র, নাটক, বিজ্ঞাপন বা কোনো টেলিভিশন বা রেডিও প্রোগ্রামে অভিনয় করিবার জন্য অন্য কোনো ব্যক্তিকে আংশিক বা পূর্ণ অর্থ পরিশোধকালে বা প্রাপকের হিসাবে জমা প্রদানকালে পরিশোধযোগ্য বা পরিশোধিত অর্থের উপর ১০% (দশ শতাংশ) হারে কর কর্তন করিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-93-deduction-from-payment-to-actors-actresses-producers-etc/",
+    "original_title": "Income Tax Act Bangla Section 93 Deduction from payment to actors, actresses, producers, etc. – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 93 Deduction from payment to actors, actresses, producers, etc."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

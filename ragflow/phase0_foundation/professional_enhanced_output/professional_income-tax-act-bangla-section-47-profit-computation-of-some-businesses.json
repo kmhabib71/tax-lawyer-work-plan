@@ -1,0 +1,110 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 47 Profit computation of some businesses",
+    "document_type": "legal_schedule",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৪৭",
+          "title": "ধারা ৪৭ - কতিপয় ব্যবসায়ের মুনাফা পরিগণনা নিম্নবর্ণিত সারণির কলাম (২) এ উল্লিখিত ব্যবসায়ের মুনাফা সারণির কলাম (৩) এ বর্ণিত তফসিলের বিধান অনুসারে পরিগণন",
+          "content_text": "ধারা ৪৭ - কতিপয় ব্যবসায়ের মুনাফা পরিগণনা নিম্নবর্ণিত সারণির কলাম (২) এ উল্লিখিত ব্যবসায়ের মুনাফা সারণির কলাম (৩) এ বর্ণিত তফসিলের বিধান অনুসারে পরিগণনা করা হইবে, যথা:- সারণি ক্রমিক নং ব্যবসা তফসিল (১) (২) (৩) ১। বিমা ব্যবসা চতুর্থ তফসিল ২। প্রাকৃতিক গ্যাস, খনিজ তেল বা অন্যান্য খনিজ উত্তোলন ও অনুসন্ধান পঞ্চম তফসিল",
+          "subsections": [
+            {
+              "identifier": "২",
+              "text": "(২) এ উল্লিখিত ব্যবসায়ের মুনাফা সারণির কলাম",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) এ বর্ণিত তফসিলের বিধান অনুসারে পরিগণনা করা হইবে, যথা:- সারণি ক্রমিক নং ব্যবসা তফসিল",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১",
+              "text": "(১)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৩",
+              "text": "(৩) ১। বিমা ব্যবসা চতুর্থ তফসিল ২। প্রাকৃতিক গ্যাস, খনিজ তেল বা অন্যান্য খনিজ উত্তোলন ও অনুসন্ধান পঞ্চম তফসিল",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "ক্রমিক নং",
+                "ব্যবসা",
+                "তফসিল"
+              ],
+              "data": [
+                [
+                  "(১)",
+                  "(২)",
+                  "(৩)"
+                ],
+                [
+                  "১।",
+                  "বিমা ব্যবসা",
+                  "চতুর্থ তফসিল"
+                ],
+                [
+                  "২।",
+                  "প্রাকৃতিক গ্যাস, খনিজ তেল বা অন্যান্য খনিজ উত্তোলন ও অনুসন্ধান",
+                  "পঞ্চম তফসিল"
+                ]
+              ],
+              "metadata": {
+                "row_count": 3,
+                "column_count": 3,
+                "table_type": "schedule_table"
+              }
+            }
+          ],
+          "references": [
+            "ধারা ৪৭",
+            "২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-47-profit-computation-of-some-businesses/",
+    "original_title": "Income Tax Act Bangla Section 47 Profit computation of some businesses – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 47 Profit computation of some businesses"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 5,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.0
+  },
+  "forms": []
+}

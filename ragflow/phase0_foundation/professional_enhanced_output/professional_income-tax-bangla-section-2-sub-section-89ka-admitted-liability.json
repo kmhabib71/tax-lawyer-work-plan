@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "অর্থ আইন, ২০২৪ এর ১৫(ট) ধারাবলে নূতন দফা ৮৯ক সন্নিবেশিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৮৯ক - স্বীকৃত করদায় “স্বীকৃত করদায়” অর্থ দাখিলকৃত রিটার্ন বা সংশোধিত রিটার্ন এর ভিত্তিতে, ক্ষেত্রমত,",
+          "content_text": "ধারা ২ দফা ৮৯ক - স্বীকৃত করদায় “স্বীকৃত করদায়” অর্থ দাখিলকৃত রিটার্ন বা সংশোধিত রিটার্ন এর ভিত্তিতে, ক্ষেত্রমত,",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "সংশোধিত"
+          ]
+        },
+        {
+          "number": "১৭৩",
+          "title": "ধারা ১৭৩ , ১৭৪ বা ১৮১ অনুযায়ী পরিগণিত প্রদেয় আয়কর দায়; ১ অর্থ আইন, ২০২৪ এর ১৫(ট) ধারাবলে নূতন দফা ৮৯ক সন্নিবেশিত",
+          "content_text": "ধারা ১৭৩ , ১৭৪ বা ১৮১ অনুযায়ী পরিগণিত প্রদেয় আয়কর দায়; ১ অর্থ আইন, ২০২৪ এর ১৫(ট) ধারাবলে নূতন দফা ৮৯ক সন্নিবেশিত ।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১৭৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-bangla-section-2-sub-section-89ka-admitted-liability/",
+    "original_title": "Income Tax Bangla Section 2 Sub-section 89ka Admitted Liability – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Bangla Section 2 Sub-section 89ka Admitted Liability"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

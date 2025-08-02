@@ -1,0 +1,193 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "335",
+          "title": "Section 335 - Service of Notice (1) Any notice, tax assessment order, tax or refund calculation form, or any other document shall be sent to the named",
+          "content_text": "Section 335 - Service of Notice (1) Any notice, tax assessment order, tax or refund calculation form, or any other document shall be sent to the named person by registered post or from the official electronic mail of the sender to the electronic mail address of such person or by any Court under the Code of Civil Procedure, 1908 (Act V of 1908) in the manner of issuing summons, shall be issued. (2) Any notice, tax assessment order, tax or refund calculation form or any other document received by the authorized representative referred to in section 327 shall be deemed to be validly sent to the person by such authorized representative. (3) Notices shall be sent as follows, namely:- (a) in the case of a firm or a Hindu undivided family, to any member of the firm, or manager or any adult member of the family; (b) in the case of a local authority or company, to its chief executive, by whatever name it may be called; (c) in the case of other bodies or association of individual, to the chief executive or any member thereof; (d) if any firm or association of individual is dissolved, immediately before such dissolution, as the case may be, to any such person who was a member of such firm or association of individual; (e) section 191 applies to the closure of any such business, if the business is closed- (i) in the case of any such person, whose income is to be determined; (ii) in the case of any such company, to the chief executive of that company; and (iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual; (f) in the case of the partition of a Hindu undivided family under section 192, to such person who in that case was the last manager of the family or, if such person dies, to all such adult members who were members of the family before the partition; and (g) in any other case, which is not a person, to such person who manages or controls the affairs of that person or institution. (4) No question shall be raised as to the validity of such notice or the validity of the issue thereof after the filing of a return under any notice or compliance with the notice. Explanation.- For the purposes of this section, (a) “Notice” includes any order, direction or demand made under this Act; (b) “Electronic Mail” means any electronic mail as defined in the Tattha & Projokti Ain, 2006 (Act No. 39 of 2006); (c) “Official Electronic Mail of the Sender” means the electronic mail prescribed by the Board for the Income-tax Authority for sending notices; (d) “Prescribed Electronic Mail Address of the Individual” means the electronic mail address; (i) as provided in the return of such person filed for the relevant income year; (ii) by any person in writing to the Income Tax Authority as having specified the electronic mail address of such person; Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Any notice, tax assessment order, tax or refund calculation form, or any other document shall be sent to the named person by registered post or from the official electronic mail of the sender to the electronic mail address of such person or by any Court under the Code of Civil Procedure, 1908 (Act V of 1908) in the manner of issuing summons, shall be issued.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Any notice, tax assessment order, tax or refund calculation form or any other document received by the authorized representative referred to in section 327 shall be deemed to be validly sent to the person by such authorized representative.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Notices shall be sent as follows, namely:- (a) in the case of a firm or a Hindu undivided family, to any member of the firm, or manager or any adult member of the family; (b) in the case of a local authority or company, to its chief executive, by whatever name it may be called; (c) in the case of other bodies or association of individual, to the chief executive or any member thereof; (d) if any firm or association of individual is dissolved, immediately before such dissolution, as the case may be, to any such person who was a member of such firm or association of individual; (e) section 191 applies to the closure of any such business, if the business is closed- (i) in the case of any such person, whose income is to be determined; (ii) in the case of any such company, to the chief executive of that company; and (iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual; (f) in the case of the partition of a Hindu undivided family under section 192, to such person who in that case was the last manager of the family or, if such person dies, to all such adult members who were members of the family before the partition; and (g) in any other case, which is not a person, to such person who manages or controls the affairs of that person or institution.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) in the case of a firm or a Hindu undivided family, to any member of the firm, or manager or any adult member of the family;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) in the case of a local authority or company, to its chief executive, by whatever name it may be called;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) in the case of other bodies or association of individual, to the chief executive or any member thereof;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) if any firm or association of individual is dissolved, immediately before such dissolution, as the case may be, to any such person who was a member of such firm or association of individual;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "e",
+                  "text": "(e) section 191 applies to the closure of any such business, if the business is closed-",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) in the case of any such person, whose income is to be determined; (ii) in the case of any such company, to the chief executive of that company; and (iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) in the case of any such person, whose income is to be determined; (ii) in the case of any such company, to the chief executive of that company; and (iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) in the case of any such company, to the chief executive of that company; and (iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual;"
+                    },
+                    {
+                      "identifier": "iii",
+                      "text": "(iii) in the case of any such firm or, to any such person who was a partner at the time of the closure of the said firm or association of individual;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "f",
+                  "text": "(f) in the case of the partition of a Hindu undivided family under section 192, to such person who in that case was the last manager of the family or, if such person dies, to all such adult members who were members of the family before the partition; and",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "g",
+                  "text": "(g) in any other case, which is not a person, to such person who manages or controls the affairs of that person or institution.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) No question shall be raised as to the validity of such notice or the validity of the issue thereof after the filing of a return under any notice or compliance with the notice. Explanation.- For the purposes of this section, (a) “Notice” includes any order, direction or demand made under this Act; (b) “Electronic Mail” means any electronic mail as defined in the Tattha & Projokti Ain, 2006 (Act No. 39 of 2006); (c) “Official Electronic Mail of the Sender” means the electronic mail prescribed by the Board for the Income-tax Authority for sending notices; (d) “Prescribed Electronic Mail Address of the Individual” means the electronic mail address; (i) as provided in the return of such person filed for the relevant income year; (ii) by any person in writing to the Income Tax Authority as having specified the electronic mail address of such person; Moreover, as per",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) “Notice” includes any order, direction or demand made under this Act;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) “Electronic Mail” means any electronic mail as defined in the Tattha & Projokti Ain, 2006 (Act No. 39 of 2006);",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) “Official Electronic Mail of the Sender” means the electronic mail prescribed by the Board for the Income-tax Authority for sending notices;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) “Prescribed Electronic Mail Address of the Individual” means the electronic mail address;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) as provided in the return of such person filed for the relevant income year; (ii) by any person in writing to the Income Tax Authority as having specified the electronic mail address of such person; Moreover, as per",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) as provided in the return of such person filed for the relevant income year; (ii) by any person in writing to the Income Tax Authority as having specified the electronic mail address of such person; Moreover, as per"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) by any person in writing to the Income Tax Authority as having specified the electronic mail address of such person; Moreover, as per"
+                    }
+                  ],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "335"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-335/",
+    "original_title": "Income Tax Act 2023 Section 335 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

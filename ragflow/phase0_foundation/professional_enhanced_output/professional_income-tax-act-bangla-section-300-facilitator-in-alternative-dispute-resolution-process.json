@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 300 Facilitator in alternative dispute resolution process",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩০০",
+          "title": "ধারা ৩০০ - বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়ায় সহায়তাকারী (১) বোর্ড কর্তৃক নিযুক্ত একজন সহায়তাকারীর মধ্যস্থতায় করদাতা এবং কমিশনারের প্রতিনিধির মধ্যে বি",
+          "content_text": "ধারা ৩০০ - বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়ায় সহায়তাকারী (১) বোর্ড কর্তৃক নিযুক্ত একজন সহায়তাকারীর মধ্যস্থতায় করদাতা এবং কমিশনারের প্রতিনিধির মধ্যে বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়া পরিচালিত হইবে। (২) সহায়তাকারী নির্ধারিত দায়িত্ব ও কর্তব্য সম্পাদন ও নির্ধারিত ফি গ্রহণ করিবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) বোর্ড কর্তৃক নিযুক্ত একজন সহায়তাকারীর মধ্যস্থতায় করদাতা এবং কমিশনারের প্রতিনিধির মধ্যে বিকল্প বিরোধ নিষ্পত্তির প্রক্রিয়া পরিচালিত হইবে।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) সহায়তাকারী নির্ধারিত দায়িত্ব ও কর্তব্য সম্পাদন ও নির্ধারিত ফি গ্রহণ করিবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-300-facilitator-in-alternative-dispute-resolution-process/",
+    "original_title": "Income Tax Act Bangla Section 300 Facilitator in alternative dispute resolution process – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 300 Facilitator in alternative dispute resolution process"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

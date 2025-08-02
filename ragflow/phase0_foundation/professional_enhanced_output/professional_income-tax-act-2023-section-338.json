@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "338",
+          "title": "Section 338 - Indemnity (1) If any person deducts, collects, withholds or pays any tax from the income of another person in pursuance of this Act, suc",
+          "content_text": "Section 338 - Indemnity (1) If any person deducts, collects, withholds or pays any tax from the income of another person in pursuance of this Act, such person shall be indemnified from liability for such deduction, collection, withholding or payment of such tax. (2) No suit shall lie in any civil court for the refusal or revision of any assessment of tax or for any other order made under this Act. (3) No criminal case or other proceedings under any other law shall be instituted against any Government servant for any act or attempt to act in good faith under this Act. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) If any person deducts, collects, withholds or pays any tax from the income of another person in pursuance of this Act, such person shall be indemnified from liability for such deduction, collection, withholding or payment of such tax.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) No suit shall lie in any civil court for the refusal or revision of any assessment of tax or for any other order made under this Act.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) No criminal case or other proceedings under any other law shall be instituted against any Government servant for any act or attempt to act in good faith under this Act. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "338"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-338/",
+    "original_title": "Income Tax Act 2023 Section 338 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 4,
+      "quality_score": 1.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.2
+  },
+  "forms": []
+}

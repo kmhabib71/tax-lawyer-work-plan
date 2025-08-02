@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "20",
+          "title": "Section 20 - Imposition of Taxes on differences in Imports, Exports or Investments Where it appears from the return filed by a taxpayer in any income ",
+          "content_text": "Section 20 - Imposition of Taxes on differences in Imports, Exports or Investments Where it appears from the return filed by a taxpayer in any income year that the taxpayer— (a) there is a discrepancy between the actual any import or export and the amount of money paid or received for the import or export declared by the taxpayer, or (b) there is a discrepancy between the amount actually invested and the amount declared by the taxpayer to have been invested, In that case, without prejudice to other provisions of this Act, tax shall be payable at the rate of 50% (fifty percent) on the difference mentioned in clause (a) or, as the case may be, on the difference between the amount of money actually invested and the amount of money declared as mentioned in clause (b). Moreover, as per",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "a",
+              "text": "(a) there is a discrepancy between the actual any import or export and the amount of money paid or received for the import or export declared by the taxpayer, or",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b) there is a discrepancy between the amount actually invested and the amount declared by the taxpayer to have been invested, In that case, without prejudice to other provisions of this Act, tax shall be payable at the rate of 50% (fifty percent) on the difference mentioned in clause",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "a",
+              "text": "(a) or, as the case may be, on the difference between the amount of money actually invested and the amount of money declared as mentioned in clause",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "b",
+              "text": "(b). Moreover, as per",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "20"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-20/",
+    "original_title": "Income Tax Act 2023 Section 20 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 1,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.3
+  },
+  "forms": []
+}

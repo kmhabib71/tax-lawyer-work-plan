@@ -1,0 +1,366 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_schedule",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [
+            {
+              "table_id": "table_1",
+              "headers": [
+                "Serial No.",
+                "Capital assets",
+                "Rate of Depreciation"
+              ],
+              "data": [
+                [
+                  "1",
+                  "Buildings or structures constructed of brick, concrete, steel or similar materials",
+                  "5"
+                ],
+                [
+                  "2",
+                  "Houses constructed of tin, bamboo, thatch or similar materials",
+                  "10"
+                ],
+                [
+                  "3",
+                  "Permanent fence",
+                  "10"
+                ],
+                [
+                  "4",
+                  "Tube well",
+                  "10"
+                ],
+                [
+                  "5",
+                  "Tank",
+                  "10"
+                ],
+                [
+                  "6",
+                  "Irrigation wells, channels, pipes",
+                  "10"
+                ],
+                [
+                  "7",
+                  "Agricultural implements made of wood or bamboo",
+                  "10"
+                ],
+                [
+                  "8",
+                  "Weighing machine",
+                  "10"
+                ],
+                [
+                  "9",
+                  "Tractors, oil engines and light machinery",
+                  "10"
+                ],
+                [
+                  "10",
+                  "Trucks, delivery vans and other motor vehicles",
+                  "10"
+                ],
+                [
+                  "11",
+                  "Piper pumping equipment",
+                  "20"
+                ],
+                [
+                  "12",
+                  "Non-Mechanized Van",
+                  "15"
+                ],
+                [
+                  "13",
+                  "Steam engine",
+                  "10"
+                ],
+                [
+                  "14",
+                  "Factory machinery",
+                  "15"
+                ],
+                [
+                  "15",
+                  "Such general machinery, tools, plant  and other assets not mentioned in this table",
+                  "10"
+                ]
+              ],
+              "metadata": {
+                "row_count": 15,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            },
+            {
+              "table_id": "table_2",
+              "headers": [
+                "Serial No.",
+                "Class of assets",
+                "Rate (on depreciated value %)"
+              ],
+              "data": [
+                [
+                  "1",
+                  "Building (unless otherwise specified in this table)",
+                  "5"
+                ],
+                [
+                  "2",
+                  "Factory building",
+                  "10"
+                ],
+                [
+                  "3",
+                  "Furniture and fittings",
+                  "10"
+                ],
+                [
+                  "4",
+                  "Office equipment",
+                  "10"
+                ],
+                [
+                  "5",
+                  "Machinery, Plant and Equipment (unless otherwise specified in this Schedule) seagoing ship",
+                  "10"
+                ],
+                [
+                  "6",
+                  "Seagoing ship"
+                ],
+                [
+                  "(a) New",
+                  "5"
+                ],
+                [
+                  "(b) Old at the time of purchase whose age-"
+                ],
+                [
+                  "i) Not more than 10 years",
+                  "10"
+                ],
+                [
+                  "ii) 10 years or more",
+                  "20"
+                ],
+                [
+                  "7",
+                  "X-ray, electrotherapeutic and other medical equipment including its spare parts",
+                  "20"
+                ],
+                [
+                  "8",
+                  "Battery operated apparatus and rechargeable batteries",
+                  "30"
+                ],
+                [
+                  "9",
+                  "Equipment used for production and display of audio-visual products",
+                  "20"
+                ],
+                [
+                  "10",
+                  "All types of motor vehicles except those driven on hire",
+                  "10"
+                ],
+                [
+                  "11",
+                  "All types of motor vehicles driven on hire",
+                  "20"
+                ],
+                [
+                  "12",
+                  "Computer hardware including printers, monitors and ancillary items",
+                  "25"
+                ],
+                [
+                  "13",
+                  "Professional and reference books",
+                  "25"
+                ],
+                [
+                  "14",
+                  "Aircraft, aeroengines and aerial photographic equipment",
+                  "30"
+                ],
+                [
+                  "15",
+                  "Molds used for making glass or plastic products or concrete pipes",
+                  "30"
+                ],
+                [
+                  "16",
+                  "Related to mineral oil"
+                ],
+                [
+                  "a) Equipment installed under ground",
+                  "100"
+                ],
+                [
+                  "b) Other above ground equipment including portable boilers, drilling rigs, wellhead tanks and rigs",
+                  "25"
+                ],
+                [
+                  "17",
+                  "Bridge",
+                  "2"
+                ],
+                [
+                  "18",
+                  "Road",
+                  "2"
+                ],
+                [
+                  "19",
+                  "Flyover",
+                  "2"
+                ],
+                [
+                  "20",
+                  "Pavement Runway, Taxiway",
+                  "2.5"
+                ],
+                [
+                  "21",
+                  "Apron, Tarmac",
+                  "2.5"
+                ],
+                [
+                  "22",
+                  "Boarding Bridge",
+                  "10"
+                ],
+                [
+                  "23",
+                  "Communication and search aids and other tools",
+                  "5"
+                ],
+                [
+                  "24",
+                  "All such physical resources not mentioned in this table",
+                  "10"
+                ]
+              ],
+              "metadata": {
+                "row_count": 30,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            },
+            {
+              "table_id": "table_3",
+              "headers": [
+                "SerialNo.",
+                "Assets",
+                "Rate of Initial depreciation"
+              ],
+              "data": [
+                [
+                  "1",
+                  "2",
+                  "3"
+                ],
+                [
+                  "1",
+                  "Any type of building",
+                  "10%"
+                ],
+                [
+                  "2",
+                  "any assets covered under “plant or machinery” other than vessels or motor vehicles for hire",
+                  "25%"
+                ]
+              ],
+              "metadata": {
+                "row_count": 3,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            },
+            {
+              "table_id": "table_4",
+              "headers": [
+                "SerialNo.",
+                "Income year of Commencement ofCommercial Production",
+                "Acceleratedepreciation Rate"
+              ],
+              "data": [
+                [
+                  "1",
+                  "2",
+                  "3"
+                ],
+                [
+                  "1",
+                  "First income year",
+                  "50%"
+                ],
+                [
+                  "2",
+                  "Second income year",
+                  "30%"
+                ],
+                [
+                  "3",
+                  "Third income year",
+                  "20%"
+                ]
+              ],
+              "metadata": {
+                "row_count": 4,
+                "column_count": 3,
+                "table_type": "tax_rate_table"
+              }
+            }
+          ],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-3rd-schedule-part-1/",
+    "original_title": "Income Tax Act 2023 3rd Schedule Part 1 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_schedule",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

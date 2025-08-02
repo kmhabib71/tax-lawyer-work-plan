@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 308 Bar on suit or prosecution",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৩০৮",
+          "title": "ধারা ৩০৮ - দেওয়ানি বা ফৌজদারি মামলায় বাধা বিকল্প বিরোধ নিষ্পত্তি প্রক্রিয়ায় জড়িত কোনো ব্যক্তি কর্তৃক সরল বিশ্বাসে গৃহীত ব্যবস্থা বা মতৈক্যের বিরুদ্ধে ",
+          "content_text": "ধারা ৩০৮ - দেওয়ানি বা ফৌজদারি মামলায় বাধা বিকল্প বিরোধ নিষ্পত্তি প্রক্রিয়ায় জড়িত কোনো ব্যক্তি কর্তৃক সরল বিশ্বাসে গৃহীত ব্যবস্থা বা মতৈক্যের বিরুদ্ধে কোনো আদালত, ট্রাইব্যুনাল বা কর্তৃপক্ষের নিকট দেওয়ানি বা ফৌজদারি মামলা করা যাইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৩০৮"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-308-bar-on-suit-or-prosecution/",
+    "original_title": "Income Tax Act Bangla Section 308 Bar on suit or prosecution – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 308 Bar on suit or prosecution"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,79 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "225",
+          "title": "Section 225 - Adjustment of Claim and Refund (1) The provisions of this Act, the Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), the Gift Ta",
+          "content_text": "Section 225 - Adjustment of Claim and Refund (1) The provisions of this Act, the Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), the Gift Tax Act, 1963 (Act No. XIV of 1963) or the Dan Kar Act, 1990 (Act No. 44 of 1990) or Wealth Tax Act, 1963 (Act No. XV of 1963) if any amount is due to a taxpayer for any period, the said arrears shall be adjusted before payment of the refundable amount to the said taxpayer. (2) Where a refundable amount is adjusted against any amount due for any period, the adjusted amount shall be deemed to have been paid to the taxpayer and the Deputy Commissioner of Taxes shall duly make entry the same in the tax records of the taxpayer to that effect. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The provisions of this Act, the Income-tax Ordinance, 1984 (Ordinance No. XXXVI of 1984), the Gift Tax Act, 1963 (Act No. XIV of 1963) or the Dan Kar Act, 1990 (Act No. 44 of 1990) or Wealth Tax Act, 1963 (Act No. XV of 1963) if any amount is due to a taxpayer for any period, the said arrears shall be adjusted before payment of the refundable amount to the said taxpayer.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where a refundable amount is adjusted against any amount due for any period, the adjusted amount shall be deemed to have been paid to the taxpayer and the Deputy Commissioner of Taxes shall duly make entry the same in the tax records of the taxpayer to that effect. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "225"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-225/",
+    "original_title": "Income Tax Act 2023 Section 225 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

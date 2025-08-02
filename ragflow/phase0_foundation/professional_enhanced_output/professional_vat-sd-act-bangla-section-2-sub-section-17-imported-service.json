@@ -1,0 +1,69 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ১৭ - আমদানিকৃত সেবা “আমদানিকৃত সেবা” অর্থ বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ] ১ অর্থ আইন, ২০২০ এর ৫৪(১) ধারাবলে নিম্নরূপ দফা (১৭) এর পরিবর্তে প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ১৭ - আমদানিকৃত সেবা “আমদানিকৃত সেবা” অর্থ বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ] ১ অর্থ আইন, ২০২০ এর ৫৪(১) ধারাবলে নিম্নরূপ দফা (১৭) এর পর",
+          "content_text": "ধারা ২ দফা ১৭ - আমদানিকৃত সেবা “আমদানিকৃত সেবা” অর্থ বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ] ১ অর্থ আইন, ২০২০ এর ৫৪(১) ধারাবলে নিম্নরূপ দফা (১৭) এর পরিবর্তে প্রতিস্থাপিত। [(১৭) “আমদানিকৃত সেবা” অর্থ নিবন্ধিত বা নিবন্ধনযোগ্য ব্যক্তির নিকট বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ]",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) ধারাবলে নিম্নরূপ দফা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১৭",
+              "text": "(১৭) এর পরিবর্তে প্রতিস্থাপিত। [",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "১৭",
+              "text": "(১৭) “আমদানিকৃত সেবা” অর্থ নিবন্ধিত বা নিবন্ধনযোগ্য ব্যক্তির নিকট বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ]",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-17-imported-service/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 17 Imported service",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ১৭ - আমদানিকৃত সেবা “আমদানিকৃত সেবা” অর্থ বাংলাদেশের বাহির হইতে সরবরাহকৃত সেবা; ] ১ অর্থ আইন, ২০২০ এর ৫৪(১) ধারাবলে নিম্নরূপ দফা (১৭) এর পরিবর্তে প্রতিস্থাপিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 3,
+      "quality_score": 1.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.4
+  },
+  "forms": []
+}

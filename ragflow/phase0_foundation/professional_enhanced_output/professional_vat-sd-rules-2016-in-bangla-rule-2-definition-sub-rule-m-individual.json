@@ -1,0 +1,54 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২ দফা (ড) - ব্যক্তি “ব্যক্তি” অর্থ ধারা ২ এর দফা (৭৪) এ সংজ্ঞায়িত কোনো ব্যক্তি;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ এর দফা (৭৪) এ সংজ্ঞায়িত কোনো ব্যক্তি;",
+          "content_text": "ধারা ২ এর দফা (৭৪) এ সংজ্ঞায়িত কোনো ব্যক্তি;",
+          "subsections": [
+            {
+              "identifier": "৭৪",
+              "text": "(৭৪) এ সংজ্ঞায়িত কোনো ব্যক্তি;",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-2-definition-sub-rule-m-individual/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 2 Definition Sub-Rule (m) Individual – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ২ দফা (ড) - ব্যক্তি “ব্যক্তি” অর্থ ধারা ২ এর দফা (৭৪) এ সংজ্ঞায়িত কোনো ব্যক্তি;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 1,
+      "quality_score": 0.6,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 6.8
+  },
+  "forms": []
+}

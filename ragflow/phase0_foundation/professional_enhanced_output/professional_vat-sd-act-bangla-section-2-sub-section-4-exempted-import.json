@@ -1,0 +1,59 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৪ - অব্যাহতিপ্রাপ্ত আমদানি ‘‘অব্যাহতিপ্রাপ্ত আমদানি’’ অর্থ ধারা ২৬ এ উল্লিখিত অব্যাহতিপ্রাপ্ত আমদানি;",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৪ - অব্যাহতিপ্রাপ্ত আমদানি ‘‘অব্যাহতিপ্রাপ্ত আমদানি’’ অর্থ",
+          "content_text": "ধারা ২ দফা ৪ - অব্যাহতিপ্রাপ্ত আমদানি ‘‘অব্যাহতিপ্রাপ্ত আমদানি’’ অর্থ",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "২৬",
+          "title": "ধারা ২৬ এ উল্লিখিত অব্যাহতিপ্রাপ্ত আমদানি;",
+          "content_text": "ধারা ২৬ এ উল্লিখিত অব্যাহতিপ্রাপ্ত আমদানি;",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৬"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-4-exempted-import/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 4 Exempted import",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ধারা ২ দফা ৪ - অব্যাহতিপ্রাপ্ত আমদানি ‘‘অব্যাহতিপ্রাপ্ত আমদানি’’ অর্থ ধারা ২৬ এ উল্লিখিত অব্যাহতিপ্রাপ্ত আমদানি;"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 0,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 6.0
+  },
+  "forms": []
+}

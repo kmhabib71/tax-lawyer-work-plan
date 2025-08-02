@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 111 Deduction at source from compensation against acquisition of property",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১১১",
+          "title": "ধারা ১১১ - সম্পত্তি অধিগ্রহণের ক্ষতিপূরণ হইতে উৎসে কর কর্তন কোনো স্থাবর সম্পত্তি অধিগ্রহণের জন্য উহার মালিককে কোনো ক্ষতিপূরণ প্রদানের জন্য দায়িত্বপ্রা",
+          "content_text": "ধারা ১১১ - সম্পত্তি অধিগ্রহণের ক্ষতিপূরণ হইতে উৎসে কর কর্তন কোনো স্থাবর সম্পত্তি অধিগ্রহণের জন্য উহার মালিককে কোনো ক্ষতিপূরণ প্রদানের জন্য দায়িত্বপ্রাপ্ত ব্যক্তি, ক্ষতিপূরণ প্রদানের সময় নিম্নবর্ণিত হারে কর কর্তন করিবেন,- (ক) কোনো স্থাবর সম্পত্তি সিটি কর্পোরেশন, পৌরসভা বা ক্যান্টনমেন্ট বোর্ড এলাকায় অবস্থিত হইলে ক্ষতিপূরণ হিসাবে প্রাপ্ত মোট অর্থের ৬% (ছয় শতাংশ); (খ) কোনো স্থাবর সম্পত্তি সিটি কর্পোরেশন, পৌরসভা বা ক্যান্টনমেন্ট বোর্ড এলাকার বাহিরে অবস্থিত হইলে ক্ষতিপূরণ হিসাবে প্রাপ্ত মোট অর্থের ৩% (তিন শতাংশ)।",
+          "subsections": [],
+          "clauses": [
+            {
+              "identifier": "ক",
+              "text": "(ক) কোনো স্থাবর সম্পত্তি সিটি কর্পোরেশন, পৌরসভা বা ক্যান্টনমেন্ট বোর্ড এলাকায় অবস্থিত হইলে ক্ষতিপূরণ হিসাবে প্রাপ্ত মোট অর্থের ৬% (ছয় শতাংশ);",
+              "sub_clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "খ",
+              "text": "(খ) কোনো স্থাবর সম্পত্তি সিটি কর্পোরেশন, পৌরসভা বা ক্যান্টনমেন্ট বোর্ড এলাকার বাহিরে অবস্থিত হইলে ক্ষতিপূরণ হিসাবে প্রাপ্ত মোট অর্থের ৩% (তিন শতাংশ)।",
+              "sub_clauses": [],
+              "tables": []
+            }
+          ],
+          "tables": [],
+          "references": [
+            "ধারা ১১১"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-111-deduction-at-source-from-compensation-against-acquisition-of-property/",
+    "original_title": "Income Tax Act Bangla Section 111 Deduction at source from compensation against acquisition of property – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 111 Deduction at source from compensation against acquisition of property"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

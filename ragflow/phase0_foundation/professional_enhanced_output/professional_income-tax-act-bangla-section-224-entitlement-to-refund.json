@@ -1,0 +1,60 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 224 Entitlement to refund",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২২৪",
+          "title": "ধারা ২২৪ - প্রত্যর্পণের অধিকার (১) যেইক্ষেত্রে কোনো ব্যক্তি উপকর কমিশনারকে এই মর্মে সন্তুষ্ট করেন যে, কোনো বৎসরে তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত ",
+          "content_text": "ধারা ২২৪ - প্রত্যর্পণের অধিকার (১) যেইক্ষেত্রে কোনো ব্যক্তি উপকর কমিশনারকে এই মর্মে সন্তুষ্ট করেন যে, কোনো বৎসরে তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত করের পরিমাণ অথবা তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত হইয়াছে বলিয়া বিবেচিত করের পরিমাণ উক্ত বৎসরে তাহার নিকট এই আইনের অধীন দাবিকৃত করদায় অপেক্ষা অধিক, সেইক্ষেত্রে পরিশোধিত তিনি অতিরিক্ত অর্থ প্রত্যর্পণ পাইবার অধিকারী হইবেন। (২) যেইক্ষেত্রে কোনো ব্যক্তির আয় এই আইনের কোনো বিধানাবলে অন্য কোনো ব্যক্তির মোট আয়ের অন্তর্ভুক্ত হইয়াছে সেইক্ষেত্রে এইরূপ অন্য কোনো ব্যক্তি এককভাবে এইরূপ আয়ের প্রেক্ষিতে এই আইনের অধীন প্রত্যর্পণ পাইবার অধিকারী হইবেন।",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) যেইক্ষেত্রে কোনো ব্যক্তি উপকর কমিশনারকে এই মর্মে সন্তুষ্ট করেন যে, কোনো বৎসরে তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত করের পরিমাণ অথবা তাহার দ্বারা বা তাহার পক্ষে পরিশোধিত হইয়াছে বলিয়া বিবেচিত করের পরিমাণ উক্ত বৎসরে তাহার নিকট এই আইনের অধীন দাবিকৃত করদায় অপেক্ষা অধিক, সেইক্ষেত্রে পরিশোধিত তিনি অতিরিক্ত অর্থ প্রত্যর্পণ পাইবার অধিকারী হইবেন।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২) যেইক্ষেত্রে কোনো ব্যক্তির আয় এই আইনের কোনো বিধানাবলে অন্য কোনো ব্যক্তির মোট আয়ের অন্তর্ভুক্ত হইয়াছে সেইক্ষেত্রে এইরূপ অন্য কোনো ব্যক্তি এককভাবে এইরূপ আয়ের প্রেক্ষিতে এই আইনের অধীন প্রত্যর্পণ পাইবার অধিকারী হইবেন।",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২২৪"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-224-entitlement-to-refund/",
+    "original_title": "Income Tax Act Bangla Section 224 Entitlement to refund – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 224 Entitlement to refund"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 2,
+      "quality_score": 0.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.1
+  },
+  "forms": []
+}

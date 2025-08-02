@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 297 Alternative Dispute Resolution",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৯৭",
+          "title": "ধারা ২৯৭ - বিকল্প বিরোধ নিষ্পত্তি কোনো আয়কর কর্তৃপক্ষ বা কর আপিল ট্রাইব্যুনাল বা আদালতে নিষ্পন্নাধীন কর নিরূপণ সংক্রান্ত বিরোধ এই অধ্যায়ে এবং এই অধ্যা",
+          "content_text": "ধারা ২৯৭ - বিকল্প বিরোধ নিষ্পত্তি কোনো আয়কর কর্তৃপক্ষ বা কর আপিল ট্রাইব্যুনাল বা আদালতে নিষ্পন্নাধীন কর নিরূপণ সংক্রান্ত বিরোধ এই অধ্যায়ে এবং এই অধ্যায়ের অধীন প্রণীত বিধিমালায় বর্ণিত পদ্ধতিতে, এবং বোর্ড কর্তৃক, সরকারি গেজেটে প্রজ্ঞাপন দ্বারা, নির্ধারিত যোগ্যতা, শর্ত ও সীমা সাপেক্ষে, বিকল্প বিরোধ নিষ্পত্তি প্রক্রিয়ার মাধ্যমে নিষ্পত্তি করা যাইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৯৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-297-alternative-dispute-resolution/",
+    "original_title": "Income Tax Act Bangla Section 297 Alternative Dispute Resolution – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 297 Alternative Dispute Resolution"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

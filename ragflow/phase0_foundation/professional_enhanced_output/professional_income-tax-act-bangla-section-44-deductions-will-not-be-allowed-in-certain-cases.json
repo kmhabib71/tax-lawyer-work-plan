@@ -1,0 +1,72 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 44 Deductions will not be allowed in certain cases",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৪৪",
+          "title": "ধারা ৪৪ - কতিপয় ক্ষেত্রে বিয়োজন অনুমোদিত হইবে না (১) উৎসে কর কর্তন বা সংগ্রহ প্রযোজ্য হয় এইরূপ সকল ক্ষেত্রে অংশ ৭ এর বিধানাবলির পরিপালন না হইলে এই অধ্",
+          "content_text": "ধারা ৪৪ - কতিপয় ক্ষেত্রে বিয়োজন অনুমোদিত হইবে না (১) উৎসে কর কর্তন বা সংগ্রহ প্রযোজ্য হয় এইরূপ সকল ক্ষেত্রে অংশ ৭ এর বিধানাবলির পরিপালন না হইলে এই অধ্যায়ের অধীন দাবিকৃত বিয়োজন অনুমোদিত হইবে না। (২)",
+          "subsections": [
+            {
+              "identifier": "১",
+              "text": "(১) উৎসে কর কর্তন বা সংগ্রহ প্রযোজ্য হয় এইরূপ সকল ক্ষেত্রে অংশ ৭ এর বিধানাবলির পরিপালন না হইলে এই অধ্যায়ের অধীন দাবিকৃত বিয়োজন অনুমোদিত হইবে না।",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "২",
+              "text": "(২)",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪৪"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৫৫",
+          "title": "ধারা ৫৫ এ বর্ণিত বিধানাবলি এইরূপভাবে প্রযোজ্য হইবে যেন বিধানাবলি এই অধ্যায়ের সহিত সম্পর্কিত",
+          "content_text": "ধারা ৫৫ এ বর্ণিত বিধানাবলি এইরূপভাবে প্রযোজ্য হইবে যেন বিধানাবলি এই অধ্যায়ের সহিত সম্পর্কিত।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৫৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-44-deductions-will-not-be-allowed-in-certain-cases/",
+    "original_title": "Income Tax Act Bangla Section 44 Deductions will not be allowed in certain cases – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 44 Deductions will not be allowed in certain cases"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

@@ -1,0 +1,93 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ৬৪ - প্রদেয় নীট কর “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে ধারা ৪৫ এর অধীন নিরূপিত কর; ] ১ অর্থ আইন, ২০১৯ এর ৫৩(১৬) ধারাবলে নিম্নরূপ দফা (৬৪) এর পরিবর্তে প্রতিস্থাপিত",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২",
+          "title": "ধারা ২ দফা ৬৪ - প্রদেয় নীট কর “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে",
+          "content_text": "ধারা ২ দফা ৬৪ - প্রদেয় নীট কর “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৪৫",
+          "title": "ধারা ৪৫ এর অধীন নিরূপিত কর; ] ১ অর্থ আইন, ২০১৯ এর ৫৩(১৬) ধারাবলে নিম্নরূপ দফা (৬৪) এর পরিবর্তে প্রতিস্থাপিত",
+          "content_text": "ধারা ৪৫ এর অধীন নিরূপিত কর; ] ১ অর্থ আইন, ২০১৯ এর ৫৩(১৬) ধারাবলে নিম্নরূপ দফা (৬৪) এর পরিবর্তে প্রতিস্থাপিত। [ (৬৪) “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে",
+          "subsections": [
+            {
+              "identifier": "১৬",
+              "text": "(১৬) ধারাবলে নিম্নরূপ দফা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৬৪",
+              "text": "(৬৪) এর পরিবর্তে প্রতিস্থাপিত। [",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৬৪",
+              "text": "(৬৪) “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪৫"
+          ],
+          "amendments": [
+            "প্রতিস্থাপিত",
+            "পরিবর্তে"
+          ]
+        },
+        {
+          "number": "৪৫",
+          "title": "ধারা ৪৫ এর অধীন নিরূপিত সমুদয় উৎপাদ কর, বৃদ্ধিকারী সমন্বয় এবং উপকরণ কর রেয়াত এবং হ্রাসকারী সমন্বয় সাধন করিবার পর উক্ত কর মেয়াদে যে পরিমাণ মূসক, সম্পূর",
+          "content_text": "ধারা ৪৫ এর অধীন নিরূপিত সমুদয় উৎপাদ কর, বৃদ্ধিকারী সমন্বয় এবং উপকরণ কর রেয়াত এবং হ্রাসকারী সমন্বয় সাধন করিবার পর উক্ত কর মেয়াদে যে পরিমাণ মূসক, সম্পূরক শুল্ক বা টার্নওভার কর প্রদেয় হয়; ]",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৪৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-act-bangla-section-2-sub-section-64-net-payable-tax/",
+    "original_title": "VAT & SD Act Bangla Section 2 sub section 64 Net payable tax",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক আইন ২০১২ ১[ ধারা ২ দফা ৬৪ - প্রদেয় নীট কর “প্রদেয় নীট কর” অর্থ কোন কর মেয়াদে ধারা ৪৫ এর অধীন নিরূপিত কর; ] ১ অর্থ আইন, ২০১৯ এর ৫৩(১৬) ধারাবলে নিম্নরূপ দফা (৬৪) এর পরিবর্তে প্রতিস্থাপিত"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 3,
+      "subsections_count": 3,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.4
+  },
+  "forms": []
+}

@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "220",
+          "title": "Section 220 - Collection of Tax through District Collector (1) The Deputy Commissioner of Taxes shall send a certificate under his signature to the Co",
+          "content_text": "Section 220 - Collection of Tax through District Collector (1) The Deputy Commissioner of Taxes shall send a certificate under his signature to the Collector of the district in which his office is situated or to the Collector of the district in which the taxpayer resides or owns property or carries on business, specifying the amount due, the Collector shall, on receipt of such certificate, arrange for the collection from the taxpayer of the arrears mentioned in the said certificate as arrears of land revenue. (2) Without prejudice to any other power of the District Collector, the power vested in the Civil Court under sub-section (1) to recover money under the decree under the provisions of the Code of Civil Procedure, 1908 (Act No. V of 1908), the District Collector shall also have the same power to recover the dues mentioned in the certificate sent. (3) The Deputy Commissioner of Taxes may at any time withdraw the certificate sent to the District Collector under sub-section (1) and such withdrawal shall render all proceedings relating to the certificate null and void. (4) The withdrawal of the certificate shall not impair the collection by the Collector prior to the said withdrawal, in which case the certificate. shall be deemed not to have been withdrawn for an amount equal to the amount collected, or there will be no hindrance in the collection of amount recoverable at the time of withdrawal of certificate through issuance of fresh certificate. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The Deputy Commissioner of Taxes shall send a certificate under his signature to the Collector of the district in which his office is situated or to the Collector of the district in which the taxpayer resides or owns property or carries on business, specifying the amount due, the Collector shall, on receipt of such certificate, arrange for the collection from the taxpayer of the arrears mentioned in the said certificate as arrears of land revenue.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Without prejudice to any other power of the District Collector, the power vested in the Civil Court under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) to recover money under the decree under the provisions of the Code of Civil Procedure, 1908 (Act No. V of 1908), the District Collector shall also have the same power to recover the dues mentioned in the certificate sent.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) The Deputy Commissioner of Taxes may at any time withdraw the certificate sent to the District Collector under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) and such withdrawal shall render all proceedings relating to the certificate null and void.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) The withdrawal of the certificate shall not impair the collection by the Collector prior to the said withdrawal, in which case the certificate. shall be deemed not to have been withdrawn for an amount equal to the amount collected, or there will be no hindrance in the collection of amount recoverable at the time of withdrawal of certificate through issuance of fresh certificate. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "220"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-220/",
+    "original_title": "Income Tax Act 2023 Section 220 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 7,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

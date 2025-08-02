@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 227 Claim of refund for deceased or disabled persons",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২২৭",
+          "title": "ধারা ২২৭ - মৃত বা অক্ষম ব্যক্তির পক্ষে প্রত্যর্পণ দাবি মৃত্যু, অক্ষমতা, দেউলিয়াত্ব, অবসায়ন বা অন্য কোনো কারণে কোনো ব্যক্তি তাহার পাওনা অর্থ ফেরৎ পাইবা",
+          "content_text": "ধারা ২২৭ - মৃত বা অক্ষম ব্যক্তির পক্ষে প্রত্যর্পণ দাবি মৃত্যু, অক্ষমতা, দেউলিয়াত্ব, অবসায়ন বা অন্য কোনো কারণে কোনো ব্যক্তি তাহার পাওনা অর্থ ফেরৎ পাইবার দাবি করিতে বা গ্রহণ করিতে অসমর্থ হইলে, তাহার আইনানুগ প্রতিনিধি বা ট্রাস্টি, অভিভাবক বা, প্রযোজ্য ক্ষেত্রে, রিসিভার উক্ত ব্যক্তি বা তাহার ভূ-সম্পত্তির সুবিধার নিমিত্তে বর্ণিত ফেরত দাবি বা গ্রহণ করিতে পারিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২২৭"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-227-claim-of-refund-for-deceased-or-disabled-persons/",
+    "original_title": "Income Tax Act Bangla Section 227 Claim of refund for deceased or disabled persons – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 227 Claim of refund for deceased or disabled persons"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

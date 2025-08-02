@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 112 Deduction of tax at source from export cash subsidy",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "১১২",
+          "title": "ধারা ১১২ - নগদ রপ্তানি ভর্তুকির উপর উৎসে কর কর্তন রপ্তানি বৃদ্ধির জন্য রপ্তানিকারককে নগদ রপ্তানি ভর্তুকির কারণে যেকোনো পরিমাণ অর্থ পরিশোধের জন্য দায়িত",
+          "content_text": "ধারা ১১২ - নগদ রপ্তানি ভর্তুকির উপর উৎসে কর কর্তন রপ্তানি বৃদ্ধির জন্য রপ্তানিকারককে নগদ রপ্তানি ভর্তুকির কারণে যেকোনো পরিমাণ অর্থ পরিশোধের জন্য দায়িত্বপ্রাপ্ত কোনো ব্যক্তি, অর্থ প্রদান বা জমার সময়, প্রদেয় মোট অর্থের ১০% (দশ শতাংশ) হারে অগ্রিম কর কর্তন বা সংগ্রহ করিবেন।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ১১২"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-112-deduction-of-tax-at-source-from-export-cash-subsidy/",
+    "original_title": "Income Tax Act Bangla Section 112 Deduction of tax at source from export cash subsidy – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 112 Deduction of tax at source from export cash subsidy"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

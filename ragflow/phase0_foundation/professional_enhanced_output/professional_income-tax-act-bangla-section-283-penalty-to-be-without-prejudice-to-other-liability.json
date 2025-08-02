@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 283 Penalty to be without prejudice to other liability",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৮৩",
+          "title": "ধারা ২৮৩ - জরিমানা অন্য কোনো দায়ের অধিকারকে ক্ষুন্ন করিবে না এই অংশের অধীন কোনো ব্যক্তির উপর আরোপিত কোনো জরিমানা এই আইন অথবা আপাতত বলবৎ অন্য কোনো আইনে",
+          "content_text": "ধারা ২৮৩ - জরিমানা অন্য কোনো দায়ের অধিকারকে ক্ষুন্ন করিবে না এই অংশের অধীন কোনো ব্যক্তির উপর আরোপিত কোনো জরিমানা এই আইন অথবা আপাতত বলবৎ অন্য কোনো আইনের অধীন কোনো দায় যাহার জন্য উক্ত ব্যক্তি দায়ী বা দায়ী হইতে পারে এইরূপ দায়ের অধিকারকে ক্ষুণ্ন করিবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৮৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-283-penalty-to-be-without-prejudice-to-other-liability/",
+    "original_title": "Income Tax Act Bangla Section 283 Penalty to be without prejudice to other liability – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 283 Penalty to be without prejudice to other liability"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

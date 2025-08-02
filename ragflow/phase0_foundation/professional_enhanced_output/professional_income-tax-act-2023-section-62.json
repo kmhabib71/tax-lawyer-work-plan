@@ -1,0 +1,119 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "62",
+          "title": "Section 62 - Income from Financial Assets (1) The following income of a person shall be classified under the head “Income from financial asset” , name",
+          "content_text": "Section 62 - Income from Financial Assets (1) The following income of a person shall be classified under the head “Income from financial asset” , namely:- (a) interest, profit or interest on Government or Government approved securities; (b) interest, profits or dividends on debentures or any other form of securities issued by local authorities or companies; (c) interest or profit due from the following sources, namely: (i) deposits kept in any bank or financial institution, by whatever name called; (ii) any financial product or scheme; (d) dividends. (2) Capital income derived from transfer of financial assets shall not be classified as “income from financial assets” . Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) The following income of a person shall be classified under the head “Income from financial asset” , namely:- (a) interest, profit or interest on Government or Government approved securities; (b) interest, profits or dividends on debentures or any other form of securities issued by local authorities or companies; (c) interest or profit due from the following sources, namely: (i) deposits kept in any bank or financial institution, by whatever name called; (ii) any financial product or scheme; (d) dividends.",
+              "clauses": [
+                {
+                  "identifier": "a",
+                  "text": "(a) interest, profit or interest on Government or Government approved securities;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "b",
+                  "text": "(b) interest, profits or dividends on debentures or any other form of securities issued by local authorities or companies;",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "c",
+                  "text": "(c) interest or profit due from the following sources, namely:",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "i",
+                  "text": "(i) deposits kept in any bank or financial institution, by whatever name called; (ii) any financial product or scheme;",
+                  "sub_clauses": [
+                    {
+                      "identifier": "i",
+                      "text": "(i) deposits kept in any bank or financial institution, by whatever name called; (ii) any financial product or scheme;"
+                    },
+                    {
+                      "identifier": "ii",
+                      "text": "(ii) any financial product or scheme;"
+                    }
+                  ],
+                  "tables": []
+                },
+                {
+                  "identifier": "d",
+                  "text": "(d) dividends.",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Capital income derived from transfer of financial assets shall not be classified as “income from financial assets” . Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "62"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-62/",
+    "original_title": "Income Tax Act 2023 Section 62 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 3,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.9
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 280 Bar to imposition of penalty without hearing",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৮০",
+          "title": "ধারা ২৮০ - শুনানি ব্যতীত জরিমানা আরোপে নিষেধাজ্ঞা কোনো ব্যক্তির শুনানি গ্রহণ বা তাহাকে শুনানির যুক্তিসঙ্গত সুযোগ প্রদান না করিয়া, এই অংশের অধীন তাহার ",
+          "content_text": "ধারা ২৮০ - শুনানি ব্যতীত জরিমানা আরোপে নিষেধাজ্ঞা কোনো ব্যক্তির শুনানি গ্রহণ বা তাহাকে শুনানির যুক্তিসঙ্গত সুযোগ প্রদান না করিয়া, এই অংশের অধীন তাহার উপর জরিমানা আরোপের কোনো আদেশ প্রদান করা যাইবে না।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৮০"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-280-bar-to-imposition-of-penalty-without-hearing/",
+    "original_title": "Income Tax Act Bangla Section 280 Bar to imposition of penalty without hearing – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 280 Bar to imposition of penalty without hearing"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act Bangla Section 23 Charge of tax on stock dividend",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "২৩",
+          "title": "ধারা ২৩ - স্টক লভ্যাংশের উপর কর আরোপ এই আইন বা আপাতত বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন, যদি কোনো আয়বর্ষে কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং",
+          "content_text": "ধারা ২৩ - স্টক লভ্যাংশের উপর কর আরোপ এই আইন বা আপাতত বলবৎ অন্য কোনো আইনে যাহা কিছুই থাকুক না কেন, যদি কোনো আয়বর্ষে কোম্পানী আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর অধীন নিগমিত এবং বাংলাদেশ স্টক এক্সচেঞ্জের তালিকাভুক্ত কোনো কোম্পানি কর্তৃক ঘোষিত বা বিতরণকৃত স্টক লভ্যাংশ ঘোষিত বা বিতরণকৃত নগদ লভ্যাংশকে অতিক্রম করিলে অথবা নগদ লভ্যাংশ ব্যতীত কেবল স্টক লভ্যাংশের ঘোষণা বা বিতরণ করা হইলে, সেই আয়বর্ষে কোম্পানি কর্তৃক ঘোষিত বা বিতরণকৃত স্টক লভ্যাংশের উপর ১০% (দশ শতাংশ) হারে কর প্রদেয় হইবে।",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ২৩"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-bangla-section-23-charge-of-tax-on-stock-dividend/",
+    "original_title": "Income Tax Act Bangla Section 23 Charge of tax on stock dividend – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "Income Tax Act Bangla Section 23 Charge of tax on stock dividend"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

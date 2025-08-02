@@ -1,0 +1,85 @@
+{
+  "header": {
+    "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭৮ - যে সম্পত্তি ক্রোক বা জব্দ করা যাইবে না দেওয়ানী কার্যবিধি, ১৯০৮ এর ধারা ৬০ এর শর্তাংশের বিধান অনুযায়ী যেইসকল সম্পত্তি ক্রোক বা জব্দযোগ্য নয় তাহা ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না",
+    "document_type": "legal_section",
+    "language": "bengali"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "৬০",
+          "title": "ধারা ৬০ এর শর্তাংশের বিধান অনুযায়ী যেইসকল সম্পত্তি ক্রোক বা জব্দযোগ্য নয় তাহা",
+          "content_text": "ধারা ৬০ এর শর্তাংশের বিধান অনুযায়ী যেইসকল সম্পত্তি ক্রোক বা জব্দযোগ্য নয় তাহা",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৬০"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "৯৫",
+          "title": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না",
+          "content_text": "ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না।",
+          "subsections": [
+            {
+              "identifier": "৫",
+              "text": "উপ-ধারা",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "৫",
+              "text": "(৫) এর দফা (ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না।",
+              "clauses": [
+                {
+                  "identifier": "ছ",
+                  "text": "দফা",
+                  "sub_clauses": [],
+                  "tables": []
+                },
+                {
+                  "identifier": "ছ",
+                  "text": "(ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না।",
+                  "sub_clauses": [],
+                  "tables": []
+                }
+              ],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "ধারা ৯৫"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/vat-sd-rules-2016-in-bangla-rule-78-property-that-cannot-be-attached-or-seized/",
+    "original_title": "VAT & SD Rules 2016 in Bangla Rule 78 Property that cannot be attached or seized – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "bengali",
+      "title": "মূল্য সংযোজন কর ও সম্পূরক শুল্ক বিধিমালা ২০১৬ বিধি ৭৮ - যে সম্পত্তি ক্রোক বা জব্দ করা যাইবে না দেওয়ানী কার্যবিধি, ১৯০৮ এর ধারা ৬০ এর শর্তাংশের বিধান অনুযায়ী যেইসকল সম্পত্তি ক্রোক বা জব্দযোগ্য নয় তাহা ধারা ৯৫ এর উপ-ধারা (৫) এর দফা (ছ) অনুযায়ী ক্রোক বা জব্দ করা যাইবে না"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 2,
+      "quality_score": 1.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 7.6
+  },
+  "forms": []
+}

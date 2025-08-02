@@ -1,0 +1,103 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "215",
+          "title": "Section 215 - Direct Collection of Tax and Refund (1) Tax dues can be collected from the taxpayer through direct transfer from the bank account of the",
+          "content_text": "Section 215 - Direct Collection of Tax and Refund (1) Tax dues can be collected from the taxpayer through direct transfer from the bank account of the taxpayer to the government bank account. (2) The amount due to the taxpayer shall be refunded by electronic transfer to the bank account of the taxpayer. (3) Notwithstanding anything contained in this Act or any other Act, if the taxpayer files the return in the universal-self assessment manner, refund arises as a result of the completion of the return process by the Deputy Commissioner of Taxes, the said refund shall be electronically transferred to the bank account mentioned in the taxpayer’s return within 60 (sixty) days. 4) The Board may make rules prescribing the procedure, conditions, qualifications and limits for collection or refund of tax by bank transfer as described in sub-sections (1), (2) and (3). Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Tax dues can be collected from the taxpayer through direct transfer from the bank account of the taxpayer to the government bank account.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) The amount due to the taxpayer shall be refunded by electronic transfer to the bank account of the taxpayer.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Notwithstanding anything contained in this Act or any other Act, if the taxpayer files the return in the universal-self assessment manner, refund arises as a result of the completion of the return process by the Deputy Commissioner of Taxes, the said refund shall be electronically transferred to the bank account mentioned in the taxpayer’s return within 60 (sixty) days. 4) The Board may make rules prescribing the procedure, conditions, qualifications and limits for collection or refund of tax by bank transfer as described in sub-sections",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1),",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3). Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "215"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-215/",
+    "original_title": "Income Tax Act 2023 Section 215 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 7,
+      "quality_score": 2.2,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

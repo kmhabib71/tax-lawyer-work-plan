@@ -1,0 +1,47 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 107",
+    "document_type": "legal_section",
+    "language": "mixed"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "107",
+          "title": "Section 107 - Deduction of Tax at source on Rebate on Actual Value of Bangladesh Bank Bills Any person liable to pay any amount for rebate or deductio",
+          "content_text": "Section 107 - Deduction of Tax at source on Rebate on Actual Value of Bangladesh Bank Bills Any person liable to pay any amount for rebate or deduction of actual value of Bangladesh Bank Bills shall deduct tax at the highest rate applicable thereon, while making such payment.",
+          "subsections": [],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "107"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-107/",
+    "original_title": "Income Tax Act 2023 Section 107 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "mixed",
+      "title": "Income Tax Act 2023 Section 107"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 0,
+      "quality_score": 0.4,
+      "structure_depth": "chapters->sections"
+    },
+    "processing_confidence": 5.5
+  },
+  "forms": []
+}

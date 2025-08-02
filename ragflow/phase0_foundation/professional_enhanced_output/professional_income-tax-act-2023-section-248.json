@@ -1,0 +1,127 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "248",
+          "title": "Section 248 - Effect of Computation of Income on Approval of Foreign Tax Adjustment (1) Where the income includes dividends, and in respect which case",
+          "content_text": "Section 248 - Effect of Computation of Income on Approval of Foreign Tax Adjustment (1) Where the income includes dividends, and in respect which case the relevant income shall be deemed to have been increased by an equivalent portion of the foreign tax related to the dividends considered for the purpose of determining the amount of rebate. (2) Where, under sub-section (1), an amount of income is deemed to have been increased, the foreign tax paid on the dividend paid at any particular time by the statutory body paying the dividend, unless foreign tax, directly or by way of deduction, is chargeable.; or if the said dividend is not paid within the prescribed period, the dividend paid at the time of preparation of the last accounts completed by the said statutory body before the dividend is payable shall be taken into account. Explanation.- For the purposes of this sub-section, “paid” shall be deemed to have been paid, deposited or distributed or deemed to have been paid, deposited or distributed. (3) Notwithstanding anything contained in this section and section 55, if a deduction is not allowed against Bangladesh tax on any part of foreign tax on any source of income, the amount of such income shall be deemed to be reduced by an amount equal to the part of such foreign tax. (4) Where any income tax is payable on the basis of money received from Bangladesh, in that case, the amount of the said money shall be deemed to have increased by the amount of allowance allowed as concession against income tax. (5) The provisions of sub-sections (1) and (3) of this section shall not apply in computing the gross income of any person for the purpose of determining the rate referred to in sub-section (3) of section 247, and in accordance with sub-section (4) of this section ‘concessional benefit admissible against income-tax’ shall be substituted by ‘foreign tax paid at source of income’ Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where the income includes dividends, and in respect which case the relevant income shall be deemed to have been increased by an equivalent portion of the foreign tax related to the dividends considered for the purpose of determining the amount of rebate.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Where, under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), an amount of income is deemed to have been increased, the foreign tax paid on the dividend paid at any particular time by the statutory body paying the dividend, unless foreign tax, directly or by way of deduction, is chargeable.; or if the said dividend is not paid within the prescribed period, the dividend paid at the time of preparation of the last accounts completed by the said statutory body before the dividend is payable shall be taken into account. Explanation.- For the purposes of this sub-section, “paid” shall be deemed to have been paid, deposited or distributed or deemed to have been paid, deposited or distributed.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Notwithstanding anything contained in this section and section 55, if a deduction is not allowed against Bangladesh tax on any part of foreign tax on any source of income, the amount of such income shall be deemed to be reduced by an amount equal to the part of such foreign tax.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) Where any income tax is payable on the basis of money received from Bangladesh, in that case, the amount of the said money shall be deemed to have increased by the amount of allowance allowed as concession against income tax.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "5",
+              "text": "(5) The provisions of sub-sections",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) and",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) of this section shall not apply in computing the gross income of any person for the purpose of determining the rate referred to in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) of section 247, and in accordance with sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "4",
+              "text": "(4) of this section ‘concessional benefit admissible against income-tax’ shall be substituted by ‘foreign tax paid at source of income’ Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "248"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-248/",
+    "original_title": "Income Tax Act 2023 Section 248 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 11,
+      "quality_score": 3.0,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 9.0
+  },
+  "forms": []
+}

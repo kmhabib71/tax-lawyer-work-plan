@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "263",
+          "title": "Section 263 - Withholder Identification Number (WIN) (1) Every person responsible to deduct or collect tax under section 7 shall obtain a withholder i",
+          "content_text": "Section 263 - Withholder Identification Number (WIN) (1) Every person responsible to deduct or collect tax under section 7 shall obtain a withholder identification number, hereinafter referred to as WIN, in the manner prescribed by the Board. (2) Nothing in this section shall prevent any person referred to in subsection (1) from taking any action against him, including imposition of personal liability, even if he does not receive the WIN. (3) Where a person is required to obtain a WIN, but fails to do so, the person shall be allotted a Temporary Withholder Number (TWIN) in the manner prescribed by the Board. Moreover, as per",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Every person responsible to deduct or collect tax under section 7 shall obtain a withholder identification number, hereinafter referred to as WIN, in the manner prescribed by the Board.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) Nothing in this section shall prevent any person referred to in subsection",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1) from taking any action against him, including imposition of personal liability, even if he does not receive the WIN.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where a person is required to obtain a WIN, but fails to do so, the person shall be allotted a Temporary Withholder Number (TWIN) in the manner prescribed by the Board. Moreover, as per",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "263"
+          ],
+          "amendments": []
+        },
+        {
+          "number": "345",
+          "title": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "content_text": "Section 345(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+          "subsections": [
+            {
+              "identifier": "2",
+              "text": "(2) of the Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "345"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-263/",
+    "original_title": "Income Tax Act 2023 Section 263 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023, if there is a conflict between the English and Bengali text, the Bengali text shall prevail."
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 2,
+      "subsections_count": 5,
+      "quality_score": 1.8,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.5
+  },
+  "forms": []
+}

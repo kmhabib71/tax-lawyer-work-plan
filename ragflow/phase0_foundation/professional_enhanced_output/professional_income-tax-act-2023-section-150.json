@@ -1,0 +1,78 @@
+{
+  "header": {
+    "title": "Income Tax Act 2023 Section 150",
+    "document_type": "legal_section",
+    "language": "english"
+  },
+  "chapters": [
+    {
+      "number": "একক",
+      "title": "মূল বিষয়বস্তু",
+      "sections": [
+        {
+          "number": "150",
+          "title": "Section 150 - Credit of Tax Deducted or Collected at Source (1) Where tax is deducted or collected at source under this section and deposited with the",
+          "content_text": "Section 150 - Credit of Tax Deducted or Collected at Source (1) Where tax is deducted or collected at source under this section and deposited with the Government, such tax shall be deemed to have been paid on the income of the person from whose income such tax is deducted or collected. (2) If income tax is paid under sub-section (1), credit shall be given to such person in determining the tax liability of the person in the income year in which the tax is deducted or collected. (3) Where tax is paid at source by a person on behalf of another person, the credit referred to in sub-section (2) shall be given in determining the tax liability of that other person.",
+          "subsections": [
+            {
+              "identifier": "1",
+              "text": "(1) Where tax is deducted or collected at source under this section and deposited with the Government, such tax shall be deemed to have been paid on the income of the person from whose income such tax is deducted or collected.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) If income tax is paid under sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "1",
+              "text": "(1), credit shall be given to such person in determining the tax liability of the person in the income year in which the tax is deducted or collected.",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "3",
+              "text": "(3) Where tax is paid at source by a person on behalf of another person, the credit referred to in sub-section",
+              "clauses": [],
+              "tables": []
+            },
+            {
+              "identifier": "2",
+              "text": "(2) shall be given in determining the tax liability of that other person.",
+              "clauses": [],
+              "tables": []
+            }
+          ],
+          "clauses": [],
+          "tables": [],
+          "references": [
+            "150"
+          ],
+          "amendments": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "source_url": "https://www.taxvatpoint.com/income-tax-act-2023-section-150/",
+    "original_title": "Income Tax Act 2023 Section 150 – Tax VAT Point",
+    "enhancement_version": "2.0",
+    "enhancement_date": "2025-08-02",
+    "document_classification": {
+      "type": "legal_section",
+      "language": "english",
+      "title": "Income Tax Act 2023 Section 150"
+    },
+    "structure_quality": {
+      "chapters_count": 1,
+      "sections_count": 1,
+      "subsections_count": 5,
+      "quality_score": 1.4,
+      "structure_depth": "chapters->sections->subsections"
+    },
+    "processing_confidence": 8.0
+  },
+  "forms": []
+}
