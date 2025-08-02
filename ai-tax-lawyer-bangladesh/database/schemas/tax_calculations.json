@@ -1,0 +1,334 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "calculation_id",
+      "user_id",
+      "calculation_type",
+      "input_data",
+      "result",
+      "created_at"
+    ],
+    "properties": {
+      "calculation_id": {
+        "bsonType": "string",
+        "description": "Unique identifier for the calculation"
+      },
+      "user_id": {
+        "bsonType": "string",
+        "description": "User who requested the calculation"
+      },
+      "session_id": {
+        "bsonType": "string",
+        "description": "Session identifier for tracking"
+      },
+      "calculation_type": {
+        "bsonType": "string",
+        "enum": [
+          "income_tax",
+          "corporate_tax",
+          "vat_calculation",
+          "tds_calculation",
+          "penalty_calculation",
+          "rebate_calculation",
+          "exemption_calculation",
+          "advance_tax",
+          "refund_calculation"
+        ],
+        "description": "Type of tax calculation performed"
+      },
+      "input_data": {
+        "bsonType": "object",
+        "properties": {
+          "income_details": {
+            "bsonType": "object",
+            "properties": {
+              "salary_income": {
+                "bsonType": "double"
+              },
+              "business_income": {
+                "bsonType": "double"
+              },
+              "investment_income": {
+                "bsonType": "double"
+              },
+              "other_income": {
+                "bsonType": "double"
+              },
+              "total_income": {
+                "bsonType": "double"
+              }
+            }
+          },
+          "deductions": {
+            "bsonType": "object",
+            "properties": {
+              "standard_deduction": {
+                "bsonType": "double"
+              },
+              "investment_deduction": {
+                "bsonType": "double"
+              },
+              "donation_deduction": {
+                "bsonType": "double"
+              },
+              "other_deductions": {
+                "bsonType": "double"
+              },
+              "total_deductions": {
+                "bsonType": "double"
+              }
+            }
+          },
+          "exemptions": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "object",
+              "properties": {
+                "exemption_type": {
+                  "bsonType": "string"
+                },
+                "exemption_amount": {
+                  "bsonType": "double"
+                },
+                "legal_reference": {
+                  "bsonType": "string"
+                }
+              }
+            }
+          },
+          "personal_info": {
+            "bsonType": "object",
+            "properties": {
+              "age": {
+                "bsonType": "int"
+              },
+              "gender": {
+                "bsonType": "string",
+                "enum": ["male", "female", "other"]
+              },
+              "marital_status": {
+                "bsonType": "string",
+                "enum": ["single", "married", "divorced", "widowed"]
+              },
+              "disability_status": {
+                "bsonType": "bool"
+              },
+              "gazetted_war_wounded": {
+                "bsonType": "bool"
+              },
+              "residential_status": {
+                "bsonType": "string",
+                "enum": ["resident", "non_resident"]
+              }
+            }
+          },
+          "tax_year": {
+            "bsonType": "int",
+            "minimum": 2020,
+            "maximum": 2030
+          },
+          "company_details": {
+            "bsonType": "object",
+            "properties": {
+              "company_type": {
+                "bsonType": "string",
+                "enum": ["public_limited", "private_limited", "partnership", "sole_proprietorship"]
+              },
+              "industry_type": {
+                "bsonType": "string"
+              },
+              "turnover": {
+                "bsonType": "double"
+              },
+              "number_of_employees": {
+                "bsonType": "int"
+              }
+            }
+          }
+        },
+        "description": "Input parameters for the calculation"
+      },
+      "calculation_method": {
+        "bsonType": "object",
+        "properties": {
+          "engine_used": {
+            "bsonType": "string",
+            "enum": ["rule_based", "llm_assisted", "hybrid"]
+          },
+          "agents_involved": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "string"
+            }
+          },
+          "complexity_score": {
+            "bsonType": "double",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "confidence_score": {
+            "bsonType": "double",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      },
+      "result": {
+        "bsonType": "object",
+        "properties": {
+          "taxable_income": {
+            "bsonType": "double"
+          },
+          "tax_liability": {
+            "bsonType": "double"
+          },
+          "tax_paid": {
+            "bsonType": "double"
+          },
+          "refund_due": {
+            "bsonType": "double"
+          },
+          "additional_tax_due": {
+            "bsonType": "double"
+          },
+          "penalty_amount": {
+            "bsonType": "double"
+          },
+          "interest_amount": {
+            "bsonType": "double"
+          },
+          "total_amount": {
+            "bsonType": "double"
+          },
+          "breakdown": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "object",
+              "properties": {
+                "slab_range": {
+                  "bsonType": "string"
+                },
+                "taxable_amount": {
+                  "bsonType": "double"
+                },
+                "tax_rate": {
+                  "bsonType": "double"
+                },
+                "tax_amount": {
+                  "bsonType": "double"
+                }
+              }
+            }
+          },
+          "recommendations": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "object",
+              "properties": {
+                "recommendation_type": {
+                  "bsonType": "string"
+                },
+                "description": {
+                  "bsonType": "string"
+                },
+                "potential_savings": {
+                  "bsonType": "double"
+                },
+                "legal_reference": {
+                  "bsonType": "string"
+                }
+              }
+            }
+          }
+        },
+        "description": "Calculation results and recommendations"
+      },
+      "legal_references": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "properties": {
+            "document_id": {
+              "bsonType": "string"
+            },
+            "section": {
+              "bsonType": "string"
+            },
+            "relevance": {
+              "bsonType": "double"
+            },
+            "citation": {
+              "bsonType": "string"
+            }
+          }
+        },
+        "description": "Legal documents referenced in calculation"
+      },
+      "validation": {
+        "bsonType": "object",
+        "properties": {
+          "validated": {
+            "bsonType": "bool"
+          },
+          "validation_method": {
+            "bsonType": "string",
+            "enum": ["automated", "cross_agent", "manual"]
+          },
+          "validation_score": {
+            "bsonType": "double",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "validation_notes": {
+            "bsonType": "string"
+          }
+        }
+      },
+      "performance": {
+        "bsonType": "object",
+        "properties": {
+          "calculation_time_ms": {
+            "bsonType": "int"
+          },
+          "tokens_used": {
+            "bsonType": "int"
+          },
+          "cache_hit": {
+            "bsonType": "bool"
+          },
+          "agent_response_times": {
+            "bsonType": "object"
+          }
+        }
+      },
+      "created_at": {
+        "bsonType": "date",
+        "description": "Calculation timestamp"
+      },
+      "updated_at": {
+        "bsonType": "date",
+        "description": "Last update timestamp"
+      },
+      "status": {
+        "bsonType": "string",
+        "enum": ["completed", "in_progress", "failed", "cancelled"],
+        "description": "Calculation status"
+      },
+      "error_details": {
+        "bsonType": "object",
+        "properties": {
+          "error_code": {
+            "bsonType": "string"
+          },
+          "error_message": {
+            "bsonType": "string"
+          },
+          "stack_trace": {
+            "bsonType": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "$jsonSchema": {
+    "bsonType": "object",
+    "required": [
+      "document_id",
+      "title",
+      "document_type",
+      "content",
+      "year",
+      "language",
+      "created_at"
+    ],
+    "properties": {
+      "document_id": {
+        "bsonType": "string",
+        "description": "Unique identifier for the legal document"
+      },
+      "title": {
+        "bsonType": "string",
+        "description": "Document title in original language"
+      },
+      "title_english": {
+        "bsonType": "string",
+        "description": "Document title translated to English"
+      },
+      "document_type": {
+        "bsonType": "string",
+        "enum": [
+          "income_tax_act",
+          "corporate_tax_provision",
+          "vat_act",
+          "customs_act",
+          "tds_circular",
+          "sro",
+          "legal_precedent",
+          "form_template",
+          "guideline",
+          "amendment"
+        ],
+        "description": "Type of legal document"
+      },
+      "content": {
+        "bsonType": "string",
+        "description": "Full text content of the document"
+      },
+      "content_english": {
+        "bsonType": "string",
+        "description": "English translation of content (if applicable)"
+      },
+      "content_embedding": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "double"
+        },
+        "description": "Vector embedding of document content"
+      },
+      "sections": {
+        "bsonType": "array",
+        "items": {
+          "bsonType": "object",
+          "properties": {
+            "section_number": {
+              "bsonType": "string"
+            },
+            "section_title": {
+              "bsonType": "string"
+            },
+            "section_content": {
+              "bsonType": "string"
+            },
+            "subsections": {
+              "bsonType": "array",
+              "items": {
+                "bsonType": "object",
+                "properties": {
+                  "subsection_number": {
+                    "bsonType": "string"
+                  },
+                  "subsection_content": {
+                    "bsonType": "string"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "description": "Structured sections of the document"
+      },
+      "metadata": {
+        "bsonType": "object",
+        "properties": {
+          "act_reference": {
+            "bsonType": "string",
+            "description": "Reference to parent act"
+          },
+          "section_references": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "string"
+            },
+            "description": "Referenced sections in other documents"
+          },
+          "effective_date": {
+            "bsonType": "date",
+            "description": "Date when the document becomes effective"
+          },
+          "amendment_date": {
+            "bsonType": "date",
+            "description": "Date of last amendment"
+          },
+          "status": {
+            "bsonType": "string",
+            "enum": ["active", "superseded", "draft", "repealed"],
+            "description": "Current status of the document"
+          },
+          "keywords": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "string"
+            },
+            "description": "Keywords for search and categorization"
+          },
+          "tags": {
+            "bsonType": "array",
+            "items": {
+              "bsonType": "string"
+            },
+            "description": "Categorization tags"
+          }
+        }
+      },
+      "year": {
+        "bsonType": "int",
+        "minimum": 2000,
+        "maximum": 2030,
+        "description": "Year of document creation or last update"
+      },
+      "language": {
+        "bsonType": "string",
+        "enum": ["bengali", "english", "bilingual"],
+        "description": "Primary language of the document"
+      },
+      "source": {
+        "bsonType": "object",
+        "properties": {
+          "original_file_path": {
+            "bsonType": "string"
+          },
+          "source_url": {
+            "bsonType": "string"
+          },
+          "source_organization": {
+            "bsonType": "string"
+          },
+          "extraction_method": {
+            "bsonType": "string",
+            "enum": ["manual", "ocr", "api", "scraping"]
+          },
+          "quality_score": {
+            "bsonType": "double",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      },
+      "processing": {
+        "bsonType": "object",
+        "properties": {
+          "chunked": {
+            "bsonType": "bool",
+            "description": "Whether document has been chunked for RAGFlow"
+          },
+          "embedded": {
+            "bsonType": "bool",
+            "description": "Whether embeddings have been generated"
+          },
+          "indexed": {
+            "bsonType": "bool",
+            "description": "Whether document is indexed in search"
+          },
+          "last_processed": {
+            "bsonType": "date",
+            "description": "Last processing timestamp"
+          },
+          "processing_version": {
+            "bsonType": "string",
+            "description": "Version of processing pipeline used"
+          }
+        }
+      },
+      "usage_stats": {
+        "bsonType": "object",
+        "properties": {
+          "query_count": {
+            "bsonType": "int",
+            "minimum": 0,
+            "description": "Number of times document was retrieved"
+          },
+          "relevance_score": {
+            "bsonType": "double",
+            "minimum": 0,
+            "maximum": 1,
+            "description": "Average relevance score in queries"
+          },
+          "last_accessed": {
+            "bsonType": "date",
+            "description": "Last access timestamp"
+          }
+        }
+      },
+      "created_at": {
+        "bsonType": "date",
+        "description": "Document creation timestamp"
+      },
+      "updated_at": {
+        "bsonType": "date",
+        "description": "Last update timestamp"
+      },
+      "version": {
+        "bsonType": "string",
+        "description": "Document version identifier"
+      }
+    }
+  }
+}
