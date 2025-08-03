@@ -1,0 +1,813 @@
+{
+  "terms": {
+    "আয়কর": {
+      "english": "income_tax",
+      "category": "tax_type"
+    },
+    "করদাতা": {
+      "english": "taxpayer",
+      "category": "person"
+    },
+    "কর নিরূপণ": {
+      "english": "tax_assessment",
+      "category": "process"
+    },
+    "রিটার্ন": {
+      "english": "tax_return",
+      "category": "document"
+    },
+    "বেতন": {
+      "english": "salary",
+      "category": "income_type"
+    },
+    "ব্যবসায়িক আয়": {
+      "english": "business_income",
+      "category": "income_type"
+    },
+    "ভাড়া": {
+      "english": "rent",
+      "category": "income_type"
+    },
+    "সুদ": {
+      "english": "interest_penalty",
+      "category": "punishment"
+    },
+    "লভ্যাংশ": {
+      "english": "dividend",
+      "category": "income_type"
+    },
+    "পুঁজিগত লাভ": {
+      "english": "capital_gain",
+      "category": "income_type"
+    },
+    "উৎসে কর কর্তন": {
+      "english": "tax_deducted_at_source",
+      "category": "tds"
+    },
+    "উৎসে কর": {
+      "english": "tds",
+      "category": "tds"
+    },
+    "কর কর্তন": {
+      "english": "tax_deduction",
+      "category": "tds"
+    },
+    "কর কর্তনকারী": {
+      "english": "tax_deductor",
+      "category": "person"
+    },
+    "কর কর্তন সনদ": {
+      "english": "tds_certificate",
+      "category": "document"
+    },
+    "সীমা": {
+      "english": "threshold",
+      "category": "amount"
+    },
+    "ছাড়": {
+      "english": "exemption",
+      "category": "relief"
+    },
+    "রেয়াত": {
+      "english": "rebate",
+      "category": "relief"
+    },
+    "জরিমানা": {
+      "english": "penalty",
+      "category": "punishment"
+    },
+    "পেশাজীবী": {
+      "english": "professional",
+      "category": "person"
+    },
+    "ডাক্তার": {
+      "english": "doctor",
+      "category": "profession"
+    },
+    "আইনজীবী": {
+      "english": "lawyer",
+      "category": "profession"
+    },
+    "প্রকৌশলী": {
+      "english": "engineer",
+      "category": "profession"
+    },
+    "পরামর্শদাতা": {
+      "english": "consultant",
+      "category": "profession"
+    },
+    "ব্যবসায়ী": {
+      "english": "businessman",
+      "category": "person"
+    },
+    "কোম্পানি": {
+      "english": "company",
+      "category": "entity"
+    },
+    "অংশীদারিত্ব": {
+      "english": "partnership",
+      "category": "entity"
+    },
+    "একক মালিকানা": {
+      "english": "sole_proprietorship",
+      "category": "entity"
+    },
+    "কত টাকা": {
+      "english": "how_much_money",
+      "category": "query"
+    },
+    "কি হার": {
+      "english": "what_rate",
+      "category": "query"
+    },
+    "কিভাবে": {
+      "english": "how_to",
+      "category": "query"
+    },
+    "কোথায়": {
+      "english": "where",
+      "category": "query"
+    },
+    "কখন": {
+      "english": "when",
+      "category": "query"
+    },
+    "লাখ": {
+      "english": "100000",
+      "category": "number"
+    },
+    "কোটি": {
+      "english": "10000000",
+      "category": "number"
+    },
+    "হাজার": {
+      "english": "1000",
+      "category": "number"
+    },
+    "শত": {
+      "english": "100",
+      "category": "number"
+    },
+    "ফরম": {
+      "english": "form",
+      "category": "document"
+    },
+    "আবেদন": {
+      "english": "application",
+      "category": "document"
+    },
+    "দাখিল": {
+      "english": "submission",
+      "category": "process"
+    },
+    "জমা": {
+      "english": "deposit",
+      "category": "process"
+    },
+    "মাসিক": {
+      "english": "monthly",
+      "category": "frequency"
+    },
+    "বার্ষিক": {
+      "english": "annual",
+      "category": "frequency"
+    },
+    "ত্রৈমাসিক": {
+      "english": "quarterly",
+      "category": "frequency"
+    },
+    "সময়সীমা": {
+      "english": "deadline",
+      "category": "time"
+    },
+    "মূল্য সংযোজন কর": {
+      "english": "vat",
+      "synonyms": [
+        "ভ্যাট",
+        "পরোক্ষ কর"
+      ],
+      "category": "tax_types",
+      "context": "indirect_tax",
+      "usage_examples": [
+        "ভ্যাট দিতে হবে",
+        "মূসক প্রদান"
+      ]
+    },
+    "অগ্রিম কর": {
+      "english": "advance_tax",
+      "synonyms": [
+        "এডভান্স ট্যাক্স",
+        "পূর্বপ্রদত্ত কর"
+      ],
+      "category": "tax_payment",
+      "context": "prepaid_tax",
+      "usage_examples": [
+        "অগ্রিম কর প্রদান",
+        "এডভান্স পেমেন্ট"
+      ]
+    },
+    "ন্যূনতম কর": {
+      "english": "minimum_tax",
+      "synonyms": [
+        "মিনিমাম ট্যাক্স",
+        "সর্বনিম্ন কর"
+      ],
+      "category": "tax_calculation",
+      "context": "minimum_liability",
+      "usage_examples": [
+        "ন্যূনতম কর প্রযোজ্য",
+        "মিনিমাম ট্যাক্স দিতে হবে"
+      ]
+    },
+    "সারচার্জ": {
+      "english": "surcharge",
+      "synonyms": [
+        "অতিরিক্ত কর",
+        "সার্চার্জ"
+      ],
+      "category": "additional_tax",
+      "context": "penalty_tax",
+      "usage_examples": [
+        "সারচার্জ আরোপিত",
+        "অতিরিক্ত কর প্রদান"
+      ]
+    },
+    "নির্ধারণী": {
+      "english": "assessment",
+      "synonyms": [
+        "রিটার্ন",
+        "মূল্যায়ন"
+      ],
+      "category": "tax_process",
+      "context": "evaluation",
+      "usage_examples": [
+        "নির্ধারণী প্রক্রিয়া",
+        "কর নির্ধারণ"
+      ]
+    },
+    "আইন": {
+      "english": "law",
+      "synonyms": [
+        "বিধি",
+        "আইনকানুন",
+        "নীতিমালা"
+      ],
+      "category": "legal_framework",
+      "context": "legislation",
+      "usage_examples": [
+        "আইন অনুযায়ী",
+        "বিধি মোতাবেক"
+      ]
+    },
+    "বিধান": {
+      "english": "provision",
+      "synonyms": [
+        "ধারা",
+        "নিয়ম",
+        "বিধি"
+      ],
+      "category": "legal_framework",
+      "context": "legal_rule",
+      "usage_examples": [
+        "বিধান অনুযায়ী",
+        "আইনের ধারা"
+      ]
+    },
+    "অধ্যাদেশ": {
+      "english": "ordinance",
+      "synonyms": [
+        "আদেশ",
+        "অর্ডিন্যান্স"
+      ],
+      "category": "legal_framework",
+      "context": "legislation",
+      "usage_examples": [
+        "অধ্যাদেশ জারি",
+        "সরকারি আদেশ"
+      ]
+    },
+    "নির্দেশনা": {
+      "english": "directive",
+      "synonyms": [
+        "গাইড",
+        "দিকনির্দেশনা"
+      ],
+      "category": "legal_framework",
+      "context": "instruction",
+      "usage_examples": [
+        "নির্দেশনা অনুসরণ",
+        "গাইড অনুযায়ী"
+      ]
+    },
+    "আপিল": {
+      "english": "appeal",
+      "synonyms": [
+        "পুনর্বিবেচনা",
+        "অভিযোগ"
+      ],
+      "category": "legal_process",
+      "context": "challenge",
+      "usage_examples": [
+        "আপিল করা",
+        "পুনর্বিবেচনার জন্য"
+      ]
+    },
+    "ট্রাইব্যুনাল": {
+      "english": "tribunal",
+      "synonyms": [
+        "বিচারালয়",
+        "আদালত"
+      ],
+      "category": "legal_institutions",
+      "context": "court",
+      "usage_examples": [
+        "ট্রাইব্যুনালে যাওয়া",
+        "বিচারালয়ে দাখিল"
+      ]
+    },
+    "নোটিশ": {
+      "english": "notice",
+      "synonyms": [
+        "বিজ্ঞপ্তি",
+        "জানানো"
+      ],
+      "category": "legal_process",
+      "context": "notification",
+      "usage_examples": [
+        "নোটিশ পাওয়া",
+        "বিজ্ঞপ্তি জারি"
+      ]
+    },
+    "আয়": {
+      "english": "income",
+      "synonyms": [
+        "উপার্জন",
+        "প্রাপ্তি",
+        "ইনকাম"
+      ],
+      "category": "financial_terms",
+      "context": "earning",
+      "usage_examples": [
+        "বার্ষিক আয়",
+        "মাসিক উপার্জন"
+      ]
+    },
+    "ব্যবসা": {
+      "english": "business",
+      "synonyms": [
+        "ব্যবসায়িক",
+        "বাণিজ্য",
+        "কারবার"
+      ],
+      "category": "income_types",
+      "context": "business_income",
+      "usage_examples": [
+        "ব্যবসায়িক আয়",
+        "কারবারের লাভ"
+      ]
+    },
+    "মূলধন": {
+      "english": "capital",
+      "synonyms": [
+        "পুঁজি",
+        "ক্যাপিটাল"
+      ],
+      "category": "financial_terms",
+      "context": "investment",
+      "usage_examples": [
+        "মূলধনী বিনিয়োগ",
+        "পুঁজির পরিমাণ"
+      ]
+    },
+    "মুনাফা": {
+      "english": "profit",
+      "synonyms": [
+        "লাভ",
+        "প্রফিট",
+        "অর্জন"
+      ],
+      "category": "financial_terms",
+      "context": "gain",
+      "usage_examples": [
+        "বার্ষিক মুনাফা",
+        "ব্যবসার লাভ"
+      ]
+    },
+    "লোকসান": {
+      "english": "loss",
+      "synonyms": [
+        "ক্ষতি",
+        "হানি"
+      ],
+      "category": "financial_terms",
+      "context": "loss",
+      "usage_examples": [
+        "ব্যবসায়িক লোকসান",
+        "আর্থিক ক্ষতি"
+      ]
+    },
+    "বিনিয়োগ": {
+      "english": "investment",
+      "synonyms": [
+        "বিনিয়োগ",
+        "ইনভেস্টমেন্ট"
+      ],
+      "category": "financial_terms",
+      "context": "investment",
+      "usage_examples": [
+        "দীর্ঘমেয়াদী বিনিয়োগ",
+        "বিনিয়োগের পরিমাণ"
+      ]
+    },
+    "সঞ্চয়": {
+      "english": "savings",
+      "synonyms": [
+        "সেভিংস",
+        "সঞ্চিত অর্থ"
+      ],
+      "category": "financial_terms",
+      "context": "saved_money",
+      "usage_examples": [
+        "সঞ্চয়ের টাকা",
+        "সেভিংস অ্যাকাউন্ট"
+      ]
+    },
+    "ঋণ": {
+      "english": "loan",
+      "synonyms": [
+        "লোন",
+        "ধার",
+        "কর্জ"
+      ],
+      "category": "financial_terms",
+      "context": "debt",
+      "usage_examples": [
+        "ব্যাংক ঋণ",
+        "লোনের কিস্তি"
+      ]
+    },
+    "সম্পদ": {
+      "english": "assets",
+      "synonyms": [
+        "সম্পত্তি",
+        "সামগ্রী"
+      ],
+      "category": "financial_terms",
+      "context": "wealth",
+      "usage_examples": [
+        "মোট সম্পদ",
+        "অস্থাবর সম্পত্তি"
+      ]
+    },
+    "শেয়ার": {
+      "english": "share",
+      "synonyms": [
+        "স্টক",
+        "অংশ"
+      ],
+      "category": "financial_instruments",
+      "context": "equity",
+      "usage_examples": [
+        "শেয়ার বাজার",
+        "স্টক এক্সচেঞ্জ"
+      ]
+    },
+    "ডিভিডেন্ড": {
+      "english": "dividend",
+      "synonyms": [
+        "লভ্যাংশ",
+        "শেয়ার লাভ"
+      ],
+      "category": "financial_instruments",
+      "context": "return",
+      "usage_examples": [
+        "ডিভিডেন্ড পাওয়া",
+        "লভ্যাংশ বণ্টন"
+      ]
+    },
+    "বন্ড": {
+      "english": "bond",
+      "synonyms": [
+        "বন্ধপত্র",
+        "সরকারি বন্ড"
+      ],
+      "category": "financial_instruments",
+      "context": "debt_security",
+      "usage_examples": [
+        "সরকারি বন্ড",
+        "ট্রেজারি বন্ড"
+      ]
+    },
+    "চুক্তি": {
+      "english": "contract",
+      "synonyms": [
+        "করার",
+        "চুক্তিপত্র"
+      ],
+      "category": "legal_documents",
+      "context": "agreement",
+      "usage_examples": [
+        "কাজের চুক্তি",
+        "চুক্তিপত্র স্বাক্ষর"
+      ]
+    },
+    "টাকা": {
+      "english": "taka",
+      "synonyms": [
+        "টাকা",
+        "টক",
+        "পয়সা"
+      ],
+      "category": "currency",
+      "context": "money",
+      "usage_examples": [
+        "১০ হাজার টাকা",
+        "পাঁচ লাখ টাকা"
+      ]
+    },
+    "শতকরা": {
+      "english": "percentage",
+      "synonyms": [
+        "%",
+        "পার্সেন্ট",
+        "শতাংশ"
+      ],
+      "category": "numbers",
+      "context": "rate",
+      "usage_examples": [
+        "শতকরা দশ ভাগ",
+        "১৫% কর"
+      ]
+    }
+  },
+  "term_categories": {
+    "tax_types": [
+      "মূল্য সংযোজন কর"
+    ],
+    "tax_collection": [],
+    "tax_payment": [
+      "অগ্রিম কর"
+    ],
+    "tax_calculation": [
+      "ন্যূনতম কর"
+    ],
+    "legal_framework": [
+      "আইন",
+      "বিধান",
+      "অধ্যাদেশ",
+      "নির্দেশনা"
+    ],
+    "legal_process": [
+      "আপিল",
+      "নোটিশ"
+    ],
+    "financial_terms": [
+      "আয়",
+      "মূলধন",
+      "মুনাফা",
+      "লোকসান",
+      "বিনিয়োগ",
+      "সঞ্চয়",
+      "ঋণ",
+      "সম্পদ"
+    ],
+    "income_types": [
+      "ব্যবসা"
+    ],
+    "business_entities": [],
+    "currency": [
+      "টাকা"
+    ],
+    "numbers": [
+      "শতকরা"
+    ]
+  },
+  "parsing_patterns": {
+    "conditional_sentences": {
+      "if_then_patterns": [
+        "যদি\\s+(.+?)\\s+তাহলে\\s+(.+)",
+        "(.+?)\\s+হলে\\s+(.+)",
+        "(.+?)\\s+ক্ষেত্রে\\s+(.+)",
+        "যেক্ষেত্রে\\s+(.+?)\\s+সেক্ষেত্রে\\s+(.+)"
+      ],
+      "conditional_markers": [
+        "যদি",
+        "হলে",
+        "ক্ষেত্রে",
+        "যেক্ষেত্রে",
+        "সেক্ষেত্রে"
+      ]
+    },
+    "question_patterns": {
+      "amount_questions": [
+        "কত\\s+(টাকা|কর|পয়সা)",
+        "কি\\s+পরিমাণ",
+        "কেমন\\s+(হার|রেট)",
+        "কতটুকু\\s+(দিতে|পরিশোধ)"
+      ],
+      "form_questions": [
+        "কোন\\s+(ফরম|ফর্ম)",
+        "কি\\s+(ফরম|ফর্ম)",
+        "কী\\s+(দাখিল|জমা)",
+        "কোনটি\\s+(প্রয়োজন|লাগবে)"
+      ],
+      "procedure_questions": [
+        "কিভাবে\\s+(করবো|করব)",
+        "কী\\s+পদ্ধতি",
+        "কেমন\\s+নিয়ম",
+        "কোন\\s+প্রক্রিয়া"
+      ]
+    },
+    "compound_sentences": {
+      "conjunctions": [
+        "এবং",
+        "ও",
+        "আর",
+        "তবে",
+        "কিন্তু",
+        "যদিও",
+        "তথাপি"
+      ],
+      "sentence_connectors": [
+        "(.+?)\\s+(এবং|ও|আর)\\s+(.+)",
+        "(.+?)\\s+(তবে|কিন্তু)\\s+(.+)",
+        "(.+?)\\s+(যদিও|তথাপি)\\s+(.+)"
+      ]
+    },
+    "temporal_expressions": {
+      "time_periods": [
+        "দিন",
+        "সপ্তাহ",
+        "মাস",
+        "বছর",
+        "বৎসর"
+      ],
+      "time_markers": [
+        "আগে",
+        "পরে",
+        "মধ্যে",
+        "সময়ে",
+        "কালে"
+      ],
+      "time_patterns": [
+        "(\\d+)\\s*(দিন|সপ্তাহ|মাস|বছর|বৎসর)",
+        "(গত|আগামী|চলতি|বর্তমান)\\s*(মাস|বছর|বৎসর)",
+        "(\\d{4})-(\\d{4})\\s*(সাল|সন)"
+      ]
+    }
+  },
+  "contextual_rules": {
+    "income_context": {
+      "employment_indicators": [
+        "বেতন",
+        "সংস্থান",
+        "চাকরি",
+        "কর্মচারী",
+        "কর্মকর্তা"
+      ],
+      "business_indicators": [
+        "ব্যবসা",
+        "ব্যবসায়িক",
+        "কারবার",
+        "বাণিজ্য",
+        "কোম্পানি"
+      ],
+      "rental_indicators": [
+        "ভাড়া",
+        "ভাড়াটিয়া",
+        "বাড়ি ভাড়া",
+        "অফিস ভাড়া"
+      ],
+      "interest_indicators": [
+        "সুদ",
+        "ইন্টারেস্ট",
+        "ব্যাংক সুদ",
+        "জমার সুদ"
+      ]
+    },
+    "amount_context": {
+      "currency_indicators": [
+        "টাকা",
+        "টক",
+        "পয়সা",
+        "BDT"
+      ],
+      "amount_qualifiers": [
+        "মোট",
+        "সর্বমোট",
+        "সর্বোচ্চ",
+        "সর্বনিম্ন",
+        "প্রায়",
+        "কমবেশি"
+      ],
+      "calculation_terms": [
+        "যোগ",
+        "বিয়োগ",
+        "গুণ",
+        "ভাগ",
+        "মোট",
+        "সর্বমোট"
+      ]
+    },
+    "legal_context": {
+      "authority_indicators": [
+        "কর কমিশনার",
+        "বোর্ড",
+        "সরকার",
+        "আদালত",
+        "ট্রাইব্যুনাল"
+      ],
+      "document_indicators": [
+        "রিটার্ন",
+        "নির্ধারণী",
+        "সার্টিফিকেট",
+        "নোটিশ",
+        "আবেদন"
+      ],
+      "procedure_indicators": [
+        "দাখিল",
+        "জমা",
+        "প্রদান",
+        "পরিশোধ",
+        "নিষ্পত্তি"
+      ]
+    },
+    "temporal_context": {
+      "tax_years": [
+        "কর বছর",
+        "আয় বছর",
+        "নির্ধারণী বছর"
+      ],
+      "deadlines": [
+        "শেষ তারিখ",
+        "সময়সীমা",
+        "নির্ধারিত সময়"
+      ],
+      "periods": [
+        "মাসিক",
+        "ত্রৈমাসিক",
+        "বার্ষিক",
+        "দৈনিক"
+      ]
+    }
+  },
+  "numerical_patterns": {
+    "bengali_numbers": {
+      "digits": {
+        "০": "0",
+        "১": "1",
+        "২": "2",
+        "৩": "3",
+        "৪": "4",
+        "৫": "5",
+        "৬": "6",
+        "৭": "7",
+        "৮": "8",
+        "৯": "9"
+      },
+      "written_numbers": {
+        "এক": "1",
+        "দুই": "2",
+        "তিন": "3",
+        "চার": "4",
+        "পাঁচ": "5",
+        "ছয়": "6",
+        "সাত": "7",
+        "আট": "8",
+        "নয়": "9",
+        "দশ": "10",
+        "একশত": "100",
+        "এক হাজার": "1000",
+        "এক লাখ": "100000",
+        "দশ লাখ": "1000000",
+        "এক কোটি": "10000000"
+      }
+    },
+    "amount_patterns": [
+      "(\\d+)\\s*(হাজার|লাখ|কোটি)\\s*(টাকা)?",
+      "([০-৯]+)\\s*(হাজার|লাখ|কোটি)\\s*(টাকা)?",
+      "(এক|দুই|তিন|চার|পাঁচ|দশ|বিশ|পঞ্চাশ|একশত)\\s*(হাজার|লাখ|কোটি)\\s*(টাকা)?"
+    ],
+    "percentage_patterns": [
+      "(\\d+)\\s*(%|শতকরা|পার্সেন্ট)",
+      "([০-৯]+)\\s*(%|শতকরা|পার্সেন্ট)",
+      "শতকরা\\s*(\\d+|[০-৯]+)\\s*(ভাগ|টাকা)?"
+    ],
+    "calculation_patterns": [
+      "(\\d+|[০-৯]+)\\s*[×x*]\\s*(\\d+|[০-৯]+)",
+      "(\\d+|[০-৯]+)\\s*[÷/]\\s*(\\d+|[০-৯]+)",
+      "(\\d+|[০-৯]+)\\s*[+-]\\s*(\\d+|[০-৯]+)"
+    ]
+  },
+  "metadata": {
+    "purpose": "Comprehensive Bengali legal terms for advanced tax processing",
+    "version": "2.0.0",
+    "expansion_date": "2025-08-01T17:49:47.966428",
+    "original_term_count": 45,
+    "total_term_count": 72,
+    "new_terms_added": 27,
+    "categories_count": 11,
+    "parsing_patterns_count": 4,
+    "contextual_rules_count": 4
+  }
+}

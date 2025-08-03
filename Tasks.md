@@ -1,5 +1,29 @@
 # Complete RAGFlow + Multi-Agent AI Tax Lawyer System Roadmap
 
+## 🎯 **PROJECT SCOPE CLARIFICATION - 6 WEEK FOCUS**
+
+**PRIMARY GOAL**: Build COMPLETE Income Tax calculation, advisory, and form fill-up system for Bangladesh
+
+### **COMPREHENSIVE INCOME TAX SYSTEM (6-Week Implementation)**
+- ✅ **Income Tax Act 2023** - All 345 sections (English & Bengali)
+- ✅ **Income Tax Schedules** - All 8 schedules with detailed parts
+- ✅ **TDS Rules** - Complete 2024-2025 rules with all 9 rule categories
+- ✅ **Income Tax SRO** - All Statutory Regulatory Orders
+- ✅ **Income Tax Explanation** - Detailed interpretations
+- ✅ **DTAA** - Double Taxation Avoidance Agreement provisions
+- ✅ **Income Tax Forms** - Complete eReturn filing integration
+- ✅ **The Gift Tax Act 1990** - Gift tax calculations
+- ✅ **Finance Act 2024 & Ordinance 2025** - Latest amendments
+- ✅ **Minimum Tax Provisions** - Section 163 calculations
+- ⚠️ **Income Tax SO/Nirdeshika/Paripatra** - To be located and integrated
+
+### **VAT & CUSTOMS (Reference Only)**  
+- 📚 **INFORMATION LEVEL**: Available for lookup and basic queries only
+- ⚠️ **NO CALCULATIONS**: VAT/Customs calculation engines will be built in future phases
+- 🔗 **INTEGRATION**: Basic reference data for comprehensive tax knowledge
+
+**Rationale**: Income Tax is the most complex and high-value tax system in Bangladesh. Building it comprehensively first creates a solid foundation for future VAT/Customs systems while delivering maximum business value.
+
 ## 🏗️ System Architecture Overview
 
 ### Agent Hierarchy Design
