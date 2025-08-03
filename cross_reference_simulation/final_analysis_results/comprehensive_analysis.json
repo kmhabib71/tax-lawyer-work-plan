@@ -1,0 +1,3214 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "01_income_tax_act_simulation.json",
+        "type": "document",
+        "references": 38,
+        "title": "আয়কর আইন, ২০২৩ (সিমুলেশন)"
+      },
+      {
+        "id": "02_finance_act_simulation.json",
+        "type": "document",
+        "references": 15,
+        "title": "অর্থ আইন, ২০২৪ (সিমুলেশন)"
+      },
+      {
+        "id": "03_nbr_circular_simulation.json",
+        "type": "document",
+        "references": 44,
+        "title": "NBR Tax Circulars 2024-25 (Simulation)"
+      },
+      {
+        "id": "04_sro_notification_simulation.json",
+        "type": "document",
+        "references": 51,
+        "title": "SRO Notifications 2024 (Simulation)"
+      },
+      {
+        "id": "05_tax_schedules_simulation.json",
+        "type": "document",
+        "references": 78,
+        "title": "Tax Schedules 2024-25 (Simulation)"
+      },
+      {
+        "id": "06_tds_rules_simulation.json",
+        "type": "document",
+        "references": 117,
+        "title": "TDS Rules 2024 (Simulation)"
+      }
+    ],
+    "edges": [
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_০৫",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ (২০২৪ সনের ০৫ নং আইন) এর ৬ম ধারা",
+        "context": "অনুযায়ী নির্ধারিত হইবে। ৩ 'করদাতা' অর্থ যেকোনো ব"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (১)",
+        "context": "এ উল্লিখিত বিধান অনুসারে নির্ধারিত হইবে এবং এই আই"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারায়",
+        "context": "উল্লিখিত হার প্রযোজ্য হইবে এবং জাতীয় রাজস্ব বোর্"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী নির্ধারিত এবং জাতীয় রাজস্ব বোর্ডের সাধা"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারায়",
+        "context": "স্পষ্টভাবে উল্লেখ রহিয়াছে। ২ প্রতিবন্ধী ব্যক্তিদ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারায়",
+        "context": "নির্ধারিত এবং পরিপত্র নং ১১/২০২৪ এ এ সংক্রান্ত বি"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারার উপ-ধারা (১)",
+        "context": "অনুযায়ী নির্ধারিত এবং পরিপত্র নং ১২/২০২৪ এ কোম্প"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "company_act_simulation.json",
+        "type": "act_reference",
+        "section": "general_authority",
+        "confidence": 1,
+        "sourceText": "কোম্পানি আইন, ১৯৯৪ (১৯৯৪ সনের ১৮ নং আইন) এর অধীন",
+        "context": "নিবন্ধিত যেকোনো কোম্পানি এবং এর আয় নির্ধারণে এই"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩",
+        "confidence": 0.8999999999999999,
+        "sourceText": " ২০২৪ এর বিধান অনুযায়ী কর্তনের হার ও পদ্ধতি নির্ধারিত এবং জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪ এ এ সংক্রান্ত বিশেষ নির্দেশনা প্রদান করা হইয়াছে। ১ ঠিকাদারি কার্যক্রমের ক্ষেত্রে উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় নিয়ম",
+        "context": "অনুযায়ী কর কর্তন করিতে হইবে এবং এসআরও নং ২৪১/২০২"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": " অনুযায়ী কর কর্তন করিতে হইবে এবং এসআরও নং ২৪১/২০২৪ এ বর্ণিত বিশেষ ক্ষেত্রসমূহে অতিরিক্ত শর্ত প্রযোজ্য হইবে। ২ পেশাদার সেবার ক্ষেত্রে উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৪র্থ নিয়ম",
+        "context": "প্রযোজ্য এবং উক্ত বিধিমালার ৫ম নিয়মে বর্ণিত ব্যত"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রসমূহে অতিরিক্ত শর্ত প্রযোজ্"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৫/২০২৪",
+        "context": "এ বর্ণিত বিশেষ বিধান সাপেক্ষে তাহার দায়বদ্ধতা নি"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৬/২০২৪",
+        "context": "এ বর্ণিত বিশেষ নির্দেশনা অনুসরণ করিতে হইবে। ২ কর"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৭_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৭/২০২৪",
+        "context": "এ বিস্তারিতভাবে বর্ণিত এবং উক্ত পরিপত্রে উল্লিখিত"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ এ সংক্রান্ত বিশেষ নির্দেশনা প্রদান করা হইয়াছে।"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১০_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১০/২০২৪",
+        "context": "এ এ সংক্রান্ত বাস্তবায়ন নির্দেশনা প্রদান করা হইয"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১১_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১১/২০২৪",
+        "context": "এ এ সংক্রান্ত বিশেষ নির্দেশনা প্রদান করা হইয়াছে।"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১২_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১২/২০২৪",
+        "context": "এ কোম্পানির ধরন অনুযায়ী বিভিন্ন হার উল্লেখ করা হ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১৩_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১৩/২০২৪",
+        "context": "এ আপিল সংক্রান্ত বিস্তারিত নির্দেশনা প্রদান করা হ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১৪_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১৪/২০২৪",
+        "context": "এ বিস্তারিতভাবে বর্ণিত এবং আয়কর অধ্যাদেশ, ১৯৮৪ এ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "অনুসারে বিশেষ ক্ষেত্রে ভিন্ন হার প্রয়োগ করা যাইব"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৬/২০২৪",
+        "context": "অনুসারে সময়সীমা বৃদ্ধির বিধান রহিয়াছে। ২ আপিল ন"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র বিধান প্রযোজ্য হইবে। ২ 'করবর্ষ' অর্থ ১ জুলাই হইত"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত স্ল্যাব অনুযায়ী প্রয়োগ করিতে হইবে। ১ করয"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশে বর্ণিত বিধান প্রযোজ্য হইবে এবং বিশেষ ক্ষ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বিস্তারিতভাবে বর্ণিত এবং পরিপত্র নং ১০/"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে নির্ধারিত এবং সাধারণ আদেশ নং ১৫/২০২৪ অন"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত এবং পরিপত্র নং ১৩/২০২৪ এ আপিল সংক্রান্ত বি"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত। বিশেষ ক্ষেত্রে সাধারণ আদেশ নং"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিলে",
+        "context": "র বিধান প্রযোজ্য হইবে। ২ 'করবর্ষ' অর্থ ১ জুলাই হইত"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিলে",
+        "context": "বর্ণিত স্ল্যাব অনুযায়ী প্রয়োগ করিতে হইবে। ১ করয"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিলে",
+        "context": "র ১ম অংশে বর্ণিত বিধান প্রযোজ্য হইবে এবং বিশেষ ক্ষ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বিস্তারিতভাবে বর্ণিত এবং পরিপত্র নং ১০/"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে নির্ধারিত এবং সাধারণ আদেশ নং ১৫/২০২৪ অন"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিলে",
+        "context": "বর্ণিত এবং পরিপত্র নং ১৩/২০২৪ এ আপিল সংক্রান্ত বি"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত। বিশেষ ক্ষেত্রে সাধারণ আদেশ নং"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলের বিধান",
+        "context": "প্রযোজ্য হইবে। ২ 'করবর্ষ' অর্থ ১ জুলাই হইতে পরবর্"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 1,
+        "sourceText": " সম্পদ মূল্যায়ন ইত্যাদি বিষয়ে আপিল আয়কর কর্তৃপক্ষের নিকট করা যাইবে। আপিলের পদ্ধতি ও সময়সীমা এই আইনের তৃতীয় তফসিলে বর্ণিত এবং পরিপত্র নং ১৩/২০২৪ এ আপিল সংক্রান্ত বিস্তারিত নির্দেশনা প্রদান করা হইয়াছে। ১ আপিল দাখিলের সময়সীমা ৬০ (ষাট) দিন এবং আপিল ফি এই আইনের তৃতীয় তফসিলের ১ম অংশে নির্ধারিত। বিশেষ ক্ষেত্রে সাধারণ আদেশ নং ১৬/২০২৪ অনুসারে সময়সীমা বৃদ্ধির বিধান রহিয়াছে। ২ আপিল নিষ্পত্তির পদ্ধতি পরিপত্র নং ১৪/২০২৪ এ বিস্তারিতভাবে বর্ণিত এবং আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারায়",
+        "context": "বর্ণিত পদ্ধতি এই আইনের অধীনেও প্রযোজ্য থাকিবে। ২০"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত সাধারণ বিধানের সাথে সামঞ্জস্যপূর্ণ। ৩ কোম্"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২য় ধারায়",
+        "context": "সংজ্ঞায়িত করদাতার শ্রেণী অনুসারে বাধ্যতামূলক।\" চ"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩_and_৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": " নির্দিষ্ট ক্ষেত্রে উৎসে কর কর্তন করিতে হইবে এবং এসআরও নং ২৪১/২০২৪ এ বর্ণিত বিশেষ ক্ষেত্রে অতিরিক্ত শর্ত প্রযোজ্য হইবে।\" ১ ঠিকাদারি কার্যক্রমের ক্ষেত্রে উৎসে কর কর্তনের হার ৭ শতাংশ এবং পেশাদার সেবার ক্ষেত্রে ১২ শতাংশ যা উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় ও ৪র্থ নিয়ম",
+        "context": "ে বিস্তারিতভাবে বর্ণিত। ২ অনাবাসী ব্যক্তির ক্ষেত্র"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রে অতিরিক্ত শর্ত প্রযোজ্য হই"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৫০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৫০/২০২৪",
+        "context": "এ এ সংক্রান্ত বিস্তারিত বিধান প্রদান করা হইয়াছে।"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৫১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৫১/২০২৪",
+        "context": "এ বিস্তারিতভাবে উল্লেখ রহিয়াছে। পঞ্চম অধ্যায় বি"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৬/২০২৪",
+        "context": "অনুসারে প্রয়োগ করিতে হইবে। ২ মহিলা করদাতার ক্ষেত"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_২০_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ২০/২০২৪",
+        "context": "এ এ সংক্রান্ত ট্রানজিশন নির্দেশনা প্রদান করা হইয়"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "অনুসারে বিশেষ ক্ষেত্রে ভিন্ন হার প্রযোজ্য হইবে। ত"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_২৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ২৫/২০২৪",
+        "context": "অনুসারে প্রয়োজনীয় সংশোধনী আনয়ন করিতে হইবে। আয়"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত বিস্তারিত বিধানের সাথে সঙ্গতিপূর্ণ। ৭ আয়ক"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ বিধান প্রযোজ্য হইবে। ৮ আয়"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে এ সংক্রান্ত বিস্তারিত বিধান রহিয়াছে। ২"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র অধীন আমদানি শুল্কের হার সংশোধন করা হইল এবং এসআরও"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র সাথে সামঞ্জস্য রাখিয়া নির্ধারিত। ১ যন্ত্রপাতি আ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২_subsection_১২",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ (২০২৩ সনের ১২ নং আইন) এর ২য় ধারায়",
+        "context": "সংজ্ঞায়িত করদাতার শ্রেণীবিভাগ এবং অর্থ আইন, ২০২৪"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_০৫",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ (২০২৪ সনের ০৫ নং আইন) এর ৬ম ধারায়",
+        "context": "নির্ধারিত বিশেষ বিধান বাস্তবায়নের জন্য নিম্নলিখি"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২_subsection_১",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২য় ধারার উপ-ধারা (১)",
+        "context": "অনুযায়ী সংজ্ঞায়িত সাধারণ করদাতার ক্ষেত্রে অর্থ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (১)",
+        "context": "এ উল্লিখিত হার প্রযোজ্য হইবে। বিশেষত: (ক) বার্ষিক"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী মহিলা করদাতার ক্ষেত্রে করমুক্ত আয়ের সীম"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত অন্যান্য বিধান প্রযোজ্য থাকিবে। উক্ত সীমার"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫ম ধারায়",
+        "context": "উল্লিখিত উৎসে কর কর্তনের ক্ষেত্রে এই পরিপত্রের বি"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারায়",
+        "context": "নির্ধারিত আয়করের হার এবং আয়কর আইন, ২০২৩ এর ৫ম ধ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত মূল অধিকরণের সাথে সামঞ্জস্য রাখিয়া নিম্নল"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (১)",
+        "context": "অনুযায়ী সংশোধিত হইয়াছে। (ক) প্রথম ৩ লক্ষ টাকা -"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫ম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তনের ক্ষেত্রে উৎসে কর কর্তন বিধ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত সর্বনিম্ন কর এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারায়",
+        "context": "নির্ধারিত নতুন হার প্রয়োগের ক্ষেত্রে পরিপত্র নং"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত করমুক্ত আয়ের সীমা এবং অর্থ আইন, ২০২৪ এর ৬"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "এ প্রতিবন্ধী ব্যক্তিদের জন্য বিশেষ বিধান সংক্রান্"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২য় ধারায়",
+        "context": "সংজ্ঞায়িত করদাতার আওতাভুক্ত। ২ করমুক্ত সীমা অর্থ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী প্রতিবন্ধী ব্যক্তিদের করমুক্ত আয়ের সীমা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত অন্যান্য প্রয়োজনীয় কাগজপত্র দাখিল করিতে"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত আপিল পদ্ধতি এবং উক্ত আইনের তৃতীয় তফসিলে ন"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "অনুযায়ী আপিল দাখিলের সময়সীমা ৬০ দিন এবং উক্ত আই"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তন এবং উৎসে কর কর্তন বিধিমালা,"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত করমুক্ত আয়ের সীমা এবং অর্থ আইন, ২০২৪ এর ৬"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী নির্ধারিত বিশেষ সীমা প্রয়োগের ক্ষেত্রে"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুসরণ; (২) বিশেষ ক্ষেত্রে পরিপত্র"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত সর্বনিম্ন কর এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারায়",
+        "context": "নির্ধারিত নতুন হার প্রয়োগের ক্ষেত্রে নিম্নলিখিত"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত আপিল দাখিলের সময়সীমা এবং উক্ত আইনের তৃতীয"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩_and_৪",
+        "confidence": 0.9999999999999999,
+        "sourceText": " ২০২৩ এর ৮৫ম ধারায় বর্ণিত উৎসে কর কর্তনের ক্ষেত্রে উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় ও ৪র্থ নিয়ম",
+        "context": "অনুযায়ী কর্তিত কর চূড়ান্ত আয়কর নির্ধারণের সময়"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩",
+        "confidence": 0.7999999999999999,
+        "sourceText": " ২০২৪ এর বিধান বাস্তবায়নের জন্য নিম্নলিখিত বিশেষ নির্দেশনা প্রদান করা হইল: ১ কর্তনের ক্ষেত্র উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় নিয়ম",
+        "context": "অনুযায়ী ঠিকাদারি কার্যক্রম এবং ৪র্থ নিয়ম অনুযায"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রে অতিরিক্ত সুবিধা প্রদান কর"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রে অতিরিক্ত শর্ত প্রযোজ্য এব"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪",
+        "context": "এর নির্দেশনা অনুসরণ। ১৬/২০২৪ আপিল সময়সীমা বৃদ্ধি"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১২_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১২/২০২৪",
+        "context": "এর নির্দেশনা অনুসরণ করিতে হইবে। সকল কর কর্মকর্তা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৫/২০২৪",
+        "context": ", ০৬/২০২৪ ও ০৭/২০২৪ এর নির্দেশনা প্রয়োগ। ১৫/২০২৪"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এর সাথে সামঞ্জস্য রাখিয়া প্রয়োগ। আয়কর আইন, ২০২"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত স্ল্যাব অনুযায়ী কর প্রযোজ্য। ২ মহিলা করদা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "উল্লিখিত কর স্ল্যাব অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অন্যান্য সুবিধাও প্রযোজ্য থাকিবে। ৩ প্রয়ো"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "নির্ধারিত সময়সীমা ও ফি সংক্রান্ত নিম্নলিখিত নির্"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত ফি প্রদান করিতে হইবে। ২ আপিল ন"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত হার অনুযায়ী কর কর্তন করিতে হইবে"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত বিশেষ বিধান প্রযোজ্য; (৩) বিশেষ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত ৬০ দিনের সময়সীমা বিশেষ ক্ষেত্"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 1,
+        "sourceText": " ২০২৩ এর ২৮৬তম ধারা অনুযায়ী আপিল দাখিলের সময়সীমা ৬০ দিন এবং উক্ত আইনের তৃতীয় তফসিলের ১ম অংশে নির্ধারিত ফি প্রদান করিতে হইবে। ২ আপিল নিষ্পত্তি আপিল নিষ্পত্তির ক্ষেত্রে আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুসরণ করিতে হইবে এবং আয়কর আইন, ২০"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারার উপ-ধারা (২)",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৬ম ধারা প্রদত্ত ক্ষমতাবলে জ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারা",
+        "context": "প্রদত্ত ক্ষমতাবলে জনস্বার্থে এবং বিনিয়োগ উৎসাহিত"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত মূল অধিকরণ এবং উক্ত আইনের প্রথম তফসিলে বর্"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_৩",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী ১০০% কর অবকাশ প্রথম ৫ বছরের জন্য প্রদান"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তন হইতেও অব্যাহতি প্রদান করা হই"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত সাধারণ কর ধার্যের পরিবর্তে ৫০% হ্রাসকৃত হা"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুসরণ করিয়া প্রয়োজনীয় আবেদন দাখ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৫_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ২৫তম ধারায়",
+        "context": "বর্ণিত সাধারণ শর্তাবলী প্রযোজ্য থাকিবে। এই এসআরও"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং উৎসে কর কর্তন বিধিমালা, ২০২৪ প্রদত্ত ক্ষমতাবল"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তন এবং উৎসে কর কর্তন বিধিমালা,"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২)",
+        "context": "এ বর্ণিত বিশেষ শর্তাবলী প্রযোজ্য থাকিবে। ৩ অনাবাস"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী ৩০% হারে উৎসে কর কর্তন করিতে হইবে এবং উক"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত সর্বনিম্ন কর প্রয়োগের ক্ষেত্রে এই কর্তন স"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা প্রদত্ত ক্ষমতাবলে আ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারা",
+        "context": "প্রদত্ত ক্ষমতাবলে আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত সর্বনিম্ন কর এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারায়",
+        "context": "নির্ধারিত নতুন হারের পাশাপাশি নিম্নলিখিত বিশেষ ক্"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী ০.৩% হারে সর্বনিম্ন কর প্রযোজ্য এবং আয়ক"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত সাধারণ কর ধার্যের সাথে তুলনা করিয়া যেইটি"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুসরণ করিয়া আবেদন করিতে হইবে। সংশ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ১৮তম ধারা",
+        "context": "প্রদত্ত ক্ষমতাবলে কাস্টমস আইন, ১৯৬৯ এর প্রথম তফসি"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ১৮তম ধারায়",
+        "context": "বর্ণিত সংশোধনী অনুযায়ী আমদানি শুল্কের হার নিম্নর"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৮_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ১৮তম ধারার উপ-ধারা (১)",
+        "context": "এ বর্ণিত বিশেষ শর্তাবলী প্রযোজ্য। এই হার আয়কর আই"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তনের সাথে সামঞ্জস্যপূর্ণ। এসআরও"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৮_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ১৮তম ধারার উপ-ধারা (১)",
+        "context": "এ উল্লিখিত বিস্তারিত বিধান অনুযায়ী নিম্নলিখিত তা"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ১৮তম ধারায়",
+        "context": "নির্দিষ্ট এবং আয়কর আইন, ২০২৩ এর সাথে সামঞ্জস্য র"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৪",
+        "confidence": 0.9999999999999999,
+        "sourceText": " ২০২৩ এর ৫ম ধারায় বর্ণিত সাধারণ কর ধার্যের পরিবর্তে ৫০% হ্রাসকৃত হারে কর প্রযোজ্য হইবে এবং উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৪র্থ নিয়ম",
+        "context": "ে বর্ণিত বিশেষ বিধান অনুসরণ করিতে হইবে। এই সুবিধা"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩_and_৪",
+        "confidence": 1,
+        "sourceText": " ২০২৩ এর ৮৫তম ধারায় বর্ণিত উৎসে কর কর্তন এবং উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় ও ৪র্থ নিয়ম",
+        "context": "ে উল্লিখিত সাধারণ বিধানের অতিরিক্ত হিসাবে নিম্নলিখ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩",
+        "confidence": 0.7999999999999999,
+        "sourceText": "ে উল্লিখিত সাধারণ বিধানের অতিরিক্ত হিসাবে নিম্নলিখিত বিশেষ ক্ষেত্রে অতিরিক্ত শর্ত ও হার নির্ধারণ করা হইল: ১ বৃহৎ ঠিকাদারি প্রকল্প ১ কোটি টাকার অধিক মূল্যের ঠিকাদারি প্রকল্পের ক্ষেত্রে উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় নিয়ম",
+        "context": "ে বর্ণিত ৭% এর পরিবর্তে ১০% হারে কর কর্তন করিতে হই"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৪",
+        "confidence": 0.7999999999999999,
+        "sourceText": " আইনি ও প্রযুক্তিগত পরামর্শ সেবার ক্ষেত্রে উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৪র্থ নিয়ম",
+        "context": "ে বর্ণিত ১২% এর পরিবর্তে ১৫% হারে কর কর্তন করিতে হ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এ বর্ণিত রপ্তানি আয়ের অতিরিক্ত সুবিধাও প্রাপ্য হ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত উৎসে কর কর্তনের বিশেষ হার এক্ষেত্রে প্রয"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৫০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৫০/২০২৪",
+        "context": "এর ধারাবাহিকতায় এবং কাস্টমস আইন, ১৯৬৯ প্রদত্ত ক্"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৫০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৫০/২০২৪",
+        "context": "এ বর্ণিত আমদানি শুল্কের হার এবং অর্থ আইন, ২০২৪ এর"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৫০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৫০/২০২৪",
+        "context": "এর সাথে একসাথে পঠিতব্য এবং আয়কর আইন, ২০২৩ এর বিধ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৫/২০২৪",
+        "context": "এ বর্ণিত শর্তাবলী প্রযোজ্য থাকিবে। ২ নবায়নযোগ্য"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৬/২০২৪",
+        "context": "এ বর্ণিত নির্দেশনা অনুসরণ করিতে হইবে। অর্থ আইন, ২"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রে ভিন্ন হার প্রযোজ্য। আয়কর"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১২_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ১২/২০২৪",
+        "context": "এ বর্ণিত অতিরিক্ত শর্তাবলী পূরণ করিতে হইবে। এই বি"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "এ বর্ণিত শর্তাবলী অনুসরণ করিতে হইবে। ২ কৃষি ভিত্ত"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত কর অবকাশের পাশাপাশি নিম্নলিখিত বিশেষ সুবিধ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশে বর্ণিত সাধারণ কর অবকাশের অতিরিক্ত হিসাবে"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত অতিরিক্ত শর্তাবলী প্রযোজ্য হইবে।"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত সাধারণ সর্বনিম্ন করের পরিবর্তে ০"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত সর্বনিম্ন করের ৫০% হার প্রযোজ্য"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ১৮তম ধারায় বর্ণিত সংশোধনী"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র সাথে সামঞ্জস্যপূর্ণ: ১ শিল্প যন্ত্রপাতি শিল্প যন"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অবচয় ভাতার সাথে সামঞ্জস্য রাখিয়া এই হার"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "অনুযায়ী নির্ধারিত এবং আয়কর আইন, ২০২৩ এর প্রথম ত"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অবচয় ভাতার সাথে সামঞ্জস্যপূর্ণ। ২ কাঁচামা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৬ম ধারা ১ম অংশ ব্যক্তিগত কর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারা",
+        "context": "১ম অংশ ব্যক্তিগত করদাতার কর হার ও অবকাশ অর্থ আইন,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (১)",
+        "context": "অনুযায়ী নির্ধারিত এবং আয়কর আইন, ২০২৩ এর ৫ম ধারা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত মূল অধিকরণ সাপেক্ষে ব্যক্তিগত করদাতার কর হ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত পরবর্তী ১,০০,০০০ টাকা (৩,০০,০০১ - ৪,০০,০০০"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারায়",
+        "context": "নির্ধারিত পরবর্তী ৩,০০,০০০ টাকা (৪,০০,০০১ - ৭,০০,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারার",
+        "context": "সাথে সামঞ্জস্যপূর্ণ পরবর্তী ৫,০০,০০০ টাকা (১১,০০,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত সর্বনিম্ন করের সাথে তুলনীয় মহিলা করদাতা ৩"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "এবং জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৫/২০২৪ প্রত"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (২)",
+        "context": "এবং পরিপত্র নং ০৭/২০২৪ মুক্তিযোদ্ধা ৪,২৫,০০০ টাকা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারার",
+        "context": "বিশেষ বিধান ১৫% ১০,০০,০০০ টাকা তথ্য প্রযুক্তি ২০%"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারার উপ-ধারা (২)",
+        "context": "২য় অংশ কোম্পানির কর হার আয়কর আইন, ২০২৩ এর তৃতীয"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_৩",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী সংশোধিত কোম্পানির কর হার: সাধারণ কোম্পান"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৬_subsection_৩",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (৩)",
+        "context": "তালিকাভুক্ত কোম্পানি ২২.৫% আয়কর আইন, ২০২৩ এর তৃত"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা এসআরও নং ২৪০/২০২৪ এ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারা",
+        "context": "এসআরও নং ২৪০/২০২৪ এ বর্ণিত বিশেষ ক্ষেত্রে ভিন্ন হ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং উৎসে কর কর্তন বিধিমালা, ২০২৪ অনুযায়ী নির্ধার"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "DTAA এর বিধান প্রযোজ্য ক্ষেত্রে ভিন্ন হার সুদ প্র"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৮ম ধারা ১ম অংশ কোম্পানির সর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারা",
+        "context": "১ম অংশ কোম্পানির সর্বনিম্ন কর অর্থ আইন, ২০২৪ এর ৮"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_১",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারার উপ-ধারা (১)",
+        "context": "অনুযায়ী এবং আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায় বর্ণ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারায়",
+        "context": "বর্ণিত নীতি অনুসরণে কোম্পানির সর্বনিম্ন কর: পরিশো"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা",
+        "context": "এবং জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ১২/২০২৪ ব্যা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারার",
+        "context": "বিশেষ বিধান মোবাইল ফোন অপারেটর মোট বিক্রয়ের ২% উ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৮ম ধারার উপ-ধারা (২) অনুযায"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী ব্যক্তিগত করদাতার সর্বনিম্ন কর: বার্ষিক"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৮ম ধারা",
+        "context": "এবং সাধারণ আদেশ নং ১৫/২০২৪ সরকারি কর্মচারী সম্পূর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_১৬৩_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ১৬৩তম ধারার",
+        "context": "ব্যতিক্রম প্রতিবন্ধী ব্যক্তি ৫০% হ্রাস পরিপত্র নং"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারার",
+        "context": "বিশেষ বিধান বার্ষিক মোট আয় নির্ধারণ - আয়কর আইন,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারা",
+        "context": "অনুযায়ী সর্বনিম্ন কর গণনা - মোট আয়ের ০.৫% নিয়ম"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "এবং পরিপত্র নং ০৮/২০২৪ ১ম অংশ আপিল দাখিল ও ফি আয়"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত আপিল পদ্ধতি এবং পরিপত্র নং ০৮/২০২৪ এ বর্ণি"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_১",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারার উপ-ধারা (১)",
+        "context": "জরিমানা আরোপের বিরুদ্ধে ৩০ দিন উক্ত ধারার উপ-ধারা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৩",
+        "confidence": 0.7999999999999999,
+        "sourceText": " ২০২৪ অনুযায়ী নির্ধারিত উৎসে কর কর্তনের হার: ঠিকাদারি কার্যক্রম ৭% উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৩য় নিয়ম",
+        "context": "১০% (১ কোটি টাকার অধিক প্রকল্পের ক্ষেত্রে - এসআরও"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "rules_reference",
+        "section": "rule_৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": " ১০% (১ কোটি টাকার অধিক প্রকল্পের ক্ষেত্রে - এসআরও নং ২৪১/২০২৪) পেশাদার সেবা ১২% উৎসে কর কর্তন বিধিমালা, ২০২৪ এর ৪র্থ নিয়ম",
+        "context": "১৫% (বিশেষ পেশাদার সেবার ক্ষেত্রে - এসআরও নং ২৪১/"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এ বর্ণিত বিশেষ সুবিধা নবায়নযোগ্য জ্বালানি ১০০% এ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এর ২য় ধারা আয়কর আইন, ২০২৩ এর ৫ম ধারার উপ-ধারা ("
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রে ভিন্ন হার ৩য় অংশ উৎসে কর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": ") পেশাদার সেবা ১২% উৎসে কর কর্তন বিধিমালা, ২০২৪ এর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": ") অনাবাসী ব্যক্তি ৩০% আয়কর আইন, ২০২৩ এর ৮৫তম ধারা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এর বিশেষ সুবিধা এবং পরিপত্র নং ০৯/২০২৪ সরকারি প্র"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪",
+        "context": "এর ১ম ধারা এবং সাধারণ আদেশ নং ১৫/২০২৪ কৃষি ভিত্তি"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪",
+        "context": "এর ২য় ধারা রপ্তানিমুখী শিল্প সাধারণ হারের ৫০% এস"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪",
+        "context": "এর ৩য় ধারা এবং এসআরও নং ২৩৫/২০২৪ ২য় অংশ ব্যক্তি"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "২য় অংশ ব্যক্তিগত করদাতার সর্বনিম্ন কর আয়কর আইন,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪_section_২",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪ এর ২য় ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ৫ম ধারার উপ-ধারা (২) ২য় অংশ ক"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪_section_১",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪ এর ১ম ধারা",
+        "context": "এবং সাধারণ আদেশ নং ১৫/২০২৪ কৃষি ভিত্তিক শিল্প ০.৩"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪_section_২",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪ এর ২য় ধারা",
+        "context": "রপ্তানিমুখী শিল্প সাধারণ হারের ৫০% এসআরও নং ২৪০/২"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪০_২০২৪_section_৩",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪০/২০২৪ এর ৩য় ধারা",
+        "context": "এবং এসআরও নং ২৩৫/২০২৪ ২য় অংশ ব্যক্তিগত করদাতার স"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৬/২০২৪",
+        "context": "অনুযায়ী প্রয়োগ পরবর্তী ৪,০০,০০০ টাকা (৭,০০,০০১"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৫/২০২৪",
+        "context": "প্রতিবন্ধী ব্যক্তি ৪,৫০,০০০ টাকা অর্থ আইন, ২০২৪ এ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৭_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৭/২০২৪",
+        "context": "মুক্তিযোদ্ধা ৪,২৫,০০০ টাকা আয়কর আইন, ২০২৩ এর ৮ম"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১২_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ১২/২০২৪",
+        "context": "ব্যাংক ও আর্থিক প্রতিষ্ঠান ৪০% আয়কর আইন, ২০২৩ এর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৯/২০২৪",
+        "context": "সরকারি প্রতিষ্ঠান - সম্পূর্ণ অব্যাহতি স্থানীয় সর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "অনুযায়ী অন্যান্য অব্যাহতি দ্বিতীয় তফসিল সর্বনিম"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_১২_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ১২/২০২৪",
+        "context": "ব্যাংক ও আর্থিক প্রতিষ্ঠান পরিশোধিত পুঁজির ১.২৫%"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৭_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৭/২০২৪",
+        "context": "এবং সাধারণ আদেশ নং ১৫/২০২৪ মুক্তিযোদ্ধা ৫০% হ্রাস"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "১ম অংশ আপিল দাখিল ও ফি আয়কর আইন, ২০২৩ এর ২৮৬তম ধ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এ বর্ণিত নির্দেশনা অনুযায়ী: করনির্ধারণী আদেশের ব"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এর ফি তালিকা ১ লক্ষ হইতে ১০ লক্ষ টাকা পর্যন্ত ১৫,"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এবং আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারায় বর্ণিত পদ্"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এর ২য় ধারা তথ্য সংগ্রহ ৩০ দিন সংশ্লিষ্ট কর কার্য"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৮_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৮/২০২৪",
+        "context": "এর চূড়ান্ত নির্দেশনা আপিল গ্রহণ - করনির্ধারণী সং"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "কৃষি ভিত্তিক শিল্প ০.৩% এসআরও নং ২৪০/২০২৪ এর ২য়"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "সরকারি কর্মচারী সম্পূর্ণ অব্যাহতি আয়কর আইন, ২০২৩"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৫_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৫/২০২৪",
+        "context": "মুক্তিযোদ্ধা ৫০% হ্রাস আয়কর আইন, ২০২৩ এর ৮ম ধারা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "general_order_১৬_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "সাধারণ আদেশ নং ১৬/২০২৪",
+        "context": ") চিকিৎসা জনিত কারণ - সনদসহ অতিরিক্ত ৩০ দিন আয়কর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "কর হার ও কর অবকাশ আয়কর আইন, ২০২৩ এর ৫ম ধারা এবং"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত এবং অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (৩)"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিল",
+        "context": "এবং পরিপত্র নং ১২/২০২৪ ব্যাংক ও আর্থিক প্রতিষ্ঠান"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র বিশেষ বিধান মোবাইল ফোন অপারেটর ৪৫% উক্ত তফসিলের"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিল",
+        "context": "সর্বনিম্ন কর আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা এবং অর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশ অনুযায়ী দুইটির মধ্যে যেইটি বেশি সেইটি প্"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিল",
+        "context": "আপিল ও ফি আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা এবং পরিপত"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 1,
+        "sourceText": "০০০ টাকা উক্ত পরিপত্রের সর্বোচ্চ ফি প্রাকৃতিক দুর্যোগ - অতিরিক্ত ৩০ দিন (সাধারণ আদেশ নং ১৬/২০২৪) চিকিৎসা জনিত কারণ - সনদসহ অতিরিক্ত ৩০ দিন আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারায়",
+        "context": "বর্ণিত অন্যান্য বিশেষ ক্ষেত্র ২য় অংশ আপিল নিষ্পত"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 1,
+        "sourceText": " বর্ণিত অন্যান্য বিশেষ ক্ষেত্র ২য় অংশ আপিল নিষ্পত্তি পদ্ধতি পরিপত্র নং ০৮/২০২৪ এবং আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুযায়ী আপিল নিষ্পত্তি: আপিল গ্রহণ"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 1,
+        "sourceText": " বর্ণিত পদ্ধতি অনুযায়ী আপিল নিষ্পত্তি: আপিল গ্রহণ ১৫ দিন আপিল দাখিলের পর প্রাথমিক যাচাই ও গ্রহণ পরিপত্র নং ০৮/২০২৪ এর ২য় ধারা তথ্য সংগ্রহ ৩০ দিন সংশ্লিষ্ট কর কার্যালয় হইতে নথিপত্র সংগ্রহ আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারার",
+        "context": "উপ-ধারা (২) শুনানি ৬০ দিন আপিলকারী ও সংশ্লিষ্ট কর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "ordinance_১৯৮৪_simulation.json",
+        "type": "ordinance_reference",
+        "section": "section_২৮৫",
+        "confidence": 0.9999999999999999,
+        "sourceText": " ২০২৪ আয়কর অধ্যাদেশ, ১৯৮৪ এর ২৮৫ ধারা",
+        "context": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৫-১৪/২০২৪ এসআরও"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_১২",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ (২০২৩ সনের ১২ নং আইন) এর ৮৫তম ধারায়",
+        "context": "প্রদত্ত ক্ষমতাবলে এবং অর্থ আইন, ২০২৪ (২০২৪ সনের ০"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_০৫",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ (২০২৪ সনের ০৫ নং আইন) এর ৭ম ধারায়",
+        "context": "বর্ণিত সংশোধনী সাপেক্ষে, জাতীয় রাজস্ব বোর্ড নিম্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "প্রদত্ত ক্ষমতাবলে ২০২৪-০৬-৩০ ২০২৪-০৭-০১ 2024 1.0"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তনের সাধারণ নীতির সাথে সামঞ্জস্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত উৎসে কর কর্তনের সাধারণ নীতির সাথে সামঞ্জস্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অর্থ আইন, ২০২৪ এর ৭ম ধারা ২ সংজ্ঞা ২। এই বিধিমালা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারা",
+        "context": "২ সংজ্ঞা ২। এই বিধিমালায় ব্যবহৃত শব্দাবলীর অর্থ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২য় ধারায়",
+        "context": "প্রদত্ত সংজ্ঞার অনুরূপ হইবে এবং প্রসঙ্গক্রমে ভিন্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অনুযায়ী উৎসে কর কর্তন করিতে বাধ্য যেকোনো ব্যক্তি"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অনুযায়ী উৎসে কর কর্তন করা হয় এবং উক্ত আইনের প্র"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_১",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (১)",
+        "context": "এবং উক্ত আইনের প্রথম তফসিলের ৩য় অংশে বর্ণিত বিধা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী ৩০% হারে কর কর্তন করিতে হইবে এবং উক্ত আই"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "অন্তর্ভুক্ত ৫০,০০০ টাকার নিচে একক প্রদান সরকারি প"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর প্রথম তফসিলের ৩য় অংশ এসআরও নং"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (২)",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২) অনুযায"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২)",
+        "context": "অনুযায়ী পেশাদার সেবার ক্ষেত্রে নিম্নলিখিত হারে উ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২)",
+        "context": "এ বর্ণিত বিশেষ শর্তাবলী প্রযোজ্য থাকিবে। ৩ অনাবাস"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী ৩০% হারে কর কর্তন করিতে হইবে। ৪ এই নিয়ম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২) আয়কর আইন,"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারার উপ-ধারা (২)",
+        "context": "আয়কর আইন, ২০২৩ এর প্রথম তফসিলের ৩য় অংশ এসআরও নং"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "এবং উক্ত আইনের প্রথম তফসিলের ৩য় অংশে বর্ণিত বিধা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "অনুযায়ী ৩০% হার এবং সংশ্লিষ্ট DTAA এর বিধান প্রয"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত অন্যান্য কাগজপত্র আয়কর আইন, ২০২৩ এর ৮৫তম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার উপ-ধারা (৩)",
+        "context": "আয়কর আইন, ২০২৩ এর প্রথম তফসিলের ৩য় অংশ আয়কর আই"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "এসআরও নং ২৪১/২০২৪ এর ৩য় ধারা এই বিধিমালার ৪র্থ ন"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং উক্ত আইনের প্রথম তফসিলের ৩য় অংশে বর্ণিত বিধা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৫ম ধারায়",
+        "context": "বর্ণিত সাধারণ কর ধার্যের সাথে সমন্বয় করিতে হইবে।"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮ম ধারায়",
+        "context": "বর্ণিত করমুক্ত সীমার মধ্যে সুদ আয়কর আইন, ২০২৩ এর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ৫ম ও ৮ম ধারা আয়কর আইন, ২০২৩ এ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৭ম ধারায় বর্ণিত বিধান অনুয"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারায়",
+        "context": "বর্ণিত বিধান অনুযায়ী উৎসে কর কর্তন ও জমাদানের সম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত ফরম্যাট অনুসরণ করিতে হইবে। ৩ বার্ষিক রিটার"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারার",
+        "context": "দণ্ডবিধি কর্তন সনদ প্রদানে বিলম্ব প্রতিদিন ১,০০০"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা অর্থ আইন, ২০২৪ এর ৭ম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অর্থ আইন, ২০২৪ এর ৭ম ধারা আয়কর আইন, ২০২৩ এর ২৮৬ত"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা জাতীয় রাজস্ব বোর্ড"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪ ৮ রেকর্ড"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং উক্ত আইনের ২৮৬তম ধারায় বর্ণিত রেকর্ড সংরক্ষণ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত নির্দেশনা অনুসরণ করিতে হইবে। ২ প্রদান ভাউচ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা জাতীয় রাজস্ব বোর্ড"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪ ৯ বিশেষ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং এসআরও নং ২৪১/২০২৪ এ বর্ণিত বিশেষ বিধান সাপেক্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর প্রথম তফসিলের ৩য় অংশ এসআরও নং"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ৭ম ধারার সাথে সাংঘর্ষিক নয়"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারার",
+        "context": "সাথে সাংঘর্ষিক নয় এমন বিধান বহাল থাকিবে। ১ এই বি"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারায়",
+        "context": "বর্ণিত সাধারণ নীতির সাথে সামঞ্জস্যপূর্ণ। ২ কোনো ব"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারায়",
+        "context": "বর্ণিত পদ্ধতি অনুসরণ করিতে হইবে এবং জাতীয় রাজস্ব"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অর্থ আইন, ২০২৪ এর ৭ম ধারা আয়কর আইন, ২০২৩ এর ২৮৬ত"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা তফসিল-১ উৎসে কর কর্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "তফসিল-১ উৎসে কর কর্তনের হার তালিকা ঠিকাদারি কার্য"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৮৫_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা",
+        "context": "অর্থ আইন, ২০২৪ এর ৭ম ধারা আয়কর আইন, ২০২৩ এর প্রথ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "02_finance_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_৭_subsection_২০২৪",
+        "confidence": 1,
+        "sourceText": "অর্থ আইন, ২০২৪ এর ৭ম ধারা",
+        "context": "আয়কর আইন, ২০২৩ এর প্রথম তফসিলের ৩য় অংশ এসআরও নং"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "01_income_tax_act_simulation.json",
+        "type": "act_reference",
+        "section": "section_২৮৬_subsection_২০২৩",
+        "confidence": 1,
+        "sourceText": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা",
+        "context": "আয়কর আইন, ২০২৩ অর্থ আইন, ২০২৪ জাতীয় রাজস্ব বোর্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "06_tds_rules_simulation.json",
+        "type": "contextual_act_reference",
+        "section": "section_২৮৬",
+        "confidence": 0.8500000000000001,
+        "sourceText": "উক্ত আইনের ২৮৬তম ধারায়",
+        "context": "বর্ণিত রেকর্ড সংরক্ষণের বিধান অনুযায়ী উৎসে কর কর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত বিশেষ ক্ষেত্রের প্রদান। আয়কর আইন, ২০২৩"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "৩ ঠিকাদারি কার্যক্রম হইতে কর কর্তন ৩। আয়কর আইন,"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ১ম ধারা অনুযায়ী ১০% হারে কর কর্তন করিতে হইবে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত অব্যাহতি প্রযোজ্য হইবে। ৪ অনাবাসী ঠিকাদা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ১ম ধারা জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ২য় ধারা অনুযায়ী ১৫% হারে কর কর্তন করিতে হইবে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "সাধারণ পরামর্শ ৫০,০০০ টাকা ১২% ৬,০০০ টাকা ৪৪,০০০"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ২য় ধারা এই বিধিমালার ৫ম নিয়ম ৫ অনাবাসী আয় হ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ৩য় ধারায় বর্ণিত বিশেষ বিধান অনুসরণ করিতে হইব"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এর ৩য় ধারা এই বিধিমালার ৪র্থ নিয়ম ৬ সুদ প্রদান"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "এ বর্ণিত বিশেষ বিধান সাপেক্ষে নিম্নলিখিত ক্ষেত্রে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "অনুযায়ী উৎসে কর কর্তন হইতে সম্পূর্ণ অব্যাহতিপ্রা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এর ৩য় ধারা অনুযায়ী ১% হারে কর কর্তন এবং আয়কর আ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এর ১ম ও ২য় ধারা অনুযায়ী বিশেষ হার ও অব্যাহতি প্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "নবায়নযোগ্য জ্বালানি অব্যাহতি (৫ বছর) এসআরও নং ২৩"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "রপ্তানি সেবা ১% এসআরও নং ২৩৫/২০২৪ আয়কর আইন, ২০২৩"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা আয়কর আইন, ২০২৩ এর প"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এসআরও নং ২৪১/২০২৪ জাতীয় রাজস্ব বোর্ডের পরিপত্র ন"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪ ১০ রহিতক"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "পেশাদার সেবা ১২% ১৫% (বিশেষ পেশাদার সেবা) নিয়ম ৪"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "অনাবাসী আয় ৩০% DTAA অনুযায়ী ভিন্ন হার নিয়ম ৫ এ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": "এসআরও নং ২৪১/২০২৪ পরিপত্র নং ০৯/২০২৪ আয়কর আইন, ২"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪",
+        "context": "পরিপত্র নং ০৯/২০২৪ আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪",
+        "context": ", ২৪১/২০২৪"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_১",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ১ম ধারা",
+        "context": "অনুযায়ী ১০% হারে কর কর্তন করিতে হইবে এবং আয়কর আ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_১",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ১ম ধারা",
+        "context": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪ ৪ পেশাদা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_২",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ২য় ধারা",
+        "context": "অনুযায়ী ১৫% হারে কর কর্তন করিতে হইবে এবং অর্থ আই"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_২",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ২য় ধারা",
+        "context": "এই বিধিমালার ৫ম নিয়ম ৫ অনাবাসী আয় হইতে কর কর্তন"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_৩",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ৩য় ধারা",
+        "context": "য় বর্ণিত বিশেষ বিধান অনুসরণ করিতে হইবে। ৩ অনাবাসী"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৪১_২০২৪_section_৩",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৪১/২০২৪ এর ৩য় ধারা",
+        "context": "এই বিধিমালার ৪র্থ নিয়ম ৬ সুদ প্রদান হইতে কর কর্ত"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "04_sro_notification_simulation.json",
+        "type": "sro_reference",
+        "section": "sro_২৩৫_২০২৪_section_৩",
+        "confidence": 1,
+        "sourceText": "এসআরও নং ২৩৫/২০২৪ এর ৩য় ধারা",
+        "context": "অনুযায়ী ১% হারে কর কর্তন এবং আয়কর আইন, ২০২৩ এর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত অতিরিক্ত শর্তাবলী সাপেক্ষে। প্রাপক যাহার"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এসআরও নং ২৪১/২০২৪ ৩ ঠিকাদারি কার্যক্রম হইতে কর কর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত নির্দেশনা অনুসরণ করিতে হইবে। ২ বৃহৎ ঠিকা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত বিশেষ অব্যাহতি আয়কর আইন, ২০২৩ এর ৮৫তম ধ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "৪ পেশাদার সেবা হইতে কর কর্তন ৪। আয়কর আইন, ২০২৩ এ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত নির্দেশনা অনুসরণ করিতে হইবে। সময়মতো কর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "৮ রেকর্ড সংরক্ষণ ৮। আয়কর আইন, ২০২৩ এর ৮৫তম ধারা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "অনুযায়ী সংরক্ষণ করিতে হইবে। কর কর্তন সনদের মূল ক"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "৯ বিশেষ ক্ষেত্র ও অব্যাহতি ৯। আয়কর আইন, ২০২৩ এর"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এ বর্ণিত অন্যান্য বিশেষ ক্ষেত্রে সংশ্লিষ্ট নির্দে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "১০ রহিতকরণ ও সংরক্ষণ ১০। এই বিধিমালা কার্যকর হওয়"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "পরিপত্র নং ০৯/২০২৪",
+        "context": "আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা আয়কর আইন, ২০২৩ অর্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "03_nbr_circular_simulation.json",
+        "type": "circular_reference",
+        "section": "circular_০৯_২০২৪",
+        "confidence": 0.8999999999999999,
+        "sourceText": "জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪",
+        "context": "এসআরও নং ২৩৫/২০২৪, ২৪১/২০২৪"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত হার অনুযায়ী কর্তিত হয়। কর্তনযো"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী ঠিকাদারি কার্যক্র"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত অতিরিক্ত শর্তাবলী প্রযোজ্য হইবে।"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৪১/২০২৪ এর ১ম ধারা জাতীয় রাজস"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত সাধারণ বিধান প্রযোজ্য হইবে। ২ বি"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা অর্থ আইন, ২০২৪ এর ৭ম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৪১/২০২৪ এর ২য় ধারা এই বিধিমাল"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী অনাবাসী ব্যক্তি ও"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা এসআরও নং ২"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী সুদ প্রদানের ক্ষে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ বিধান অনুসরণ করিতে হইবে। ৩"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এই বিধিমালার ৫ম নিয়ম ৭ কর কর্তন ও জমাদা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ সুবিধা প্রযোজ্য। ৩ তথ্য প্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৩৫/২০২৪ এসআরও নং ২৪১/২০২৪ জাতী"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "সুদ প্রদান ১০% ৩০% (অনাবাসীদের ক্ষেত্রে) নিয়ম ৬"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৩৫/২০২৪ এসআরও নং ২৪১/২০২৪ পরিপ"
+      }
+    ],
+    "statistics": {
+      "totalDocuments": 6,
+      "totalReferences": 343,
+      "referenceTypes": {
+        "act_reference": 149,
+        "rules_reference": 11,
+        "sro_reference": 57,
+        "circular_reference": 54,
+        "schedule_reference": 65,
+        "ordinance_reference": 6,
+        "contextual_act_reference": 1
+      },
+      "documentsWithReferences": 6
+    }
+  },
+  "patterns": {
+    "mostCommonTypes": {
+      "act_reference": 149,
+      "rules_reference": 11,
+      "sro_reference": 57,
+      "circular_reference": 54,
+      "schedule_reference": 65,
+      "ordinance_reference": 6,
+      "contextual_act_reference": 1
+    },
+    "averageConfidence": {
+      "act_reference": 1,
+      "rules_reference": 0.890909090909091,
+      "sro_reference": 1,
+      "circular_reference": 0.8999999999999991,
+      "schedule_reference": 0.6000000000000008,
+      "ordinance_reference": 1,
+      "contextual_act_reference": 0.8500000000000001
+    },
+    "documentsWithMostReferences": [],
+    "mostReferencedDocuments": {
+      "02_finance_act_simulation.json": 52,
+      "company_act_simulation.json": 1,
+      "06_tds_rules_simulation.json": 12,
+      "04_sro_notification_simulation.json": 57,
+      "03_nbr_circular_simulation.json": 54,
+      "05_tax_schedules_simulation.json": 65,
+      "ordinance_১৯৮৪_simulation.json": 6,
+      "01_income_tax_act_simulation.json": 96
+    }
+  },
+  "coverage": {
+    "documentsWithReferences": 6,
+    "totalDocuments": 6,
+    "coveragePercentage": 100,
+    "referenceDensity": {
+      "01_income_tax_act_simulation.json": {
+        "references": 38,
+        "textLength": 4408,
+        "density": 8.620689655172413
+      },
+      "02_finance_act_simulation.json": {
+        "references": 15,
+        "textLength": 4634,
+        "density": 3.2369443245576175
+      },
+      "03_nbr_circular_simulation.json": {
+        "references": 44,
+        "textLength": 6220,
+        "density": 7.07395498392283
+      },
+      "04_sro_notification_simulation.json": {
+        "references": 51,
+        "textLength": 6281,
+        "density": 8.119726158255055
+      },
+      "05_tax_schedules_simulation.json": {
+        "references": 78,
+        "textLength": 5844,
+        "density": 13.347022587268993
+      },
+      "06_tds_rules_simulation.json": {
+        "references": 117,
+        "textLength": 10979,
+        "density": 10.656708261225978
+      }
+    }
+  },
+  "timestamp": "2025-08-03T16:07:35.916Z"
+}

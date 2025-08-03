@@ -1,0 +1,687 @@
+{
+  "graph": {
+    "nodes": [
+      {
+        "id": "01_income_tax_act_simulation.json",
+        "type": "document",
+        "references": 14,
+        "title": "আয়কর আইন, ২০২৩ (সিমুলেশন)"
+      },
+      {
+        "id": "02_finance_act_simulation.json",
+        "type": "document",
+        "references": 5,
+        "title": "অর্থ আইন, ২০২৪ (সিমুলেশন)"
+      },
+      {
+        "id": "03_nbr_circular_simulation.json",
+        "type": "document",
+        "references": 8,
+        "title": "NBR Tax Circulars 2024-25 (Simulation)"
+      },
+      {
+        "id": "04_sro_notification_simulation.json",
+        "type": "document",
+        "references": 11,
+        "title": "SRO Notifications 2024 (Simulation)"
+      },
+      {
+        "id": "05_tax_schedules_simulation.json",
+        "type": "document",
+        "references": 7,
+        "title": "Tax Schedules 2024-25 (Simulation)"
+      },
+      {
+        "id": "06_tds_rules_simulation.json",
+        "type": "document",
+        "references": 20,
+        "title": "TDS Rules 2024 (Simulation)"
+      }
+    ],
+    "edges": [
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র বিধান প্রযোজ্য হইবে। ২ 'করবর্ষ' অর্থ ১ জুলাই হইত"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত স্ল্যাব অনুযায়ী প্রয়োগ করিতে হইবে। ১ করয"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশে বর্ণিত বিধান প্রযোজ্য হইবে এবং বিশেষ ক্ষ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বিস্তারিতভাবে বর্ণিত এবং পরিপত্র নং ১০/"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে নির্ধারিত এবং সাধারণ আদেশ নং ১৫/২০২৪ অন"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত এবং পরিপত্র নং ১৩/২০২৪ এ আপিল সংক্রান্ত বি"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত। বিশেষ ক্ষেত্রে সাধারণ আদেশ নং"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিল",
+        "context": "ের বিধান প্রযোজ্য হইবে। ২ 'করবর্ষ' অর্থ ১ জুলাই হই"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিল",
+        "context": "ে বর্ণিত স্ল্যাব অনুযায়ী প্রয়োগ করিতে হইবে। ১ কর"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিল",
+        "context": "ের ১ম অংশে বর্ণিত বিধান প্রযোজ্য হইবে এবং বিশেষ ক্"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের প্রথম তফসিল",
+        "context": "ের ৩য় অংশে বিস্তারিতভাবে বর্ণিত এবং পরিপত্র নং ১০"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের দ্বিতীয় তফসিল",
+        "context": "ের ২য় অংশে নির্ধারিত এবং সাধারণ আদেশ নং ১৫/২০২৪ অ"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিল",
+        "context": "ে বর্ণিত এবং পরিপত্র নং ১৩/২০২৪ এ আপিল সংক্রান্ত ব"
+      },
+      {
+        "source": "01_income_tax_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "এই আইনের তৃতীয় তফসিল",
+        "context": "ের ১ম অংশে নির্ধারিত। বিশেষ ক্ষেত্রে সাধারণ আদেশ ন"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত বিস্তারিত বিধানের সাথে সঙ্গতিপূর্ণ। ৭ আয়ক"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ বিধান প্রযোজ্য হইবে। ৮ আয়"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে এ সংক্রান্ত বিস্তারিত বিধান রহিয়াছে। ২"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র অধীন আমদানি শুল্কের হার সংশোধন করা হইল এবং এসআরও"
+      },
+      {
+        "source": "02_finance_act_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র সাথে সামঞ্জস্য রাখিয়া নির্ধারিত। ১ যন্ত্রপাতি আ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত স্ল্যাব অনুযায়ী কর প্রযোজ্য। ২ মহিলা করদা"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "উল্লিখিত কর স্ল্যাব অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অন্যান্য সুবিধাও প্রযোজ্য থাকিবে। ৩ প্রয়ো"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "নির্ধারিত সময়সীমা ও ফি সংক্রান্ত নিম্নলিখিত নির্"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত ফি প্রদান করিতে হইবে। ২ আপিল ন"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত হার অনুযায়ী কর কর্তন করিতে হইবে"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত বিশেষ বিধান প্রযোজ্য; (৩) বিশেষ"
+      },
+      {
+        "source": "03_nbr_circular_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র ১ম অংশে নির্ধারিত ৬০ দিনের সময়সীমা বিশেষ ক্ষেত্"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত কর অবকাশের পাশাপাশি নিম্নলিখিত বিশেষ সুবিধ"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশে বর্ণিত সাধারণ কর অবকাশের অতিরিক্ত হিসাবে"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত অতিরিক্ত শর্তাবলী প্রযোজ্য হইবে।"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত সাধারণ সর্বনিম্ন করের পরিবর্তে ০"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিলে",
+        "context": "র ২য় অংশে বর্ণিত সর্বনিম্ন করের ৫০% হার প্রযোজ্য"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "এবং অর্থ আইন, ২০২৪ এর ১৮তম ধারায় বর্ণিত সংশোধনী"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র সাথে সামঞ্জস্যপূর্ণ: ১ শিল্প যন্ত্রপাতি শিল্প যন"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অবচয় ভাতার সাথে সামঞ্জস্য রাখিয়া এই হার"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "অনুযায়ী নির্ধারিত এবং আয়কর আইন, ২০২৩ এর প্রথম ত"
+      },
+      {
+        "source": "04_sro_notification_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "বর্ণিত অবচয় ভাতার সাথে সামঞ্জস্যপূর্ণ। ২ কাঁচামা"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "কর হার ও কর অবকাশ আয়কর আইন, ২০২৩ এর ৫ম ধারা এবং"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "বর্ণিত এবং অর্থ আইন, ২০২৪ এর ৬ম ধারার উপ-ধারা (৩)"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিল",
+        "context": "এবং পরিপত্র নং ১২/২০২৪ ব্যাংক ও আর্থিক প্রতিষ্ঠান"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিলে",
+        "context": "র বিশেষ বিধান মোবাইল ফোন অপারেটর ৪৫% উক্ত তফসিলের"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_2",
+        "confidence": 0.6,
+        "sourceText": "দ্বিতীয় তফসিল",
+        "context": "সর্বনিম্ন কর আয়কর আইন, ২০২৩ এর ১৬৩তম ধারা এবং অর"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ১ম অংশ অনুযায়ী দুইটির মধ্যে যেইটি বেশি সেইটি প্"
+      },
+      {
+        "source": "05_tax_schedules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_3",
+        "confidence": 0.6,
+        "sourceText": "তৃতীয় তফসিল",
+        "context": "আপিল ও ফি আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা এবং পরিপত"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত হার অনুযায়ী কর্তিত হয়। কর্তনযো"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ জাতীয় রাজস্ব বোর্ডের পরিপত্র নং ০৯/২০২৪"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী ঠিকাদারি কার্যক্র"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত অতিরিক্ত শর্তাবলী প্রযোজ্য হইবে।"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৪১/২০২৪ এর ১ম ধারা জাতীয় রাজস"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত সাধারণ বিধান প্রযোজ্য হইবে। ২ বি"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "আয়কর আইন, ২০২৩ এর ৮৫তম ধারা অর্থ আইন, ২০২৪ এর ৭ম"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৪১/২০২৪ এর ২য় ধারা এই বিধিমাল"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী অনাবাসী ব্যক্তি ও"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত DTAA এর বিধান প্রযোজ্য ক্ষেত্রে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ আয়কর আইন, ২০২৩ এর ২৮৬তম ধারা এসআরও নং ২"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিধান অনুযায়ী সুদ প্রদানের ক্ষে"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ বিধান অনুসরণ করিতে হইবে। ৩"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এই বিধিমালার ৫ম নিয়ম ৭ কর কর্তন ও জমাদা"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশে বর্ণিত বিশেষ সুবিধা প্রযোজ্য। ৩ তথ্য প্"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৩৫/২০২৪ এসআরও নং ২৪১/২০২৪ জাতী"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিল",
+        "context": "সুদ প্রদান ১০% ৩০% (অনাবাসীদের ক্ষেত্রে) নিয়ম ৬"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_1",
+        "confidence": 0.6,
+        "sourceText": "প্রথম তফসিলে",
+        "context": "র ৩য় অংশ এসআরও নং ২৩৫/২০২৪ এসআরও নং ২৪১/২০২৪ পরিপ"
+      },
+      {
+        "source": "06_tds_rules_simulation.json",
+        "target": "05_tax_schedules_simulation.json",
+        "type": "schedule_reference",
+        "section": "schedule_১",
+        "confidence": 0.6,
+        "sourceText": "তফসিল-১ ",
+        "context": "উৎসে কর কর্তনের হার তালিকা ঠিকাদারি কার্যক্রম ৭% ১"
+      }
+    ],
+    "statistics": {
+      "totalDocuments": 6,
+      "totalReferences": 65,
+      "referenceTypes": {
+        "schedule_reference": 65
+      },
+      "documentsWithReferences": 6
+    }
+  },
+  "patterns": {
+    "mostCommonTypes": {
+      "schedule_reference": 65
+    },
+    "averageConfidence": {
+      "schedule_reference": 0.6000000000000008
+    },
+    "documentsWithMostReferences": [],
+    "mostReferencedDocuments": {
+      "05_tax_schedules_simulation.json": 65
+    }
+  },
+  "coverage": {
+    "documentsWithReferences": 6,
+    "totalDocuments": 6,
+    "coveragePercentage": 100,
+    "referenceDensity": {
+      "01_income_tax_act_simulation.json": {
+        "references": 14,
+        "textLength": 4408,
+        "density": 3.176043557168784
+      },
+      "02_finance_act_simulation.json": {
+        "references": 5,
+        "textLength": 4634,
+        "density": 1.0789814415192058
+      },
+      "03_nbr_circular_simulation.json": {
+        "references": 8,
+        "textLength": 6220,
+        "density": 1.2861736334405145
+      },
+      "04_sro_notification_simulation.json": {
+        "references": 11,
+        "textLength": 6281,
+        "density": 1.7513134851138354
+      },
+      "05_tax_schedules_simulation.json": {
+        "references": 7,
+        "textLength": 5844,
+        "density": 1.1978097193702943
+      },
+      "06_tds_rules_simulation.json": {
+        "references": 20,
+        "textLength": 10979,
+        "density": 1.8216595318335005
+      }
+    }
+  },
+  "timestamp": "2025-08-03T15:59:11.787Z"
+}

@@ -23,7 +23,9 @@
       "WebFetch(domain:www.caripon.com)",
       "Bash(cp:*)",
       "Bash(chmod:*)",
-      "Bash(true)"
+      "Bash(true)",
+      "Bash(node:*)",
+      "Bash(node:*)"
     ],
     "deny": []
   }

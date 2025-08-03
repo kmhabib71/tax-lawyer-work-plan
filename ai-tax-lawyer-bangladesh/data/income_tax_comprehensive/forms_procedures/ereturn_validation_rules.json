@@ -1,0 +1,346 @@
+{
+  "metadata": {
+    "source": "Income Tax Circular 2024-25 + Live ereturn Form Analysis",
+    "version": "1.0",
+    "assessment_year": "2024-2025",
+    "income_year": "2023-2024",
+    "last_updated": "2024-07-31"
+  },
+  "form_structure": {
+    "main_sections": [
+      "assessment_information",
+      "additional_information", 
+      "income_details",
+      "rebate_investment",
+      "expenditure_lifestyle",
+      "assets_liabilities",
+      "tax_payment"
+    ],
+    "mandatory_forms": {
+      "IT-11GA": "Main income tax return form",
+      "IT-10B": "Asset and liability statement",
+      "IT-10BB": "Lifestyle expenditure statement",
+      "Schedule-5": "Investment tax credit details"
+    }
+  },
+  "validation_rules": {
+    "it_10b_requirements": {
+      "description": "When IT-10B asset declaration is mandatory",
+      "triggers": {
+        "gross_wealth_threshold": {
+          "condition": "gross_wealth > 5000000",
+          "amount": 5000000,
+          "currency": "BDT",
+          "message": "IT-10B mandatory when gross wealth exceeds 50 lakh Taka"
+        },
+        "motor_car_ownership": {
+          "condition": "owns_motor_car = true",
+          "message": "IT-10B mandatory for motor car owners regardless of wealth"
+        },
+        "city_corporation_property": {
+          "condition": "has_city_corporation_property = true", 
+          "message": "IT-10B mandatory for property in City Corporation area"
+        },
+        "offshore_assets": {
+          "condition": "has_offshore_assets = true",
+          "message": "IT-10B mandatory for assets outside Bangladesh"
+        },
+        "shareholder_director": {
+          "condition": "is_shareholder_director = true",
+          "message": "IT-10B mandatory for company shareholder directors"
+        },
+        "government_employees": {
+          "condition": "is_government_employee = true",
+          "message": "IT-10B universally mandatory for ALL government employees (new rule)"
+        }
+      },
+      "form_questions": {
+        "gross_wealth_question": "Gross Wealth over 50,00,000?",
+        "motor_car_question": "Own Motor Car?",
+        "offshore_property_question": "Own Offshore Property?",
+        "city_property_question": "Have House Property in any City Corporation?",
+        "shareholder_director_question": "Shareholder director of a company?"
+      }
+    },
+    "it_10bb_requirements": {
+      "description": "When IT-10BB lifestyle expenditure statement is mandatory",
+      "auto_detection": {
+        "system_message": "IT10BB is not mandatory for you. Still want to submit?",
+        "calculation": "Based on income vs lifestyle expense analysis"
+      },
+      "triggers": {
+        "lifestyle_income_mismatch": {
+          "condition": "lifestyle_expenses > declared_income + tax_exempted_income + previous_net_wealth",
+          "message": "IT-10BB mandatory when lifestyle expenses exceed explainable income sources"
+        },
+        "voluntary_submission": {
+          "condition": "taxpayer_chooses_voluntary = true",
+          "message": "Optional voluntary submission for transparency"
+        }
+      },
+      "required_documentation": {
+        "source_tax_certificates": "Tax deduction certificates required",
+        "source_tax_receipts": "Tax deduction return receipts must be submitted separately"
+      }
+    },
+    "mandatory_fields": {
+      "basic_information": {
+        "tin": {
+          "required": true,
+          "format": "11 digits",
+          "validation": "Must be valid TIN from NBR database"
+        },
+        "national_id": {
+          "required": true,
+          "format": "NID or Passport",
+          "validation": "Must match taxpayer identity"
+        },
+        "assessment_year": {
+          "required": true,
+          "value": "2024-2025",
+          "fixed": true
+        },
+        "income_year_period": {
+          "required": true,
+          "from": "01-07-2023",
+          "to": "30-06-2024",
+          "fixed": true
+        },
+        "residential_status": {
+          "required": true,
+          "options": ["Resident", "Non Resident"],
+          "default": "Resident"
+        }
+      },
+      "income_existence": {
+        "any_taxable_income": {
+          "required": true,
+          "type": "boolean",
+          "question": "Any taxable income in the above-mentioned income year?"
+        },
+        "any_exempt_income": {
+          "required": true,
+          "type": "boolean", 
+          "question": "Any income which is fully exempted from tax?"
+        }
+      },
+      "income_sources": {
+        "employment_income": {
+          "required_if": "has_employment = true",
+          "includes": "salary, pension"
+        },
+        "rental_income": {
+          "required_if": "has_rental_income = true"
+        },
+        "agricultural_income": {
+          "required_if": "has_agricultural_income = true"
+        },
+        "business_income": {
+          "required_if": "has_business_income = true"
+        },
+        "capital_gains": {
+          "required_if": "has_capital_gains = true"
+        },
+        "financial_assets_income": {
+          "required_if": "has_financial_income = true",
+          "includes": "bank interest, dividend, securities profit"
+        },
+        "other_sources": {
+          "required_if": "has_other_income = true",
+          "includes": "royalty, license fees, honorarium, govt incentive"
+        },
+        "partnership_income": {
+          "required_if": "is_partner = true"
+        },
+        "aop_income": {
+          "required_if": "is_aop_member = true"  
+        },
+        "foreign_income": {
+          "required_if": "has_foreign_income = true"
+        },
+        "spouse_minor_income": {
+          "required_if": "has_spouse_minor_income = true",
+          "condition": "Not assessed separately"
+        }
+      }
+    },
+    "cross_field_validations": {
+      "income_consistency": {
+        "total_income_calculation": {
+          "formula": "sum(all_income_sources)",
+          "validation": "Total income must equal sum of individual income sources"
+        },
+        "tax_calculation_consistency": {
+          "gross_tax": "Must be calculated correctly based on tax slabs",
+          "net_tax": "Gross tax minus tax rebates",
+          "minimum_tax": "Based on location and income type",
+          "final_tax": "Higher of net tax and minimum tax"
+        }
+      },
+      "asset_income_consistency": {
+        "lifestyle_validation": {
+          "condition": "lifestyle_expenses <= (total_income + tax_exempt_income + previous_net_wealth + other_receipts)",
+          "error": "Lifestyle expenses exceed explainable income sources"
+        },
+        "net_wealth_change": {
+          "formula": "(current_assets - current_liabilities) - previous_net_wealth",
+          "validation": "Must equal income minus expenses"
+        }
+      },
+      "rebate_validations": {
+        "investment_limits": {
+          "maximum_rebate": "25% of actual investment or 15 lakh Taka, whichever is lower",
+          "eligible_investments": [
+            "Life Insurance Premium",
+            "DPS",
+            "Government Securities",
+            "Listed Stocks", 
+            "Provident Fund",
+            "Super Annuation Fund",
+            "Zakat Fund",
+            "Universal Pension Scheme"
+          ]
+        }
+      }
+    },
+    "conditional_requirements": {
+      "special_benefits": {
+        "war_wounded_freedom_fighter": "Documentary proof required",
+        "disability_person": "Medical certificate required",
+        "parent_of_disabled": "Disability certificate of dependent required",
+        "aged_65_plus": "Age verification required"
+      },
+      "documentation_requirements": {
+        "salary_income": [
+          "Salary statement",
+          "Tax deduction certificate"
+        ],
+        "rental_income": [
+          "Rent agreement",
+          "Municipal tax receipts",
+          "Land revenue receipts",
+          "House property loan interest statement",
+          "Insurance premium receipts"
+        ],
+        "business_income": [
+          "Financial statements", 
+          "Audited accounts if required",
+          "Depreciation chart"
+        ],
+        "investment_rebate": [
+          "Investment certificates",
+          "Premium payment receipts",
+          "Stock/share purchase receipts"
+        ]
+      }
+    },
+    "filing_method_rules": {
+      "assessment_method": {
+        "allowed": "Self-assessment only",
+        "prohibited": "General method eliminated in Income Tax Act 2023"
+      },
+      "mandatory_filing_triggers": [
+        "Return/amended return under Section 175",
+        "Eligible for assessment under Section 186(1)",
+        "Eligible for assessment under Section 221 or 231", 
+        "Liable to pay income tax under any Act provision"
+      ],
+      "incomplete_return_consequences": {
+        "definition": "Returns not following Section 169 or Board instructions",
+        "action": "Must comply with Assistant Commissioner notices",
+        "penalty": "Non-compliance results in return cancellation"
+      }
+    },
+    "surcharge_rules": {
+      "net_wealth_surcharge": {
+        "thresholds": {
+          "up_to_4_crore": "0%",
+          "4_to_10_crore": "10%", 
+          "10_to_20_crore": "20%",
+          "20_to_50_crore": "30%",
+          "above_50_crore": "35%"
+        }
+      },
+      "special_surcharge_triggers": {
+        "multiple_motor_cars": "10% surcharge",
+        "property_above_8000_sqft": "10% surcharge"
+      },
+      "environmental_surcharge": {
+        "applicable": "As per relevant provisions"
+      }
+    },
+    "bank_transfer_compliance": {
+      "thresholds": {
+        "single_transaction": 500000,
+        "annual_total": 3600000,
+        "currency": "BDT"
+      },
+      "benefit": {
+        "compliant_rate": "25%",
+        "non_compliant_rate": "27.5%",
+        "description": "Tax rate reduction for bank transfer compliance"
+      }
+    }
+  },
+  "error_messages": {
+    "it_10b_missing": "IT-10B form is mandatory based on your asset/wealth information",
+    "it_10bb_required": "IT-10BB form is required due to lifestyle expense analysis",
+    "income_mismatch": "Total income does not match sum of individual income sources",
+    "asset_income_inconsistency": "Lifestyle expenses exceed explainable income sources",
+    "rebate_exceeded": "Investment rebate exceeds maximum allowable limit",
+    "documentation_missing": "Required supporting documents not provided",
+    "invalid_tin": "TIN format is invalid or not found in NBR database",
+    "incomplete_information": "Mandatory fields are not completed",
+    "calculation_error": "Tax calculation does not match income and applicable rates"
+  },
+  "business_rules": {
+    "minimum_tax_calculation": {
+      "location_based": {
+        "dhaka_chittagong_city": "0.6% of gross receipt or 5000 BDT, whichever is higher",
+        "other_city_corporation": "0.5% of gross receipt or 4000 BDT, whichever is higher", 
+        "other_areas": "0.4% of gross receipt or 3000 BDT, whichever is higher"
+      }
+    },
+    "tax_slab_rates_2024_25": {
+      "individual_rates": {
+        "first_10_lakh": "0%",
+        "next_10_lakh": "5%", 
+        "next_10_lakh": "10%",
+        "remaining": "15%"
+      },
+      "senior_citizen_rates": {
+        "first_11_lakh": "0%",
+        "next_10_lakh": "5%",
+        "next_9_lakh": "10%", 
+        "remaining": "15%"
+      }
+    },
+    "capital_gains_exemption": {
+      "share_transfer_exemption": {
+        "limit": 5000000,
+        "currency": "BDT",
+        "condition": "Subject to specific conditions"
+      }
+    }
+  },
+  "form_workflow": {
+    "step_sequence": [
+      "assessment_information",
+      "additional_information",
+      "income_details_by_source",
+      "rebate_investments", 
+      "expenditure_lifestyle",
+      "assets_liabilities",
+      "tax_computation",
+      "payment_details",
+      "verification_submission"
+    ],
+    "validation_checkpoints": [
+      "After income entry - validate totals",
+      "After rebate entry - validate limits", 
+      "After asset entry - check IT-10B requirements",
+      "After expense entry - check IT-10BB requirements",
+      "Before submission - comprehensive validation"
+    ]
+  }
+}

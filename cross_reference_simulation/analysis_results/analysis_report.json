@@ -1,0 +1,44 @@
+{
+  "summary": {
+    "documentsAnalyzed": 6,
+    "totalReferences": 58,
+    "validReferences": 58,
+    "invalidReferences": 0,
+    "ambiguousReferences": 0,
+    "accuracyRate": "100.00%"
+  },
+  "referenceTypes": {
+    "schedule_reference": 58
+  },
+  "documentConnectivity": {
+    "01_income_tax_act_simulation.json": {
+      "outgoing": 7,
+      "incoming": 0
+    },
+    "05_tax_schedules_simulation.json": {
+      "outgoing": 7,
+      "incoming": 58
+    },
+    "02_finance_act_simulation.json": {
+      "outgoing": 5,
+      "incoming": 0
+    },
+    "03_nbr_circular_simulation.json": {
+      "outgoing": 8,
+      "incoming": 0
+    },
+    "04_sro_notification_simulation.json": {
+      "outgoing": 11,
+      "incoming": 0
+    },
+    "06_tds_rules_simulation.json": {
+      "outgoing": 20,
+      "incoming": 0
+    }
+  },
+  "recommendations": [
+    "Consider implementing fuzzy matching for section references",
+    "Add manual validation for high-confidence ambiguous references"
+  ],
+  "timestamp": "2025-08-03T15:54:46.358Z"
+}

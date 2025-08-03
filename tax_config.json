@@ -1,0 +1,198 @@
+{
+  "rule_hierarchy": {
+    "description": "Priority-based rule resolution for Bangladesh Tax System",
+    "levels": {
+      "1": {
+        "name": "CURRENT_YEAR",
+        "priority": 1,
+        "sources": [
+          "Finance Act 2025",
+          "Finance Ordinance 2025", 
+          "অর্থ আইন ২০২৪",
+          "NBR Circular 2024-25"
+        ],
+        "rule": "Overrides everything - latest amendments take precedence"
+      },
+      "2": {
+        "name": "IMPLEMENTATION",
+        "priority": 2,
+        "sources": [
+          "NBR Paripatra 2024-25",
+          "Tax Circulars",
+          "SRO Notifications"
+        ],
+        "rule": "Implementation guidance - how to apply laws"
+      },
+      "3": {
+        "name": "BASE_LAW",
+        "priority": 3,
+        "sources": [
+          "Income Tax Act 2023",
+          "VAT & SD Act 2012",
+          "Customs Act 1969"
+        ],
+        "rule": "Foundation law - base provisions"
+      },
+      "4": {
+        "name": "HISTORICAL",
+        "priority": 4,
+        "sources": [
+          "Previous Finance Acts",
+          "Archived Circulars"
+        ],
+        "rule": "Reference only - superseded by higher priority rules"
+      }
+    }
+  },
+
+  "conflict_resolution": {
+    "strategy": "priority_based",
+    "rules": [
+      "Always use the rule with highest priority (lowest number)",
+      "If same priority, use the most recent effective date", 
+      "If same date, flag as manual review required",
+      "Log all conflicts for audit trail"
+    ]
+  },
+
+  "cross_reference_mapping": {
+    "individual_tax_calculation": {
+      "primary_source": "Finance Act 2024, Schedule 3",
+      "supporting_sources": [
+        "Income Tax Act 2023, Section 5 (Basic charge)",
+        "NBR Circular 2024-25, Topics 2-6 (Implementation)",
+        "Finance Act 2024, Section 6 (Special categories)"
+      ],
+      "calculation_order": [
+        "determine_tax_free_limit",
+        "calculate_taxable_income", 
+        "apply_tax_slabs",
+        "apply_minimum_tax",
+        "calculate_surcharge"
+      ]
+    },
+
+    "company_tax_calculation": {
+      "primary_source": "Finance Act 2024, Company Tax Schedule",
+      "supporting_sources": [
+        "Income Tax Act 2023, Section 25 (Company tax)",
+        "NBR Circular 2024-25, Topics 7-10 (Company rates)",
+        "Finance Act 2024, Section 8 (Conditions for reduced rates)"
+      ],
+      "special_cases": {
+        "bank_insurance": "Fixed rates - no conditions apply",
+        "tobacco_company": "Fixed 45% rate",
+        "mobile_operator": "Depends on public listing status"
+      }
+    },
+
+    "penalty_calculation": {
+      "primary_source": "Finance Ordinance 2025, Section 122",
+      "supporting_sources": [
+        "Income Tax Act 2023, Section 272 (Base penalty provision)", 
+        "Finance Ordinance 2025, Section 99 (Late filing)",
+        "NBR Guidelines (Waiver eligibility)"
+      ],
+      "cross_references": {
+        "tax_evasion": "Section 272 → Finance Ordinance 2025 amendments",
+        "late_filing": "Section 174 → Finance Ordinance 2025 Section 99",
+        "interest": "Section 177 → Updated rates in Finance Ordinance"
+      }
+    },
+
+    "withholding_tax": {
+      "primary_source": "NBR Circular 2024-25, Topics 117-140",
+      "supporting_sources": [
+        "Income Tax Act 2023, Sections 52-82 (TDS provisions)",
+        "TDS Rules 2024 (Implementation details)"
+      ],
+      "categories": {
+        "salary": "Topic 117 → Section 52",
+        "interest": "Topics 122-128 → Sections 53-58", 
+        "commission": "Topic 119 → Section 59",
+        "contractor_payment": "Topic 120 → Section 52A"
+      }
+    }
+  },
+
+  "data_validation": {
+    "required_fields": [
+      "rule_id",
+      "priority",
+      "source",
+      "effective_date"
+    ],
+    "validation_rules": [
+      "effective_date must be valid ISO date",
+      "priority must be 1-4",
+      "source must be from approved list",
+      "conflicting rules must have different priorities"
+    ]
+  },
+
+  "calculation_templates": {
+    "individual_tax": {
+      "inputs": ["income", "category", "location", "investments"],
+      "outputs": ["taxable_income", "base_tax", "surcharge", "total_tax"],
+      "source_tracking": true,
+      "step_by_step": true
+    },
+    
+    "company_tax": {
+      "inputs": ["income", "company_type", "conditions_met"],
+      "outputs": ["applicable_rate", "calculated_tax", "total_tax"],
+      "source_tracking": true,
+      "step_by_step": true
+    },
+
+    "penalty": {
+      "inputs": ["penalty_type", "base_amount", "additional_params"],
+      "outputs": ["calculated_penalty", "total_amount"],
+      "source_tracking": true,
+      "step_by_step": true
+    }
+  },
+
+  "missing_data_handlers": {
+    "conveyance_allowance": {
+      "default_limit": 30000,
+      "source": "Standard practice - Rule 33C",
+      "note": "Use until official NBR circular available"
+    },
+    
+    "medical_allowance": {
+      "default_limit": 120000,
+      "alternative_calculation": "10% of basic salary",
+      "source": "Standard practice - Rule 33I",
+      "note": "Use whichever is lower"
+    },
+
+    "gratuity_exemption": {
+      "default_limit": 2500000,
+      "source": "Income Tax Act 2023, 2nd Schedule Part 2", 
+      "note": "From approved gratuity fund only"
+    },
+
+    "waiver_eligibility": {
+      "default_behavior": "No automatic waiver",
+      "manual_review": true,
+      "source": "Awaiting annual waiver SRO",
+      "note": "Requires case-by-case evaluation"
+    }
+  },
+
+  "api_endpoints": {
+    "calculate_individual_tax": "/tax/individual",
+    "calculate_company_tax": "/tax/company", 
+    "calculate_penalty": "/tax/penalty",
+    "get_sources": "/tax/sources",
+    "validate_calculation": "/tax/validate"
+  },
+
+  "audit_trail": {
+    "log_all_calculations": true,
+    "include_source_references": true,
+    "track_rule_conflicts": true,
+    "retention_period": "7_years"
+  }
+}
